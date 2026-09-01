@@ -486,7 +486,7 @@ id,mode,corpus,note
 835o,photo,1013.txt,neighbour
 733o,photo,1406.txt,neighbour
 920o,photo,1309.txt,neighbour
-967o,photo,1082.txt,neighbour
+967o,photo,hand:4,hand-only
 905o,photo,1126.txt,neighbour
 1099o,photo,1500.txt,neighbour
 780o,photo,1728.txt,neighbour
@@ -606,7 +606,7 @@ id,mode,corpus,note
 1142o,photo,1214.txt,neighbour
 797o,photo,1528.txt,neighbour
 831o,photo,1072.txt,neighbour
-866o,photo,,not-in-archive
+866o,photo,1922.txt,accept
 804o,photo,1512.txt,neighbour
 239o,photo,0368.txt,neighbour
 798o,photo,1525.txt,neighbour
@@ -662,7 +662,7 @@ id,mode,corpus,note
 295o,photo,0334.txt,neighbour
 839o,photo,1792.txt,neighbour
 113o,photo,0162.txt,neighbour
-849o,photo,,not-in-archive
+849o,photo,1921.txt,accept
 429o,photo,,not-in-archive
 404o,photo,,not-in-archive
 685o,photo,,not-in-archive
