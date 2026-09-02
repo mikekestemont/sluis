@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import html
 import sys
 from collections import defaultdict
@@ -23,6 +24,7 @@ OUT_DIR = ROOT / "outputs"
 HTML = OUT_DIR / "hand_gallery.html"
 DECISIONS = OUT_DIR / "match_review_decisions.csv"
 HANDS = HERE / "handengroepen_gysseling.xlsx"
+MOLE_LABELS = ROOT / "images/archive-leroy/labels.csv"
 
 
 def group_sort_key(g: str) -> tuple:
@@ -38,9 +40,25 @@ def group_sort_key(g: str) -> tuple:
         return (10**9, 0, s)
 
 
+def mole_labelled_ids(path: Path) -> set[str]:
+    """Photo ids that already have a mole hand_id (non-empty)."""
+    ids: set[str] = set()
+    if not path.exists():
+        return ids
+    with path.open(encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            if not (row.get("hand_id") or "").strip():
+                continue
+            fn = (row.get("filename") or "").strip()
+            if fn:
+                ids.add(Path(fn).stem)
+    return ids
+
+
 def rows_from_decisions(decisions: Path, hands: Path) -> tuple[dict[str, list[dict]], list[dict]]:
     lookup, ambiguous = leroy_groups(hands)
     marks = load_decisions(decisions)
+    mole_ids = mole_labelled_ids(MOLE_LABELS)
     by_group: dict[str, list[dict]] = defaultdict(list)
     unlabeled: list[dict] = []
     for pid, m in marks.items():
@@ -53,7 +71,9 @@ def rows_from_decisions(decisions: Path, hands: Path) -> tuple[dict[str, list[di
             "id": pid,
             "gys": Path(corpus).stem,
             "corpus": corpus,
+            "note": (m.get("note") or "").strip(),
         }
+        rec["new"] = pid not in mole_ids
         if corpus.lower().startswith("hand:"):
             rec["hand"] = corpus.split(":", 1)[1].strip()
             rec["gys"] = "—"
@@ -80,9 +100,11 @@ def card_html(r: dict) -> str:
     pid = html.escape(r["id"])
     gys = html.escape(r["gys"])
     extra = f'<span class="mut">{html.escape(r["why"])}</span>' if r.get("why") else ""
+    klass = "card new" if r.get("new") else "card"
+    q = f'{pid} {gys}' + (" new" if r.get("new") else "")
     return (
-        f'<a class="card" href="../images/pages-zoned-stretched/{pid}.png" '
-        f'target="_blank" data-q="{pid} {gys}">'
+        f'<a class="{klass}" href="../images/pages-zoned-stretched/{pid}.png" '
+        f'target="_blank" data-q="{q}">'
         f'<img src="match-thumbs/{pid}.jpg" alt="{pid}" loading="lazy">'
         f'<div class="cap"><b>{pid}</b> · Gys {gys} {extra}</div></a>'
     )
@@ -91,12 +113,18 @@ def card_html(r: dict) -> str:
 def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
     groups = sorted(by_group, key=group_sort_key)
     n_photos = sum(len(v) for v in by_group.values()) + len(unlabeled)
+    n_new = sum(1 for xs in by_group.values() for r in xs if r.get("new"))
+    n_new += sum(1 for r in unlabeled if r.get("new"))
     nav = []
     sections = []
     for g in groups:
         xs = by_group[g]
         gid = html.escape(g)
-        nav.append(f'<a href="#g-{gid}">groep {gid} <span>{len(xs)}</span></a>')
+        n_g_new = sum(1 for r in xs if r.get("new"))
+        badge = f" <span>{len(xs)}</span>"
+        if n_g_new:
+            badge += f'<span class="newn">{n_g_new}</span>'
+        nav.append(f'<a href="#g-{gid}">groep {gid}{badge}</a>')
         cards = "".join(card_html(r) for r in xs)
         sections.append(
             f'<section id="g-{gid}">'
@@ -133,6 +161,7 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
            border-radius: 999px; padding: 2px 9px; font-size: 12px; }}
   nav a:hover {{ border-color: var(--acc); }}
   nav a span {{ color: var(--mut); }}
+  nav a span.newn {{ color: #e23d3d; margin-left: 4px; }}
   main {{ padding: 12px 14px 40px; }}
   h2 {{ font-size: 16px; margin: 22px 0 10px; }}
   .mut {{ color: var(--mut); font-weight: 400; font-size: 13px; }}
@@ -141,6 +170,8 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
            border: 1px solid var(--line); border-radius: 8px; padding: 6px;
            background: #191919; }}
   .card:hover {{ border-color: #666; }}
+  .card.new {{ border: 2px solid #e23d3d; }}
+  .card.new:hover {{ border-color: #ff6b6b; }}
   .card img {{ width: 100%; height: 220px; object-fit: contain; background: #000;
                border-radius: 4px; display: block; }}
   .cap {{ font: 11px/1.35 ui-monospace, monospace; color: var(--mut); margin-top: 6px; }}
@@ -150,8 +181,8 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
 </style>
 <header>
   <h1>Charters by Leroy hand
-    <span class="sub">{n_photos} photos · {len(groups)} groepen · {html.escape(str(DECISIONS.name))}</span>
-    <input id="q" type="search" placeholder="filter id / Gys / groep">
+    <span class="sub">{n_photos} photos · {len(groups)} groepen · {n_new} not in mole (red border) · {html.escape(str(DECISIONS.name))}</span>
+    <input id="q" type="search" placeholder="filter id / Gys / groep / new">
   </h1>
 </header>
 <nav>{"".join(nav)}</nav>
@@ -177,7 +208,7 @@ q.oninput = () => {{
 """
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     HTML.write_text(page, encoding="utf-8")
-    print(f"gallery → {HTML}  ({n_photos} photos, {len(groups)} groepen"
+    print(f"gallery → {HTML}  ({n_photos} photos, {len(groups)} groepen, {n_new} not in mole"
           f"{f', {len(unlabeled)} unlabelled' if unlabeled else ''})")
 
 
