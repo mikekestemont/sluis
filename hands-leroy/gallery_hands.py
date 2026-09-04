@@ -25,6 +25,7 @@ HTML = OUT_DIR / "hand_gallery.html"
 DECISIONS = OUT_DIR / "match_review_decisions.csv"
 HANDS = HERE / "handengroepen_gysseling.xlsx"
 MOLE_LABELS = ROOT / "images/archive-leroy/labels.csv"
+ROUND_NOTES = {"search", "accept", "hand-only"}
 
 
 def group_sort_key(g: str) -> tuple:
@@ -74,6 +75,7 @@ def rows_from_decisions(decisions: Path, hands: Path) -> tuple[dict[str, list[di
             "note": (m.get("note") or "").strip(),
         }
         rec["new"] = pid not in mole_ids
+        rec["round"] = rec["note"] in ROUND_NOTES
         if corpus.lower().startswith("hand:"):
             rec["hand"] = corpus.split(":", 1)[1].strip()
             rec["gys"] = "—"
@@ -100,8 +102,15 @@ def card_html(r: dict) -> str:
     pid = html.escape(r["id"])
     gys = html.escape(r["gys"])
     extra = f'<span class="mut">{html.escape(r["why"])}</span>' if r.get("why") else ""
-    klass = "card new" if r.get("new") else "card"
-    q = f'{pid} {gys}' + (" new" if r.get("new") else "")
+    klass = "card"
+    tags = []
+    if r.get("round"):
+        klass += " round"
+        tags.append("round")
+    elif r.get("new"):
+        klass += " new"
+        tags.append("new")
+    q = " ".join([pid, gys] + tags)
     return (
         f'<a class="{klass}" href="../images/pages-zoned-stretched/{pid}.png" '
         f'target="_blank" data-q="{q}">'
@@ -113,18 +122,24 @@ def card_html(r: dict) -> str:
 def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
     groups = sorted(by_group, key=group_sort_key)
     n_photos = sum(len(v) for v in by_group.values()) + len(unlabeled)
-    n_new = sum(1 for xs in by_group.values() for r in xs if r.get("new"))
-    n_new += sum(1 for r in unlabeled if r.get("new"))
+    n_new = sum(1 for xs in by_group.values() for r in xs if r.get("new") and not r.get("round"))
+    n_new += sum(1 for r in unlabeled if r.get("new") and not r.get("round"))
+    n_round = sum(1 for xs in by_group.values() for r in xs if r.get("round"))
+    n_round += sum(1 for r in unlabeled if r.get("round"))
     nav = []
     sections = []
     for g in groups:
         xs = by_group[g]
         gid = html.escape(g)
-        n_g_new = sum(1 for r in xs if r.get("new"))
+        n_g_new = sum(1 for r in xs if r.get("new") and not r.get("round"))
+        n_g_round = sum(1 for r in xs if r.get("round"))
         badge = f" <span>{len(xs)}</span>"
         if n_g_new:
             badge += f'<span class="newn">{n_g_new}</span>'
-        nav.append(f'<a href="#g-{gid}">groep {gid}{badge}</a>')
+        if n_g_round:
+            badge += f'<span class="roundn">{n_g_round}</span>'
+        nav_klass = ' class="has-round"' if n_g_round else ""
+        nav.append(f'<a{nav_klass} href="#g-{gid}">groep {gid}{badge}</a>')
         cards = "".join(card_html(r) for r in xs)
         sections.append(
             f'<section id="g-{gid}">'
@@ -139,7 +154,10 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
             f'<h2>No unique Leroy groep <span class="mut">{len(unlabeled)}</span></h2>'
             f'<div class="grid">{cards}</div></section>'
         )
-        nav.append(f'<a href="#unlabelled">unlabelled <span>{len(unlabeled)}</span></a>')
+        n_u_round = sum(1 for r in unlabeled if r.get("round"))
+        u_klass = ' class="has-round"' if n_u_round else ""
+        u_badge = f'<span class="roundn">{n_u_round}</span>' if n_u_round else ""
+        nav.append(f'<a{u_klass} href="#unlabelled">unlabelled <span>{len(unlabeled)}</span>{u_badge}</a>')
     page = f"""<!doctype html>
 <meta charset=utf-8>
 <title>Charters by Leroy hand</title>
@@ -162,6 +180,8 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
   nav a:hover {{ border-color: var(--acc); }}
   nav a span {{ color: var(--mut); }}
   nav a span.newn {{ color: #e23d3d; margin-left: 4px; }}
+  nav a span.roundn {{ color: #6ea8fe; margin-left: 4px; }}
+  nav a.has-round {{ border-color: #6ea8fe; }}
   main {{ padding: 12px 14px 40px; }}
   h2 {{ font-size: 16px; margin: 22px 0 10px; }}
   .mut {{ color: var(--mut); font-weight: 400; font-size: 13px; }}
@@ -172,6 +192,8 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
   .card:hover {{ border-color: #666; }}
   .card.new {{ border: 2px solid #e23d3d; }}
   .card.new:hover {{ border-color: #ff6b6b; }}
+  .card.round {{ border: 2px solid #6ea8fe; }}
+  .card.round:hover {{ border-color: #9ec1ff; }}
   .card img {{ width: 100%; height: 220px; object-fit: contain; background: #000;
                border-radius: 4px; display: block; }}
   .cap {{ font: 11px/1.35 ui-monospace, monospace; color: var(--mut); margin-top: 6px; }}
@@ -181,8 +203,8 @@ def write_html(by_group: dict[str, list[dict]], unlabeled: list[dict]) -> None:
 </style>
 <header>
   <h1>Charters by Leroy hand
-    <span class="sub">{n_photos} photos · {len(groups)} groepen · {n_new} not in mole (red border) · {html.escape(str(DECISIONS.name))}</span>
-    <input id="q" type="search" placeholder="filter id / Gys / groep / new">
+    <span class="sub">{n_photos} photos · {len(groups)} groepen · {n_new} not in mole (red) · {n_round} photo/text review (blue) · {html.escape(str(DECISIONS.name))}</span>
+    <input id="q" type="search" placeholder="filter id / Gys / groep / new / round">
   </h1>
 </header>
 <nav>{"".join(nav)}</nav>
@@ -208,7 +230,8 @@ q.oninput = () => {{
 """
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     HTML.write_text(page, encoding="utf-8")
-    print(f"gallery → {HTML}  ({n_photos} photos, {len(groups)} groepen, {n_new} not in mole"
+    print(f"gallery → {HTML}  ({n_photos} photos, {len(groups)} groepen, "
+          f"{n_new} not in mole, {n_round} photo/text review"
           f"{f', {len(unlabeled)} unlabelled' if unlabeled else ''})")
 
 
