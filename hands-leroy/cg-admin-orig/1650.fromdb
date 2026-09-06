@@ -1,0 +1,40 @@
+<header>
+<docId>1650</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='112' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2474:10> <C 20_JO> jo <q> de 
+<L 2474:11> <C 20_KAMPENHOUT> ca<A >m</A>pe<A >n</A>out <q> villicus.- <q> rode.- <q> Scriptum <C 700_OP> op <q> .xxiij. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='112' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2474:16> <C 471_DE> De <C 11_SCHEPEN> scepene <C 700_VAN> va<A >n</A> <C 21_RODE> rode <C 800_EN> en<A >de</A> <C 700_VAN> van <C 21_ALSEMBERGE> alsenberg<A >he</A> <C 204_MAKEN> make<A >n</A> <C 100_KOND> cont <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> 
+<L 2474:17> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 204_ZIEN> sien <C 250_LEZEN> lesen <C 801_OCHTE> hocte <C 204_HOREN> hore<A >n</A> <C 250_LEZEN> lesen. <C 810_DAT> Dat <C 20_JOHANNES> ia<A >n</A> <VN type=1> <C 1_ROOS> rose <C 700_VAN> va<A >n</A> 
+<L 2474:18> <C 20_MEIGEM> meyghe<A >m</A> <C 213_HEBBEN> heuet <C 273_VERKOPEN> v<A >er</A>cocht <C 309_20> .xx. <C 19_SOLIDUS> 't3s <C 2_CIJNS> sens <C 2+472_JAAR+HET> sars <C 501_ERFELIJK> h<A >er</A>uelike <C 101_ALZODAAN> al+sodene <C 0_GELD> ghelt <C 821_ALS> alse 
+<L 2474:19> <C 700_IN> in <C 1_BEURS> borsse <C 203_GAAN> gheet <C 800_EN> en <C 621*_DAAR-> dar <C 440_MEN> me<A >n</A> <C 621#_-MEDE> mede <C 203_KOPEN> copet <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>copet <C 21_GERELM> ghere<A >m</A>me <C 474+700_DE/HET+UIT> vte<A >n</A> 
+<L 2474:20> <C 0*_NIEUWEN-> neuwe<A >n</A> <C 0#_-HUIS> hues <C 475+700_DE+TE> ter <C 15_ARME> armer <C 0_BEHOEF> be+hoef <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 24_GOEDE> godele<A >n</A> <C 700_OP> op <C 480_EEN> een <C 0_HOF> hoef <C 203_STAAN> staet <C 421_DIE> die 
+<L 2474:21> <C 274_LIGGEN> ghe+leghe<A >n</A> <C 210_ZIJN> es <C 700_BIJ> bi <C 472+4_DE+PAAP> spape<A >n</A> <C 700_VAN> va<A >n</A> <C 21_RODE> rode <C 800_EN> en<A >de</A> <C 700_MET> met <C 4_VOORWAARDE> vorwarde<A >n</A> <C 560_NE> en <C 221_GEVEN> gaue <C 403_HIJ> hi <C 403_HIJ> heme 
+<L 2474:22> <C 560_NIET> niet <C 454_ZIJN> sine<A >n</A> <C 0_CIJNS> sens <C 700_TE> te <C 1_KERSTAVOND> kerssauo<A >n</A>de <C 810_DAT> dat <C 403_HIJ> hi <C 231_ZULLEN> soude <C 450_ZIJN> sien <C 0_HAND> ha<A >n</A>t <C 250_SLAAN> slaen <C 701_AAN> ane <C 411_DEZE> dese 
+<L 2474:23> <C 101_VOORGENOEMD> vore+ghenomede <C 0_HOFSTEDE> hof+stat <C 810_TOT-AAN-DIE-STOND-DAT> tote+ane+dir+stont+dat <C 403_HIJ> hi <C 221_HEBBEN> hadde <C 320_AL> al <C 451_ZIJN> sine 
+<L 2474:24> <C 1_GEBREKENIS> ghebreke<A >n</A>nesse <C 700_VAN> va<A >n</A> <C 454_ZIJN> sine<A >n</A> <C 1_CIJNS> sense. <C 410_DIT> dit <C 230_ZIJN> vas <C 274_DOEN> ghe+daen <C 700_BIJ> bi <C 4_MANING> mani<A >n</A>ghe<A >n</A> <C 472_DE/HET> se 
+<L 2474:25> <C 2_RECHTER> rechters <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 1_WIJSDOM> wisdome <C 475_DE/HET> der <C 115_VOORGENOEMD> vore+ghenomed<A >er</A> <C 14_SCHEPEN> scepene<A >n</A>. <C 810_OMDAT> o<A >m</A>me+dat 
+<L 2474:26> <C 440_MEN> me<A >n</A> <C 403_HET> des <C 500_TE> te <C 500_BET> bat <C 250_GELOVEN> ghe+loue<A >n</A> <C 210_ZULLEN> sal <C 214_HEBBEN> hebben <C 411_DEZE> dese <C 111_VOORGENOEMD> vore+ghenomede <C 14_SCHEPEN> scepene<A >n</A> 
+<L 2474:27> <C 454_HAAR> heren <C 0_ZEGEL> seghel <C 701_AAN> ane <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 274_HANGEN> ghehanghe<A >n</A>. <C 700_IN> Jn <C 471_DE> de <C 1_JAAR> iare <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 319_1290-EN-7> .m'ho.+cc'ho.+neghe<A >n</A>t<A >ech</A>.+en<A >de</A>+vij'ho. 
+<L 2474:28> <C 2+472_ZONDAG+DE> sondaghes <C 700_NA> na <C 101_SINT> sente <C 22_PAULUS> pouwels <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='112' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='112' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

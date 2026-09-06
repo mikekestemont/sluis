@@ -1,0 +1,41 @@
+<header>
+<docId>0140</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 259:8> <q> strate<A >n</A> <C 700_VAN> van <q> .vj. 
+<L 259:9> <C 14_GEMET> ghemete<A >n</A> <C 300_EEN> een <C 1_LIJN> line. 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 259:12> <C 404_WIJ> Wie <C 20_RIJKWARD> riquard <C 700_VAN> van <C 4_STRATEN> straten. <C 20_BOUDEWIJN> boud<A >en</A> <C 471_DE> die <C 20_BROEKER> broeker. <C 20_DIEDERIK> dideric <C 6_DAMHOUDER> da<A >m</A>moudra 
+<L 259:13> <C 12_RIDDER> rudders. <C 26_WOUTER> wout<A >ra</A> <C 471_DE> die <C 101_WILD> wilde <C 20_JOHANNES> ian <C 700_VAN> van <C 20_KLEIEM> kleyhem <C 20_REINWARD> reinvard <q> f <C 0+24_VROUW+GODELIEVE> v<A >er</A>godeleuen 
+<L 259:14> <C 20_WILHELM> willem <C 471_DE> die <C 101_KORT> corte <C 800_EN> ende <C 20_WILHELM> wille<A >m</A> <C 471_DE> die <C 1_SCHOUTHEET> scoetete <C 10_SCHEPEN> Scepen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen 
+<L 259:15> <C 700+251_TE+VERSTAAN> teuerstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> en<A >de</A> <C 250_HOREN> horen 
+<L 259:16> <C 250_LEZEN> lesen <C 810_DAT> Dat <C 701_VOOR> vore <C 404_WIJ> ons <C 220_KOMEN> cam <C 20_GERARD> Gerard <C 21_KROK> crocke <C 800_EN> ende <C 220_OPGEVEN> gaf+vp <C 105+700_WETTELIJK+TE> tewetteliker <C 1_GIFT> ghifte 
+<L 259:17> <C 24_WOUTER> woutren <C 21_KROK> crocke. <C 300_6> ses <C 11_GEMET> ymete <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 301_EEN> ene <C 1_LIJN> line <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of 
+<L 259:18> <C 500_LICHTELIJK> lichtelic <C 320_MEER> mer <C 271_LIGGEN> lighende <C 470+700_HET+IN> int <C 0_AMBACHT> ambocht <C 700_VAN> van <C 4_STRATEN> straten <C 800_EN> en<A >de</A> <C 213_HETEN> hetet <C 0+101_STUK+HOOG> hoghestic 
+<L 259:19> <C 800_EN> ende <C 410_DAT> dat <C 100_ANDER> ander <C 600+420_DAARTOE+DAT> datter+toe <C 203_BEHOREN> behort <C 701_TOT> tote <C 301_6> sesse <C 11_GEMET> ymete <C 800_EN> en<A >de</A> <C 301_EEN> ene <C 1_LIJN> line <C 500_LUTTEL> lettel <C 320_MEE> me 
+<L 259:20> <C 800_OF> of <C 320_MIN> min <C 800_EN> en<A >de</A> <C 403_HIJ> hie <C 403+220_HET+WEDDEN> weddet <C 403_HIJ> hem <C 1+700_WET+TE> tewette <C 251+700_WAREN+TE> tewarne <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> lant <C 100_EIGEN> eghin <C 0_LAND> lant 
+<L 259:21> <C 800_EN> en<A >de</A> <C 101_KWIJT> quite <C 0_LAND> lant <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> recht<A >er</A> <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 454+700_ZIJN+TE> tesinen <C 104+1_VRIJ+EIGENDOM> vrieneghindome 
+<L 259:22> <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 404_WIJ> wie <C 10_SCHEPEN> scepen <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> dit <C 100_VAST> vast <C 211_BLIJVEN> bliue <C 800_EN> ende <C 101_GESTADE> ghestade <C 510_ZO> soe 
+<L 259:23> <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 475+700_DE+TE> ter <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 273_BEZEGELEN> beseghelt <C 700_MET> met 
+<L 259:24> <C 451_ONS> onse <C 14_ZEGEL> zeghellen <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 101_SINT> sinte <C 22_SIMON> symons <C 800_EN> & <C 21_JUDA> jude <C 1_DAG> daghe <C 470+700_HET+IN> int <C 0_JAAR> iar 
+<L 259:25> <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 850_ALS> als <C 440_MEN> me <C 203_SCHRIJVEN> scriift <C 450_ZIJN> ziin <C 0_INCARNATIOEN> incarnation <q> M'ho <q> CC'ho <q> lxx <q> tercio 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

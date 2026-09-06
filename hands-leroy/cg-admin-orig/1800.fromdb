@@ -1,0 +1,59 @@
+<header>
+<docId>1800</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2678:18> <q> jsti <q> cyrographi <q> de 
+<L 2678:19> <C 1_ZUIDBROEK> suut+brouke <q> ?.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> vij 
+<L 2678:20> <C 11_GEMET> ymete. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2678:25> <C 404_WIJ> WJE <C 20_JOHANNES> jan <C 471_DE> die <C 0_WEVEL> weuel <C 1_RIDDER> rudd<A >er</A>e. <C 20_JOHANNES> jan <C 471_DE> die <C 101_BRUIN> brune. <C 20_WOUTER> wout<A >er</A> <C 0_TARWESCHOOF> taruscoef. <C 20_GERARD> gherard 
+<L 2678:26> <C 20_WILLAARD> willard <C 20_BOUDEWIJN> bouden <C 471_DE> die <C 101_RIJKELIJK> rikeleke. <C 20_JOHANNES> jan <C 20_EUSTACHIUS> stacioot. <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <q> .f. <C 0+24_VROUW+SCHONE> v<A >er</A>sconen. 
+<L 2678:27> <C 14_SCHEPEN> Schepenen <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> Te <C 251_WETEN> wetene. <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 2678:28> <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> dat <C 224_KOMEN> camen <C 700_VOOR> vor <C 404_WIJ> ons. <C 20_NICOLAAS> clais <C 700_VAN> van <C 20_BIERVLIET> biervliet 
+<L 2678:29> <C 471_DE> die <C 0_KLERK> clerc <q> .f. <C 0_MEESTER> mest<A >er</A> <C 20_NICOLAAS> niclais <C 700_VAN> van <C 20_BIERVLIET> biervliet. <C 800_EN> en<A >de</A> <C 21_ELISABETH> lisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf <q> .f. <C 1+472_HEER+DE> S<A >er</A>e 
+<L 2678:30> <C 22_SIMON> simoens <C 2_BAARD> bards. <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen <C 100_WETTELIJK> wettelic <C 1_GIFT> ghifte. <C 20_MATTE'S1US> matheus <C 1_LOMBARD> lombarde <C 0_POORTER> port<A >er</A> <C 700_IN> in 
+<L 2678:31> <C 21_BRUGGE> brugghe <C 700_VAN> van <C 300_7> zeven <C 14_GEMET> ymeten. <C 800_EN> en<A >de</A> <C 301_EEN> ene <C 1_LIJN> line <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 800_OF> jof <C 320_MIN> min 
+<L 2678:32> <C 271_LIGGEN> ligghende <C 700+474_BINNEN+DE/HET> binden <C 1_AMBACHT> ambochte <C 800_EN> en<A >de</A> <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> proch<A >ie</A> <C 700_TE> te <C 21_HOUTAVE> houtawe <C 474+700_DE/HET+VAN> vanden 
+<L 2678:33> <C 424_WELK> wilken <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 204+403_LIGGEN+HET> ligghens <C 300_7> zeven <C 11_GEMET> ymete. <C 300_47> zeven+en<A >de</A>+viertich 
+<L 2678:34> <C 14_ROEDE> roeden <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> ene+halue <C 1_ROEDE> roede <C 2_LAND> lands <C 320_MIN> min <C 500_NOORDOOST> nord+oest <C 700+475_VAN+DE> vand<A >er</A> <C 1_KERK> kerke 
+<L 2678:35> <C 500_WESTWAART-OVER> westw<A >ar</A>t+ou<A >er</A> <C 700_JEGEN> jeghen <C 472+1_DE+HEER> S<A >er</A>e <C 20_WOUTER> wout<A >er</A> <C 22_GOEDERIJK-X> goederix <C 0_BOOMGAARD> boengard <C 271_STREKKEN> streckende <C 700+474_AAN+DE/HET> anden 
+<L 2678:36> <C 0_HEERWEG> h<A >er</A>ewech <C 500_WESTWAART> westwaerd <C 475+700_DE+VAN> vand<A >er</A> <C 1_HOFSTEDE> hofstede <C 421+440_DIE+MEN> diemen <C 203_HETEN> heet <C 21_RIJK> rike <C 22_HIDDE> hids <C 1_HOFSTEDE> hofstede 
+<L 2678:37> <C 620*_DAAR-> daer <C 20_ARNOUT> arnoud <C 471_DE> die <C 101_BRUIN> brune <C 620#_-OP> vp <C 203_WONEN> woent. <C 501_GEMEEN> ymene <C 700_MET> met <C 104_ANDER> andren <C 1_LAND> lande <C 420_DAT> dat <C 0+21_VROUW+GRIELE> v<A >er</A>griele 
+<L 2678:38> <C 1+472_HEER+DE> S<A >er</A>e <C 22_LAMBERT> lamsins <C 2_DAMWILD> danwilts <C 1_WEDUWE> wedewe <C 1_POORTEGGE> portigghe <C 700_IN> in <C 21_BRUGGE> brugghe <C 213_HEBBEN> heeft <C 271_LIGGEN> ligghende <C 700_IN> in 
+<L 2678:39> <C 470_HET> dat <C 411_ZELF> selue <C 1_STUK> sticke <VN type=1> <C 2_LAND> lands <C 100_VOORZEID> vors<A >eid</A>. <C 800_EN> en<A >de</A> <C 471_DE> die <C 421_WELK> welke <C 111_VOORZEID> vors<A >eide</A> <C 300_7> zeven <C 11_GEMET> ymet<A >e</A> <C 420_DAT> dat 
+<L 2678:40> <C 20_ARNOUT> arnoud <C 471_DE> die <C 101_BRUIN> brune <C 100_VOORZEID> vorseit <C 700_TE> te <C 1_CIJNS> chense <C 203_HEBBEN> heeft. <C 800_EN> Ende <C 500_VOORT> vord <C 403+200_HET+LIGGEN> leghes <C 301_EEN> ene <C 1_LIJN> line 
+<L 2678:41> <C 700+474_VAN+DE/HET> vanden <C 104_VOORZEID> vors<A >eiden</A> <C 1_LAND> lande <C 500_OFNOORDHALF> of+nordhalf <C 700_AAN> an <C 471_DE> die <C 111_VOORZEID> vors<A >eide</A> <C 300_7> zeven <C 11_GEMET> ymete <C 420_DAT> dat 
+<L 2678:42> <C 20_WILHELM> willem <C 471_DE> die <C 1_GRAAF> graue <C 471_DE> die <C 1_MOLENAAR> moelnare <C 700_TE> te <C 1_CIJNS> chense <C 203_HEBBEN> heeft. <C 800_EN> & <C 203_LIGGEN> leghet <C 501_GEMEEN> ymene <C 700_MET> met 
+<L 2678:43> <C 24_RAVEN> raven <C 1_DAMWILD> danwilde. <C 800_EN> & <C 700_MET> met <C 4_HERTOG> hertoghen <C 474_DE/HET> den <C 104_ZILVEREN> zeluerinen. <C 800_EN> Ende <C 406_ZIJ> sie <C 224_WEDDEN> wedden <C 403_HIJ> hem 
+<L 2678:44> <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vors<A >eide</A> <C 0_LAND> land <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne <C 700_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche <C 0_WEG> wech 
+<L 2678:45> <C 800_EN> en<A >de</A> <C 0_LAND> land <C 100_VRIJ> vri <C 0_LAND> land <C 800_EN> & <C 101_KWIJT> quite <C 0_LAND> land. <C 800_EN> & <C 700_ZONDER> sond<A >er</A> <C 0_SCHULD> scult <C 700_TE> te <C 454_ZIJN> sinen <C 104_VRIJ> vrien 
+<L 2679:1> <C 1_EIGENDOM> Eghindoeme. <C 800_EN> Ende <C 700_IN> jn <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> ding <C 810_DAT> dat <C 403_ZIJ> soe <C 100_VAST> vast <C 800_EN> en<A >de</A> 
+<L 2679:2> <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 550_ZO> So <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vors<A >eide</A> <C 10_SCHEPEN> scepe<A >n</A> <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 2679:3> <C 101_UITHANGEND> vuthanghende <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> jn <C 101_SINT> sinte 
+<L 2679:4> <C 22_LUCAS> luux <C 1_AVOND> avonde. <q> .anno. <q> domini <q> .m'ho. <q> cc'ho. <q> Nonagesimo. <q> Nono. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

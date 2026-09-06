@@ -1,0 +1,41 @@
+<header>
+<docId>0599</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1000:10> <q> dominus 
+<L 1000:11> <C 20_MICHAEL> mich<A >ael</A> <q> de <C 21_JABBEKE> iabb<A >eke</A> <q> canonicus <q> sancte <q> marie <q> domino <C 29_WILHELM> will<A >elm</A>o <q> de <C 20_CYSOING> sisoen 
+<L 1000:12> <q> canonico <q> ad <q> opus <q> ecclesie.- 
+<L 1000:13> <C 20_WOUTER> wout<A >er</A> <q> f <C 22_HENDRIK> heins <C 22_AEGIDIUS> gill<A >is</A> <q> .f. <C 22_GOSWIJN> gos<A >ins</A> <q> sexta <q> ante <q> clementis.- 
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 1000:14> <C 20_PETRUS> petrus <q> .f <C 21_MARGARETA> marg<A >arete</A> <q> emit <q> terram <q> & <q> promisit <q> soluere <q> pecuniam <q> coram 
+<L 1000:15> <q> predictis.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<q> carta. <q> reddituum. <q> in <q> zerke<A >n</A>gh<A >em</A> <q> quos <q> soluunt 
+<L 1000:16> <q> marg<A >areta</A> <q> relicta <q> reifins <C 4_ZWAAN> zuanen. <C 29_WOUTER> w'ho <q> filius <q> eius. <q> & <q> marg<A >areta</A>. <q> f'ha. <q> eius. 
+<L 1000:17> <q> copia <q> facta <q> est <q> .xl. <q> s. <q> .- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> zarkeghe<A >m</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

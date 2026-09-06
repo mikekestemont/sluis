@@ -1,0 +1,33 @@
+<header>
+<docId>1499</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2283:12> <C 700_VAN> van <C 454_ONS> onsen <C 1_VOORVANG> vorvanghe <C 700_ONDER> onder <C 471_DE> de <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> g<A >ri</A>mb<A >er</A>ghen.- 
+<end-datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2283:13> <C 700_VAN> van <C 454_ONS> onsen <q> vorehoefde <C 700_IN> in <q> terra <C 109_GRIMBERGS> Grimberg<A >ensi</A>.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+
+<L 2283:14> <C 420_DAT> dat <C 470_HET> tgoetshuus <C 700_VAN> va<A >n</A> <q> grimb<A >er</A>gen <C 271_LIGGEN> ligghende <q> heeft <q> ond<A >er</A> <C 471_DE> die 
+<L 2283:15> <C 14_HEER> h<A >er</A>en <C 700_VAN> van <q> grimbergen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

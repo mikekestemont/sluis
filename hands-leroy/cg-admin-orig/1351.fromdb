@@ -1,0 +1,46 @@
+<header>
+<docId>1351</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2098:33> <C 20_UTRECHT> Vtr<A >echt</A> <q> benscoep.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 484_EEN> Eene<A >n</A> <C 0_BRIEF> brieff <C 700_VAN> van <q> gheryt <C 474+700_DE/HET+VAN> vand<A >en</A> <C 20_RIJN> Ryn <C 0_RIDDER> Ridder 
+<L 2098:34> <C 700_VAN> van <C 301_DRIE> drie <C 10_VIERENDEEL> virendell <C 2_LAND> Lants <C 274_LIGGEN> gheleg<A >en</A> <C 700_IN> jn <q> benscop <q> ond<A >er</A> <C 4_HEER> he<A >er</A>en <q> geryts <C 0_ZEGEL> zegell 
+<L 2098:35> <C 800_EN> en<A >de</A> <C 455_ZIJN> zynre <C 14_KIND> kynd<A >er</A>en <q> Anno <q> M <q> ij'hc <q> xciij <q> Benscop 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2098:40> <C 404_WIJ> Wi <C 0_HEER> har <C 20_GERARD> Gerard <C 700_VAN> van <C 471_DE> de <C 21_RIJN> rine <C 0_RIDDER> ridder <C 204_OORKONDEN> orconden <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> genen <C 421_DIE> die <C 414_DEZE> desen 
+<L 2098:41> <C 0_BRIEF> brief <C 204_ZIEN> sijn <VN type=1> <C 801_OF> ofte <C 204_HOREN> horen, <C 810_DAT> dat <C 404_WIJ> wi <C 810_TOEN> doe <C 404_WIJ> wi <C 700_IN> in <C 474_DE/HET> den <C 1_ORDE> orde <C 224_VAREN> voren <C 700_TOE> to <C 474_DE/HET> den 
+<L 2098:42> <C 0+104_HUIS+DUITS> duetscenhus <C 700_BIJ> bi <C 20_UTRECHT> vterecht <C 224_GEVEN> gauen <C 700_IN> in <C 105_RECHT> rechter <C 4_AALMOES> alemosen <C 474_DE/HET> den.. <C 1_COMMANDEUR> Conm<A >en</A>dure 
+<L 2098:43> <C 800_EN> ende <C 474_DE/HET> den <C 14_BROEDER> brod<A >er</A>en <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORGENOEMD> vorgenoemden <C 1_HUIS> huse <C 501_EEUWELIJK> ewelike <C 700_TOE> to <C 251_BEZITTEN> besiittene 
+<L 2098:44> <C 300_DRIE> dre <C 11_VIERTAL> viertele <C 2_LAND> landes <C 821_ALS> alse <C 406_ZIJ> si <C 274_LIGGEN> gelegen <C 214_ZIJN> sijn <C 700_IN> in <C 21_BENSCHOP> benscope. <C 700_BIJ> bi <C 475_DE/HET> der <C 4_HEER> heren <C 0_LAND> lant <C 700_VAN> van 
+<L 2098:45> <C 101_SINT> sente <C 24_CATHARINA> kat<A >er</A>inen; <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 800_EN> ende <C 22_WILHELM> willams <C 452_ONS> ons <C 2_ZOON> sones, <C 800_EN> Ende <C 810_OPDAT> vp+dat <C 410_DIT> dit 
+<L 2099:1> <C 101_STAD> stade <C 800_EN> ende <C 101_VAST> vaste <C 211_BLIJVEN> bliue <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wii <C 403_HIJ> hom <C 411_DEZE> dese <C 1_LETTER> litt<A >er</A>e <C 274_GEVEN> gegeuen <C 273_BEZEGELEN> be+segeld 
+<L 2099:2> <C 700_MET> met <C 454_ONS> onsen <C 0_ZEGEL> segel, <C 800_EN> ende <C 700_MET> met <C 0_ZEGEL> segel <C 452_ONS> onses <C 2_ZOON> sones <C 22_HELMERIK> heymerics <C 800_EN> ende <C 404_WIJ> wij 
+<L 2099:3> <C 20_HELMERIK> heymeric <C 800_EN> ende <C 20_HARBERT> herdbaren <C 810_WANT> want <C 404_WIJ> wi <C 452_ONS> onses <C 0_VADER> vader <C 4_AALMOES> alemosen <C 214_WILLEN> willen <C 250_VOLGEN> volgen 
+<L 2099:4> <C 260_LATEN> laten. <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 410_DIT> dit <C 0_ZEGEL> segel <C 701_AAN> ane <C 411_DEZE> dese <C 1_LETTER> litt<A >er</A>e <C 274_HANGEN> gehanghen, <C 700_IN> Jn <C 474_DE/HET> den <C 4_JAAR> iaren <C 452_ONS> ons 
+<L 2099:5> <C 4_HEER> heren <q> , <C 300_DUIZEND-294> Dusent+Tuehondert+vier+ende+negentich <C 11_JAAR> iare. <C 700_IN> Jn <C 455_ONS> onser <C 4_VROUW> vrouwen 
+<L 2099:6> <C 1_DAG> dage <C 851_ALS> alse <C 403_ZIJ> si <C 274_GEBOREN> geboren <C 230_WORDEN> wart, <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

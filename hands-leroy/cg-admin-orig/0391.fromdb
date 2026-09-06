@@ -1,0 +1,45 @@
+<header>
+<docId>0391</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 616:9> <C 411_DEZE> dese <q> tsartere <C 210_ZIJN> es 
+<L 616:10> <C 24_CLEMENTIA> clemmeicien <C 700_VAN> van <C 20_PAPEGEM> papeghem.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> buten <C 475_DE/HET> d<A >er</A> <C 1_NIEUWSTRAAT> nieustrate <C 4_POORT> poortte<A >n</A> <C 700+475_TE+DE> t<A >er</A> 
+<L 616:11> <C 4_HAL> hallen <q> xij <C 19_SOLIDUS> s. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 616:16> <C 404_WIJ> Wii <C 14_SCHEPEN> schepenen <C 700_VAN> van <C 20_AALST> alst. <C 0_HEER> her <C 20_AEGIDIUS> Gillis <C 700_VAN> van <C 475_DE/HET> d<A >er</A> <C 0_MARKT> marct. <C 20_AEGIDIUS> Gillis <C 701_UIT> vte <C 474_DE/HET> den <C 1_STEEN> stene. 
+<L 616:17> <C 204_MAKEN> maken <C 100_KONDIG> condech <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> letteren <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 801_OF> ofte 
+<L 616:18> <C 250_HOREN> hoeren. <C 810_DAT> dat <C 20_IWEIN> ywain <C 471_DE> die <C 0_VOGEL> voghel <C 1_POORTER> poertre <C 700_VAN> van <C 20_AALST> alst <C 800_EN> en<A >de</A> <C 26_MARGARETA> margarieta <C 450_ZIJN> sin <C 0_WIJF> wif. 
+<L 616:19> <C 214_HEBBEN> hebben <C 273_VERKOPEN> v<A >er</A>cocht. <C 700_OP> vp <C 451_HAAR> haere <C 0_HUIS> hus. <C 800_EN> en<A >de</A> <C 700_OP> vp <C 451_HAAR> haere <C 0_HOFSTEDE> hofstat <C 421_DIE> die <C 610_DAARTOE> daer+toe 
+<L 616:20> <C 203_BEHOREN> behoeret. <C 421_DIE> die <C 274_LIGGEN> gheleghen <C 210_ZIJN> es <C 700+475_TE+DE> ter <C 4_HAL> hallen <C 309_12> .xii. <C 19_SOLIDUS> 't3s. <C 2+472_JAAR+HET> siaers. <C 501_ERFELIJK> erpheleke. <C 4_JONKVROUW> jonc<A >vro</A>wen 
+<L 616:21> <C 24_ELISABETH> lisebetten <C 700_VAN> van <C 20_PAPEGEM> papenghem <C 800_EN> en<A >de</A> <C 451_HAAR> haere <C 0_ZUSTER> zuster. <C 4_JONKVROUW> jonc<A >vro</A>wen <C 24_ADELHEID> aelisen. 
+<L 616:22> <C 14_BEGIJN> beghinen <C 700_IN> in <C 20_AALST> alst. <C 701_OM> o<A >m</A>me <C 481_EEN> ene <C 100_ZEKER> zeker <C 1_SOM> su<A >m</A>me <C 700_VAN> van <C 14_PENNING> peninghen. <C 471_DE> die <C 421_WELK> welke <C 403_ZIJ> soe 
+<L 616:23> <C 406_ZIJ> hem <C 500_WEL> wel <C 274_VERGELDEN> v<A >er</A>gouden. <C 214_HEBBEN> hebben. <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 309_12> .xii. <C 19_SOLIDUS> 't3s. <C 210_MOETEN> moet <C 20_IWEIN> ywain <C 406_ZIJ> hem <C 250_GELDEN> ghelden. 
+<L 616:24> <C 700_TE> te <C 324_ELK> elken <C 1_KERSTAVOND> kerssauonde. <C 800_EN> En<A >de</A> <C 810_DAT> dat <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> es. <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wii <C 611_HIERAAN> hier+ane 
+<L 616:25> <C 274_HANGEN> gheanghen <C 451_ONS> onse <C 11_ZEGEL> seghelee. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_VOOR> voer <C 404_WIJ> ons. <C 700+470_IN+HET> jnt <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren. 
+<L 616:26> <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scriuet <C 319_1281> .m'ho.cc'ho.lxxxi'ho. <C 472_DE/HET> des <C 29*_VRIJDAG--> vriendaghes <C 29#_-POST-OCULI> post+oculi. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

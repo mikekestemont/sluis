@@ -1,0 +1,33 @@
+<header>
+<docId>0365</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 583:42> <C 401_IK> ic <C 20_ELISABETH> lizabet <C 2_LAM> lams <C 0_DOCHTER> docht<A >er</A> <C 201_MAKEN> maeke <C 100_KOND> cont <C 321_AL> alle <C 474_DE> dien <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en 
+<L 583:43> <C 214_ZULLEN> suelen <C 250_HOREN> horen <C 800_OF> of <C 250_ZIEN> sien <C 810_DAT> dat <C 401_IK> ic <C 211_HEBBEN> hebbe <C 274_GEVEN> gheuen <C 501_PUURLIJK> purlike <C 701_OM> omme <C 1_GOD> gode <C 700_IN> in 
+<L 583:44> <C 0_AALMOES> aelmoesin <C 0_BROEDER> broeder <C 21_WILHELM> wille<A >m</A>me <C 21+1_PETRUS+ZOON> pitersone <C 700_VAN> van <C 474_DE> dien <C 1_KLOOSTER> cloestre <C 700+20_TE+JERUZALEM> teiher<A >usa</A>l<A >e</A>m 
+<L 583:45> <C 700_BIJ> bi <C 21_BIEZELINGE> bieselinghe <C 309_2> .ii. <C 11_GEMET> ghemete <C 2_LAND> lans <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> een+half <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 320_MEE> me <C 271_LIGGEN> licghende 
+<L 584:1> <C 700_IN> in <C 20_VOGELWAARD> voghelw<A >er</A>t <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 475_DE/HET> der <C 4_KAPEL> capellen <C 470+700+20_HET+IN+OOSTAMBACHT> intostambacht <VN type=1> <q> . <C 203_LEVEN> leuet 
+<L 584:2> <C 0_BROEDER> broed<A >er</A> <C 20_WILHELM> wille<A >m</A> <C 505_LANG> langher <C 820_DAN> dan <C 401_IK> ic. <C 500_VOORT> vort <C 700_VAN> van <C 414_DIE> dien <C 101_VOORZEID> voerseide <C 1_LAND> lande <C 210_ZULLEN> sal <C 700_NA> na 
+<L 584:3> <C 0_BROEDER> broeder <C 22_WILHELM> willems <VN type=1> <C 0_LEVEN> leuen. <C 300_EEN> een. <C 0_DERDEDEEL> derdendeel <C 250_GAAN> gaen <C 700+101_TE+SINT> tesente <C 22_BERNHARD> b<A >er</A>nards <C 700_BIJ> bi <C 21_SCHELLE> scelle. 
+<L 584:4> <C 480_EEN> een. <C 310_ANDER> and<A >er</A> <C 0_DERDEDEEL> derdendeel <C 700_TE> te <C 101_SINT> sente <C 22_MICHAEL> michels <C 700+24_TE+ANTWERPEN> tantwarpen. <C 311+470_DERDE+HET> terde <C 0_DERDEDEEL> derdendeel 
+<L 584:5> <C 1+700+474_KLOOSTER+TE+DE> tencloestre <C 700_IN> in <C 20_MIDDELBURG> middelborch <C 700_IN> in <C 4_AALMOES> aelmoesien. <C 411_DEZE> dese <C 1_AALMOES> aelmoesine <C 201_WILLEN> wille <C 401_IK> ic <C 810_DAT> dat 
+<L 584:6> <C 700_ZONDER> sond<A >er</A> <C 320_ENIG> enich <C 0_WEDERZEGGEN> weder+secghen <C 101_GESTADE> ghestaede <C 211_BLIJVEN> bliue <C 800_EN> en<A >de</A> <C 200_VOORTGAAN> vort+ga. <C 700_IN> in <C 1_OORKONDE> oerconde 
+<L 584:7> <C 474_DE> dien <C 1_PAAP> pape <C 700_VAN> van <C 415_DIE> dier <C 4_KAPEL> capellen <C 474_DE/HET> den <C 21+0_GIJSBERT+HEER> herghiselbrechte <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 21+0_ARNOUT+HEER> herarnoude 
+<L 584:8> <C 474_DE> dien <C 1_PAAP> pape <C 700_VAN> van <C 21_EVERDEISDIJK> eu<A >er</A>deis+dike <C 421_DIE> die <C 411_DEZE> dese <C 1_AALMOES> aelmoesine <C 214_HEBBEN> hebben <C 101_UITHANGEND> uthancghende 
+<L 584:9> <C 273_BEZEGELEN> beseghelt. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 800_EN> en<A >de</A> <C 273_MAKEN> maect <C 700_IN> i<A >n</A> <C 471_DE> die <VN type=1> <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsmen 
+<L 584:10> <C 203_SCHRIJVEN> scriuet <C 319_1281> .m'ho.+cc'ho.+lxxxi'ho. <C 700_IN> i<A >n</A> <C 101_SINT> sente <C 22_JACOB> iacobs <C 0_DAG> daech <C 800_EN> en<A >de</A> <C 101_SINT> sente <C 22_CHRISTOFORUS> kerstouers. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

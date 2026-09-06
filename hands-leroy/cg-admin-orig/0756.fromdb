@@ -1,0 +1,42 @@
+<header>
+<docId>0756</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1248:16> <C 410_DIT> dit <C 200_ZIJN> es <C 700_VAN> van <q> renten. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 481_EEN> eene <q> ghifte <C 700_VAN> van <q> viij <C 19_SOLIDUS> s. <C 119_PARIJS> p. <C 2+472_JAAR+HET> ts<A >jaer</A>s 
+<L 1248:17> <C 500_ERFELIJK> erffeleech. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1248:20> <C 404_WIJ> Wii <C 14_SCHEPEN> schepenen <C 700_VAN> van <C 20_AALST> alst <C 470+0_DE+HEER> der <C 20_GOSWIJN> goisin <C 700_VAN> van <C 474_DE/HET> den <C 1_SPIEGEL> spigle, <C 20_JOHANNES> Jan <C 0_PERSOON> p<A >er</A>soen, <C 20_GOSWIJN> goisin 
+<L 1248:21> <C 700_VAN> van <C 20_SCHOUTBROEK> scoubroec <C 800_EN> en<A >de</A> <C 20_GOSWIJN> goisin <C 0_PLAKKAARD-X> placcard <C 204_MAKEN> maken <C 100_KOND> cont <C 324_AL> allen <C 14_LIEDEN> lieden, <C 810_DAT> dat <C 0_MEESTER> mest<A >er</A> 
+<L 1248:22> <C 20_NICOLAAS> claus <C 220_GEVEN> gaf <C 474_DE> dien <C 700_VAN> van <C 474_DE/HET> den <C 1_SPITAAL> spetale, <C 474_DE/HET> den <C 14_ZIEKE> siken <C 700_TE> te <C 4_PITANTIE> petanchien <C 700_IN> in <C 14_AALMOES> aelmossenen, 
+<L 1248:23> <C 309_8> viij, <C 19_SOLIDUS> sol <C 111_PARIJS> par<A >isise</A> <C 472+2_HET+JAAR> tsiars, <C 700_TE> te <C 251_DELEN> delne <C 474_DE/HET> den <C 14_ZIEKE> siken <C 700_TE> te <C 300_4> vier <C 14_TIJD> tiden <C 700_VAN> van <C 474_DE/HET> den <C 1_JAAR> iare, <C 700_TE> te 
+<L 1248:24> <C 101_SINT> sente <C 24_MARIA> marien <C 1_LICHTMIS> lichtmesse, <C 700_IN> jn <C 471_DE> die <C 0_OPVAART> vpvard <C 455_ONS> onser <C 4_VROUW> v<A >ro</A>wen, <C 800_EN> en<A >de</A> <C 700_IN> in <C 455_HAAR> harre 
+<L 1248:25> <C 4_GEBOORTE> gheborten, <C 800_EN> en<A >de</A> <C 700_TE> te <C 325_AL> alre <C 1+15_MIS+HEILIGE> heilg<A >er</A>messe <C 510_ALZO> alsoe <C 821_ALS> alse <C 403+404_HET+WIJ> wit <C 214_HEBBEN> hebben <C 274_VERSTAAN> v<A >er</A>staen <C 700_IN> in 
+<L 1248:26> <C 450_ZIJN> sin <C 0_TESTAMENT> testament <C 273_ZEGELEN> gesegelt <C 700_MET> met <C 14_SCHEPEN> scepene<A >n</A> <C 4_LETTER> lettren <C 471_DE> de <C 421_WELK> welke <C 309_8> viij, <C 19_SOLIDUS> 't3s, <C 214_ZIJN> sin <C 273_BEWIJZEN> bewist 
+<L 1248:27> <C 700_OP> vp <C 22_JOHANNES> jans <C 472+2_DE+PAROCHIAAN> sprochgians <C 0_HUIS> hus <C 800_EN> en<A >de</A> <C 0_HOFSTEDE> hostadt <C 620_DAARIN> dar+in <C 203_WONEN> woent, <C 700+470_IN+HET> jnt <C 0_JAAR> iar <C 452_ONS> ons <C 4_HEER> heren <C 309_1287> m+cc+lxxxvij 
+<L 1248:28> <C 700_IN> in <C 101_SINT> sente <C 22_NICOLAAS> nichol<A >aus</A> <C 1_DAG> dage 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='1' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,37 @@
+<header>
+<docId>0892</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1414:44> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> Hollant <C 204_MAKEN> maken <C 100_KOND> cont. <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen 
+<L 1414:45> <C 0_BRIEF> brief <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 810_DAT> dat <C 410_DAT> dat <C 451_ONS> onse <C 0_WIL> wil <C 210_ZIJN> es. <C 810_DAT> dat <C 471_DE> die <C 0_STAD> stat <C 700_VAN> van <C 20_UTRECHT> vtrecht 
+<L 1414:46> <C 201_HEBBEN> hebbe <C 474_DE> dien <C 1_EIGENDOM> eighendome <C 700+474_VAN+DE/HET> vanden <C 1_LAND> lande <C 420_DAT> dat <C 471_DE> die <C 0_NIEUWERVAART> niwevaert <C 213_HETEN> hetet. <C 841_ALS> Alse <C 700_VAN> van 
+<L 1415:1> <C 21_WILHELM> willemme <C 700+474_VAN+DE/HET> vanden <C 1_SLIJK> slike <C 480+300_EEN+HALF> ene+halve <C 1_HOEVE> hoeve. <C 20_SPRONG> Spronch <C 800_EN> ende <C 454_ZIJN> sinen <C 1_NEEF> neve <C 620*_DAAR-> daer 
+<L 1415:2> <C 403_HIJ> hi <C 1_MOMBER> monbare <C 620#_-AF> af <C 230_ZIJN> was <C 301_EEN> ene <C 1_HOEVE> hoeve. <C 20_WILHELM> Willem <C 700+474_VAN+DE/HET> vanden <C 21_OUDEGEIN> ovdengheine <C 301_EEN> ene <C 0_VIERTAL> virtel. 
+<end-statushand  statushandkode='mn'>
+
+<statushand  statushandkode='an'>
+
+<L 1415:3> <C 800_EN> ende <C 0_HEER> haer <C 20_ARNOUT> Arnout <C 700_VAN> van <C 21_AMSTEL> Amstelle <C 301_EEN> ene <C 0_VIERTAL> virtel. <C 800_EN> Ende <C 204_GEBIEDEN> ghebieden <C 410_DAT> dat <C 414_DEZE> desen 
+<L 1415:4> <C 114_VOORGEZEID> voreghesegheden <C 14_LIEDEN> luden <C 810_DAT> dat <C 406_ZIJ> si <C 474_DE/HET> den <C 1_EIGENDOM> eighendome <C 700_VAN> van <C 414_DEZE> desen <C 1_LAND> lande <C 420_DAT> dat <C 610+273_HIERVOOR+NOEMEN> hier+vorghenoemt 
+<L 1415:5> <C 210_ZIJN> es <C 204_OPGEVEN> op+gheven <C 501_VRIJELIJK> vrielike <C 800_EN> ende <C 321_AL> alle <C 470_HET> dat <C 0_RECHT> recht <C 420_DAT> dat <C 406_ZIJ> si <C 610_DAARAAN> daer+ane 
+<L 1415:6> <C 204_HEBBEN> hebben <C 700+475_TE+DE> ter <C 0_STAD> stat <C 0_BEHOEF> behoef <C 700_VAN> van <C 20_UTRECHT> vtrecht, <C 701_OM> omme <C 510_ALZO> also <C 321_VEEL> vele <C 11_PENNING> penninghe <C 821_ALS> alse <C 406_ZIJ> hem 
+<L 1415:7> <C 700_VAN> van <C 455_ONS> onser <C 4_WEG> weghen. <C 700_VAN> van <C 474_DE> dien <C 1_LAND> lande <C 273_TOEWIJZEN> to+ghewiset <C 210_ZIJN> es. <C 810_ZO> So <C 404_WIJ> wi <C 410_DAT> dat <C 560_NIET> niet <C 560_NE> ne <C 221_DOEN> dade 
+<L 1415:8> <C 410_DAT> dat <C 234_ZULLEN> sovden <C 404_WIJ> wi <C 700_OP> op <C 406_ZIJ> hem <C 250_VERHALEN> verhalen, <C 800_EN> ende <C 420_WAT> wat <C 471_DE> die <C 0_STAD> stat <C 700_VAN> van <C 20_UTRECHT> Vtrecht <C 610_DAARTOE> daer+to 
+<L 1415:9> <C 221_DOEN> dede <C 403_HET> des <C 214_HOUDEN> hovden <C 404_WIJ> wi <C 406_ZIJ> hem <C 273_WAREN> ghewaert. <C 411_DEZE> Dese <C 14_LETTER> lettren <C 234_ZIJN> waren <C 274_GEVEN> ghegheven <C 700_IN> in 
+<L 1415:10> <C 452_ONS> ons <C 4_HEER> heren <C 1_JAAR> iare. <C 300_1000-289> ducent+tvehondert+neghen+ende+tachtich <C 472_DE> des 
+<L 1415:11> <C 2_MAANDAG> manendaghes <C 700_NA> na <C 101_SINT> sente <C 22_NICOLAAS> niclais <C 1_DAG> daghe <C 700_TE> te <C 22_COPPAARD/JACOB?> copparts <C 0_HUIS> huus. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

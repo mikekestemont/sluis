@@ -1,0 +1,26 @@
+<header>
+<docId>1708</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2557:14> <C 20_BOUDEWIJN> bouden <C 0_BAROEN> baroen <C 220_OPGEVEN> gaf+vp <C 444_EEN> ene<A >n</A> <C 0_BROEDER> broeder <C 24_WOUTER> woutren <C 700_VAN> van <C 24_SPERMALIE> spermaelgen <C 411+100_DIE+AL> aldie 
+<L 2557:15> <C 411_ZELF> zelue <C 0_MACHT> macht <C 800_EN> en<A >de</A> <C 410+100_DAT+AL> aldat <C 411_ZELF> zelue <C 1_RECHT> rechte <C 420_DAT> dat <C 403_HIJ> hie <C 221_HEBBEN> hadde <C 474+700_DE/HET+AAN> anden <C 1_CHARTER> saertre <C 621*_DAAR-> daer 
+<L 2557:16> <C 411_DEZE> deze <C 14_LETTER> lett<A >er</A>en <C 621#_-DOOR> duere <C 274_STEKEN> ghesteken <C 214_ZIJN> ziin <C 841_ALS> alse <C 700+445_TE+EEN> tere <C 0_ZUSTER> suster <C 24_IME> jmmesoeten <C 0_BEHOEF> boef <C 700_VAN> van 
+<L 2557:17> <C 20_GARLEEM> gharleem <C 410_DIT> dit <C 204_KENNEN> kenne<A >n</A> <C 14_SCHEPEN> scepene<A >n</A> <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 20_WOUTER> wout<A >er</A> <C 700_VAN> van <C 20_CADZAND> caedzant <C 800_EN> en<A >de</A> 
+<L 2557:18> <C 20_AEGIDIUS> gillis <q> filius <C 22_GOSWIJN> gosins <C 800_EN> ende <VN type=1> <C 20_JOHANNES> jhan <C 20_ZOEN> soen. <C 410_DIT> Dit <C 274+230_DOEN+ZIJN> wasghedaen <C 2+472_VRIJDAG+DE> svriindaghes <C 700_NAAR> naer 
+<L 2557:19> <C 101_SINT> sinte <C 22_MARTIN> maertins <C 1_DAG> daghe <C 700+474_IN+DE> jnden <C 0_WINTER> wint<A >er</A> <q> Anno <q> domini <q> m'ho. <q> cc'ho <q> nonagesimo 
+<L 2557:20> <q> octauo. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

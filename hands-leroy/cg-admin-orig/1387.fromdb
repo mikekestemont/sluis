@@ -1,0 +1,34 @@
+<header>
+<docId>1387</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2150:8> <C 700_IN> jn <q> ard<A >enburch</A> <q> .v. 
+<L 2150:9> <C 19_SOLIDUS> 't3s. <q> of+gheloest <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 0_HUIS> hws. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2150:14> <C 20_WILHELM> Willem <C 20_VREDEBRACHT-X> v<A >er</A>debracht <C 800_EN> ende <C 20_AEGIDIUS> gilis <C 700+474_UIT+DE/HET> huten <C 1_TUIN> thune <C 404_WIJ> wi <C 14_SCHEPEN> scepenen <C 700_VAN> van 
+<L 2150:15> <C 20_AARDENBURG> ardenb<A >ur</A>g <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 810_DAT> dat <C 224_KOMEN> quamen <C 701_VOOR> vore <C 404_WIJ> ons <C 20_JOHANNES> jhan <C 471_DE> de <C 1_PREIDER-X> preidere <C 800_EN> ende 
+<L 2150:16> <C 21_HUGO> hug<A >he</A> <C 101_KOEN> coene <C 860_ALS> als <C 11_VOOGD> voghede <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jhans <C 0_HUIS> huus <C 800_EN> ende <C 224_SCHELDEN> scouden <C 101_KWIJT> quite <C 0+470_HOF+HET> thof 
+<L 2150:17> <C 700_VAN> van <C 24_SPERMALIE> spermaelgen <C 700_VAN> van <C 301_VIJF> viue <C 19_SOLIDUS> sol <C 1_RENTE> rente <C 421_DIE> die <C 406_ZIJ> si <C 502_JAARLIJKS> jaerliichs <C 224_GEVEN> gauen <C 421_DIE> die <C 224_KOMEN> quamen 
+<L 2150:18> <C 700_VAN> van <C 474_DE/HET> den <C 1_HEER> here <C 21_AEGIDIUS> gilise <C 700_VAN> van <C 24_SPERMALIE> spermaelgen <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons 
+<L 2150:19> <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 301_1200-NEGENTIGENVIER> m'ho+cc'ho+neghentich+en<A >de</A>+viere <C 472_DE/HET> des <C 2_ZONDAG> sondaghes <C 700_NA> na 
+<L 2150:20> <C 101_SINT> sente <C 29_NICASIUS> nichasis <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,58 @@
+<header>
+<docId>1332</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2018:9> <q> Protestatio 
+<L 2018:10> <q> quorundam <q> scabinorum <q> de <q> franco <q> super <q> assignatione <q> xx'ht'hi <q> 't3s <q> annui 
+<L 2018:11> <q> redditus <q> in <q> quadam <q> pecia <q> terre. <C 29_HENDRIK> heinemanni <q> dicti <C 22_RIJK> riix. <q> in <q> parrochia <q> de 
+<L 2018:12> <C 21_LISSEWEGE> lisseweghe. <q> Ex <q> parte <C 29_DIEDERIK> Theoderici <q> de <C 1_BROEK> broke <q> heredis <C 29_PETRUS> petri <C 24_MOUWE> mouwen.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2018:13> <q> De <q> .xx. <q> 't3s. <q> cum <q> .j. <q> libra <q> cere <q> pro <q> releuio <q> ex <q> parte <C 29_DIEDERIK> theod<A >er</A>ici <q> de 
+<L 2018:14> <q> brouke <q> heredis <q> pet<A >ri</A> <C 24_MOUWE> mauwen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2018:20> <C 404_WIJ> Wie <C 20_JOHANNES> jan <C 700_VAN> van <C 21_UITKERKE> vutkerke <C 1_RIDDER> ruddre, <C 20_DIEDERIK> diederic <C 471_DE> die <C 0_VOS> vos, <C 20_JOHANNES> jan <C 700_VAN> van <C 21_LEMBEEK> lembeke, <C 20_IWEIN> wenin 
+<L 2018:21> <C 700_VAN> van <C 21_VARSENARE> varsenare, <C 20_JOHANNES> jan <C 471_DE> die <C 101_BRUIN> brune, <C 20_WILHELM> willem <C 700_VAN> van <C 20_KLEIEM> cleihem, <C 20_WILHELM> willem <C 471_DE> die <C 1_SCHOUTHEET> scoutete, 
+<L 2018:22> <C 20_ARNOUT> arnoud <C 20_BRANTIJN-X> brantin, <C 20_JOHANNES> jan <q> f <C 22_ADELHARD> alards <q> f <C 0+24_VROUW+MABELIA> v<A >er</A>maben, <C 21_HUGO> hughe <q> f <q> domini <C 22_HUGO> hugs <C 800_EN> ende <C 20_AEGIDIUS> gillis 
+<L 2018:23> <C 700_VAN> van <C 20_EERNEGEM> erneghem <C 10_SCHEPEN> scepen <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 320+474_AL+DE/HET> alden <C 414_GENE> ghoenen <C 421_DIE> die 
+<L 2018:24> <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> iof <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons <C 20_DIEDERIK> diederic <C 700+474_UIT+DE/HET> vten 
+<L 2018:25> <C 1_BROEK> broke <C 860_ALS> als <C 0_AALDING> aeldinc <C 700_VAN> van <C 20_PETRUS> pieter <C 24_MOUWE> mouwen <C 800_EN> ende <C 221_VERLIJDEN> verliedde <C 810_DAT> dat <C 471_DE> die <C 300_20> twintich 
+<L 2018:26> <C 11_SCHELLING> sceleghe <C 105_ERFELIJK> eruelicker <C 4_RENTE> renten <C 2+472_JAAR+HET> siaers <C 421_DIE> die <C 273_BEZETTEN> beset <C 234_ZIJN> waren <C 700_OP> vp <C 0_STUK> stic <C 2_LAND> lands <C 620*_DAAR-> daer 
+<L 2018:27> <C 20_HENDRIK> heineman <q> f <C 22_RIJK> riix <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> ende <C 700_OP> vp <C 2_KRUKKEMAN> crickemans <C 0_STUK> stic <C 800_EN> ende <C 700_OP> vp <C 471_DE> die 
+<L 2018:28> <C 0_LAANMEET?> lanemeet, <C 810_DAT> dat <C 471_DE> die <C 300_20> tvintich <C 11_SCHELLING> sceleghe <C 110_VOORZEID> vorseid <C 500_NU> nu <C 214_ZIJN> siin <C 273_VERZETTEN> verset <C 700_OP> vp <C 20_HENDRIK> heineman 
+<L 2018:29> <q> f <C 22_RIJK> riix <C 0_STUK> stic <C 620*_DAAR-> daer <C 403_HIJ> hie <C 620#_-OP> vp <C 221_WONEN> woende <C 200+410_ZIJN+DAT> dats <C 700_TE> te <C 251_WETEN> wetene <C 300_TWEE> twe <C 14_LIJN> linen <C 2_LAND> lands, <C 800_EN> ende <C 500_VOORT> vort 
+<L 2018:30> <C 700_OP> vp <C 300_DERDEHALF> dardalf <C 1_LIJN> line <C 2_LAND> lands <C 271_LIGGEN> licgende <C 704_BEWESTEN> bewesten <C 21_GIJZENZELE> ghisensele <C 500_OFZUIDHALF> ofsuithalf <C 700_AAN> an <C 471_DE> die 
+<L 2018:31> <C 1_WEGSCHEID> weghescede <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 203_LIGGEN> leghet <C 500_AL> al <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 800_EN> ende <C 700+475_BINNEN+DE> binder 
+<L 2018:32> <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_LISSEWEGE> lissweghe, <C 800_EN> ende <C 440_MEN> men <C 203_GELDEN> ghelt <C 471_DE> die <C 300_20> twintich <C 11_SCHELLING> sceleghe <C 110_VOORZEID> vorseid <C 301+470_EEN+DE> dene 
+<L 2018:33> <C 0_HELFT> helt <C 700+324_TE+ELK> telken <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_MIS> messe <C 2_MIDZOMER> middels+somers <C 800_EN> ende <C 310+470_ANDER+DE> dander <C 0_HELFT> helt <C 700+324_TE+ELK> telken 
+<L 2018:34> <C 101_SINT> sinte <C 1_BAAFSMIS> bamesse <C 421_DIE> die <C 610_DAARNAAST> daer+naest <C 203_KOMEN> coemt, <C 800_EN> En<A >de</A> <C 700_IN> in <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc 
+<L 2018:35> <C 403+810_ZIJ+DAT> datsoe <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 10_SCHEPEN> scepen <C 411_DEZE> dese 
+<L 2018:36> <C 4_LETTER> lett<A >er</A>en <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seglen <C 111_UITHANGEND> vuthanghende. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 2018:37> <C 2+472_ZATERDAG+DE> tsaterdaechs <C 700_NA> na <C 0_MEIDAG> meye+dach. <q> anno <q> domini <q> .m'ho. <q> cc'ho. <q> Nonagesimo. <q> quarto. 
+<L 2018:38> <C 800_EN> Ende <C 440_MEN> me<A >n</A> <C 203_GELDEN> ghelt <C 700_VAN> van <C 1_KOOP> cope <C 800_EN> ende <C 700_VAN> van <C 4_VERSTERFENIS> versterfnessen. <C 480_EEN> een <C 0_POND> po<A >n</A>t <C 2_WAS> was 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

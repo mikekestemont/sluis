@@ -1,13 +1,18 @@
-# Python 3.10.18
-bokeh==3.8.2
+# Direct dependencies. Install via: conda env create -f environment.yml
+# kraken 6.0.3 pulls numpy~=2.0, scipy~=1.13, scikit-learn~=1.5 — do not
+# override those. After a successful create, freeze to requirements.lock.
+
 kraken==6.0.3
-numpy==2.4.6
-openpyxl==3.1.5
-pandas==3.0.3
-Pillow==12.2.0
-rapidfuzz==3.14.5
-scikit_learn==1.9.0
-scipy==1.17.1
 torch==2.9.0
+Pillow==12.1.1
 tqdm==4.67.1
-umap_learn==0.5.11
+
+openpyxl==3.1.5
+pandas==2.2.3
+rapidfuzz==3.14.5
+requests==2.32.5
+
+ipykernel==6.29.5
+jupyter==1.1.1
+bokeh==3.8.2
+umap-learn==0.5.7

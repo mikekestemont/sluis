@@ -1,0 +1,29 @@
+<header>
+<docId>0783</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1281:23> <q> de <q> heyensluus <q> & <q> rei<A >n</A>gh<A >er</A>svliete. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 1281:27> <C 480_EEN> Een 
+<L 1281:28> <C 0_CONTENT> content <C 700_VAN> van <C 20_EIENSLUIS> heyensluus <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 21_REINGEERVLIET> rei<A >n</A>gh<A >er</A>vliete <C 700_VAN> va<A >n</A> <C 14_DIJKING> diki<A >n</A>ghe<A >n</A> <C 700_VAN> va<A >n</A> 
+<L 1281:29> <C 1_ZEEDIJK> zeedike <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 1_EVENDIJK> eue<A >n</A>dike. <q> xij'hc <q> lxxxviij. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

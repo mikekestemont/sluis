@@ -1,0 +1,55 @@
+<header>
+<docId>1424</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='136' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2186:9> <C 470+0_HET+LAND> dlant <C 474+700_DE+IN> jnden <q> gheer.- 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_WEGENS> Wegen <q> ses <q> honder 
+<L 2186:10> <C 2_LAND> Landts <C 801_OF> ofte <C 480+300_EEN+HALF> een+half <C 314_TWAALFDE> twelfden <C 0_DEEL> deel <C 2_LAND> Landts. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='136' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2186:13> <C 401_IK> Hic <C 20_NICOLAAS> niclaus <C 471_DE> de <C 101_ROOD> roede <C 201_MAKEN> make <C 100_KOND> cont <C 321_AL> alle <C 471+414_DE+GENE> degenen <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> bref <C 211_ZULLEN> sele <C 250_ZIEN> sien 
+<L 2186:14> <C 800_EN> ende <C 250_HOREN> hoeren <C 810_DAT> dat <C 401_IK> hic <C 800_EN> ende <C 450_MIJN> min <C 0_WIJF> wif <C 20_ERMINTRUIDA> ermtrut <C 214_HEBBEN> hebben <C 274_GEVEN> gegeuen <C 701_VOOR> vore <C 451_ONS> onse 
+<L 2186:15> <C 14_ZIEL> sielen <C 800_EN> ende <C 700_OM> om <C 1_GOD> goede <C 700_IN> in <C 471_DE> de <C 1_KERK> kerke <C 700_VAN> van <C 20_WAALWIJK> walwic <C 472_DE/HET> des <C 2*_HEILIGE-> helechs <C 2#_-GEEST> gees <C 0_TAFEL> tafel <C 480+300_EEN+HALF> een+half 
+<L 2186:16> <C 314_TWAALFTE> tuelften <C 0_DEEL> deel <C 2_LAND> lants <C 420_DAT> dat <C 203_LIGGEN> legt <C 700_OP> op <C 414_GENE> genen <C 0_GEER> geer <C 800_EN> ende <C 214+403_HEBBEN+HET> hebent <C 274_OPDRAGEN> op+gedragen 
+<L 2186:17> <C 700_IN> in <C 474_DE/HET> den <C 0_HOF> hof <C 800_EN> ende <C 471_DE> die <C 1_KERK> kerke <C 213_HEBBEN> heuet <C 274_ONTVANGEN> ontfan <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe <C 700+474_TOT+DE> toeten <C 14_ARME> armen 
+<L 2186:18> <C 0_BEHOEF> behouf. <C 500_VOORT> voet <C 700_OP> op <C 470_HET> dat <C 411_ZELF> selue <C 0_LAND> lant <C 211+404+403_HEBBEN+WIJ+HET> hebbewis <C 21_BERISE> berise <C 274_GEVEN> gegeuen <C 0+480_DEEL+EEN> endeel <C 700_OP> op <C 301_VIER> viere 
+<L 2186:19> <C 11_SCHELLING> scellinge <C 2_CIJNS> cens <C 700_OP> op <C 104_SINT> senten <C 20_LAMBERT> lambrecht <C 0_DAG> dach <C 800+410_EN+DAT> endat <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 500_OOK> oec <C 274_GEVEN> gegeue<A >n</A> 
+<L 2186:20> <C 474+700_DE/HET+TE> ten <C 15_ARME> arm<A >er</A>e <C 0_BEHOEF> behouf. <C 501_VOORTAAN> voert+ane <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_GEVEN> gegeuen <C 300+11_VIJF+SCHELLING> viscellinge <C 475+700_DE+TOT> toet<A >er</A> <C 14_LAMP> lampen 
+<L 2186:21> <C 321_AL> alle <C 11_JAAR> iare <C 501_ERFELIJK> erfleke <C 700_OP> op <C 484_EEN> enen <C 0_HOFSTEDE> hofstat <C 420_DAT> dat <C 203_LIGGEN> legt <C 701_AAN> ane <C 4_VROUW> veren <C 24_LIEDHILDE> lielden <C 500_NOORDWAART> nordewart <C 620*_DAAR-> dar 
+<L 2186:22> <C 21_GERARD> ghene <C 620#_-OP> op <C 203_ZITTEN> sit. <C 411+800_DIE+EN> endie <C 309_5> .v. <C 19_SOLIDUS> 't3s. <C 210+440_ZULLEN+MEN> salmen <C 250_GEVEN> geuen <C 700_IN> in <C 101_SINT> sente <C 20_LAMBERT> lambrecht <C 1_DAG> dage. <C 501_VOORTAAN> vortdane 
+<L 2186:23> <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_GEVEN> gegeuen <C 21_GODFRIED> godeuerde <C 1_MIN> minne <C 481_EEN> ene <C 0_HOFSTEDE> hofstat <C 421_DIE> die <C 203_LIGGEN> legt <C 701_AAN> ane <C 471_DE> die <C 411_ZELF> selue 
+<L 2186:24> <C 0_HOFSTEDE> hofstat <C 620*_DAAR-> dar <C 21_GERARD> geene <C 620#_-OP> op <C 203_ZITTEN> sit <C 500_OOSTWAART> oestwert <C 700_OP> op <C 309_5> .v. <C 19_SOLIDUS> 't3s <C 502_JAARLIJKS> iarlics <C 800_EN> ende <C 411_DIE> die <C 210_ZULLEN> sal <C 403_HIJ> hi <C 250_GEVEN> geue<A >n</A> 
+<L 2186:25> <C 471_DE> de <C 1_PERSOON> p<A >er</A>soene <C 700+475_VAN+DE> vand<A >er</A> <C 1_KERK> kerke <C 800_EN> ende <C 474_DE/HET> den <C 1_KOSTER> cust<A >er</A>e <C 510_ALZO> alsoe <C 403+820_HET+ALS> alst <C 700_IN> in <C 474_DE/HET> den <C 0_MISBOEK> misse+boec 
+<L 2186:26> <C 274_BESCHRIJVEN> besc<A >re</A>uen <C 210_ZIJN> es. <C 501_VOORTAAN> vort+ane <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_GEVEN> gegeuen <C 300_EEN> een <C 1_MUD> mudde <C 2_ROGGE> rogs <C 700_OP> op <C 480_EEN> en <C 0_STUK> stuc 
+<L 2186:27> <C 2_LAND> lants <C 701_AAN> ane <C 411_GENE> ghene <C 0_ZANDDONK> sant+donc <C 420_DAT> dat <C 404_WIJ> wi <C 221_BREKEN> brake <C 700_VAN> van <C 1_WILDERT> wilderde. <C 501_ERFELIJK> erfleke <C 474_DE/HET> den <C 14_ARME> armen 
+<L 2186:28> <C 701_TOT> toete <C 20_WAALWIJK> walwic. <C 501_VOORTAAN> voet+ane <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_GEVEN> gegeuen <C 21_MATTE'S1US> matise <C 480_EEN> en <C 0_STUK> stuc <C 2_LAND> lants <C 420_DAT> dat <C 203_LIGGEN> leget 
+<L 2186:29> <C 700_BOVEN> bouen <C 415_DIE> d<A >er</A>e <C 4_STRAAT> st<A >ra</A>ten <C 500_ZUIDWAART> sutwart <C 420_DAT> dat <C 203_LIGGEN> legt <C 700_OP> op <C 474_DE/HET> den <C 1_GEER> gere <C 700_OP> op <C 300_9> negen <C 11_PENNING> peninge <C 501_ERFELIJK> erfleke 
+<L 2186:30> <C 474_DE/HET> den <C 14_ARME> armen. <C 800_EN> ende <C 810_OMDAT> ome+dat <C 410_DIT> dit <C 210_ZIJN> si <C 100_VAST> vast <C 800_EN> ende <C 100_ZEKER> seker <C 550_ZO> soe <C 401+210_IK+HEBBEN> hebbic <C 274_BIDDEN> gebeden 
+<L 2186:31> <C 454_ONS> onsen <C 1_PERSOON> p<A >er</A>soene <C 800_EN> ende <C 21_JOHANNES> ihanne <C 1+22_ZOON+HENDRIK> heinesone <C 800_EN> ende <C 21_PETRUS> piet<A >er</A>e <C 474_DE/HET> den <C 1_GRUITER> grutere <C 810_DAT> dat <C 403+406_HET+ZIJ> sit 
+<L 2186:32> <C 203_BEZEGELEN> besegelt <C 700_MET> met <C 454_HAAR> haren <C 14_ZEGEL> segelen <C 800_EN> ende <C 401_IK> ic <C 411_ZELF> selue <C 20_NICOLAAS> niclaus <C 403+210_HET+HEBBEN> hebbet <C 273_BEZEGELEN> besegelt <C 700_MET> met 
+<L 2186:33> <C 454_MIJN> minen <C 101_PROPER> propre <C 1_ZEGEL> segle. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_GEVEN> gegeue<A >n</A> <C 700+470+0_IN+HET+JAAR> indiar <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 309_1200-NEGENTIGENVIJF> .m'ho.+cc'ho.+lxxxx+ende+.v. 
+<L 2186:34> <C 700_IN> in <C 0+470_OPVAART+DE> dopuart <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 1_DAG> dage 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='136' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='136' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

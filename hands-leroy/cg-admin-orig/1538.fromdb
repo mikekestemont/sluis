@@ -1,0 +1,60 @@
+<header>
+<docId>1538</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='28' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 2325:26> <C 21_DILBEEK> dielbeke. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2325:29> <C 404_WIJ> Wi <C 14_SCHEPEN> scepene<A >n</A> <C 20_ARNOUT> arrons <C 700_VAN> va<A >n</A> <C 20_KRAAINEM> krayne<A >m</A> <C 700_IN> i<A >n</A> <C 21_DILBEEK> dylbeke <C 204_MAKEN> make<A >n</A> <C 100_KOND> cont <C 320_AL> al <C 474_DE/HET> de<A >n</A> 
+<L 2325:30> <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettere<A >n</A> <C 214_ZULLEN> zele<A >n</A> <C 250_ZIEN> sien <C 801_OCHTE> ochte <C 250_HOREN> hore<A >n</A>, <C 810_DAT> dat <C 471_DE> de <C 1_MEESTERSE> mestersse <C 700_VAN> va<A >n</A> 
+<L 2325:31> <C 475_DE/HET> der <C 4_FERMERIE> fermerie<A >n</A> <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_WIJNGAARD> wie<A >n</A>gharde <C 213_HEBBEN> heft <C 273_KOPEN> ghecocht <C 501_WETTELIJK> wetteleke <C 800_EN> en<A >de</A> <C 501_WEL> wale 
+<L 2325:32> <C 700_JEGEN> jeghe<A >n</A> <C 21_ARNOUT> arro<A >n</A>de <C 22_WILHELM> willois <C 1_ZOON> sone <C 700_VAN> va<A >n</A> <C 21_OVERBEEK> ou<A >er</A>beke, <C 309_25> xxv <C 19_SOLIDUS> 't3s <C 502_JAARLIJKS> iarlix <C 700+251_TE+GELDEN> theghelde <C 700_TE> the 
+<L 2325:33> <C 101_SINT> sencte <C 1_BAAFSMIS> bamesse <C 501_ERFELIJK> herffleke, <C 415_ALZULK> alse+selker <C 4_MUNT> munte<A >n</A> <C 415_ALZULK> alse+zelker <C 821_ALS> alse <C 101_GENGE> ghi<A >n</A>ghe 
+<L 2325:34> <C 800_EN> en<A >de</A> <C 101_GAAF> gaue <C 210_ZIJN> es <C 700_IN> i<A >n</A> <C 20_BRABANT> braba<A >n</A>t <C 800_EN> en<A >de</A> <C 411_DIE> die <C 213_HEBBEN> heft <C 471_DE> de <C 101_VOORGENOEMD> vorgheno<A >m</A>de <C 20_ARNOUT> arront <VN type=1> <C 273_BEZETTEN> beset 
+<L 2325:35> <C 475_DE/HET> der <C 105_VOORGENOEMD> vorgheno<A >m</A>der <C 4_MEESTERSE> mestersse<A >n</A> <C 700_BIJ> bi <C 4_MANING> mani<A >n</A>ghe<A >n</A> <C 2+472_MEIER+DE> smeiers <C 22_ARNOUT> arro<A >n</A>ts <C 700_VAN> va<A >n</A> 
+<L 2325:36> <C 20_KRAAINEM> krayne<A >m</A> <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 1_WIJSDOM> wisdome <C 455_ZIJN> sire <C 14_SCHEPEN> scepene<A >n</A> <C 700_OP> op <C 450_ZIJN> sie<A >n</A> <C 0_HUIS> hues <C 800_EN> en<A >de</A> <C 700_OP> op <C 451_ZIJN> sine 
+<L 2325:37> <C 0_HOFSTEDE> hofstat, <C 480+300_EEN+HALF> i,+half <C 1_BUNDER> bonre <C 100_GROOT> groet <C 500_LUTTEL> lettel <C 320_MIN> me<A >n</A> <C 801_OCHTE> ochte <C 325_MEER> meer <C 421_DIE> die <C 203_LIGGEN> leiet <C 700_TE> the <C 21_DILBEEK> dylbeke 
+<L 2325:38> <C 800_EN> en<A >de</A> <C 700_IN> i<A >n</A> <C 4_MANIER> manire<A >n</A> <C 230_ZIJN> war <C 410_DAT> dat <C 410_DAT> dat <VN type=1> <C 1_ZAAK> zake <C 810_DAT> dat <C 475_DE/HET> der <C 105_VOORGENOEMD> vorgheno<A >m</A>der <C 4_MEESTERSE> mestersse<A >n</A> 
+<L 2325:39> <C 560_NIET> niet <C 274_VERGELDEN> v<A >er</A>goude<A >n</A> <C 560+234_NE+ZIJN> enware<A >n</A> <C 411_DIE> die <C 309_25> ,xxv. <C 19_SOLIDUS> 't3s <C 700+474_TE+DE> tie<A >n</A> <C 1_DAG> daghe <C 421_DIE> die <VN type=1> <C 274_VOORSPREKEN> vorghesproke<A >n</A> <C 210_ZIJN> es 
+<L 2325:40> <C 820_GELIJK-DAT> gheliec+dat <C 510_DAAR> dar <C 274_VOORSPREKEN> vorghesproke<A >n</A> <VN type=1> <C 210_ZIJN> es <C 500_DAN> dan <C 403+210_ZIJ+MOGEN> mochse <C 451_HAAR> here <C 1_HAND> hande <C 250_SLAAN> slaen <C 701_AAN> ane 
+<L 2325:41> <C 470_HET> dat <C 101_VOORGENOEMD> vorgheno<A >m</A>de <C 0_HUIS> hues <C 800_EN> en<A >de</A> <C 701_AAN> ane <C 471_DE> de <C 0_HOFSTEDE> hofstat <C 861_ALS> alse <C 701_AAN> ane <C 454_HAAR> here<A >n</A> <C 0_PAND> pant <C 800_EN> en<A >de</A> 
+<L 2325:42> <C 250_VROMEN> vrom<A >en</A> <C 800_EN> en<A >de</A> <C 250_ONTVROMEN> ontvrom<A >en</A> <C 810_TOT-DIE-MAAL-DAT> tote+die<A >n</A>+male+dat <C 403_ZIJ> here <C 500_WEL> wel <C 274_VERGELDEN> v<A >er</A>ghoude<A >n</A> <C 210_ZIJN> es <C 471_DE> die 
+<L 2325:43> <C 101_VOORGENOEMD> vorgheno<A >m</A>de <C 0_CIJNS> cheis <C 800_EN> en<A >de</A> <C 100_AL> al <C 451_HAAR> here <C 1_VERLETTENIS> v<A >er</A>lettenesse <C 421_DIE> die <C 403_ZIJ> here <C 610_DAARAF> dar+af <C 203_KOMEN> compt <C 471_DE> die 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2325:54> <C 274_VOORSPREKEN> vorghesprke<A >n</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 2326:1> <C 1_SUPERSCRIPTIE> sup<A >er</A>scripsie <VN type=1> <C 20_ARNOUT> arro<A >n</A>t <C 210_ZIJN> es <C 273_CONFIRMEREN> gheco<A >n</A>firmert <C 800_EN> En<A >de</A> <C 810_OMDAT-DAT> om+dat+dat <C 410_DIT> dit <C 100_WAAR> war <C 230_ZIJN> was 
+<L 2326:2> <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 260_BLIJVEN> bliue<A >n</A> <C 210_ZULLEN> sal <C 211_HEBBEN> hebbe <C 404_WIJ> wi, <C 14_SCHEPEN> scepene<A >n</A> <C 421_DIE> die 
+<L 2326:3> <C 500+273_VOOR+NOEMEN> vorgheno<A >m</A>t <C 214_ZIJN> sie<A >n</A> <C 454_ONS> onse<A >n</A> <C 0_ZEGEL> zeghel <C 274_HANGEN> gheha<A >n</A>ghe<A >n</A> <C 701_AAN> ane <C 411_DEZE> dese <C 101_JEGENWOORDIG> eghe<A >n</A>werdeghe 
+<L 2326:4> <C 4_LETTER> lettere<A >n</A>, <C 411_DEZE> Dese <C 14_LETTER> lettere<A >n</A> <C 234_ZIJN> ware<A >n</A> <C 273_MAKEN> ghemact <C 700_IN> i<A >n</A> <C 475_DE/HET> der <C 1_JAAR> jare <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 300_1296> ,M'ho,+cc'ho,+vi,+en<A >de</A>,+neghe<A >n</A>tech 
+<L 2326:5> <C 472+4_DE+ANDAG> sandaghe<A >n</A> <VN type=1> <C 700_NA> na <C 101_SINT> sencte <C 22_LUCAS> lux <C 0_DAG> dach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2326:51> <C 1_SUPERSCRIPTIE> sup<A >er</A>scrpsie 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='28' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

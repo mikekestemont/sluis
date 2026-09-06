@@ -1,0 +1,63 @@
+<header>
+<docId>0228</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 400:9> <C 20_JOHANNES> jan <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> porte <C 101_SINT> zinte 
+<L 400:10> <C 21*_CATHARINA--> k<A >ateline</A> <C 21#_-WEST> west.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> camerl<A >inx</A> <C 0_AMBACHT> amb<A >ocht</A>.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<C 700_VAN> va<A >n</A> 
+<L 400:11> <q> xiij <C 14_GEMET> ghemete<A >n</A> <q> xxv <C 14_ROEDE> roeden.- 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 271_LIGGEN> ligghe<A >n</A>de <C 700+471_IN+DE> jnde <C 1_PAROCHIE> prochie <C 700_VAN> van 
+<L 400:12> <C 101_SINT> sinte <q> kateline<A >n</A> <q> west. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 400:17> <C 404_WIJ> Wie <C 20_JOHANNES> jhan <C 20_KANIN> canin <C 1_RIDDER> ruddre.. <C 20_AEGIDIUS> Gillis <C 472+1_DE+HEER> ts<A >er</A>e <C 22_HUGO> hughes <C 1_ZOON> soene.. <C 20_JOHANNES> jhan <C 1_NIEUWMAAR> niemare.. 
+<L 400:18> <C 20_DIEDERIK> diederic <C 700_VAN> van <C 1_SCHORE> score.. <C 20_NICOLAAS> Clais <C 1+472_HEER+DE> ts<A >er</A>e <C 22_HUGO> hughes <C 1_ZOON> soene.. <C 21_HUGO> hughe <C 700_VAN> van <C 20_BOEIGEM> boyenghem.. 
+<L 400:19> <C 800_EN> ende <C 20_WOUBERT> woubrecht <C 22_BOUDEWIJN> boudens <C 1_ZOON> soene <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrihen <C 204_DOEN> doen <C 700_TE> te 
+<L 400:20> <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat 
+<L 400:21> <C 224_KOMEN> camen <C 700_VOOR> voer <C 404_WIJ> ons <C 20_JOHANNES> jhan <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> poerte <C 800_EN> ende <C 21_ELISABETH> lisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf. <C 800_EN> ende <C 20_JACOB> jacob 
+<L 400:22> <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> poerte <C 412_DIE> dies <C 22_JOHANNES> jhans <C 0_BROEDER> broeder <C 800_EN> ende <C 224_GEVEN> ghauen <C 101_WETTELIJK> wettelicke <C 1_GIFT> ghifte <C 21_ARNOUT> arnoude 
+<L 400:23> <C 21_BRANTIJN-X> Brantine <C 474_DE/HET> den <C 0_KLERK> clerc <C 700_VAN> van <C 301_13> dartiene <C 14_GEMET> jmeten <C 800_EN> ende <C 300_VIJFENTWINTIG> viue+ende+tvintich <C 14_ROEDE> roeden 
+<L 400:24> <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 500_LICHTELIJK> lichtelic <C 320_MEE> me <C 271_LIGGEN> ligghende <C 700_IN> jn <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 101_SINT> sinte 
+<L 400:25> <C 24*_CATHARINA--> katelinen <C 24#_-WEST> west. <C 700_BIJ> bi <C 485_EEN> ere <C 1_STAD> stede <C 421_DIE> die <C 440_MEN> men <C 203_HETEN> heet <C 21_HOENWERF> hoenwerue. <C 800_EN> Ende <C 406_ZIJ> sie <C 224+403_WEDDEN+HET> weddent 
+<L 400:26> <C 403_HIJ> hem <C 700_TE> te <C 251_WAREN> waerne <C 100_VRIJ> vri <C 0_LAND> lant <C 800_EN> ende <C 101_KWIJT> quite <C 0_LAND> land <C 0_WEG> wegh <C 800_EN> ende <C 0_LAND> lant <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter 
+<L 400:27> <C 0_SCHULD> scoud <C 700_TE> te <C 454_ZIJN> sinen <C 104_VRIJ> vrihen <C 1_EIGENDOM> eghindoeme. <C 800_EN> Ende <C 406_ZIJ> sie <C 224+403_HALMEN+HET> halmedens <C 466_HEN> hem <C 700_VAN> van <C 320_AL> al <C 414_DIE> dien 
+<L 400:28> <C 104_VOORZEID> voerseiden <C 1_LAND> lande <C 700_TE> te <C 4_WET> wetten.. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wie <C 14_SCHEPEN> scepenen <C 273_VOORZEGGEN> voerseit 
+<L 400:29> <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 11_STUK> sticke <C 214_BLIJVEN> bliuen <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 421_DIE> die <C 510_ALDUS> aldus <C 700_VOOR> voer <C 404_WIJ> ons 
+<L 400:30> <C 234_ZIJN> waren <C 274_DOEN> ghedaen <C 700_TE> te <C 4_WET> wetten <C 820+403_ALS+HET> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 400:31> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 111_UITHANGEND> vthanghende <C 700_IN> jn <C 4_KENNIS> kennessen <q> . <q> . <q> . <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 400:32> <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 451_ZIJN> sine <C 1_INCARNATIE> jncarnatie. <C 300_1200> tvelef+hondert 
+<L 400:33> <C 300_EN-78> ende+achte+ende+tseuentich <C 472+2_DE+VRIJDAG> tsvrinendaghes <C 700_NA> na <C 24_SINKSEN> sinxen <C 700_IN> jn <C 411_DIE> die <C 0_MAAND> maent <C 421_DIE> die 
+<L 400:34> <C 440_MEN> men <C 203_HETEN> heet <C 20_WEIDEMAAND> woedemaent. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

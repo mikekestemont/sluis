@@ -1,0 +1,1022 @@
+{
+  "model_id": "vit_small@c3429da4+step32016",
+  "checkpoint": "runs/sluis_leroy_ssl_sauvola/checkpoint_epoch0015.pth",
+  "embeddings": "/home/ubuntu/mole/outputs/sluis/leroy.all.sauvola.ssl.e15.npy",
+  "n": 1310,
+  "vlad": "transductive-all-pages (Büdingen in codebook)",
+  "metric": "cosine",
+  "note": "Codebook fit on 1304 gallery + 6 extras (332o kept). full = hold out the query page only. hold-Büdingen = also drop Büdingen1r and Büdingen1v.",
+  "queries": [
+    {
+      "query": "Büdingen1r",
+      "n_full": 1309,
+      "n_hold_budingen": 1308,
+      "nn_full": "Büdingen1v",
+      "nn_full_score": 0.7558133021462198,
+      "nn_hold": "332o",
+      "nn_hold_score": 0.42948722404168554,
+      "watched_full": {
+        "332o": {
+          "rank": 2,
+          "score": 0.42948722404168554
+        },
+        "RA-800r": {
+          "rank": 29,
+          "score": 0.23274451934537968
+        },
+        "Genois-1327a": {
+          "rank": 61,
+          "score": 0.18473491851136437
+        },
+        "Genois-1327b": {
+          "rank": 16,
+          "score": 0.2718605115749723
+        },
+        "Genois-1327c": {
+          "rank": 3,
+          "score": 0.39253001221774153
+        }
+      },
+      "watched_hold": {
+        "332o": {
+          "rank": 1,
+          "score": 0.42948722404168554
+        },
+        "RA-800r": {
+          "rank": 28,
+          "score": 0.23274451934537968
+        },
+        "Genois-1327a": {
+          "rank": 60,
+          "score": 0.18473491851136437
+        },
+        "Genois-1327b": {
+          "rank": 15,
+          "score": 0.2718605115749723
+        },
+        "Genois-1327c": {
+          "rank": 2,
+          "score": 0.39253001221774153
+        }
+      },
+      "top_full": [
+        {
+          "rank": 1,
+          "stem": "Büdingen1v",
+          "score": 0.7558133021462198,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 2,
+          "stem": "332o",
+          "score": 0.42948722404168554,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 3,
+          "stem": "Genois-1327c",
+          "score": 0.39253001221774153,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 4,
+          "stem": "1358o",
+          "score": 0.34093605890125434,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 5,
+          "stem": "198o",
+          "score": 0.3241046027434125,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "24o",
+          "score": 0.3180227486194988,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "659o",
+          "score": 0.31720006899675834,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 8,
+          "stem": "355o",
+          "score": 0.313553165553089,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 9,
+          "stem": "222o",
+          "score": 0.30290198564215887,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 10,
+          "stem": "23o",
+          "score": 0.29544079920599337,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "560o",
+          "score": 0.2886157855872272,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 12,
+          "stem": "650o",
+          "score": 0.2876673818296049,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 13,
+          "stem": "1089o",
+          "score": 0.2856619502510641,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 14,
+          "stem": "802o",
+          "score": 0.27474647185261775,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "34o",
+          "score": 0.27450993080165687,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 16,
+          "stem": "Genois-1327b",
+          "score": 0.2718605115749723,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 17,
+          "stem": "404o",
+          "score": 0.2602585022350945,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 18,
+          "stem": "775o",
+          "score": 0.258988197897926,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "104o",
+          "score": 0.25895521875277927,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 20,
+          "stem": "868o",
+          "score": 0.2552574054574189,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ],
+      "top_hold": [
+        {
+          "rank": 1,
+          "stem": "332o",
+          "score": 0.42948722404168554,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 2,
+          "stem": "Genois-1327c",
+          "score": 0.39253001221774153,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 3,
+          "stem": "1358o",
+          "score": 0.34093605890125434,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 4,
+          "stem": "198o",
+          "score": 0.3241046027434125,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 5,
+          "stem": "24o",
+          "score": 0.3180227486194988,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "659o",
+          "score": 0.31720006899675834,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "355o",
+          "score": 0.313553165553089,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 8,
+          "stem": "222o",
+          "score": 0.30290198564215887,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 9,
+          "stem": "23o",
+          "score": 0.29544079920599337,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 10,
+          "stem": "560o",
+          "score": 0.2886157855872272,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "650o",
+          "score": 0.2876673818296049,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 12,
+          "stem": "1089o",
+          "score": 0.2856619502510641,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 13,
+          "stem": "802o",
+          "score": 0.27474647185261775,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 14,
+          "stem": "34o",
+          "score": 0.27450993080165687,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "Genois-1327b",
+          "score": 0.2718605115749723,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 16,
+          "stem": "404o",
+          "score": 0.2602585022350945,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 17,
+          "stem": "775o",
+          "score": 0.258988197897926,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 18,
+          "stem": "104o",
+          "score": 0.25895521875277927,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "868o",
+          "score": 0.2552574054574189,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 20,
+          "stem": "93o",
+          "score": 0.24929619608070594,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ]
+    },
+    {
+      "query": "Büdingen1v",
+      "n_full": 1309,
+      "n_hold_budingen": 1308,
+      "nn_full": "Büdingen1r",
+      "nn_full_score": 0.7558133021462198,
+      "nn_hold": "332o",
+      "nn_hold_score": 0.44930802323179675,
+      "watched_full": {
+        "332o": {
+          "rank": 2,
+          "score": 0.44930802323179675
+        },
+        "RA-800r": {
+          "rank": 13,
+          "score": 0.2807325579128346
+        },
+        "Genois-1327a": {
+          "rank": 24,
+          "score": 0.23829333181697504
+        },
+        "Genois-1327b": {
+          "rank": 8,
+          "score": 0.30866056291574623
+        },
+        "Genois-1327c": {
+          "rank": 3,
+          "score": 0.3790069330160452
+        }
+      },
+      "watched_hold": {
+        "332o": {
+          "rank": 1,
+          "score": 0.44930802323179675
+        },
+        "RA-800r": {
+          "rank": 12,
+          "score": 0.2807325579128346
+        },
+        "Genois-1327a": {
+          "rank": 23,
+          "score": 0.23829333181697504
+        },
+        "Genois-1327b": {
+          "rank": 7,
+          "score": 0.30866056291574623
+        },
+        "Genois-1327c": {
+          "rank": 2,
+          "score": 0.3790069330160452
+        }
+      },
+      "top_full": [
+        {
+          "rank": 1,
+          "stem": "Büdingen1r",
+          "score": 0.7558133021462198,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 2,
+          "stem": "332o",
+          "score": 0.44930802323179675,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 3,
+          "stem": "Genois-1327c",
+          "score": 0.3790069330160452,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 4,
+          "stem": "355o",
+          "score": 0.33655742707807745,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 5,
+          "stem": "198o",
+          "score": 0.32922620444386463,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "659o",
+          "score": 0.3251125693981193,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "1358o",
+          "score": 0.3239262375486913,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 8,
+          "stem": "Genois-1327b",
+          "score": 0.30866056291574623,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 9,
+          "stem": "802o",
+          "score": 0.29479545647796995,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 10,
+          "stem": "650o",
+          "score": 0.29413612234497966,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "24o",
+          "score": 0.29134771669714843,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 12,
+          "stem": "560o",
+          "score": 0.28918405151117643,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 13,
+          "stem": "RA-800r",
+          "score": 0.2807325579128346,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 14,
+          "stem": "34o",
+          "score": 0.2784600548861739,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "404o",
+          "score": 0.27042647990569085,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 16,
+          "stem": "1179o",
+          "score": 0.26624398792110315,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 17,
+          "stem": "1178o",
+          "score": 0.26573768162117406,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 18,
+          "stem": "209o",
+          "score": 0.2591436925052839,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "64o",
+          "score": 0.25361034747258004,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 20,
+          "stem": "104o",
+          "score": 0.2515445618493868,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ],
+      "top_hold": [
+        {
+          "rank": 1,
+          "stem": "332o",
+          "score": 0.44930802323179675,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 2,
+          "stem": "Genois-1327c",
+          "score": 0.3790069330160452,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 3,
+          "stem": "355o",
+          "score": 0.33655742707807745,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 4,
+          "stem": "198o",
+          "score": 0.32922620444386463,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 5,
+          "stem": "659o",
+          "score": 0.3251125693981193,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "1358o",
+          "score": 0.3239262375486913,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "Genois-1327b",
+          "score": 0.30866056291574623,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 8,
+          "stem": "802o",
+          "score": 0.29479545647796995,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 9,
+          "stem": "650o",
+          "score": 0.29413612234497966,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 10,
+          "stem": "24o",
+          "score": 0.29134771669714843,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "560o",
+          "score": 0.28918405151117643,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 12,
+          "stem": "RA-800r",
+          "score": 0.2807325579128346,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 13,
+          "stem": "34o",
+          "score": 0.2784600548861739,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 14,
+          "stem": "404o",
+          "score": 0.27042647990569085,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "1179o",
+          "score": 0.26624398792110315,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 16,
+          "stem": "1178o",
+          "score": 0.26573768162117406,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 17,
+          "stem": "209o",
+          "score": 0.2591436925052839,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 18,
+          "stem": "64o",
+          "score": 0.25361034747258004,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "104o",
+          "score": 0.2515445618493868,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 20,
+          "stem": "1270o",
+          "score": 0.2481675882981568,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ]
+    },
+    {
+      "query": "Büdingen_avg",
+      "n_full": 1310,
+      "n_hold_budingen": 1308,
+      "nn_full": "Büdingen1r",
+      "nn_full_score": 0.9369667289040257,
+      "nn_hold": "332o",
+      "nn_hold_score": 0.46895755215418017,
+      "watched_full": {
+        "332o": {
+          "rank": 3,
+          "score": 0.46895755215418017
+        },
+        "RA-800r": {
+          "rank": 19,
+          "score": 0.27401030443142343
+        },
+        "Genois-1327a": {
+          "rank": 40,
+          "score": 0.22574347481001678
+        },
+        "Genois-1327b": {
+          "rank": 11,
+          "score": 0.3097874538030591
+        },
+        "Genois-1327c": {
+          "rank": 4,
+          "score": 0.41172056671438967
+        }
+      },
+      "watched_hold": {
+        "332o": {
+          "rank": 1,
+          "score": 0.46895755215418017
+        },
+        "RA-800r": {
+          "rank": 17,
+          "score": 0.27401030443142343
+        },
+        "Genois-1327a": {
+          "rank": 38,
+          "score": 0.22574347481001678
+        },
+        "Genois-1327b": {
+          "rank": 9,
+          "score": 0.3097874538030591
+        },
+        "Genois-1327c": {
+          "rank": 2,
+          "score": 0.41172056671438967
+        }
+      },
+      "top_full": [
+        {
+          "rank": 1,
+          "stem": "Büdingen1r",
+          "score": 0.9369667289040257,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 2,
+          "stem": "Büdingen1v",
+          "score": 0.9369667289040255,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 3,
+          "stem": "332o",
+          "score": 0.46895755215418017,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 4,
+          "stem": "Genois-1327c",
+          "score": 0.41172056671438967,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 5,
+          "stem": "1358o",
+          "score": 0.3547950401758865,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "198o",
+          "score": 0.34864141224709294,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "355o",
+          "score": 0.3469229870048875,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 8,
+          "stem": "659o",
+          "score": 0.3427617110514658,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 9,
+          "stem": "24o",
+          "score": 0.3251825526555413,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 10,
+          "stem": "650o",
+          "score": 0.3104718055758089,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "Genois-1327b",
+          "score": 0.3097874538030591,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 12,
+          "stem": "560o",
+          "score": 0.3083353011767338,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 13,
+          "stem": "802o",
+          "score": 0.3039285765230872,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 14,
+          "stem": "34o",
+          "score": 0.2950851767888506,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "222o",
+          "score": 0.284243458673549,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 16,
+          "stem": "404o",
+          "score": 0.2831930770698389,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 17,
+          "stem": "23o",
+          "score": 0.28115583731797944,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 18,
+          "stem": "1089o",
+          "score": 0.28076501506120266,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "RA-800r",
+          "score": 0.27401030443142343,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 20,
+          "stem": "1178o",
+          "score": 0.2735412550315772,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ],
+      "top_hold": [
+        {
+          "rank": 1,
+          "stem": "332o",
+          "score": 0.46895755215418017,
+          "is_332o": true,
+          "is_extra": false
+        },
+        {
+          "rank": 2,
+          "stem": "Genois-1327c",
+          "score": 0.41172056671438967,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 3,
+          "stem": "1358o",
+          "score": 0.3547950401758865,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 4,
+          "stem": "198o",
+          "score": 0.34864141224709294,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 5,
+          "stem": "355o",
+          "score": 0.3469229870048875,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 6,
+          "stem": "659o",
+          "score": 0.3427617110514658,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 7,
+          "stem": "24o",
+          "score": 0.3251825526555413,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 8,
+          "stem": "650o",
+          "score": 0.3104718055758089,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 9,
+          "stem": "Genois-1327b",
+          "score": 0.3097874538030591,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 10,
+          "stem": "560o",
+          "score": 0.3083353011767338,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 11,
+          "stem": "802o",
+          "score": 0.3039285765230872,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 12,
+          "stem": "34o",
+          "score": 0.2950851767888506,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 13,
+          "stem": "222o",
+          "score": 0.284243458673549,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 14,
+          "stem": "404o",
+          "score": 0.2831930770698389,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 15,
+          "stem": "23o",
+          "score": 0.28115583731797944,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 16,
+          "stem": "1089o",
+          "score": 0.28076501506120266,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 17,
+          "stem": "RA-800r",
+          "score": 0.27401030443142343,
+          "is_332o": false,
+          "is_extra": true
+        },
+        {
+          "rank": 18,
+          "stem": "1178o",
+          "score": 0.2735412550315772,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 19,
+          "stem": "104o",
+          "score": 0.272421509139017,
+          "is_332o": false,
+          "is_extra": false
+        },
+        {
+          "rank": 20,
+          "stem": "1179o",
+          "score": 0.270187464538413,
+          "is_332o": false,
+          "is_extra": false
+        }
+      ]
+    }
+  ]
+}

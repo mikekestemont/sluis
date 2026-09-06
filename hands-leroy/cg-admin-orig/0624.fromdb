@@ -1,0 +1,22 @@
+<header>
+<docId>0624</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1056:11> <q> .. <C 1_LETTER> Lettere <C 472_DE/HET> des <C 4_HEER> here<A >n</A> <C 700_VAN> van 
+<L 1056:12> <C 20_AMSTEL> amestel <C 700_VAN> van <C 300_2000> tuen+dusentich <C 14_POND> ponden <C 110_HOLLANDS> holl<A >ants</A> <C 421_DIE> die <C 403_HIJ> hi <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> van 
+<L 1056:13> <C 20_HOLLAND> holl<A >ant</A> <C 100_SCHULDIG> sculdich <C 210_ZIJN> es. <C 620*_DAAR-> dar <C 411_DEZE> dese <C 11_LIEDEN> lude <C 11_BORG> borge <C 620#_-AF> of <C 214_ZIJN> sijn. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

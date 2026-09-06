@@ -1,0 +1,53 @@
+<header>
+<docId>0103</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 191:9> <q> de <q> domo <q> & <q> officio <q> de <C 20_KATS> cats.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 191:10> <C 700_TE> Te <q> boeke <q> gescr<A >euen</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<datering  jaar_tot='1271' jaar_van='1271' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 191:16> <C 401_IK> Jc <C 20_FLORENTIUS> Flore<A >n</A>s <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 201_MAKEN> make <C 100_KOND> cund <VN type=1> <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> genen <C 421_DIE> die <C 411_DEZE> dese 
+<L 191:17> <C 4_LETTER> lett<A >er</A>en <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> horen <C 810_DAT> dat <C 401_IK> mi <C 20_NICOLAAS> clais <C 700_VAN> van <C 20_KATS> kats <C 220_GEVEN> ghaf <C 450_ZIJN> sin <C 0_HUIS> hus <C 700_TE> te <C 20_KATS> kats 
+<L 191:18> <C 800_EN> ende <C 450_ZIJN> sin <C 1_HOVING> houi<A >n</A>ge <C 800_EN> ende <C 471_DE> die <C 14_HOFSTEDE> hofsteden <C 421+601_DIE+EROM> diero<A >m</A>me <C 204_LIGGEN> liggen <C 800_EN> ende <C 471_DE> die <C 0_HELFT> helt 
+<L 191:19> <C 700_VAN> van <C 320_AL> al <C 474_DE> dien <C 14_HOFSTEDE> hofsteden <C 700_VAN> van <C 414_DIE> dien <C 421_DIE> die <C 700_AAN> an <C 471_DE> die <C 1_NOORDZIJDE> nort+side <C 204_LIGGEN> liggen <C 700+20_VAN+KATS> va<A >n</A>kats <C 309_EEN> .i. 
+<L 191:20> <C 1_STUK> sticke <C 2_LAND> lants <C 420_DAT> dat <C 440_MEN> men <C 203_HETEN> het <C 470+0_HET+MAT> tmat <C 800_EN> ende <C 489_EEN> .i. <C 100_ANDER> ander <C 213_HETEN> het <C 0+470_MOERTJE+HET> tmorkin <C 800_EN> ende <C 500_NOCH> noch <C 300_EEN> .i. 
+<L 191:21> <C 213_HETEN> het <C 471_DE> die <C 1_HOFSTEDE> hofstede <C 800_EN> ende <q> . <C 481+1_EEN+MOLE> inemole <VN type=1> <C 610_DAAROP> der+op <C 271_STAAN> stande <C 800_EN> ende <C 309_TIEN> .x. <C 11_GEMET> ghe+mete <C 2_LAND> lants 
+<L 191:22> <C 471+700_DE+AAN> andie <C 1_NOORDZIJDE> nort+side <C 700_VAN> van <C 474_DE/HET> den <C 11_STEENWEG> stien+weghe <C 421_DIE> die <C 22_HENDRIK> heinriccs <C 700_VAN> van <C 20_KATS> kats <C 234_ZIJN> waren <C 800_EN> ende 
+<L 191:23> <C 309_400> .iiii.+.c. <C 11_GEMET> ghe+mete <C 2_AMBACHT> ambachts <C 500_NOORDWAART> nortwart <C 700_VAN> van <C 20_KATS> kats <C 420_DAT> dat <C 504_TEVOREN> te+voren <C 450_ZIJN> sin <C 0_LEEN> lien <C 230_ZIJN> was <C 410_DIT> dit 
+<L 191:24> <C 101_VOORGENOEMD> vor+ghe+nomde <C 0_HUIS> hus <C 800_EN> ende <C 1_ERF> erue <C 800_EN> ende <C 0_AMBACHT> ambacht <C 410_DAT> dat <C 210+401_HEBBEN+IK> hebic <C 21_NICOLAAS> claise <C 700_VAN> van <C 20_KATS> kats 
+<L 191:25> <C 274*_WEDER-> weder <C 274#_-GEVEN> ghegheuen <C 700_VAN> van <C 401_IK> mi <C 700_TE> te <C 104_RECHT> rechten <C 1_LEEN> lienne <C 100_SCHOTVRIJ> scot+vri <C 700_VAN> van <C 324_AL> allen <C 1_SCHOT> scote <C 800_EN> ende 
+<L 191:26> <C 510_ALZO> also <C 810+403_DAT+HET> dat <VN type=1> <C 500_IMMERMEER> emmer+mier <C 250_BLIJVEN> bliuen <C 210_ZULLEN> sal <C 700_OP> op <C 450_ZIJN> sin <C 14_ERFNAAM> erf+namen <C 474+700_DE/HET+OP> opten <C 104_OUD> ousten <C 1_ZOON> sonne 
+<L 191:27> <C 300+500+810_EEN+ER+DAAR> darrien <C 200_ZIJN> es <C 500+800+520_ER+EN+DAAR> endarre <C 440_GEEN> ghien <C 560+200_NE+ZIJN> ennes <C 510_DAAR> dar <C 210+403_ZULLEN+HET> salt <C 250_BLIJVEN> bliven <C 700_OP> op <C 471_DE> die <C 101_OUD> ouste <C 0_DOCHTER> dochter <C 800_EN> ende 
+<L 191:28> <C 500+200_ER+ZIJN> esser <C 440_GEEN> gien <C 0_KIND> kint <C 550_ZO> so <C 403+210_HET+ZULLEN> salt <C 250_BLIJVEN> bliuen <C 700_OP> op <C 474_DE/HET> den <C 104_OUD> ousten <C 800_EN> ende <C 700_OP> op <C 474_DE/HET> den <C 104_NAAST> nasten <C 700_VAN> van <C 474_DE/HET> den 
+<L 191:29> <C 0_VADER> vader <C 810_OMDAT> omme+dat <C 401_IK> ic <C 201_WILLEN> wille <C 810_DAT> dat <C 410_DIT> dit <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 800+410+403_EN+DAT+HET> endat <C 440_NIEMAND> niemen 
+<L 191:30> <C 560_NE> ne <C 201_BREKEN> breke <C 421_DIE> die <C 700_NA> na <C 401_IK> mi <C 203_KOMEN> comt <C 550_ZO> so <C 210_HEBBEN> heb <C 403+401_HET+IK> ict <C 260_DOEN> don <C 250_ZEGELEN> seghelen <C 700_MET> met <C 454_MIJN> minnen <C 1_ZEGEL> seghele 
+<L 191:31> <C 800_EN> ende <C 211_HEBBEN> hebe <C 274_BIDDEN> ghe+beden <C 474_DE/HET> den <C 1_HEER> hiere <C 700_VAN> van <C 21_VOORNE> vorne <C 414+800_DIE+EN> entien <C 1_HEER> hiere <C 21+700_TEILINGEN+VAN> vanteilinge <C 810_DAT> dat 
+<L 191:32> <C 403+406_HET+ZIJ> sit <C 273_ZEGELEN> geseghelt <C 214_HEBBEN> heben <C 700+251_TE+OORKONDEN> tor+condene <C 251+403+810+700_DOEN+HET+OF+TE> iofstedonne <C 221_ZIJN> ware <C 410_DIT> dit <C 221_GESCHIEDEN> ghe+sciede <C 700_TE> te 
+<L 191:33> <C 21_ZIERIKZEE> siericsie <C 700_IN> in <C 24_SCHOUWEN> scouden <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 309_1271> .m'ho.+.cc'ho.+lxxi <C 700_IN> in <C 1_MEIDAG> meie+daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1271' jaar_van='1271' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

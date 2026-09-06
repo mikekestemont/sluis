@@ -1,0 +1,37 @@
+<header>
+<docId>1352</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2100:9> <C 20_DORDRECHT> D<A >ur</A>d<A >recht</A>.- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<statushand  statushandkode='an'>
+
+<L 2100:14> <C 21_HUGO> Hughe <C 471_DE> die <C 1_ZANGER> sanghere <C 800_EN> ende <C 20_WOUTER> wouterkin <C 471_DE> die <C 1_ZANGER> zanghere <C 224_GEVEN> gauen <C 1_HALM> halme <C 800_EN> en<A >de</A> 
+<L 2100:15> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 21_DIEDERIK> Diederike <C 700+474_UIT+DE/HET> vten <C 14_ROOS> rosen <C 700_TE> te <C 472+0_DE+HEER> ser <C 22_JOHANNES> jans <C 0_BEHOEF> boef <C 700_VAN> van <C 20_DORDRECHT> Durdrecht <C 700_VAN> van 
+<L 2100:16> <C 300+480_HALF+EEN> enen+aluen <C 1_GEMET> ymete <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 700_VAN> van <C 300_20> tvintich <C 14_ROEDE> roeden <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MEE> me <C 800_OF> jof <C 320_MIN> min 
+<L 2100:17> <C 271_LIGGEN> ligghende <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 800_EN> en<A >de</A> <C 475+700_DE+BINNEN> binder <C 1_PAROCHIE> prochie <C 700_VAN> van <C 101_SINT> sinte <C 2_KRUIS> crues <C 700_OP> vp 
+<L 2100:18> <C 472+2_HET+PROOST> sproefs <C 800_EN> ende <C 700_IN> jn <C 4_STAD> steden <C 704_BACHTEN> bachten <C 22_WILHELM> willems <C 2_BOK> bucs <C 1_WONING> woninghe <C 471+700_DE+OP> vpte <C 1_REIE> reye, <C 800_EN> Ende 
+<L 2100:19> <C 406_ZIJ> sie <C 224+403_WEDDEN+HET> weddents <C 403_HIJ> hem <C 700_TE> te <C 0+472_HEER+DE> s<A >er</A> <C 22_JOHANNES> jans <C 0_BEHOEF> boef <C 700_VAN> va<A >n</A> <C 20_DORDRECHT> Durdrecht <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne 
+<L 2100:20> <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> land <C 101_KWIJT> quite <C 0_LAND> land <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0+2+472_SCHULD+PROOST+DE> sproefs+scult <C 700_TE> te <C 472+0_DE+HEER> ser <C 22_JOHANNES> jans <C 104_VRIJ> vrien 
+<L 2100:21> <C 1_EIGENDOM> Eghijndome <C 100_VOORZEID> vorseit <C 704_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche. <C 410_DIT> Dit <C 204_KENNEN> kennen <C 12_REDENAAR> Redenars <C 700_OP> vp 
+<L 2100:22> <C 2+472_PROOST+HET> sproefs. <C 20_AEGIDIUS> Gillis <q> f <C 22_GOSWIJN> gosins <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <q> f <C 22_WILHELM> willems <q> f <C 472+0_DE+HEER> ser <C 22_ROBERT> robins. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 2100:23> <C 2+472_ZATERDAG+DE> tsaterdaghes <C 700_NAAR> Naer <C 475_DE/HET> der <C 105_GROOT> groter <C 105_HEILIG> helegher <C 4_KRUIS> crucen <C 1_DAG> daghe. <q> anno <q> domini <q> .m'ho. 
+<L 2100:24> <q> cc'ho. <q> Nonagesimo. <q> quarto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

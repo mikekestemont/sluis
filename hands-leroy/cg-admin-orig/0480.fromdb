@@ -1,0 +1,37 @@
+<header>
+<docId>0480</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 719:8> <C 21_SPERMALIE> sp<A >ar</A>maelge <q> de <q> terra <C 29_DIEDERIK> dierkini <q> de <C 9_MOER> moro <q> eind-o <q> onzeker.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 719:9> <q> videlicet <q> .vii. <q> mensuras. <q> quas <q> emit <q> will<A >elmu</A>s <C 29_CALLIAU-X> caeliau <C 700_IN> jn 
+<L 719:10> <C 21_HEILE> heyle.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+<C 21_HEILE> Heile. <q> anno <q> .m'ho.cc'ho.lxxxiij'ho.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 700+471_IN+DE> jnde <C 1_PAROCHIE> prochie 
+<L 719:11> <C 700_VAN> van <C 21_HEILE> heyle <C 700_IN> jn <q> ramspolre. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

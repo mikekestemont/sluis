@@ -1,0 +1,38 @@
+<header>
+<docId>1798f</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2677:12> <q> 't% <C 1_LETTER> Lett<A >er</A>e <C 475_DE/HET> der <C 10_SCHEPEN> scepen <C 700_VAN> van <C 20_DORDRECHT> dordr<A >echt</A> <C 810_DAT> dat <C 406_ZIJ> si <C 204_OORKONDEN> orkonden. <C 810_DAT> dat <C 480_EEN> een <C 0_KAPELAAN> cappellaen 
+<L 2677:13> <C 220_ONTVANGEN> ontfinc <C 700_VAN> v[an] <C 475_DE/HET> [der] <C 4_VROUW> v[rouwen] <q> [weghen] <C 700_VAN> [van] <C 20_BRANDENBURG> [branden]borch. <C 300_200> tueehondert 
+<L 2677:14> <C 10_POND> pont. <C 300_22> tueentuintich <C 11_SCHELLING> scellinghe <C 320_MIN> min. <C 304_EEN> eene<A >n</A> <C 0_SIZEIN> [s]isei[n] <C 700_OVER> [ouer] <q> [vier] 
+<L 2677:15> <C 11_PENNING> [penninghe] 
+<L 2677:16> <C 404_WIJ> Wi <C 20_GIJSBERT> Ghisebrecht <C 24+0_WIJFGOED+VROUW> verwijfghoeden <C 1_ZOON> soene. <C 800_EN> ende <C 20_HENDRIK> heinric <C 4_HEER> haren <C 22_ADELHARD> alarts <C 1_ZOON> soene 
+<L 2677:17> <C 204_OORKONDEN> orkonden <C 800_EN> [ende] <C 204_KENNEN> [kennen] <C 810_DAT> [dat] <q> [voer] <C 404_WIJ> [ons] <C 220_KOMEN> [quam] <C 0_HEER> haer <C 20_MARTIN> martijn <C 0_KAPELAAN> cappellaen 
+<L 2677:18> <C 455_MIJN> mire <C 4_VROUW> vrouwen <C 700_VAN> van <C 20_BRANDENBURG> brandenborch. <C 800_EN> en<A >de</A> <C 221_VERGIEN> verghiede <C 810_DAT> dat <C 403_HIJ> hi <C 274_ONTVANGEN> ontf[anghen] 
+<L 2677:19> <q> [heuet] <C 841_ALS> [alse] <C 700_VAN> [van] <C 455_ZIJN> [sire] <C 4_VROUW> vrouwen <C 1_WEG> weghe <C 700_VAN> van <C 20_BRANDENBURG> brandenborch <C 309_200> .cc. <C 19_LIBRA> lib. <C 309_22> .xxij. <C 19_SOLIDUS> 't3s 
+<L 2677:20> <C 320_MIN> m[in] <C 112_HOLLANDS> holl<A >ants</A> <C 700_IN> in <C 1_PAAIMENT> payme<A >n</A>te <C 304_EEN> eene<A >n</A> <C 0_SIZEIN> syse[in] <q> [voer] <C 300_4> vier <C 11_PENNING> pen[ninghe] <C 800_EN> [ende] 
+<L 2677:21> <C 411_DEZE> [dese] <C 11_PENNING> pe<A >n</A>ni<A >n</A>ghe <C 220_ONTVANGEN> ontfinc <C 403_HIJ> hi <C 472_DE/HET> des <C 2_DONDERDAG> donredaghes <C 700_VOOR> voer <C 101_SINT> sente <C 22_LUCAS> lucas <C 1_DAG> daghe <C 700_IN> Jn 
+<L 2677:22> <C 1_OORKONDE> orkonde <C 414_DEZE> desen <C 1_BRIEF> b[rieue] <C 274_GEVEN> Ghegheue<A >n</A> <VN type=1> <C 700+470_IN+HET> jnt <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> he<A >er</A>en <C 309_1299> .M.+cc.+xcix. 
+<L 2677:23> <C 700_OP> up <C 474_DE> dien <C 104_VOORGENOEMD> voerghenoemden <C 0_DAG> dach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+<statushand  statushandkode='an'>
+
+<L 2677:51> <C 472_DE/HET> des <C 2_DONDERDAG> donred[aghes] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

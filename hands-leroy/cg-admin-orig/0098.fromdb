@@ -1,0 +1,42 @@
+<header>
+<docId>0098</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 187:9> <C 20_JOHANNES> jan <C 471_DE> die <C 0_VOS> vos <C 700_IN> hin <C 21_DUDZELE> dudzele.- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 187:15> <C 450_MIJN> Min <C 0_HEER> her <C 20_RIJKWARD> Riquard <C 700_VAN> van <C 4_STRATEN> straten <C 1_RIDDER> Ruddre. <C 20_GERARD> Gherard <C 471_DE> die <C 0_MOOR> moor. <C 20_JOHANNES> Jhan <C 700_VAN> van 
+<L 187:16> <C 20_KLEIEM> Cleyhem <C 20_DIEDERIK> Diedric <C 471_DE> die <C 0_VOS> vos. <C 20_AEGIDIUS> Gillis <q> .f. <C 22_DIEDERIK> Diederics. <C 20_REINWARD> Reinuerd <C 20_PORIJN-X> porin <C 800_EN> en 
+<L 187:17> <C 21_BOUDEWIJN> Boudene <q> .f. <C 22_ADELHARD> alards <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen <C 251+700_VERSTAAN+TE> teverstane <C 406_ZIJ> hem <C 324_AL> allen 
+<L 187:18> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> letteren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> ende <C 250_HOREN> horen <C 810_DAT> dat <C 224_KOMEN> quamen <C 700_VOOR> vor <C 404_WIJ> ons <C 20_JOHANNES> Jhan <C 471_DE> die 
+<L 187:19> <C 0_VOS> vos <C 800_EN> ende <C 21_LUCIA> lucie <C 450_ZIJN> sin <C 0_WIJF> wijf. <C 21_ELISABETH> Lizebette <q> .f. <C 24_LUCIA> lucien <C 800_EN> ende <C 20_JOHANNES> Jhan <q> .f. <C 22_WOUTER> weitins <C 700+475_UIT+DE> vter 
+<L 187:20> <C 0_MEET> meet <C 450_HAAR> haer <C 0_MAN> man. <C 21_MARGARETA> margriete <q> .f <C 24_LUCIA> lucien <C 800_EN> en<A >de</A> <C 20_LAMBERT> Lammin <q> .f. <C 22_WOUTER> weitins <C 475+700_DE+UIT> vter <C 0_MEET> meet 
+<L 187:21> <C 450_HAAR> haer <C 0_MAN> man <C 800_EN> ende <C 224_GEVEN> gauen <C 0_HALM> halm <C 800_EN> ende <C 1_GIFT> ghichte <C 501_WETTELIJK> wettelike <C 700_VOOR> vor <C 404_WIJ> ons <C 0_MEESTER> meester 
+<L 187:22> <C 21_PETRUS> Pietre <C 21_NICOLAAS> culine <C 474_DE/HET> den <C 1_PAAP> pape <C 700_VAN> van <C 100_SINT> sint <C 2_KRUIS> Cruus <C 700_VAN> van <C 304_2> tueen <C 14_GEMET> jmeten <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min 
+<L 187:23> <C 800_OF> of <C 500_LUTTEL> lettel <C 320_MEE> me <C 420_DAT> dat <C 203_LIGGEN> leght <C 701_BINNEN> binne <C 475_DE/HET> der <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_DUDZELE> Dudzele <C 700_IN> in <C 481_EEN> ene <C 1_JEGENOOD> Jeghenode 
+<L 187:24> <C 213_HETEN> heet <C 471_DE> die <C 1_VAAN> vane <C 800_EN> ende <C 403+224_HET+GELOVEN> ghelouedens <C 403_HIJ> hem <C 1+700_WET+TE> tewette <C 700+251_TE+WAREN> tewarne <C 704_JEGEN> ieghen <C 324_ELK> elken 
+<L 187:25> <C 1_MENS> mensce. <C 700_IN> Jn <C 4_OORKONDSCHAP> orecontscepen <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dinghen <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide 
+<L 187:26> <C 14_SCHEPEN> scepenen <C 411_DEZE> dese <C 4_LETTER> lettren <C 101_UITHANGEND> vthanghende <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen. <C 410_DIT> Dit 
+<L 187:27> <C 230_ZIJN> was <C 700_VOOR> vor <C 404_WIJ> ons <C 274_DOEN> ghedaen <C 700_IN> jn <C 471_DE> die <C 0_BURG> burgh <C 810_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 452_ONS> ons <C 4_HEER> hern <C 0_INCARNATIOEN> jncarnation 
+<L 187:28> <C 319_1270> .m'ho.cc'ho.lxx'ho. <C 472_DE/HET> des <C 2_VRIJDAG> vriendaeghs <C 700_VOOR> vor <C 101_SINT> sinte <C 22_LUCAS> lucs <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

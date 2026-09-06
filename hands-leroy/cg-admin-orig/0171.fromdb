@@ -1,0 +1,34 @@
+<header>
+<docId>0171</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1275' jaar_van='1251' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 291:40> <C 701_TOT> Tote <C 485_EEN> ere <C 105_GOED> goeder <C 4_VROUW> vrouwen <C 800_EN> en<A >de</A> <C 485_EEN> ere <C 105_VROED> vroeder <VN type=1> <C 455_MIJN> mire <C 4_VROUW> vrouwen <VN type=1> <C 452+0_MIJN+HEER> mijns+ser 
+<L 291:41> <C 22_MICHAEL> mechiels <C 0_WIJF> wijf <C 700_VAN> van <C 21_LEMBEEK> lembeke <C 404_WIJ> wi <C 471_DE> de <C 1_GEMEENTE> ghemente <C 700_VAN> van <C 101_SINT> sente <C 22_PETRUS> pieters <C 204_ONTBIEDEN> onbieden 
+<L 291:42> <C 405_GIJ> v <C 0_SALUUT> saluut <C 800_EN> en<A >de</A> <C 1_VRIENDSCHAP> vrienscepe <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 204_DOEN> doen <C 405_GIJ> v <C 700_TE> te <C 251_WETEN> wetene <C 810_DAT> dat <C 404_WIJ> wi <C 480_EEN> een <C 0_SPITAAL> spetael 
+<L 291:43> <C 204_HEBBEN> hebben <C 700_TE> te <C 101_SINT> sente <C 22_PETRUS> pieters <C 420_DAT> dat <C 700_IN> in <C 451_ONS> onse <C 11_HAND> hande <C 203_STAAN> staet <C 420_WELK> welc <C 0_SPITAAL> spetael 
+<L 291:44> <C 11_ERFACHTIGHEID> heruachtechede <C 221_BEJAGEN> beiaghede <C 700_ONDER> onder <C 405_GIJ> v <C 620*_DAAR-> daer <C 405_GIJ> ghi <C 454_UW> vwen <C 0_KOOP> coep <C 620#_-AF> af <C 223_HEFFEN> hieuet <C 800_EN> en<A >de</A> <C 320_AL> al 
+<L 291:45> <C 450_UW> v <C 0_RECHT> recht <C 422_DIE> dies <C 274_LIJDEN> leden <C 210_ZIJN> es <C 309_15> xv <C 10_JAAR> iaer <C 801_OF> ofte <C 325_MEER> meer <C 841_ALS> alse <C 700+474_BIJ+DE/HET> biden <C 424_WELK> wilken <C 810_DAT> dat <C 404_WIJ> wi <C 405_GIJ> v <C 204_BIDDEN> bidden 
+<L 292:1> <C 810_DAT> dat <C 405_GIJ> ghi <C 454_ONS> onsen <C 1_SPITAAL> spetale <C 451_ZIJN> sine <C 11_ERFACHTIGHEID> hervachtechede <C 203_BEHOUDEN> behout <C 800_BEDIE> bedi <C 405_GIJ> ghi <C 213+403_ZIJN+HET> sijt <C 100_SCHULDIG> sculdech 
+<L 292:2> <C 700_TE> te <C 251_DOEN> doene. <C 800_EN> en<A >de</A> <C 810_DAT> dat <C 405+600*_GIJ+ER-> ghire <C 500_ZO> so <C 321_VEEL> vele <C 600#_-TOE> toe <C 203_DOEN> doet <C 810_DAT> dat <C 404_WIJ> ons <C 481_GEEN> ghene <C 0_NOOD> noet <C 560_NE> ne <C 200_ZIJN> es <C 810_DAT> dat 
+<L 292:3> <C 600*+404_ER-+WIJ> wire <C 500_VOORDER> voerder <C 600#_-TOE> toe <C 204_DOEN> doen <C 800_BEDIE> bedi <C 560+404_NE+WIJ> wine <C 204_GEDOGEN> ghedoghen <C 560_NIET> niet. <C 452_ONS> ons <C 2_DANK> danckes <C 810_DAT> dat 
+<L 292:4> <C 470+0_HET+SPITAAL> tspetael <C 203_VERLIEZEN> verliest. <C 800_EN> en<A >de</A> <C 243_WETEN> weet <C 500_WEL> wel <C 810_DAT> dat. <C 810_ALS> al <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 450_UW> v <C 14_SCHEPEN> scepenen <C 474_DE/HET> den 
+<L 292:5> <C 1_SPITAAL> spetale <C 273_ONTWIJZEN> ontwijst <C 234_HEBBEN> hadden <C 500_NOCHTAN> nochtan <C 221_ZIJN> ware <C 700_TE> te <C 251_VERSTAAN> v<A >er</A>stane <C 530_HOE> hoe <C 501_VER> uerre <C 403_HET> het <C 700+451_TE+HAARLIEDEN> taerliede 
+<L 292:6> <C 1_VONNIS> vonnesse <C 203_BEHOREN> boert <C 810+403_BEDIE-DAT+HET> bedie+dat <C 100_KERKELIJK> kerkelijc <C 0_GOED> goet <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 700+475_TE+DE> ter <C 4_AALMOES> almoesenen <C 203_BEHOREN> boert. 
+<L 292:7> <C 800_EN> en<A >de</A> <C 405_GIJ> ghi <C 800_EN> en<A >de</A> <C 450_UW> v <C 14_SCHEPEN> schepenen <C 504_WIJLEN> wilen <C 481_EEN> eene <C 1_EBISIE?> ebisie <C 700_VAN> van <C 21_DOORNIK> doernike <C 700_VAN> van <C 474_DE/HET> den 
+<L 292:8> <C 414_ZELF> seluen <C 14_STUK> sticken <C 273_HEBBEN> gheadt <C 213_HEBBEN> hebt <C 610_DAARBIJ> daer+bi <C 204_BIDDEN> bidden <C 404_WIJ> wi <C 405_GIJ> v <C 810_DAT> dat <C 405+600*_GIJ+ER-> ghire <C 500_ZO> so <C 321_VEEL> vele <VN type=1> <C 600#_-TOE> toe <C 203_DOEN> doet 
+<L 292:9> <C 810_DAT> dat <C 403+404_HET+WIJ> wijs <C 405_GIJ> v <C 0_DANK> danc <C 204_WETEN> wete<A >n</A> <C 0_GOD> god <C 200_ZIJN> si <C 700_MET> met <C 405_GIJ> v 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1275' jaar_van='1251' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

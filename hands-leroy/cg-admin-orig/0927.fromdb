@@ -1,0 +1,37 @@
+<header>
+<docId>0927</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1449:9> <C 1_LETTER> Lett<A >er</A>e <C 472_DE/HET> des <C 4_HEER> here<A >n</A> <C 700_VAN> van <C 20_HEUSDEN> hoesden <C 621*_DAAR-> dar <C 403_HIJ> hi <C 621#_-MEDE> mede <C 220_OPGEVEN> op+gaf 
+<L 1449:10> <C 474_DE/HET> de<A >n</A> <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> va<A >n</A> <C 20_HOLLAND> holl<A >ant</A> <C 471_DE> die <C 0_VRIJHEID> vrieheit <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_HEUSDEN> hoesd[en]. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1449:18> <C 401_IK> Jc <C 20_JOHANNES> jan <C 1_HEER> here <C 700_VAN> van <C 21_HEUSDEN> h[ues]dene <C 201_MAKEN> mak[e] <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen 
+<L 1449:19> <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 800_OF> of <C 250_HOREN> horen. <C 810_DAT> dat <C 401_IK> ic <C 454_MIJN> minen <C 104_LIEF> lieven <C 1_HEER> here <C 4_HEER> haren <C 21_FLORENTIUS> florense <C 1_GRAAF> Grave 
+<L 1449:20> <C 700_VAN> van <C 20_HOLLAND> hollant <C 274*_OP-> op <C 211_HEBBEN> hebbe <C 274#_-GEVEN> ghegheven <C 451_MIJN> mine <C 0_POORT> port <C 800_EN> ende <C 451_MIJN> mine <C 1_VRIJHEID> vrihede <C 700_VAN> va[n] 
+<L 1449:21> <C 475_DE/HET> der <C 0_POORT> port <C 700_VAN> van <C 21_HEUSDEN> huesdene. <C 800_EN> ende <C 411_DEZE> dese <C 101_VOORGENOEMD> vorghenoemde <C 0_POORT> port <C 800_EN> ende <C 1_VRIJHEID> vrihede <C 211_HEBBEN> hebbe 
+<L 1449:22> <C 401_IK> ic <C 500_WEER> weder <C 700_VAN> van <C 403_HIJ> hem <C 274_ONTVANGEN> [ont]faen <C 700_TE> [t]e <C 251_HOUDEN> houdene <C 700_TE> te <VN type=1> <C 104_RECHT> rechten <C 1_LEEN> leene. <C 700_IN> jn 
+<L 1449:23> <C 4_OORKONDE> orconden <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieve <C 421_DIE> die <C 230_WORDEN> wart <C 274_GEVEN> ghegh[even] <C 701_TOT> [t]ote <C 20_BIERVLIET> b[ie]rvliet. <C 700_IN> jn <C 452_ONS> ons 
+<L 1449:24> <C 4_HEER> heren <C 14_JAAR> jaren. <C 300_1000-290> dusent.+tvehondert.+ende+Negh[enti]ch <C 10_JAAR> iaer. <C 700_OP> op <C 474_DE/HET> den 
+<L 1449:25> <C 104_LAATST> [lest]en <C 0_DAG> [dach] <C 700_VAN> van <C 21_MEI> [me]ye. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

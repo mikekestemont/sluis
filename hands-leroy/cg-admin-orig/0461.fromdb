@@ -1,0 +1,30 @@
+<header>
+<docId>0461</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 702:10> <q> carta. <q> reddituum. <q> quos <q> emit <q> magister. <q> J. <C 0_KALF> calf 
+<L 702:11> <q> contra <q> dominum <q> seigeru<A >m</A> <q> de <q> eerste <q> e <q> geexpungeerd <C 0_GOERT-X> goert. <q> copia <q> facta 
+<L 702:12> <q> est.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> jn <q> parrochia <q> sancti <q> michaelis <q> iuxta <C 29_BRUGGE> brug<A >as</A>.- 
+<L 702:13> <q> ad <q> capellaniam <C 29_AEGIDIUS> Egid<A >ii</A> <q> dops.- <q> nunc <C 29_WILHELM> w<A >illelmi</A> <q> de <q> thielt.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<L 702:14> <q> xx <q> 't3s <q> spectantes <q> ad <q> vnum <q> capellanum. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

@@ -1,0 +1,45 @@
+<header>
+<docId>0022</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 77:11> <q> de <q> sex <q> mensuris <q> terre <q> venditis <q> a <C 26_WOUTER> weita <C 471_DE> die <q> pape 
+<L 77:12> <q> in <q> parrochia <q> de <C 21_ZUIENKERKE> zuenk<A >er</A>ke.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> van <q> vj <C 14_GEMET> ghem<A >eten</A> <C 309_EEN> j <C 1_LIJN> lin<A >e</A> <C 2_LAND> lands 
+<L 77:13> <C 271_LIGGEN> ligghen<A >de</A> <C 700_IN> jn <C 21_ZUIENKERKE> zuwe<A >n</A>kerke <q> f'ho <q> CC'hox'ho 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 78:11> <C 410_DAT> Dat <C 204_WETEN> weten <C 321_AL> alle <C 471_DE> die <C 411_GENE> ghone <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 810_DAT> dat <C 700_VOOR> uor <C 24_WOUTER> woutren 
+<L 78:12> <C 474_DE/HET> den <C 0_WEVEL> weuel <C 20_JOHANNES> jhan <C 474_DE/HET> den <C 0_WEVEL> weuel <C 800_EN> en<A >de</A> <C 20_JOHANNES> jhan <C 474_DE/HET> den <C 104_BRUIN> bruen <C 111_VRIJ> vrie <C 11_SCHEPEN> scepene, <C 26_WOUTER> weita <C 471_DE> die 
+<L 78:13> <C 1_PAAP> pape <C 800_EN> en<A >de</A> <C 20_WOUTER> weitki<A >n</A> <C 450_ZIJN> siin <C 1_ZOON> zoene <C 224_GEVEN> gauen <C 1_GIFT> ghifte <C 474_DE/HET> den <C 0_ABT> abdt <C 700_VAN> uan <C 101_SINT> zente <C 22_ANDREAS> andries 
+<L 78:14> <C 700_VAN> van <C 304_6> sessen <C 14_GEMET> ghemeten <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 301_EEN> ene <C 1_LIJN> line <C 421_DIE> die <C 204_LIGGEN> ligghen <C 700_IN> i<A >n</A> <C 26_ZUIENKERKE> suenk<A >er</A>ca <C 700_IN> jn 
+<L 78:15> <C 20_MEETLAND> matlant. <C 800_EN> en<A >de</A> <C 406_ZIJ> si <C 224_BELOVEN> beloueden <C 321_AL> alle <C 471_DE> die <C 111_ANDER> andre <C 10_KIND> kinder <C 700_TE> te <C 251_BRENGEN> brinkene <C 700_TE> te <C 4_GIFT> ghiften 
+<L 78:16> <C 700_VAN> uan <C 474_DE/HET> den <C 414_ZELF> zeluen <C 1_LAND> lande <C 406+810_ZIJ+ALS> al+si <C 214_ZULLEN> sullen <C 260_ZIJN> sijn <C 100_BEJAARD> beiaert, <C 411_DEZE> Dese <C 10_DING> dinc <C 700_TE> te <C 251_VOLKOMEN> uulcomene 
+<L 78:17> <C 20_WALEWEIN> walewein. <C 20_AEGIDIUS> Gillis <C 21_VREES> urese. <C 20_LAMBERT> lammekin <C 1_PAAP> pape. <C 20_WOUTER> wouter <C 22_GOSWIJN> ghosins <C 1_ZOON> soene <C 406_ZIJ> si 
+<L 78:18> <C 224_WEDDEN> weddeden <C 320_ELK> elc <C 700_OVER> ouer <C 320_AL> al <C 700_OP> up <C 309_20> .xx. <C 19_LIBRA> lib <C 2_SCHOOLSCHAT> scoelscats <C 474_DE/HET> den <C 0_ABT> abdt <C 700_VAN> van <C 101_SINT> sente <C 22_ANDREAS> andries 
+<L 78:19> <C 810_OF> jof <C 403+406_HET+ZIJ> sijs <C 560+500_NE+NIET> niene <C 224_VOLKOMEN> wlcamen. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <VN type=1> <C 700_IN> in <C 474_DE/HET> den <C 0_KLOOSTER> cloester <C 700_VAN> van <C 100_SINT> sent 
+<L 78:20> <C 20_DONATIANUS> donaes <C 701_VOOR> vore <C 321_VEEL> uele <C 115_GOED> goeder <C 14_LIEDEN> lieden. <C 410_DIT> dit <C 204_KENNEN> kennen <C 404_WIJ> wie <C 11_SCHEPEN> scepene <C 700_MET> met <C 454_ONS> onsen 
+<L 78:21> <C 14_ZEGEL> zeghelen <q> anno <q> domini <q> m'ho <q> cc'ho <q> lx'ho <q> secundo <q> mense <q> nouembri <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

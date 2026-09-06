@@ -1,0 +1,61 @@
+<header>
+<docId>2050</docId>
+<genre>L</genre>
+<bron>
+<bron_afk>Gen.rec.</bron_afk>
+<bron_oms>Nederbergse geneeskundige recepten</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1250' jaar_van='1250' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='7' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 343:18> <q> [Nederbergse] <q> [geneeskundige] <q> [recepten] 
+<L 343:19> <C 1_PASTINAAK> Past<A >er</A>nake <C 210_ZIJN> is <C 100_GOED> gut <C 475_DE> d<A >er</A> <C 1_VROUW> wrove <C 811_ALS> alse <C 403_ZIJ> si <C 472_DE> des <C 2_KIND> kindes <C 274_GENEZEN> genesen <C 210_ZIJN> is. <C 240_NEMEN> Nim <C 472_DE> des <VN type=1> 
+<L 343:20> <C 2_KRUID> crudes <C 480_EEN> e's0in <C 0_BUNDEL> bundel <C 800_EN> a<A >nde</A> <C 4_SELVE> salue<A >n</A>en <VN type=1> <C 820_ALZO> also <C 320_VEEL> wil. <C 240_ZIEDEN> suht <C 700_BET> bit <C 1_WATER> wat<A >er</A>e <C 501_HARDE> hard<A >e</A> 
+<L 343:21> <C 800_EN> an<A >de</A> <C 241_BADEN> bad<A >e</A> <C 403_ZIJ> si <C 700_AAN> an <C 0_WATER> water <C 201_BADEN> bad<A >e</A> <C 550_ZO> so <C 403_ZIJ> si <C 203_UITGAAN> ut+get <C 550_ZO> so <C 240_GEVEN> gif <C 403_ZIJ> ire <C 0_DRINKEN> drinke<A >n</A> <C 100_WARM> warm. <C 410_DIT> dit 
+<L 343:22> <C 240_DOEN> do <C 300_TIEN> t's0in <C 11_DAG> dage. <C 810_OF> Of <C 470_HET> dat <C 0_WIJF> wif <C 101_RAZEND> rasend<A >e</A> <C 213_WORDEN> wirt. <C 550_ZO> so <C 241_ROKEN> roke <C 403_ZIJ> si <C 700_BET> bit <C 474_DE> de<A >n</A> <VN type=1> <C 1_KRUID> crud<A >e</A>. <C 810_OF> Of <C 470_DE> di 
+<L 343:23> <C 0_MAN> ma<A >n</A> <C 203_ERSTOMMEN> erstummet <C 550_ZO> so <C 240_ZIEDEN> sut <C 474_DE> de<A >n</A> <C 4_PASTINAAK> past<A >er</A>nake<A >n</A> <C 700_AAN> an <C 1_WATER> wat<A >er</A>e <C 800_EN> vn<A >de</A> <C 240_GEVEN> gif <C 300_ZEVEN> s's0iuen 
+<L 343:24> <C 11_DAG> dage <C 0_DRINKEN> drinke<A >n</A>. <C 403_HIJ> h<A >er</A> <C 203_SPREKEN> sprecket <C 9_GOLDA> Golda <C 210_ZIJN> is <C 100_GOED> gut <C 700_TOE> to <C 1_SPEL> spile <C 800_ZO> so <C 440_MEN> me<A >n</A> <C 203_VISSEN> wiscet 
+<L 343:25> <C 240_PULVEREN> pulu<A >er</A> <C 403_ZIJ> si <C 800_EN> an<A >de</A> <C 240_WERPEN> wirp <C 403_ZIJ> si <C 700_AAN> an <C 470_HET> dat <C 0_WATER> water <C 440_ZO-WELK> so+wilc <C 0_VIS> wisc <C 403_ZIJ> ire<A >n</A> <C 203_BIJTEN> bitet <C 403_HIJ> h<A >er</A> <C 203_SNEVEN> snewet. 
+<L 343:26> <C 440_AL> allet <C 420_DAT> dat <C 100_BLIND> blint <C 213_WORDEN> wirt <C 100_GEBOREN> gebore<A >n</A> <C 410_DAT> dat <C 230_ZIJN> w<A >er</A> <C 271_ZIEN> send<A >e</A> <C 810_OF> of <C 440_MEN> ma<A >n</A> <C 403_HET> it <C 403_HIJ> ime <C 201_GEVEN> giue <C 250_NUTTEN> nutte<A >n</A>. 
+<L 343:27> <C 240_GEVEN> gif <C 403_HET> it <C 101_DROOG> droge <C 800_EN> wn<A >de</A> <C 100_NAT> nat. <C 9_GAMANDER> Gama<A >n</A>drea <C 210_ZIJN> is <C 100_GOED> gut <C 474_DE> den <C 104_WAARLOOS> warlosen <C 4_MENS> me<A >n</A>schen. 
+<L 343:28> <C 810_OF> of <C 440_MEN> ma<A >n</A> <C 403_ZIJ> si <C 203_NUTTEN> nuttet. <C 240_ZIEDEN> suht <C 403_ZIJ> si <C 700_MET> m's0it <C 104_STERK> starke<A >n</A> <C 1_WIJN> w's0ine <C 800_OF> of <C 700_MET> mit <C 1_EDIK> eteke. <C 800_EN> an<A >de</A> <C 240+403_DRINKEN+HET> drinket 
+<L 343:29> <C 501_DIKKE> dicke <C 800_EN> vn<A >de</A> <C 240_DWAAN> dua <C 462_DIJ> dig <C 611_DAARMEDE> dar+mid<A >e</A> <C 403_HET> it <C 203+402_GOEDEN+DU> gud<A >e</A>ti <VN type=1> <C 9_SIGILLATA> Sigilata <C 210_ZIJN> is <C 100_GOED> gut <C 421_DIE> deme <C 470_HET> dat <C 0_BLOED> blut 
+<L 343:30> <C 203_VAREN> weret <C 700_AAN> an <C 471_DE> de <C 11_LID> lide <C 240_MALEN> mal <C 240_PULVEREN> pulu<A >er</A> <C 241_NUTTEN> nutte <C 403_HET> it. <C 1_HERTSTONG> Hertes+tunge <C 210_ZIJN> is <C 100_GOED> gut <C 425_DIE> d<A >er</A>e 
+<L 343:31> <C 470+11_DE+WORM> diuuorme <C 800_OF> of <C 470_DE> di <C 11_DARM> d<A >er</A>me <C 510_ZO> so <C 0_WEE> we <C 203_DOEN> dot. <C 810_DAT> dat <C 403+560_HIJ+NIET> henuet <C 560_NE> ne <C 210_MOGEN> mag <C 250_SLAPEN> slapen. <C 241_DRINKEN> Drinke 
+<L 343:32> <C 410_DIT> dit <C 0_KRUID> crut <C 700_MET> mit <C 501_NIEUW> nue <C 104_GEZODEN> gesodene<A >n</A> <C 1_BIER> b's0ire. <C 470_DE> di <C 11_WORM> worme <C 204_STERVEN> st<A >er</A>wen. <C 410_DAT> dat <C 240_NEMEN> n's0im <C 501_DIKKE> dikke. 
+<L 343:33> <C 0_SANWORT> Sanwort <C 210_ZIJN> is <C 100_GOED> gut <C 421_DIE> deme <C 470_DE> di <C 114_KLEIN> clenen <C 11_WORM> worme <C 700_AAN> an <C 474_DE> den <C 1_BUIK> buke <C 203_WASSEN> wasset. <C 240_PULVEREN> pulu<A >er</A> 
+<L 343:34> <C 800_EN> un<A >de</A> <C 240+403_ETEN+HET> it's0it <C 540_ZO-WAAR> so+wo <C 402_DU> du <C 210_MOGEN> mag. <C 9_BASILICUM> Basilica <C 210_ZIJN> is <C 100_GOED> gut <C 424_DIE> de<A >n</A> <C 470_DE> di <C 100_LUTTEL> luttel <C 0_WORM> worm <C 470+701_HET+AAN> an<A >e</A>dat 
+<L 343:35> <C 0_LIJF> lif <C 203_KOMEN> cumet <C 271_SLAPEN> sclape<A >n</A>d<A >e</A> <C 240_ZIEDEN> suht <C 470_DE> di <C 11_WORTEL> worte <C 700_BET> bit <C 1_WATER> wat<A >er</A>e. <C 800_EN> vn<A >de</A> <C 240_LATEN> lat <C 403_HET> it <C 250_KOELEN> colen. <C 800_EN> vn<A >de</A> 
+<L 343:36> <C 403+240_HET+MENGEN> menget <C 700_MET> mit <C 1_MORAAT> morate <C 800_EN> an<A >de</A> <C 700_MET> mit <C 1_EDIK> eteke <C 550_ZO> so <C 240_GEVEN> gif <C 403_HIJ> ime <C 250_DRINKEN> drinke<A >n</A> <C 0+470_WORM+DE> diworm 
+<L 343:37> <C 203_STERVEN> sterwet <C 800_EN> vn<A >de</A> <C 203_VAREN> weret <C 700_VAN> wa<A >n</A> <C 403_HIJ> ime. <C 500_OOK> Oc <C 210_ZIJN> is <C 403_ZIJ> si <C 100_GOED> gut <C 411_DE> deme <C 104_DROPIG> dropegen <C 4_MENS> me<A >n</A>schen. 
+<L 343:38> <C 241_NUTTEN> nutte <C 470_HET> dat <C 0_SAP> sap <C 700_MET> mit <C 1_PEPER> pep<A >er</A>e <C 800_EN> an<A >de</A> <C 700_MET> mit <C 1_WIJN> w's0ine <C 800_EN> an<A >de</A> <C 240_DRINKEN> drink. <C 240_STRIJKEN> stric <C 700_AAN> an <C 470_DE> di <C 0_STAD> stat <VN type=1> 
+<L 343:39> <C 520_DAAR> dar <C 470_DE> di <C 1_DROPE> drope <C 200_ZIJN> is <C 403+203_HIJ+GENEZEN> hegeneset <C 500+500_TEHAND+AL> alto+hant. <C 810_OF> Of <C 402_DU> tu <C 470_HET> dat <C 1_ANTLIT> antl's0itte <C 211_WILLEN> wile <C 101_SCHOON> scone 
+<L 343:40> <C 250_MAKEN> make<A >n</A>. <C 240_NEMEN> Nim <C 0_WIEROOK> wiroc <C 800_EN> an<A >de</A> <C 0_MASTIX> mastix <C 800_EN> an<A >de</A> <C 240_STOTEN> stot <C 403_HET> it <C 700_MET> mit <C 1_EDIK> eteke <C 800_EN> an<A >de</A> <C 240_STRIJKEN> stric 
+<L 343:41> <C 450+700_DIJN+AAN> an<A >e</A>d's0in <C 0_VOORHOOFD> worehowet. <C 403_HET> it <C 203_WITTEN> w's0ittet <C 510_ZO> so <C 475_DE> der <C 0_TRIBULO> tribulo <C 420_DAT> dat <C 101_WIT> witte <C 240_MALEN> mal <C 700_MET> m's0it <C 1_WATER> wat<A >er</A>e 
+<L 343:42> <C 201_DEUNEN> dunne <C 800_EN> an<A >de</A> <C 240_DWAAN> dua <C 611_DAARMEDE> dar+mid<A >e</A> <C 402+202_DU+SCHONEN> duscones <C 0_GRENSING> Grensinc <C 210_ZIJN> is <C 100_GOED> gut <C 474_DE> de<A >n</A> 
+<L 344:1> <C 14_VROUW> wrowe<A >n</A> <VN type=1> <C 420_DIE> di <C 501*_TE-> to <C 501#_-WIJL> wile <C 475_DE> d<A >er</A> <C 1_MINNE> mi<A >m</A>me <VN type=2> <C 470+240_HET+GEREN> geret <C 240_PULVEREN> pulu<A >er</A> <C 800_EN> en <C 800_EN> wn<A >de</A> <C 240_GEVEN> gif <C 403_ZIJ> ire <C 501_NUCHTE> nuhte 
+<L 344:2> <C 550_ZO> so <C 203_GEHERMEN> geh<A >er</A>met <C 403_ZIJ> si. <C 0_SOLIS> Solis <C 210_ZIJN> is <C 100_GOED> gut <C 700_TOE> to <C 114_MENSELIJK> me<A >n</A>slike<A >n</A> <C 14_DING> dinge<A >n</A> <C 420_DIE> di <C 700_MET> m's0it <C 14_VROUW> wrowe<A >n</A> <C 560_NIET> nith 
+<L 344:3> <C 211+260_MOGEN+GEWEZEN> maggewesen. <C 240_NEMEN> Nim <C 472_DE> des <C 2_W'HORSMES?> 't2wrsmes <C 1_GEMACHT> gemete <C 800_EN> an<A >de</A> <C 240_PULVEREN> pulu<A >er</A> <C 700_BET> bit <C 1_HONING> honege <VN type=1> 
+<L 344:4> <C 800_EN> a<A >nde</A> <C 700_BET> bit <C 1_WIJN> wine <C 273_MENGEN> geme<A >n</A>get <C 550_ZO> so <C 240_NEMEN> n's0im <C 403_HET> et <C 475_DE> d<A >er</A> <C 0_MAN> ma<A >n</A> <C 403_HIJ> h<A >er</A> <C 203_GENEZEN> geneset. 
+<L 344:5> <C 420_DIE> Di <C 201_WILLEN> wile <C 250_SCHRIJVEN> scriue<A >n</A> <C 240_NEMEN> nim <VN type=1> <C 4_BEVENEL> b's0iuenelle<A >n</A>. <C 14_RUIT> rute<A >n</A>. <C 0_IJZERHARD> yserenhart. <C 240*_-STOTEN> stot <C 410_DAT> dat <C 240#_TEZAMEN-> to+samene 
+<L 344:6> <C 240+403_MAKEN+HET> maket <C 700_TOE> to <C 1_DRANK> dranke <C 700_MET> m's0it <C 1_WIJN> vine <VN type=1> 
+<L 344:7> <C 800_EN> vn<A >de</A> <C 240_DRINKEN> drink <VN type=1> <C 403_HET> it <C 2_AVOND> auedes <C 800_EN> vn<A >de</A> <C 2_MORGEN> morgens. <C 403_HET> it <C 203_VERDRIJVEN> v<A >er</A>dr's0iuet <C 470_HET> dat <C 0_BLOED> blot <C 700_VAN> van <C 474_DE> den 
+<L 344:8> <C 14_OOG> ougen. <C 240_DOEN> Tu <C 421_DIE> deme <C 4_RUDE> rude<A >n</A> <C 700_AAN> an <C 474_DE> den <C 4_ROOS> rossen <C 240_NEMEN> Nim <C 9_STYRAX> st<A >ri</A>as <VN type=2> <C 240_BRANDEN> b's0irn <C 700_TOE> to <C 4_AS> asch's0in. 
+<L 344:9> <C 241_MAKEN> make <C 4_LOOG> louge<A >n</A>. <C 611_DAARMEDE> dar+mide <C 201_BADEN> bade <C 403_HET> it <C 403_HET> it <C 203_GENEZEN> geneset. <C 811_ALS> Alse <C 470_DE> de <C 0_GEBOORTE> geburt <C 474_DE> de<A >n</A> <C 4_WIJF> w's0iwen 
+<L 344:10> <C 700_TOE> to <C 471_HET> deme <C 4_HART> h<A >er</A>ten <C 203_KOMEN> cumet. <C 550_ZO> So <C 210+440_ZULLEN+MEN> salm<A >en</A> <C 250_NEMEN> nem<A >en</A> <C 0_BIJVOET> b's0iwot <C 800_EN> vn<A >de</A> <C 0_POLEI> polei. 
+<L 344:11> <C 4_AGRIMONIE> agrimonien. <C 0_MILLEFOLIUM> millefoliu<A >m</A>. <C 800_EN> an<A >de</A> <C 14_OESTER> osternen. <C 800_EN> an<A >de</A> <C 250_TEZAMENSTOTEN> stoten <C 320_AL> al <C 410_DAT> dat <C 250_TEZAMENSTOTEN> sam<A >en</A> 
+<L 344:12> <C 800_EN> an<A >de</A> <C 250_NEMEN> nem<A >en</A> <C 470_HET> dat <C 0_SAP> sap. <C 800_EN> an<A >de</A> <C 240_DOEN> do <C 610_DAARTOE> dar+to <C 480_EEN> ein <C 320_LUTTEL> luttel <C 2_WIJN> wines. <C 800_EN> an<A >de</A> <C 240_DOEN> do <C 410_DAT> dat <C 700_IN> i<A >n</A> 
+<L 344:13> <C 484_EEN> e's0inen <C 0_POT> pot <C 800_EN> an<A >de</A> <C 240_ZIEDEN> sut <C 403_HET> dat <C 481_EEN> eine <C 1_WIJL> wile. <C 811_ALS> alse <C 403_HET> it <C 500_DAN> dan <C 210_ZIJN> is <C 274_VERWALLEN> v<A >er</A>wallen <C 550_ZO> so <C 440+210_MEN+ZULLEN> salm<A >en</A> 
+<L 344:14> <C 403_HET> it <C 700_VAN> wa<A >n</A> <C 474_DE> de<A >n</A> <C 1_VUUR> 't2wre <C 250_NEMEN> nem<A >en</A>. <C 800_EN> vn<A >de</A> <C 250_NEMEN> nem<A >en</A> <C 4_KASTORIJ> castorien <C 800_EN> vn<A >de</A> <C 240_STOTEN> stot <C 700_TOE> to <C 104_KLEIN> cleine<A >n</A> 
+<L 344:15> <C 1_PULVER> pulu<A >er</A>e <C 800_EN> vn<A >de</A> <C 241_SPRAAIEN> spreue <C 470_HET> dat <C 0_PULVER> pulu<A >er</A> <C 701_OP> uppe <C 470_HET> dat <C 0_KRUID> crut. <C 800_EN> vn<A >de</A> <C 240_ZIEDEN> sut <C 500_OVER> au<A >er</A> <C 470_HET> dat <VN type=1> 
+<L 344:16> <C 0_KRUID> crut. <C 403+810_HET+ALS> alsit <C 500_WEL> wal <C 274_WELLEN> gewalle<A >n</A> <C 210_ZIJN> is. <C 550_ZO> so <C 240_LATEN> lat <C 403_HET> it <C 250_KOELEN> kole<A >n</A> <C 800_EN> vn<A >de</A> <C 240_GEVEN> gif <C 403_HET> it <C 100_LAUW> lau <C 250_DRINKEN> drinke<A >n</A> 
+<L 344:17> <C 440_WELK> wilek<A >er</A> <C 4_VROUW> wroue<A >n</A> <C 550_ZO> so <C 411_DEZE> dise <C 1_ZAAK> sake <C 203_WERREN> wirret <C 410_DIE> di <C 440+240_MEN+DOEN> dum<A >en</A> <C 250_ZITTEN> sitte<A >n</A> <C 701_OP> uppe <C 484_EEN> eine<A >n</A> <C 0_STOEL> stol 
+<L 344:18> <C 800_EN> vn<A >de</A> <C 240_LATEN> lat <C 450_HAAR> ir <C 470_DE> di <C 1_HITTE> h's0itte <C 470+701_HET+AAN> an<A >e</A>dat <C 0_LIJF> lif <C 701_ONDER> undene <C 250_SLAAN> sclan <C 800_EN> vn<A >de</A> <C 241_BESTOPPEN> bestoppe <C 403_ZIJ> si <C 500_WEL> wol 
+<L 344:19> <C 501_ALOM> al+umbe <C 550_ZO> so <C 203_KOMEN> cumet <C 403_ZIJ> ire 
+<L 344:51> <q> lees <C 1_MINNE> mi<A >n</A>ne 
+<L 344:58> <q> lees <C 0_STYRAX> stiras <q> stirax? 
+<end-datering  jaar_tot='1250' jaar_van='1250' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='7' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

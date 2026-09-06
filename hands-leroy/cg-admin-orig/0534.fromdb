@@ -1,0 +1,456 @@
+<header>
+<docId>0534</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 777:19> <q> [eerste] <q> [stuk] 
+<L 777:20> <C 410_DIT> Dit <C 210_ZIJN> es <C 450_MIJN> mijn <C 0_INNEMEN> jn+nemen <C 700+474_VAN+DE/HET> vanden <C 1_ACCIJNS> assize 
+<L 777:21> <C 311+470_EERST+DE> derste <C 0_MAAND> maent <C 220_LOPEN> liep <C 309_HONDERD> .C. <C 19_LIBRA> lb <C 800_EN> & <C 309_31> xxxi <C 19_LIBRA> lb <C 800_EN> & <C 309_11> xi. <C 19_SOLIDUS> sol 
+<L 777:22> <C 610_DAARNA> Daer+na <C 230_ZIJN> was <C 403_HIJ> hi <C 273_VERKOPEN> vercocht. <C 301_TWEE> Tuee <C 11_MAAND> maende <C 421_DIE> die <C 220_LOPEN> liep <C 321_ELK> elke <C 0_MAAND> maent <C 309_HONDERD> .C. <C 19_LIBRA> lb <C 800_EN> & 
+<L 777:23> <C 309_15> xv. <C 19_LIBRA> lb <C 800_EN> & <C 309_9> ix. <C 19_SOLIDUS> sol 
+<L 777:24> <C 610_DAARNA> Daer+na <C 230_ZIJN> was <C 403_HIJ> hi <C 273_VERKOPEN> vercocht <C 301_TWEE> Tuee <C 11_MAAND> maende <C 471_DE> die <C 1_SOM> summe <C 700_VAN> van <C 325_ELK> elker <VN type=1> <C 309_HONDERD> .C. <C 19_LIBRA> lb 
+<L 777:25> <C 800_EN> en<A >de</A> <C 309_51> li. <C 19_LIBRA> lb <C 800_EN> & <C 309_12> xij. <C 19_DENARIUS> de't3n 
+<L 777:26> <C 700+475_TE+DE> ter <C 415_ZELF> seluer <C 4_WIJL> wilen <C 230_ZIJN> was <C 273_VERKOPEN> vercocht <C 471_DE> die <C 1_ACCIJNS> assise <C 700+474_VAN+DE/HET> vanden <C 1_OOFT> oefte <C 800_EN> en<A >de</A> <C 474+700_DE/HET+VAN> vanden 
+<L 777:27> <C 14_HARING> haringhen <C 800_EN> en<A >de</A> <C 474+700_DE/HET+VAN> vanden <C 14_KOOL> colen, <C 471_DE> die <C 1_SOM> summe <C 700_VAN> van <C 414_DEZE> desen <C 309_29> .xxix. <C 19_LIBRA> lb. 
+<L 777:28> <C 610_DAARNA> Daer+na <C 230_ZIJN> was <C 403_HIJ> hi <C 273_VERKOPEN> vercocht. <C 301_TWEE> Tuee <C 11_MAAND> maende <C 471_DE> die <C 1_SOM> summe <C 700_VAN> van <C 325_ELK> elker <C 0_MAAND> maent 
+<L 777:29> <C 309_HONDERD> .C. <C 19_LIBRA> lb <C 800_EN> en<A >de</A> <C 309_37> xxxvii. <C 19_LIBRA> lb <C 800_EN> en<A >de</A> <C 309_13> xiij. <C 19_SOLIDUS> sol <C 471_DE> die <C 1_SOM> summe <C 300_NEGENHONDERD> .ix.+honderd <C 19_LIBRA> lb <C 309_68> .lxviij. 
+<L 777:30> <C 19_LIBRA> lb <C 800_EN> & <C 309_17> xvij <C 19_SOLIDUS> 't3s <VN type=1> 
+<L 777:32> <C 800_EN> Ende <C 309_11> .xi. <C 11_DAG> daghe <C 230_ZIJN> was <C 471_DE> die <C 0_ACCIJNS> assijs <C 273_GADEREN> ghegadert <C 700_VAN> van <C 475_DE/HET> der <C 0_POORT> port <C 4_WEG> weghen. 
+<L 777:33> <C 471_DE> Die <C 0_ACCIJNS> assijs <C 474+700_DE/HET+VAN> vanden <C 1_BIER> biere <C 221_GADEREN> gaderde <C 20_SNELLAARD> Snellard <C 800_EN> en<A >de</A> <C 20_WOUTER> wout<A >er</A> <C 20_BONAVENT-X> boneuent, <C 411_DIE> die 
+<L 777:34> <C 224_GEVEN> gauen <C 401_IK> mi <C 309_12> .xii. <C 19_LIBRA> lb <C 800_EN> & <C 309_17> xvij. <C 19_SOLIDUS> sol 
+<L 777:35> <C 800_EN> Ende <C 474+700_DE/HET+VAN> vanden <C 1_WIJN> wine <C 221_GADEREN> gaderde <C 401_IK> ic <C 20_JOHANNES> Jan <C 610*_DAAR-> daer <C 220_NEMEN> nam <C 401_IK> ic <C 610#_-AF> of <C 309_23> .xxiij. <C 19_LIBRA> lb. <C 111_GEREED> ghereede. 
+<L 777:36> <C 800_EN> ende <C 610_DAARTOE> daer+toe <C 403+220*_HET+-STEKEN> staecs <C 475_DE/HET> der <C 14_POORT> porten <C 220#_UIT-> vt, <C 700_AAN> an <C 21_ARNOUT> harnoude <C 309_33> .xxxiij. <C 19_DENARIUS> de't3n 
+<L 777:37> <C 700_AAN> an <C 20_DUIKER> duker <C 309_TIEN> .x. <C 19_DENARIUS> de't3n 
+<L 777:38> <C 700_AAN> an <C 24_WISSE> wissen <C 309_12> .xii. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_11> xi. <C 19_DENARIUS> de't3n 
+<L 777:39> <C 700_AAN> an <C 4_HEER> haren <C 24_GERARD> gherarden <C 0_VROUW> ver <C 24_ADELHEID> alyen <C 1_ZOON> sone <C 309_24> .xxiiii. <C 19_SOLIDUS> sol 
+<L 777:40> <C 20_WERENBOUD> werenboud <C 700_VAN> van <C 24_RATINGEN> ratinghen <C 309_2> .ij. <C 19_SOLIDUS> sol 
+<L 777:41> <C 20_NICOLAAS> Clais <C 21_BONG-X> bonghe <C 800_EN> en<A >de</A> <C 20_ALBERT> alebrecht <C 0_STEENAARD> steenard <C 309_3> iij. <C 19_SOLIDUS> sol 
+<L 777:42> <C 500_VOORT> Vort <C 220_ONTVANGEN> ontfinc <C 401_IK> ic <C 474+700_DE/HET+VAN> vanden <C 1_KOREN> corne <C 0_ACCIJNS> assijs <C 700_VAN> van <C 474_DE> dien <C 309_11> .xi. <C 14_DAG> daghen. <C 700_VAN> van <C 104_JONG> Jonghen 
+<L 777:43> <C 2_HOLLANDER> hollanders <C 0_BROEDER> broider <C 309_38> .xxxviij. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 700_VAN> van <C 22_TIELE> Th<A >ielemans</A> <C 1_ZOON> sone <C 472_DE/HET> des <C 2_MEERSMAN> marsemans 
+<L 777:44> <C 475+700_DE+VAN> vander <C 1_MARSERIJ> marserie <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 471_DE> die <C 1_SOM> summe <C 700_VAN> van <C 414_DEZE> desen <C 0_INNEMEN> in+nemen <C 309_38> .xxxviij. <C 19_LIBRA> lb <C 309_5> .v. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 777:51> <C 395_ELK> eller 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+
+<L 778:1> <C 19_SOLIDUS> 't3s 
+<L 778:2> <C 500_VOORT> Vort <C 474+700_DE/HET+VAN> vanden <C 309_11> .xi. <C 14_DAG> daghen <C 210_ZIJN> es <C 100_SCHULDIG> sculdich <C 20_JOHANNES> Jan <C 20_WOUTER> weitijn <C 1_ZOON> sone <C 700+474_VAN+DE/HET> vanden <C 1_VISACCIJNS> visch+assise 
+<L 778:3> <C 309_11> .xi. <C 19_SOLIDUS> sol 
+<L 778:4> <C 800_EN> Ende <C 20_NICOLAAS> clais <C 471_DE> die <C 0_VLEESHOUWER> vleischouwer <C 221_GADEREN> gaderde <C 474_DE/HET> den <C 0_ACCIJNS> assijs <C 474+700_DE/HET+VAN> vanden <C 1_VLEES> vleische <C 403_HIJ> hi <C 560_NE> ne 
+<L 778:5> <C 220_GEVEN> gaf <C 401_IK> mi <C 440_NIET> niet 
+<L 778:6> <C 800_EN> Ende <C 20_CAESARIUS> cizarijs <C 210_ZIJN> es <C 100_SCHULDIG> sculdich <C 475_DE/HET> der <C 4_POORT> porten <C 700+474_VAN+DE/HET> vanden <C 1_MEELACCIJNS> meel+assise <C 800_EN> en<A >de</A> <C 700_VAN> van <C 474_DE/HET> den 
+<L 778:7> <C 1_HOUT> houte <C 700_VAN> van <C 474_DE/HET> den <C 309_11> .xi. <C 14_DAG> daghen <C 309_38> .xxxviij <C 19_SOLIDUS> sol 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 778:8> <q> 't% <C 500_VOORT> Vort <C 550_ZO> so <C 401+210_IK+HEBBEN> hebbic <C 274_ONTVANGEN> ontfanghen <C 700+474_VAN+DE/HET> vanden <C 1_DERDEDEEL> derdendeele <C 700_VAN> van <C 4_BOETE> boeten <C 421_DIE> die <C 475_DE/HET> der 
+<L 778:9> <C 0_POORT> port <C 274_AANKOMEN> an+comen <C 210_ZIJN> es <C 309_50> .l. <C 19_SOLIDUS> sol. <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+
+<L 778:10> <C 471_DE> die <C 1_SOM> summe <C 700_VAN> van <C 320_AL> al <C 454_MIJN> minen <C 0_INNEMEN> jn+nemen <C 309_DUIZEND> .m. <C 19_LIBRA> lb <C 309_600> .dc. <C 19_LIBRA> lb <C 309_78> .lxxviij <C 19_LIBRA> .lb <C 309_9> .ix. <C 19_SOLIDUS> sol <C 800_EN> & 
+<L 778:11> <C 309_9> .ix. <C 19_DENARIUS> de't3n. <C 800_EN> & <C 309_50> .l. <C 19_SOLIDUS> 't3s <C 700_VAN> van <C 4_BOETE> boeten. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 778:13> <q> [tweede] <q> [stuk] 
+<L 778:14> <C 410_DIT> Dit <C 210_ZIJN> es <C 274_INNEMEN> jn+ghenomen <C 700_VAN> van <C 1_WIJN> wine 
+<L 778:15> <C 700_VAN> van <C 484_EEN> enen <C 1_LAGELIJN> lagheline <C 221_TAPPEN> tappede <C 20_ANDREAS> andries <q> [...] <C 309_12,5> xii't! <q> [...] 
+<L 778:16> <C 500_ITEM> Jt<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 1_LAGELIJN> lagheline <C 420_DAT> dat <C 1_HEER> here <C 20_HENDRIK> heinric <C 471_DE> die <C 1_FRIES> vriese <C 221_TAPPEN> tappede <C 309_TIEN> .x. <C 19_LIBRA> lb. <C 800_EN> & 
+<L 778:17> <q> [...] 
+<L 778:18> <C 500_ITEM> Jt<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 1_LAGELIJN> lagheline <C 420_DAT> dat <C 20_ARNOUT> arnoud <C 20_VEKERDEI-X> fekerdei <C 221_TAPPEN> tappede <C 309_11> .xi. <C 19_LIBRA> lb. <C 800_EN> & <C 309_2> ij. <C 19_SOLIDUS> sol. 
+<L 778:19> <C 500_ITEM> Jt<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 1_LAGELIJN> lagheline <C 420_DAT> dat <C 20_ABELTJE> abelkin <C 221_TAPPEN> tappede <C 309_TIEN> .x. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_6> .vj. <C 19_SOLIDUS> sol. 
+<L 778:20> <C 800_EN> Ende <C 700_VAN> van <C 1_WIJN> wine <C 421_DIE> die <C 610_HIERAF> hier+of <C 220+650_BLIJVEN+IN> in+bleef <C 309_14> .xiiij. <C 19_SOLIDUS> sol <C 309_2> .ij. <C 19_DENARIUS> d <C 320_MIN> min. 
+<L 778:21> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 21_JOHANNES> janne <C 20_BAIOP-X> baiop <C 309_TIEN> .x. <C 19_LIBRA> lb <C 421_DIE> die <C 403_HIJ> hi <C 475_DE/HET> der <C 1_STAD> stede <C 221_LENEN> leende. 
+<L 778:22> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_WIJN> wine <C 440+421_MEN+DIE> diemen <C 475+700_DE+TE> ter <C 0_HEERVAART> herevard <C 221_VOEREN> voerde <C 309_38> .xxxviij. <C 19_LIBRA> lb. <C 800_EN> & <q> [...] 
+<L 778:23> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van. <C 20_HERMAN> harman <C 0_BIJGORDEL> bigordel <C 309_22> .xxij. <C 19_LIBRA> lb <C 700_VAN> van <C 309_2> .ij. <C 14_LAGELIJN> l[a]g[he]l[i]n[en] 
+<L 778:24> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 309_2> .ij. <C 14_VAT> vaten <C 2_WIJN> wijns <C 702_JEGENS> ieghens <C 1_HEER> here <C 21_WILHELM> willeme <C 1_DUKING-X> dukin[ghe] <C 309_47> .xlvij. <C 19_LIBRA> lb. 
+<L 778:25> <C 800_EN> en<A >de</A> <C 309_17> .xvij. <C 19_SOLIDUS> sol. 
+<L 778:26> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van, <C 4_HEER> heren <C 21_TIELE> thielema<A >n</A>ne <C 0_VROUW> ver <C 24_MATHILDE> machtilden <C 1_ZOON> sone <C 700_VAN> van <C 309_2> .ij. <C 14_VAT> vaten <C 2_WIJN> wijns 
+<L 778:27> <C 309_58> .lviij. <C 19_LIBRA> lb. 
+<L 778:28> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van, <C 304_DRIE> drien <C 14_VAT> vaten <C 2_WIJN> wijns <C 702_JEGENS> ieghens <C 994_ZZZ> [...]en <C 309_60> .lx. <C 10_MARK> marc. 
+<L 778:29> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 484_EEN> enen <C 1_VAT> vate <C 702_JEGENS> jeghens <C 1_BIJGORDEL> bigordele <C 309_24> .xxiiij. <C 19_LIBRA> lb. 
+<L 778:30> <C 500_ITEM> Jt<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 1_LAGELIJN> lagheline, <C 420_DAT> dat <C 14_SCHEPEN> scepenen <C 224_DRINKEN> dronken. <C 700_TE> te <C 20_WOUTER> wout<A >er</A> <C 20_BONAVENT-X> bonevent <VN type=1> 
+<L 778:31> <C 309_4> .iiij. <C 19_LIBRA> lb <C 309_3> .iij. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_DENARIUS> d. 
+<L 778:32> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 4_HEER> heren <C 20_HENDRIK> heinric <C 474_DE/HET> den <C 4_FRIES> vriesen <C 309_TIEN> .x. <C 19_LIBRA> lb. <C 800_EN> & <C 309_20> xx. <C 19_DENARIUS> d <VN type=1> <C 700_VAN> van <C 309_EEN> .i. <C 0_LAGELIJN> laghelin 
+<L 778:33> <C 2_WIJN> wijns 
+<L 778:34> <C 20_JOHANNES> Jan <C 220_VERSCHIJNEN> versceen <VN type=1> <q> [...] <C 810_DAT> dat <C 403_HIJ> hi <C 220_INNEMEN> in+nam <C 474_DE/HET> den <C 0_ACCIJNS> assijs <C 474+700_DE/HET+VAN> vanden <q> [...] 
+<L 778:35> <q> [...] <VN type=1> 
+<L 778:36> <C 500_ITEM> Jt<A >em</A> <C 220_ONTVANGEN> ontfi<A >n</A>c <C 403_HIJ> hi <C 700+474_VAN+DE/HET> vanden <C 1_BIERACCIJNS> biere+assise <C 471_DE> die <C 411_ZELF> selue <C 309_11> .xi. <C 11_DAG> daghe. <C 700_VAN> van <C 20_WOUTER> wouter 
+<L 778:37> <C 21_BONAVENT-X> bonevente <C 800_EN> en<A >de</A> <C 700_VAN> van <C 1_SNELLAARD> snellarde <C 309_13> .xiij. <C 19_LIBRA> lb <C 309_3> .iij. <C 19_SOLIDUS> 't3s <C 320_MIN> min. <VN type=1> 
+<L 778:38> <C 500_ITEM> Jt<A >em</A> <C 700+474_VAN+DE/HET> vanden <C 11_WIJN> wine <C 421_DIE> die <C 704_JEGEN> ieghen <C 4_HEER> heren, <C 21_WILHELM> willeme <C 234_ZIJN> waren <C 273_KOPEN> ghecoft. <C 220_ONTVANGEN> ontfinc, 
+<L 778:39> <C 20_JOHANNES> jan <C 700_VAN> van <C 20_NICOLAAS> Clais <C 4_OOM> omen. <C 700_VAN> van <C 309_2,5> .ii't!. <C 11_VAT> vate. <C 800_EN> en<A >de</A> <C 309_17> xvij, <C 11_VIERDER> vierdere <C 309_83> ,lxxxiij. <C 19_LIBRA> lb. <C 309_5> v. <C 19_SOLIDUS> sol. 
+<L 778:40> <C 800_EN> en<A >de</A> <C 309_7> .vij. <C 19_DENARIUS> d. 
+<L 778:41> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 304_EEN> enen <C 1_LAGELIJN> lagheline <C 700_TE> te <C 22_NICOLAAS> Clais <C 2_OOM> oems <C 420_DAT> dat <C 14_SCHEPEN> scepenen <C 224_DRINKEN> dronken. <C 220_HOUDEN> helt <C 309_5> .v. 
+<L 778:42> <C 14_AAM> hamen. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 10_VIERDER> vierder <C 309_15> .xv. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_16> .xvj. <C 19_DENARIUS> d. 
+<L 779:1> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 309_5> v. <C 14_AAM> hamen <VN type=1> 
+<L 779:2> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 309_5> .v. <C 14_VAT> vaten <C 2_WIJN> wijns, <C 421_DIE> die <C 224_HOUDEN> helden <C 309_5> .v. <C 14_ROEDE> roeden <C 309_23> .xxiij. <C 10_MARK> marc <C 700+475_VAN+DE> vander 
+<L 779:3> <C 1_ROEDE> roede. <C 1_SOM> Su<A >m</A>me <C 309_HONDERD> .c. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_38> .xxxviij. <C 19_LIBRA> lb. 
+<L 779:4> <C 1_SOM> Su<A >m</A>me <C 700_VAN> van <C 320_AL> al <C 472+4_DE+HEER> sh<A >er</A>en <C 22_WILHELM> willems <C 1_WIJN> wine <C 309_200> .cc. <C 19_LIBRA> lb <C 309_36> .xxxvj. <C 19_LIBRA> lb <C 309_6> .vi. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_11> .xi. <C 19_DENARIUS> d. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<L 779:5> <C 500_ITEM> Jt<A >em</A> <C 309_30> xxx <C 19_LIBRA> lb <C 700_VAN> va<A >n</A> <C 484_EEN> ene<A >n</A> <C 1_VAT> vate <C 2_WIJN> wie<A >n</A>s <C 701_TOT> tote <C 24_GIJSBERT> ghiben <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 779:6> <C 1_SOM> su<A >mme</A> <C 309_500> v'hc <C 19_LIBRA> lb <C 309_98> lxxxxviii <C 19_LIBRA> lb <C 309_3> iii <C 19_SOLIDUS> 't3s <C 309_9> .ix. <C 19_DENARIUS> d <VN type=1> 
+<L 779:8> <q> [derde] <q> [stuk] 
+<L 779:9> <C 410_DIT> Dit <C 200_ZIJN> es <C 700_VAN> van <C 14_PRESENT> prosenten 
+<L 779:10> <C 0_MEESTER> Meester <C 21_GERARD> Gherarde <C 484_EEN> enen <C 0_ZALM> zalm. <C 221_KOSTEN> coste. <C 309_17> xvij. <C 19_SOLIDUS> sol 
+<L 779:11> <C 500_ITEM> Jt<A >em</A> <C 4_HEER> heren <C 21_GERARD> Gherarde <C 700+475_VAN+DE> vander <C 4_WATERING> wateringhen <C 309_9> .ix. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_9> .ix. <C 19_DENARIUS> d 
+<L 779:12> <C 500_ITEM> Jt<A >em</A>. <C 414_DIE> Dien <C 700_VAN> van <C 20_MIDDELBURG> middelborgh <C 309_30> .xxx. <C 19_SOLIDUS> sol. 
+<L 779:13> <C 800_EN> Ende <C 700_VAN> van <C 14_KAN> kannen <C 309_19> .xix. <C 19_DENARIUS> d. 
+<L 779:14> <C 500_ITEM> Jt<A >em</A> <C 414_DIE> dien <C 700_VAN> van <C 20_HAARLEM> harlem <C 309_24> .xxiiij. <C 19_SOLIDUS> sol. 
+<L 779:15> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 0_ABT> abbet <C 700_VAN> van <C 20_MIDDELBURG> middelborgh. <C 484_EEN> enen <C 0_ZALM> zalm. <C 221_KOSTEN> coste <C 309_9> .ix. <C 19_SOLIDUS> sol. <C 800_EN> & <C 309_3> .iij. <C 19_DENARIUS> d 
+<L 779:16> <C 500_ITEM> Jt<A >em</A>, <C 700_VAN> van, <C 1_WIJN> wine, <C 4_HEER> heren, <C 21_GERARD> Gherarde <C 475+700_DE+VAN> vander <C 1_WATERING> wat<A >er</A>inghe <C 309_5> .v. <C 19_SOLIDUS> sol. 
+<L 779:17> <C 500_ITEM> Jt<A >em</A> <C 4_HEER> heren <C 21_WILHELM> willeme <C 474_DE/HET> den <C 104_NIEUW> Niewen <C 0_BALJUW> baeliu <C 309_32> .xxxij. <C 19_SOLIDUS> sol. <C 700_VAN> van <C 484_EEN> enen <C 1_ZALM> zalme. 
+<L 779:18> <C 800_EN> en<A >de</A> <C 700_VAN> van <C 1_WIJN> wine 
+<L 779:19> <C 500_ITEM> Jt<A >em</A>. <C 454_ONS> onsen <C 0_WAARD> ward <C 700_VAN> van <C 20_HAARLEM> harlem <C 309_45> .xlv. <C 19_DENARIUS> d 
+<L 779:20> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> heren <C 21_BERTOUD> bartoude <C 700_VAN> van <C 21_MECHELEN> machline <C 309_TIEN> .x. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_DENARIUS> d 
+<L 779:21> <C 500_ITEM> Jt<A >em</A>. <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 21_VOORNE> vorne. <C 4_HEER> heren <C 21_ARNOUT> arnoude <C 700_VAN> van <C 21_HEEMSKERK> heimsk<A >er</A>ke. <C 800_EN> en<A >de</A>, 
+<L 779:22> <C 0_MEESTER> meest<A >er</A>, <C 21_GERARD> Gherarde <C 309_12> .xij. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_9> .ix. <C 19_DENARIUS> d. 
+<L 779:23> <C 500_ITEM> Jt<A >em</A>. <C 700_VAN> van <C 1_PRESENT> p<A >ro</A>sente, <C 474_DE/HET> den <C 1_GRAAF> Graue <C 700_VAN> van, <C 21_KLEVE> cleue <C 309_32> .xxxij. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_9> .ix. <C 19_DENARIUS> d. 
+<L 779:24> <C 500_ITEM> Jt<A >em</A> <C 309_12> .xij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 1_WIJN> wine. <C 0_MEESTER> meester, <C 21_GERARD> Gherarde, <C 4_HEER> heren, <C 21_GERARD> Gherarde <C 475+700_DE+VAN> vander 
+<L 779:25> <C 4_WATERING> wat<A >er</A>inghen. <C 800_EN> en<A >de</A> <C 4_HEER> h<A >er</A>en <C 21_JOHANNES> janne <C 700_VAN> van <C 1_LEDE> leede. 
+<L 779:26> <C 500_ITEM> Jt<A >em</A>, <C 24_POPPE> poppen <C 700_VAN> van, <C 21_HENNENBERG> hennen+berghe <C 309_23> .xxiij. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 9_DENARIUS> d <C 700_AAN> an <C 309_EEN> .i. <C 1_ZALM> zalme 
+<L 779:27> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 21_VOORNE> vorne. <C 800_EN> en<A >de</A> <C 455_MIJN> miere <C 4_VROUW> vrouwen <C 700_VAN> van <C 21_VOORNE> vorne <C 309_14> .xiiij. <C 19_SOLIDUS> sol <C 309_4> .iiij. 
+<L 779:28> <C 19_DENARIUS> d 
+<L 779:29> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 1_VISITERER> visitere <C 309_8> .viij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_8> viij. <C 19_DENARIUS> d, <C 700_VAN> van <C 1_SNOEK> snoeke <C 800_EN> en<A >de</A> <C 700_VAN> van <C 1_WIJN> wine 
+<L 779:30> <C 500_ITEM> Jt<A >em</A> <C 4_HEER> heren, <C 24_ELISABETH> betten, <C 0_PROOST> proefst <C 700_VAN> van <C 21_MAUBEUGE> malbose <C 309_12> .xij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_8> viij. <C 19_DENARIUS> d. 
+<L 779:31> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 14_ABT> abden <C 700_VAN> van, <C 20_MIDDELBURG> middelborgh <C 309_5> .v. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_TIEN> .x. <C 19_DENARIUS> d <C 700_AAN> an <C 1_WIJN> wine. 
+<L 779:32> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> heren, <C 21_EVERHARD> Euerarde <C 474_DE/HET> den <C 1_SCHRIJVER> scriuere <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s <C 700_AAN> an <C 1_WIJN> wine. <VN type=1> 
+<L 779:33> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 14_KAN> kannen <C 620*_DAAR-> daer <C 440_MEN> men <C 1_PRESENT> p<A >ro</A>sente <C 620#_-MEDE> mede <C 221_DOEN> dede <C 309_43> .xliij. <C 19_DENARIUS> 't3d. 
+<L 779:34> <C 500_ITEM> Jt<A >em</A>, <C 20_HERMAN> harman <C 4_VINK> vinken <C 1_WIJF> wiue <C 309_13> .xiij. <C 19_DENARIUS> d. <C 700_VAN> van <C 14_KAN> kannen <C 700_VAN> van <C 14_BEKER> bekeren. 
+<L 779:35> <C 1_SOM> su<A >mme</A> <C 309_12> xii <C 19_LIBRA> lb <C 309_16> xvi <C 19_DENARIUS> d <VN type=1> 
+<L 779:37> <q> [vierde] <q> [stuk] 
+<L 779:38> <C 410_DIT> Dit <C 210_ZIJN> es <C 470_HET> dat <C 0_UITGEVEN> vte+gheuen <C 475+700_DE+VAN> vander <C 1_HAL> halle <C 800_EN> en<A >de</A> <C 700_VAN> van <C 4_TIMMERING> tymmeringhen. 
+<L 779:39> <C 700_VAN> van <C 1_HOUT> houte <C 700_TE> te <VN type=1> <C 251_VOEREN> voerne <C 309_6> .vj. <C 19_DENARIUS> d. <C 700_VAN> van <C 14_PLAAT> platen. 
+<L 779:40> <C 500_ITEM> Jt<A >em</A> <C 309_5> .v. <C 19_DENARIUS> d. <C 700_VAN> van <C 14_STIJL> stilen <C 700_TE> te <C 251_VOEREN> voerne. 
+<L 779:41> <C 500_ITEM> Jt<A >em</A> <C 309_5> .v. <C 19_DENARIUS> d <C 701_OM> o<A >m</A>me <C 14_LIJN> linen <C 651_MEDE> mede <C 700_TE> te <C 251_STEIGEREN> steigherne. 
+<L 780:1> <C 500_ITEM> Jt<A >em</A> <C 309_43> .xliij. <C 19_DENARIUS> d <C 11_STIJL> stile <C 700_TE> te <C 251_SLAAN> slane. 
+<L 780:2> <C 500_ITEM> Jt<A >em</A>, <C 474_DE/HET> den <C 12_TIMMERMAN> tymmermans <C 309_14> .xiiij. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_3> .iij. <C 19_DENARIUS> d. 
+<L 780:3> <C 500_ITEM> Jt<A >em</A> <C 309_14> .xiiij. <C 19_DENARIUS> d. <C 700_VAN> van <C 309_3> .iij. <C 14_STIJLTJE> stilekinen. 
+<L 780:4> <C 500_ITEM> Jt<A >em</A> <C 309_8> .viij. <C 19_DENARIUS> d <C 700_VAN> van <C 14_PLANK> planken <C 700_TE> te <C 251_VOEREN> voerne. 
+<L 780:5> <C 500_ITEM> Jt<A >em</A> <C 309_15> .xv. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_DENARIUS> d <C 700_VAN> van <C 14_PLANK> planken. 
+<L 780:6> <C 500_ITEM> Jt<A >em</A> <C 309_4> .iiij. <C 19_DENARIUS> d <C 700_VAN> van <C 309_2> .ij. <C 14_BAND> banden <C 700_TE> te <C 251_DRAGEN> draghene. 
+<L 780:7> <C 500_ITEM> Jt<A >em</A> <C 309_18> .xviij. <C 19_DENARIUS> d <C 701_OM> o<A >m</A>me <C 11_SPIJKER> spikere. 
+<L 780:8> <C 500_ITEM> Jt<A >em</A> <C 309_21> .xxi. <C 19_DENARIUS> d <C 474_DE/HET> den <C 12_PIJNER> pijnres. 
+<L 780:9> <C 500_ITEM> Jt<A >em</A> <C 309_9> .ix. <C 19_SOLIDUS> sol <C 700_MET> met <C 4_AARDE> arden <C 700_TE> te <C 251_VULLEN> vullene. 
+<L 780:10> <C 500_ITEM> Jt<A >em</A> <C 309_18> .xviij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 14_STIJL> stilen <C 700_VAN> van <C 14_PLAAT> platen <C 700_VAN> van <C 14_BAND> banden. 
+<L 780:11> <C 500_ITEM> Jt<A >em</A> <C 309_6> .vj. <C 19_SOLIDUS> sol <C 700_VAN> van <C 309_4> .iiij. <C 14_STIJL> stilen. 
+<L 780:12> <C 500_ITEM> Jt<A >em</A> <C 309_29> .xxix. <C 19_DENARIUS> d. <C 700_VAN> van <C 309_4> .iiij. <C 14_STIJL> stilen. 
+<L 780:13> <C 500_ITEM> Jt<A >em</A> <C 309_42> .xlij. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_6> .vi. <C 19_DENARIUS> d. <C 700_VAN> van <C 104_WESELS> weselscen <C 1_HOUT> houte <C 700_TE> te <C 14_PLANK> planken. 
+<L 780:14> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_ZAGEN> zaghene <C 309_6> vj <C 19_SOLIDUS> sol. <VN type=1> 
+<L 780:15> <C 500_ITEM> Jt<A >em</A> <C 309_13> .xiij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 1_ZAGEN> zaghene. 
+<L 780:16> <C 500_ITEM> Jt<A >em</A>. <C 0_MEESTER> meester <C 21_EVERDEI> Euerdeye <C 309_5> .v. <C 19_SOLIDUS> sol. 
+<L 780:17> <q> Summa <C 309_6> .vj. <C 19_LIBRA> lb. <C 309_15> xv. <C 19_SOLIDUS> 't3s. <C 800_EN> & <C 309_TIEN> .x. <C 19_DENARIUS> d. 
+<L 780:19> <q> [vijfde] <q> [stuk] 
+<L 780:20> <C 700_VAN> van <C 111_ALLERHANDE> alrehande <C 14_STUK> sticken <C 700+475_IN+DE> inder <C 1_STAD> stede <C 1_OORBAAR> orebare. 
+<L 780:21> <C 440+810_MEN+TOEN> Doemen <C 474_DE/HET> den <C 0_ACCIJNS> assijs <C 221_VERKOPEN> vercofte. <C 301_ACHT> achte <C 11_DAG> daghe <C 701_VOOR> vore <C 1_ASSENTIOEN> assentione <q> [1283] <q> [mei] <q> [20] 
+<L 780:22> <C 220_GAAN> ghinc <C 510_DAAR> daer <q> [...] 
+<L 780:23> <C 500_ITEM> Jt<A >em</A>. <C 520_TOEN> doe <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 0_RAAD> raet <C 224_LIGGEN> laghen. <C 700_OP> op <C 471_DE> die <C 12_ACCIJNSER> assieres <C 309_25> .xxv. <C 19_SOLIDUS> sol <C 700_VAN> van 
+<L 780:24> <q> [...] 
+<L 780:25> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_15> .xv. <C 19_SOLIDUS> sol <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 700_IN> in <C 20_MIDDELBURG> middelbor[g]h <q> [...] 
+<L 780:26> <C 500_ITEM> Jt<A >em</A> <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 700_VAN> van <C 4_PAARDENHUUR> parde+huren <C 700_TE> te <C 304_2> tueen <C 14_TIJD> tijde[n] 
+<L 780:27> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 14_SCHEPEN> scepenen <C 1_KOST> coste <C 810_DAT> dat <C 406_ZIJ> si <C 224_LIGGEN> laghen <C 700_TE> te <C 22_TIELE> thielemans <C 4_FRIES> friese[n] <q> [...] 
+<L 780:28> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> heren <C 21_JOHANNES> janne <C 700_VAN> van, <C 21_HEUSDEN> husdene <C 309_7> .vij. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> houder <C 0_SCHULD> scu[ld] 
+<L 780:29> <C 500_ITEM> Jt<A >em</A> <C 1_HEER> here <C 21_HUGO> hughe <q> .f. <C 0_VROUW> ver <C 24_SIEGRAAD> zegheraden. <C 800_EN> en<A >de</A> <C 20_WOUTER> wouter <C 20_BONAVENT-X> bonevent <C 520_TOEN> doe <C 406_ZIJ> [si] 
+<L 780:30> <q> [voeren] <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> graue <C 700_MET> met <C 21_HUGO> hughe <C 22_PAULUS> pouwels <C 0_BROEDER> broder <C 309_5,5> .v't!. <C 19_LIBRA> lb. 
+<L 780:31> <C 500_ITEM> Jt<A >em</A>. <C 21_TIELE> thielema<A >n</A>ne. <C 20_FIERABRAS-X> fierenbras <C 309_3> .iij. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> houder <C 0_SCHULD> sculd. 
+<L 780:32> <C 500_ITEM> Jt<A >em</A> <C 20_NICOLAAS> clais <C 474_DE/HET> den <C 0_VOS> vos <C 700_VAN> van <C 4_MAKELAARDIJ> makelardien <C 309_4> .iiij. <C 19_SOLIDUS> sol 
+<L 780:33> <C 500_ITEM> Jt<A >em</A> <C 24_HENDRIK> heinen <C 472+4_DE+HEER> sheren <C 22_ADELHARD> alards <C 1_ZOON> sone <C 309_15> .xv. <C 19_SOLIDUS> sol <C 700_VAN> van <C 105_OUD> ho[uder] <C 0_SCHULD> [sculd] 
+<L 780:34> <C 500_ITEM> Jt<A >em</A>, <C 21_GIJSBERT> Ghisebrechte <C 472+4_DE+HEER> sheren <C 22_PETRUS> pieters <C 1_ZOON> sone <C 309_26> .xxvi. <C 19_SOLIDUS> sol. 
+<L 780:35> <C 500_ITEM> Jt<A >em</A>, <C 1_HEER> here <C 21_HUGO> hughe. <C 20_JOHANNES> jan <C 20_PUTOK> putoc. <C 800_EN> en<A >de</A> <C 20_HENDRIK> heinric <C 1_MOMBER> monbare, <C 309_EEN> j 
+<L 780:36> <q> [...] <C 101_GROOT> grote <C 24_HUGO> hughen <C 1_WIL> wille <C 309_3> .iij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_16> .xvj. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_7> vij 
+<L 780:37> <q> [...] 
+<L 780:38> <C 500_ITEM> Jt<A >em</A> <C 1_HEER> here <C 21_GIJS> ghise, <C 20_WOUTER> wouter <C 20_BONAVENT-X> bonevent. <C 20_TIELE> thiel<A >eman</A> <C 471_DE> die <C 1_FRIES> vr[iese] 
+<L 780:39> <q> [...] <C 21_DIEDE> dieduie. <C 20_CAESARIUS> zisaris. <C 20_NICOLAAS> colin. <C 1_HEER> heire <C 20_HENDRIK> heinric. <C 20_AEGIDIUS> gilis, <C 700_IN> in <C 700_TE> te 
+<L 780:40> <C 24_HUGO> h[u]g[hen] <q> [...] <C 101_GROOT> grote <C 24_HUGO> hughen <C 309_9> .ix. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_SOLIDUS> sol 
+<L 780:41> <C 500_ITEM> Jt<A >em</A> <C 309_16> .xvj. <C 19_DENARIUS> d <C 421_DIE> die <C 14_SCHEPEN> scepenen <C 224_VERDRINKEN> verdronken. 
+<L 780:42> <C 500_ITEM> Jt<A >em</A> <C 700+474_VAN+DE/HET> vanden <C 104_OUD> houden <C 1_KOG> kocghe <C 700_TE> te <C 251_MAKEN> makene <C 309_3,5> .iii't!. <C 9_SOLIDUS> sol <VN type=1> 
+<L 780:43> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 485_EEN> ere <C 0_MAALTIJD> maeltijt <C 474_DE/HET> den <C 12_BROEDER> broders <C 309_33,5> .xxxiii't!. <C 9_SOLIDUS> sol <VN type=1> 
+<L 780:44> <C 500_ITEM> Jt<A >em</A>, <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_3> .iij. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> houder <C 0_SCHULD> sculd. 
+<L 781:1> <C 500_ITEM> Jt<A >em</A>. <C 4_HEER> heren <C 24_HUGO> hughen <C 0_VROUW> ver <C 24_SIEGRAAD> zegheraden <C 1_ZOON> sone. <C 800_EN> en<A >de</A>, <C 20_TIELE> thieleman <C 474_DE/HET> den <C 1_FRIES> vriese 
+<L 781:2> <C 520_TOEN> doe <C 406_ZIJ> si <C 224_VAREN> voeren <C 700_OP> op <C 0_RHONERVELD> rodenre+velt <C 309_18> .xviij. <C 19_SOLIDUS> sol. 
+<L 781:3> <C 500_ITEM> Jt<A >em</A> <C 309_4> .iiij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 104_KLEIN> cleenen <C 1_ACCIJNS> assise. <C 475+700_DE+VAN> vander <C 1_POORT> porte <C 1_WIJN> wine. 
+<L 781:4> <C 500_ITEM> Jt<A >em</A>. <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KOGWACHTER> kocghewachter <C 309_25> .xxv. <C 19_SOLIDUS> sol <C 700_VAN> van <C 455_ZIJN> siere <C 4_JAARHUUR> jaer+huren 
+<L 781:5> <C 500_ITEM> Jt<A >em</A> <C 309_4> .iiij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 309_2> .ij. <C 11_VAT> vate <C 2_WIJN> wijns <C 700_TE> te <C 251_SCHROOIEN> scrodene. 
+<L 781:6> <C 500_ITEM> Jt<A >em</A>. <C 20_NICOLAAS> clais <C 474_DE/HET> den <C 0_VOS> vos <C 309_3> .iij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 4_MAKELAARDIJ> makelarien. 
+<L 781:7> <C 500_ITEM> Jt<A >em</A>, <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 700_MET> met <C 20_DIEDERIK> Diederic <C 0_RAAD> raet. 
+<L 781:8> <C 500_ITEM> Jt<A >em</A>. <C 21_DANIEL> Daniele <C 475+700_DE+VAN> vander <C 24_MERWEDE> mareweden <C 309_14> .xiiij. <C 19_SOLIDUS> sol <C 700_VAN> van <C 309_11> .xi. <C 14_DAG> daghen <C 810_DAT> dat <C 440_MEN> men 
+<L 781:9> <C 0_ACCIJNS> assijs <C 220_NEMEN> na<A >m</A> <C 700_IN> in <C 450_ZIJN> sijn <C 0_AMBACHT> ambocht. <C 800_EN> en<A >de</A> <C 309_8> .viij. <C 19_LIBRA> lb. <C 700_VAN> van <C 500_TEVOREN> te+voren <C 412_DIE> dies <C 224_BRENGEN> brochten <C 471_DE> die 
+<L 781:10> <C 111_OUD> oude <C 14_SCHEPEN> scepenen <C 309_6> ,vj. <C 19_LIBRA> lb <C 700_AAN> an <C 404_WIJ> ons. 
+<L 781:11> <C 500_ITEM> Jt<A >em</A>, <C 21_JOHANNES> hannekine <C 1_VLAMING> vlami<A >n</A>ghe <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 700_VAN> van <C 454_ZIJN> sinen <C 1_ARBEID> arebeide. 
+<L 781:12> <C 500_ITEM> Jt<A >em</A> <C 309_8> .viij. <C 19_DENARIUS> d <C 700+474_VAN+DE/HET> vanden <C 1_ZEIL> zeile <C 700_TE> te <C 251_DWAAN> duaene. 
+<L 781:13> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 14_BROEDER> broderen <C 309_4> .iiij. <C 19_SOLIDUS> sol. <C 700_TE> te <C 1_WIJN> wine. <C 700_TE> te <C 304_DRIE> drien <C 14_STOND> stonden. 
+<L 781:14> <C 500_ITEM> Jt<A >em</A>. <C 21_THOMAS> thomase <q> .f. <C 104_ALLERTIEREN> alretieren <C 309_TIEN> .x. <C 19_SOLIDUS> sol. 
+<L 781:15> <C 500_ITEM> Jt<A >em</A> <C 700_IN> jn <C 101_SINT> sente <C 22_PETRUS> piet<A >er</A>s <C 1_DAG> daghe <C 800_EN> en<A >de</A> <C 101_SINT> sente <C 22_PAULUS> pouwels <q> [juni] <q> [29] <C 309_3> .iij. <C 19_LIBRA> lb <C 800_EN> en<A >de</A> 
+<L 781:16> <C 309_5> .v. <C 19_SOLIDUS> sol. <C 700+474_VAN+DE/HET> vanden <C 1_ACCIJNS> assise <C 421+440_DIE+MEN> demen <C 221_VERKOPEN> vercofte <C 800_EN> en<A >de</A> <C 610_DAARAF> daer+of <C 220_GAAN> ghinc. 
+<L 781:17> <C 500_ITEM> Jt<A >em</A> <C 309_12> .xij. <C 19_DENARIUS> d <C 474+700_DE/HET+VAN> vanden <C 14_PAVILJOEN> pawelionen <C 251*_OP-> op <C 700_TE> te <C 251#_-HANGEN> hanghene. 
+<L 781:18> <C 500_ITEM> Jt<A >em</A>. <C 474_DE/HET> den <C 0_KLERK> clerc <C 700_VAN> van <C 309_9> .ix. <C 14_DAG> daghen <C 850_DAT> dat <C 403_HIJ> hi <C 220_UITZIJN> vte+was <C 700+474_AAN+DE/HET> anden <C 1_GRAAF> graue <C 309_22> .xxij. <C 19_SOLIDUS> sol. 
+<L 781:19> <C 500_ITEM> Jt<A >em</A> <C 309_3,5> .iii't!. <C 9_SOLIDUS> sol <C 21_GERARD> gherarde <C 474_DE/HET> den <C 0_POORTWAARDER> portwarder <C 700_VAN> van <C 105_OUD> houd<A >er</A> <C 0_SCHULD> scult. 
+<L 781:20> <C 500_ITEM> Jt<A >em</A>, <C 20_HERMAN> harman <C 474_DE/HET> den <C 1_WEVER> weuere <C 309_40> xl. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_20> xx. <C 19_SOLIDUS> 't3s <VN type=1> <q> , <C 700_VAN> van <C 105_OUD> ouder <C 0_SCHULD> sculd. 
+<L 781:21> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_WIJN> wine <C 421_DIE> die <C 273_KOPEN> ghecoft <C 230_ZIJN> was <C 702_JEGENS> ieghens, <C 21_TIELE> thielema<A >n</A>ne <C 474_DE/HET> den <C 4_FRIES> vriesen, 
+<L 781:22> <C 800_EN> en<A >de</A> <C 1_SNELLAARD> snellarde <C 309_72> .lxxij. <C 10_MARK> marc. <C 800_EN> en<A >de</A> <C 309_8> .viij. <C 19_SOLIDUS> sol. <C 110_HOLLANDS> holl<A >ants</A>. 
+<L 781:23> <C 500_ITEM> Jt<A >em</A> <C 309_5,5> .v't!. <C 9_SOLIDUS> sol <C 700_VAN> van <C 14_STEEN> steenen <C 700_TE> te <C 251_WERPEN> werpene <C 701_VOOR> vore <C 470+0_HET+WERK> twerc. 
+<L 781:24> <C 500_ITEM> Jt<A >em</A>. <C 700_VAN> van <C 485_EEN> ere <C 0_MAALTIJD> maeltijt <C 700_IN> in, <C 24_HENEGOUWEN> henegouwen <C 520_DAAR> daer <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 0_RAAD> Raet <C 224_ETEN> haten 
+<L 781:25> <C 309_TIEN> .x. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_TIEN> .x. <C 19_DENARIUS> d. 
+<L 781:26> <C 500_ITEM> Jt<A >em</A> <C 4_HEER> heren <C 20_HENDRIK> heinric <C 474_DE/HET> den <C 1_PAAP> pape <C 309_20> .xx. <C 19_SOLIDUS> sol <C 810_OMDAT> o<A >m</A>me+dat <C 450_ZIJN> sijn <C 0_HUIS> hus <C 230_ZIJN> was <C 274_TEBREKEN> te+broken. 
+<L 781:28> <C 500_ITEM> Jt<A >em</A>. <C 1+472_HEER+DE> shere <C 22_GIJSBERT> Ghiseb<A >re</A>chts <C 22_MALEGIJS> maleghijs <C 14_ERFNAAM> arfnamen <C 309_15,5> .xv't!. <C 9_SOLIDUS> sol <C 700_VAN> van <C 105_OUD> houder 
+<L 781:29> <C 0_SCHULD> sculd 
+<L 781:30> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_VULWIJN> vullewine <C 700+475_TE+DE> t<A >er</A> <C 1_POORT> porte <C 1_WIJN> wine <C 309_5> .v. <C 19_SOLIDUS> sol 
+<L 781:31> <C 500_ITEM> Jt<A >em</A> <C 1_WESTFALING> westfalinghe <C 309_3> .iij. <C 19_SOLIDUS> sol <C 520_DAAR> do <C 403_HIJ> hi <C 220_LOPEN> liep <C 700_IN> in <C 471_DE> die <C 1_HAAG> haghe <C 701_OM> o<A >m</A>me <C 471_DE> die 
+<L 781:32> <C 11_OOSTERLING> hoest<A >er</A>linghe. 
+<L 781:33> <C 500_ITEM> Jt<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 1_ACCIJNS> assise <C 421_DIE> die <C 220_INGAAN> in+ghenc <C 472_DE/HET> des <C 2_DONDERDAG> donres+daghes <C 700_NA> na <C 101_SINT> sente 
+<L 781:34> <C 22_BARTOLOMEUS> bartholomeus <C 0_DAG> dach <q> [aug.,] <q> [26] <C 550_ZO> so <C 220_GAAN> ghinc <C 610_DAARAF> daer+of <C 309_3> .iij. <C 19_LIBRA> lb <C 309_16> .xvj. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_4> .iiij. 
+<L 781:35> <C 19_DENARIUS> d. 
+<L 781:36> <C 500_ITEM> Jt<A >em</A> <C 24_FRODO> vroeden <q> .f. <C 22_POLLAARD> pollards <C 309_3,5> .iii't!. <C 9_LIBRA> lb, <C 475+700_DE+VAN> vander <C 4_HUUR> huren <C 700+474_VAN+DE/HET> vanden <C 1_TOREN> torne. 
+<L 781:37> <C 500_ITEM> Jt<A >em</A> <C 21_BOUDEWIJN> boydine <C 0_VROUW> ver <C 24_GESINA> gheesen <C 1_ZOON> sone <C 309_5> .v. <C 19_LIBRA> lb. <C 700_VAN> van <C 472+1_DE+HEER> shere <C 2_VESTERT> vastraeds <C 1_DIJK> dike. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<L 781:38> <C 1_SOM> su<A >mme</A> <C 309_HONDERD> c <C 19_LIBRA> lb <C 309_63> lxiii <C 19_LIBRA> lb <C 309_6> vi <C 19_SOLIDUS> 't3s <C 309_5> v <C 19_DENARIUS> d <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 781:40> <q> [zesde] <q> [stuk] 
+<L 781:41> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den, <C 0_KLERK> Clerc <C 309_16> .xvi. <C 19_SOLIDUS> sol. <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 701_OM> o<A >m</A>me <C 474_DE/HET> den <C 0_BRIEF> brief <C 700_VAN> van, <C 22_DANIEL> daniels 
+<L 781:42> <C 0_AMBACHT> ambocht. <C 800_EN> en<A >de</A> <C 474+700_DE/HET+VAN> vanden <C 14_KWADIJ> quaedien <C 475+700_DE+UIT> vter <C 1_POORT> porte <C 700_TE> te <C 251_DOEN> doene. 
+<L 781:43> <C 500_ITEM> Jt<A >em</A>. <C 455_MIJN> miere <C 4_VROUW> vrouwen <C 700_VAN> van, <C 24_HENEGOUWEN> heneghouwen <C 309_150> .cl. <C 19_LIBRA> lb. <C 700_VAN> van <C 451_HAAR> hare <C 0_SCHULD> sculd. 
+<L 781:44> <C 500_ITEM> Jt<A >em</A>. <C 474_DE/HET> den <C 0_KLERK> Clerc <C 309_TIEN> .x. <C 19_SOLIDUS> sol. <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer. <C 701_OM> o<A >m</A>me <C 20_GEERVLIET> gheruliet. <C 800_EN> en<A >de</A> 
+<L 781:45> <C 24_NIJMEGEN> Niemaghen. 
+<L 782:1> <C 500_ITEM> Jt<A >em</A>. <C 20_PETRUS> piet<A >er</A> <C 474_DE/HET> den <C 0_KEIZER> keiser <C 309_21> .xxi. <C 19_SOLIDUS> sol. <C 700_VAN> van <C 309_3> .iij. <C 14_ARMBORST> harenbersten, <C 421_DIE> die <C 471_DE> die <C 111_OUD> oude 
+<L 782:2> <C 14_SCHEPEN> scepenen <C 700_AAN> an <C 404_WIJ> ons <C 224_BRENGEN> brochten. 
+<L 782:3> <C 500_ITEM> Jt<A >em</A> <C 309_3> .iij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_8> viij. <C 19_SOLIDUS> sol <C 700+475_VAN+DE> vander <C 14_BODE> boden <C 11_KLEED> cledere. 
+<L 782:4> <C 500_ITEM> Jt<A >em</A>. <C 20_JOHANNES> jan <C 21_PUTOK> putocke. <C 800_EN> en<A >de</A> <C 20_WOUTER> wout<A >er</A> <C 21_BONAVENT-X> bonevente <C 309_15,5> .xv't!. <C 9_SOLIDUS> sol <C 520_TOEN> doe <C 406_ZIJ> si <C 224_VAREN> voeren <C 700_TE> te 
+<L 782:5> <C 20_WOUDRICHEM> woudricheen <C 702_JEGENS> ieghens <C 411_DIE> die <C 700_VAN> van <C 24_NIJMEGEN> Niemaghen 
+<L 782:6> <C 500_ITEM> Jt<A >em</A> <C 309_4> .iiij. <C 19_SOLIDUS> sol. <C 701_OM> o<A >m</A>me <C 481_EEN> ene <C 1_KETEN> ketene <C 700+474_TE+DE/HET> ten <C 4_KOG> kocghen. 
+<L 782:7> <C 500_ITEM> Jt<A >em</A>, <C 21_BARTOLOMEUS> bartholmeuse <C 474_DE/HET> den <C 0_LOMBARD> lombard <C 309_150> .cl. <C 19_LIBRA> lb. <C 700_VAN> van <C 4+472_HEER+DE> sheren <C 22_WILHELM> wille<A >m</A>s <C 4_WEG> weghe<A >n</A> 
+<L 782:8> <C 700_VAN> van <C 105_OUD> ouder <C 0_SCHULD> sculd. 
+<L 782:9> <C 500_ITEM> Jt<A >em</A>. <C 21_JOHANNES> janne <C 700_VAN> van <C 1_STRIENE> striene <C 309_20> .xx. <C 19_SOLIDUS> sol <C 700_VAN> van <C 454_ZIJN> sinen <C 14_ARMBORST> arenberstelen <C 410_DAT> dat <C 224_BRENGEN> brochten 
+<L 782:10> <C 471_DE> die, <C 111_OUD> houde <C 14_SCHEPEN> scepenen <C 700_AAN> an <C 404_WIJ> ons. 
+<L 782:11> <C 500_ITEM> Jt<A >em</A>. <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_TIEN> .x. <C 19_SOLIDUS> sol, <C 701_OM> omme <C 20_TIELE> thielekin <C 22_POLLAARD> pollards <C 0_SCHIP> scep <C 700_TE> te <C 251_VAREN> vaerne. 
+<L 782:12> <C 500_ITEM> Jt<A >em</A>. <C 21_ROBERT> Robrechte <C 309_TIEN> .x. <C 19_SOLIDUS> sol. <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 701_OM> o<A >m</A>me <C 20_JOHANNES> jan <C 474_DE/HET> den <C 1_BRASSER> brassere <C 700_IN> i<A >n</A> <C 471_DE> die 
+<L 782:13> <C 1_HAAG> haghe 
+<L 782:14> <C 500_ITEM> Jt<A >em</A> <C 21_HERMAN> harma<A >n</A>ne <C 0_BIJGORDEL> bigordel <C 309_22> .xxij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_24> .xxiiij. <C 19_LIBRA> lb. <VN type=1> <C 700_VAN> van <C 1_WIJN> wine <C 440+421_MEN+DIE> diemen 
+<L 782:15> <C 500_JEGEN> ieghen <C 221_KOPEN> cofte. 
+<L 782:16> <C 500_ITEM> Jt<A >em</A> <C 20_JOHANNES> jan <C 474_DE/HET> den <C 1_KOGWACHTER> kocghewachtere <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 700_VAN> van <C 455_ZIJN> siere <C 1_HUUR> hure. 
+<L 782:17> <C 500_ITEM> Jt<A >em</A>, <C 810_DAT> dat <C 440_MEN> men <C 4_HEER> heren <C 21_BERTOUD> bartoude <C 700_VAN> van <C 21_MECHELEN> machline <C 700_TE> te <C 1_BERG> berghe <C 221_VOEREN> voerde <C 309_49> .xlix. <C 19_SOLIDUS> sol 
+<L 782:18> <C 800_EN> & <C 309_4> .iiij. <C 19_DENARIUS> d 
+<L 782:19> <C 500_ITEM> Jt<A >em</A>. <C 104_ZOET> soeten <C 0_VROUW> ver <C 24_BEATRIX> trisen <C 0_DOCHTER> docht<A >er</A> <C 309_20> .xx. <C 19_SOLIDUS> sol, <C 421_DIE> die <C 471_DE> die <C 111_OUD> houde <C 14_SCHEPEN> scepenen <C 700_VAN> van 
+<L 782:20> <C 474_DE/HET> den <C 1_BRAND> brande <C 224_AANBRENGEN> ane+brochten. 
+<L 782:21> <C 500_ITEM> Jt<A >em</A> <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_21> .xxi. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_8> viij <C 19_DENARIUS> d, <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 700_TE> te <C 24_NIJMEGEN> Niemaghen. 
+<L 782:22> <C 500_ITEM> Jt<A >em</A>. <C 520+440_TOEN+MEN> doemen <C 471_DE> die <C 1_GRAVIN> Gravinne <C 700+474_TE+DE/HET> ten <C 1_BERG> berghe <C 221_VOEREN> voerde <C 309_48> .xlviij. <C 19_SOLIDUS> sol. 
+<L 782:23> <C 500_ITEM> Jt<A >em</A>. <C 474+700_DE/HET+VAN> vanden <C 1_ERF> Erue, <C 700_NAAST> naest <C 475_DE/HET> der <C 4_VISBRUG> visch+brucghen <C 309_36> .xxxvj. <C 19_LIBRA> lb. 
+<L 782:24> <C 500_ITEM> Jt<A >em</A>, <C 700_VAN> van <C 810_DAT> dat <C 406_ZIJ> si <C 309_4> .iiij. <C 224_LIGGEN> laghen <C 309_4> .iiij. <C 11_DAG> daghe <C 700_VAN> van, <C 2_BIJGORDEL> bigordels <C 1_GELD> ghelde 
+<L 782:25> <C 224_VERTEREN> verteerden <C 406_ZIJ> si <C 309_18> .xviij. <C 19_SOLIDUS> sol. 
+<L 782:26> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_PERKAMENT> parkemente <C 309_27> .xxvij <C 19_DENARIUS> d. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<datering  jaar_tot='1287' jaar_van='1284' tijdsoort='2' tijdstatus='1'>
+
+<L 782:27> <C 500_ITEM> Jt<A >em</A> <VN type=1> <C 309_6> vi <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 304_EEN> enen <C 9_DENARIUS> d <C 520_TOEN> doe <C 0_HEER> haer <C 21_HUGO> hughe <C 20_JOHANNES> jan <C 20_PUTOK> putoc <C 20_JOHANNES> jan <C 0+24_VROUW+DIEDWINA> v<A >er</A>diewiuen 
+<L 782:28> <C 1_ZOON> sone <C 274_VAREN> gheua<A >er</A>en <C 234_ZIJN> wa<A >er</A>en <C 701_TOT> tote <C 20_NIEMANDSVRIEND> Nieme<A >n</A>svrient <C 700+474_AAN+DE/HET> anden <C 4_GRAAF> g<A >ra</A>uen <C 0_RAAD> raet 
+<L 782:29> <C 500_ITEM> Jt<A >em</A> <C 309_12> xij. <C 19_LIBRA> lb <C 309_13> xiij <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_7> .vij. <C 19_DENARIUS> d <C 520_TOEN> doe <C 440_MEN> me<A >n</A> <C 230_ZIJN> was <C 274_VAREN> gheua<A >er</A>en <C 474+700_DE/HET+MET> metten <C 1_GRAAF> graue 
+<L 782:30> <C 800_EN> ende <C 475+700_DE+MET> mett<A >er</A> <C 4_VROUW> vrouwe<A >n</A> <C 700_VAN> van <C 20_HOLLAND> holland <C 1+700+474_BERG+TE+DE> te<A >n</A>b<A >er</A>ghe <C 520_TOEN> doe <C 0_PARLEMENT> p<A >ar</A>leme<A >n</A>t <C 220_ZIJN> was 
+<L 782:31> <C 702_TEGEN> tieghens <C 474_DE> dien <C 1_HERTOG> h<A >er</A>thoghe <C 700_VAN> va<A >n</A> <C 20_BRABANT> brabant 
+<L 782:32> <C 500_ITEM> Jt<A >em</A> <C 21_WILHELM> willame <C 1_DUKING-X> dukinghe <C 309_46> xlvi. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_16> xvi <C 19_SOLIDUS> 't3s <C 700_VAN> va<A >n</A> <C 304_2> tue<A >n</A> <C 14_VAT> vate<A >n</A> <C 2_WIJN> wijns. <VN type=1> <C 800_EN> ende 
+<L 782:33> <C 309_14> xiiij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_14> .xiiij. <C 19_SOLIDUS> 't3s <VN type=1> <C 700+474_VAN+DE/HET> vanden <C 1_LAGELIJN> lagheline <C 700+475_TE+DE> ter <C 4_GRAVIN> gravinnen <C 0_BEHOEF> behoef. 
+<L 782:34> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 1_BRASSER> b<A >ra</A>ss<A >er</A>e <C 309_20> .xx. <C 19_SOLIDUS> 't3s <C 520_TOEN> doe <C 403_HIJ> hi <C 220_ONTLOPEN> ontliep <C 474+700_DE/HET+VAN> vanden <C 14_FRIES> vriesen 
+<L 782:35> <C 500_ITEM> Jt<A >em</A> <C 21_FREDERIK> vrederike <C 309_20> xx <C 19_SOLIDUS> 't3s 
+<L 782:36> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 1_KLERK> clerke <C 309_20> .xx. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_6> vi, <C 19_DENARIUS> d <C 520_TOEN> doe <C 411_DIE> die <C 309_58> .lviij. <C 274_ONTBIEDEN> omboden <C 234_ZIJN> wa<A >er</A>en <C 414+700_DIE+AAN> andie<A >n</A> 
+<L 782:37> <C 1_GRAAF> g<A >ra</A>ve 
+<L 782:38> <C 500_ITEM> Jt<A >em</A> <C 21_JOHANNES> janne <C 474_DE/HET> den <C 0_KOGWACHTER> cocwacht<A >er</A> <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s <C 700_VAN> van <C 455_ZIJN> sire <C 1_HUUR> hu<A >er</A>e. <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_6> .vj. <C 19_SOLIDUS> sol. 
+<L 782:40> <C 500_ITEM> Jt<A >em</A> <C 309_43> .xliij. <C 19_SOLIDUS> 't3s <C 421_DIE> die <C 20_JOHANNES> jan <C 20_PUTOK> putoc <C 20_JOHANNES> jan <C 24+0_DIEDWINA+VROUW> v<A >er</A>diewiue<A >n</A> <C 1_ZOON> s[one] <C 224_VERTEREN> verterden <C 520_TOEN> doe <C 411_DIE> die 
+<L 782:41> <C 309_58> .lviij. <C 274_ONTBIEDEN> omboden <C 234_ZIJN> wa<A >er</A>en 
+<L 783:1> <C 500_ITEM> Jt<A >em</A> <C 20_NICOLAAS> Clays <C 4_OOM> Ome<A >n</A> <C 309_72> .lxxij. <C 19_LIBRA> lib <C 700_VAN> van <C 304_DRIE> drie<A >n</A> <C 14_VAT> vate<A >n</A> <C 2_WIJN> wijns. <C 800_EN> en<A >de</A> <C 309_20> xx <C 19_LIBRA> lib <C 474+700_DE/HET+VAN> vanden 
+<L 783:2> <C 10_MINDERBROEDER> minrebroder <C 4_WEG> weghen 
+<L 783:3> <C 500_ITEM> Jt<A >em</A> <C 0_MEESTER> mest<A >er</A> <C 21_WOUTER> wout<A >er</A>e <C 474_DE/HET> den <C 0_SCHOOLMEESTER> scolmest<A >er</A> <C 309_4> .iiij. <C 19_LIBRA> lib <C 800_EN> en<A >de</A> <C 309_14> .xiiij. <C 19_DENARIUS> d 
+<L 783:4> <C 500_ITEM> Jt<A >em</A> <C 309_16> .xvi <C 19_SOLIDUS> 't3s <C 421_DIE> die <C 0_HEER> haer <C 21_HUGO> hughe <C 221_VERTEREN> v<A >er</A>terde <C 700_TE> te <C 21*_NIEUWEN-> niwen <C 21#_-DAM> da<A >m</A>me <C 502*_VAN-> van <C 502#_-OUDS> outs 
+<L 783:5> <C 500_ITEM> Jt<A >em</A> <C 309_48> xlviij <C 19_SOLIDUS> 't3s <C 520_TOEN> doe <C 440_MEN> me<A >n</A> <C 221_VERKOPEN> v<A >er</A>cochte <C 474_DE/HET> den <C 0_ACCIJNS> assijs <C 421_DIE> die <C 220_INGAAN> in+ghinc <C 472_DE/HET> des 
+<L 783:6> <C 2_ZATERDAG> sat<A >er</A>daghes <C 700_NA> na <C 300_11-DUIZEND> .xi.+dusent <C 14_MAAGD> maghen <C 1_DAG> daghe <q> [okt.] <q> [23] <C 800_EN> en<A >de</A> <C 309_2,5> .ii't!. <C 9_SOLIDUS> sol <C 421_DIE> die <C 471_DE> die 
+<L 783:7> <C 14_SCHEPEN> scepene<A >n</A> <C 224_VERDRINKEN> v<A >er</A>dronken <C 800_EN> en<A >de</A> <C 309_40> xl. <C 19_DENARIUS> d <C 421_DIE> die <C 440_MEN> me<A >n</A> <C 220_GEVEN> ghaf <C 474_DE/HET> den <C 11_MINDERBROEDER> minrebrode[re] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<end-datering  jaar_tot='1287' jaar_van='1284' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+
+<L 783:8> <C 500_ITEM> Jt<A >em</A> <VN type=1> <C 0_MEESTER> meester, <C 21_HENDRIK> heinrike <C 22_EILE> ellics <C 1_ZOON> sone <C 309_9> .ix. <C 19_LIBRA> [lb] <C 700_VAN> [van] <C 105_OUD> [ou]der <C 0_SCHULD> scout. 
+<L 783:9> <C 500_ITEM> Jt<A >em</A> <C 21_JOHANNES> janne <C 20_BAIOP-X> baiop <C 309_TIEN> .x. <C 19_LIBRA> lb <C 403+230_HIJ+HEBBEN> haddi <C 475_DE/HET> der <C 0_POORT> por[t] <C 273_LENEN> [ghel]eent. 
+<L 783:10> <C 500_ITEM> Jt<A >em</A>, <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_14> .xiiij. <C 19_SOLIDUS> sol <C 700_MET> met <C 21_MICHAEL> [michi]ele <C 1_BACHELEER> batselere, <C 700_IN> in <C 471_DE> die <C 1_HAAG> haghe. 
+<L 783:11> <C 500_ITEM> Jt<A >em</A> <C 700+475_VAN+DE> vander <C 21_PELSERBRUG> pelser+brucghe <C 700_TE> te <C 251_MAKEN> makene <q> [...] <C 19_SOLIDUS> 't3s. 
+<L 783:12> <C 500_ITEM> Jt<A >em</A> <C 21_DIEDERIK> didde <C 474_DE/HET> den <C 1_BODE> bode <C 309_4> .iiij. <C 19_SOLIDUS> 't3s <VN type=1> <C 700_IN> in <C 471_DE> die <C 1_HAAG> h[aghe] 
+<L 783:13> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 251*_-LIGGEN> [lec]ghene <C 700+251#_TE+IN-> jnte <C 2_BIJGORDEL> bigordels. <C 20_WOUTER> w[outer] <q> [bonevente] <C 20_JOHANNES> jan <C 20_PUTOK> putoc. 
+<L 783:14> <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 0_VROUW> ver <C 21_DIEDE> dieduie <C 309_27> .xxvii[...] <q> [...] <C 19_SOLIDUS> 't3s <C 475+700_DE+TE> ter <C 105_ANDER> ander <C 0_TIJD> tijt <VN type=1> 
+<L 783:15> <C 1_SOM> su<A >mme</A> <C 999_ZZZ> v[...] <q> [...] <VN type=1> 
+<L 783:17> <q> [zevende] <q> [stuk] 
+<L 783:18> <C 700+475_VAN+DE> vander <C 11_KLERK> clerke <C 11_KLEED> cledere <C 309_6> .vj. <q> [...] 
+<L 783:19> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 1_LIGGEN> l[ecghene] <C 700_TE> te <C 20_WOUTER> wouter <C 22_BONAVENT-X> bon[event]s, <C 700_OP> op <C 21_JOHANNES> janne <C 700_VAN> van <C 1_STRIENE> striene <C 700_VAN> van 
+<L 783:20> <C 309_5> .v. <C 19_LIBRA> lb 
+<L 783:21> <q> [...] <q> [oude] <C 14_SCHEPEN> [scepenen] <C 224_AANBRENGEN> ane+brochten <C 309_28> .xxviij. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_DENARIUS> d 
+<L 783:22> <C 500_ITEM> Jt<A >em</A> <q> [...] <C 309_20> .xx. <C 19_SOLIDUS> sol. <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> Graue. <C 520_TOEN> doe <C 411_DIE> die <C 309_58> .lviij. 
+<L 783:23> <C 234_ZIJN> waren <C 274_ONTBIEDEN> omboden. 
+<L 783:24> <C 500_ITEM> Jt<A >em</A>, <C 474_DE/HET> den <C 0_BALJUW> baeliu <C 309_7> .vij. <C 19_LIBRA> lb <C 800_EN> en<A >de</A> <C 309_12> .xij. <C 19_DENARIUS> d <C 475+700_DE+VAN> vander <C 0+1_POORT+DIJK> port+dijke. 
+<L 783:25> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 14_BROEDER> broderen <C 309_18> .xviij. <C 19_DENARIUS> d. <C 700_TE> te <C 1_WIJN> wine. 
+<L 783:26> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den, <C 0_KLERK> clerc <C 309_20> .xx. <C 19_SOLIDUS> sol <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> graue, <C 701_OM> o<A >m</A>me <C 471_DE> die <C 14_STUK> sticken, <C 421_DIE> die, <C 1_HEER> here 
+<L 783:27> <C 20_TIELE> thieleman <C 800_EN> en<A >de</A> <C 421_DIE> die <C 451_ZIJN> sine <C 14_GEZEL> ghesellen <C 234_ZIJN> waren. <VN type=1> <C 234_HEBBEN> hadden <C 274_SPREKEN> ghesproken. 
+<L 783:28> <C 500_ITEM> Jt<A >em</A> <C 20_TIELE> thieleman <C 474_DE/HET> den <C 4_FRIES> vriesen <C 309_4,5> .iiii't!. <C 9_SOLIDUS> sol <VN type=1> <C 700_VAN> van <C 1_VULWIJN> vulle+wine <C 221_HEBBEN> hadde <C 471_DE> die 
+<L 783:29> <C 1_GRAAF> graue. 
+<L 783:30> <C 500_ITEM> Jt<A >em</A> <C 475+700_DE+VAN> va[n]d[er] <C 0_VAART> vard, <C 421_DIE> die <C 471_DE> de <C 309_58> .lviij. <C 224_VAREN> voeren <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> graue <C 309_19> .xix. <C 19_LIBRA> lb <C 309_8> .viij. <C 19_SOLIDUS> sol 
+<L 783:31> <C 800_EN> & <C 309_6> vj. <C 19_DENARIUS> d 
+<L 783:32> <q> [...] <C 1_HEER> here. <C 20_TIELE> thieleman. <C 1_HEER> here <C 20_HENDRIK> heinric. <C 20_JOHANNES> jan <C 20_PUTOK> putoch. 
+<L 783:33> <C 800_EN> ende <C 20_JOHANNES> jan <C 0_VROUW> ver <C 21_DIEDE> dieduie <C 1_ZOON> sone <C 224_VAREN> voren <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> graue <C 309_6> .vj. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_5> .v. <C 19_SOLIDUS> sol. 
+<L 783:34> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 304_EEN> enen <C 1_LAGELIJN> lagheline <C 224_DRINKEN> dronken <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 0_RAAD> raet <C 700_TE> te <C 20_WOUTER> wout<A >er</A> 
+<L 783:35> <C 22_BONAVENT-X> bonevents <C 1_INLIGGEN> jn+lecghene <C 701_VOOR> vore <C 474_DE/HET> den <C 1_GRAAF> graue <C 309_4> .iiij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_16> .xvj. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_14> .xiiij. 
+<L 783:36> <C 19_SOLIDUS> sol <C 700_TE> te <C 1_ACCIJNS> assise. 
+<L 783:37> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> heren, <C 21_TIELE> thielema<A >n</A>ne <C 0_VROUW> ver <C 24_MATHILDE> machtilden <C 1_ZOON> sone <C 309_58> .lviij. <C 19_LIBRA> lb <C 700_VAN> van <C 1_SCHULD> sculde. 
+<L 783:38> <C 500_ITEM> Jt<A >em</A>. <C 700_VAN> van <C 251_LIGGEN> lecghene <C 700_OP> op <C 474_DE/HET> den <C 1_GRAAF> graue <C 700_TE> te <C 20_WOUTER> wout<A >er</A> <C 22_BONAVENT-X> bonevents <C 309_20> .xx. <C 19_LIBRA> lb <C 800_EN> en<A >de</A> <C 309_3,5> iii't!. 
+<L 783:39> <C 9_SOLIDUS> sol. 
+<L 783:40> <C 500_ITEM> Jt<A >em</A>. <C 21_NICOLAAS> Coline <C 0_KRIEK> kriec <C 309_30> .xxx. <C 19_SOLIDUS> sol <C 700_VAN> van <C 455_ZIJN> siere <C 0_HOFSTEDE> hofstat. <C 421_DIE> die <C 480+300_EEN+HALF> een+half <C 0_JAAR> jaer <C 100_LEDIG> ledech 
+<L 783:41> <C 230_LIGGEN> lach. 
+<L 783:42> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> [van] <C 304_EEN> [enen] <C 1_LAGELIJN> lagheline <C 2_WIJN> wijns <C 420_DAT> dat <C 273_ZENDEN> ghesent <C 230_ZIJN> was <C 455_MIJN> miere <C 4_VROUW> vrouwen <C 700_VAN> van 
+<L 784:1> <C 24_HENEGOUWEN> heneghouw[en] <C 309_14> xiiij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_17> xvij. <C 19_SOLIDUS> sol. 
+<L 784:2> <C 500_ITEM> Jt<A >em</A>, <C 21_HUGO> hughelote, <C 800_EN> en<A >de</A> <C 0_VROUW> ver <C 24_MATHILDE> machtelden <C 700_VAN> van <C 455_ZIJN> siere <C 4_WEG> weghen <C 309_30> .xxx. <C 19_SOLIDUS> sol. <C 700_VAN> van 
+<L 784:3> <C 105_OUD> ouder <C 0_SCHULD> sculd. 
+<L 784:4> <C 500_ITEM> Jt<A >em</A>. <C 21_JOHANNES> jehanne <C 20_PUTOK> putoch. 
+<L 784:5> <C 500_ITEM> Jt<A >em</A>. <C 700_VAN> van <C 1_LIGGEN> lecghene <C 4+472_HEER+DE> sheren <C 22_GERARD> Gherards <C 0_VROUW> ver <C 24_ADELHEID> alyen <C 1_ZOON> sone <C 700_OP> op <C 474_DE/HET> den <C 1_GRAAF> graue <C 309_6> .vj. 
+<L 784:6> <C 19_LIBRA> lb <C 800_EN> en<A >de</A> <C 309_2> .ij. <C 19_SOLIDUS> sol. 
+<L 784:7> <C 500_ITEM> Jt<A >em</A> <C 20_JOHANNES> jehan <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_5> .v. <C 19_SOLIDUS> sol <C 700_IN> in <C 1_KERSTAVOND> kers+auonde <C 701_OM> o<A >m</A>me <C 14_KOUS> koucen <C 800_EN> en<A >de</A> <C 14_SCHOEN> scoen 
+<L 784:8> <C 500_ITEM> Jt<A >em</A> <C 24_AGATHA> aghet[en] <C 22_RUDOLF> Roolfs <C 309_6> .vi. <C 19_SOLIDUS> sol <C 700_VAN> van <C 1_BIER> biere <C 230_ZIJN> was <C 274_NEMEN> ghenomen <C 474+700_DE/HET+TE> ten <C 1_BRAND> brande. 
+<L 784:9> <C 500_ITEM> Jt<A >em</A>. <C 701_OM> o<A >m</A>me <C 301_TWEE> tuee <C 11_REEP> reepe <C 475+700_DE+TE> ter <C 4_KLOK> clocken <C 309_2> .ij. <C 19_SOLIDUS> sol. 
+<L 784:10> <C 500_ITEM> Jt<A >em</A>. <C 21_GERARD> Gherarde <C 700_VAN> van <C 24_DOVER> Doueren <C 309_5> .v. <C 19_SOLIDUS> sol, <C 700_VAN> van <C 105_OUD> ouder <C 4_PAARDENHUUR> pard+huren. 
+<L 784:11> <C 500_ITEM> Jt<A >em</A> <C 309_14> .xiiij <C 19_DENARIUS> d. <C 700+475_VAN+DE> vander <C 0_HEUL> hole <C 700_TE> te <C 251_RUIMEN> rumene. <C 701_VOOR> vore <C 22_HERMAN> harmans <C 700_VAN> van <C 4_WAARDE> warden. 
+<L 784:12> <C 500_ITEM> Jt<A >em</A> <C 0_VROUW> ver. <C 24_IDE> yden <C 22_HOLLANDER> hollanders <C 1_MOEI> moye <C 309_TIEN> .x. <C 19_SOLIDUS> sol <C 700_VAN> van <C 454_HAAR> haren <C 1_HUIS> huse <C 700_TE> te <C 251_BREKEN> brekene <q> et <C 309_20> xx 
+<L 784:13> <C 19_SOLIDUS> 't3s <VN type=1> 
+<L 784:14> <C 500_ITEM> Jt<A >em</A>. <VN type=1> <C 21_ASE> ase <C 22_RUDOLF> roelfs <C 309_12> .xij. <C 19_DENARIUS> d <C 700+474_VAN+DE/HET> vanden <C 1_BRAND> brande. 
+<L 784:15> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 14_BROEDER> broderen <C 309_25> .xxv. <C 19_DENARIUS> d <C 701_OM> omme <C 0_WIJN> wijn. 
+<L 784:16> <C 500_ITEM> Jt<A >em</A>. <C 455_MIJN> miere <C 4_VROUW> vrouwen <C 700_VAN> van <C 24_HENEGOUWEN> henegouwen <C 309_HONDERD> .c. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> ouder <C 0_SCHULD> sculd. 
+<L 784:17> <C 500_ITEM> Jt<A >em</A>, <C 20_WILHELM> willem <C 700_VAN> van <C 1_WAGENEN> waghene<A >n</A>e <C 309_6> .vj. <C 19_SOLIDUS> sol <C 700_VAN> van <C 4_MAKELAARDIJ> makelardien. <C 800_EN> en<A >de</A> <C 309_2> .ij. <C 19_SOLIDUS> sol. 
+<L 784:18> <C 500_ITEM> Jt<A >em</A> <C 20_JOHANNES> jan <C 474_DE/HET> den, <C 0_KLERK> Clerc <C 309_30> .xxx. <C 19_SOLIDUS> sol <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 700_IN> in <C 20_ZEELAND> zeland. 
+<L 784:19> <C 500_ITEM> Jt<A >em</A>, <C 20_NICOLAAS> Clais <C 4_OOM> Omen. <C 700_VAN> van <C 1_LIGGEN> lecghene <C 700_OP> op <C 474_DE/HET> den <C 1_GRAAF> Graue, <C 472_DE/HET> des <C 2_MAANDAG> manen+daghes <C 701_VOOR> vore 
+<L 784:20> <C 0_VASTENAVOND> vasten+auont <q> [1284] <q> [feb.] <q> [21] <C 273_REKENEN> gherekent <C 309_51> .li. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_16> .xvj. <C 19_SOLIDUS> sol. 
+<L 784:21> <C 500_ITEM> Jt<A >em</A>. <C 4_HEER> heren <C 24_HUGO> hughen. <C 800_EN> en<A >de</A> <C 4_HEER> heren, <C 20_HENDRIK> heinric <C 474_DE/HET> den <C 4_FRIES> vriesen, <C 474_DE/HET> den <C 1_GRAAF> Graue <C 700+474_TE+DE/HET> ten 
+<L 784:22> <C 1_BOS> busche <C 700_TE> te <C 251_ZOEKEN> soekene <VN type=1> <C 4_HEER> heren <C 24_HUGO> hughen <C 20_WOUTER> wouter <C 21_BONAVENT-X> bonevente <C 700_IN> in <C 471_DE> die <C 1_HAAG> haghe 
+<L 784:23> <C 474+700_DE/HET+AAN> anden <C 1_GRAAF> Graue <C 309_NEGEN> .viiij. <C 19_LIBRA> lb. 
+<L 784:24> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> haren, <C 24_GIJS> Ghisen. <C 4_HEER> heren, <C 21_TIELE> thielema<A >n</A>ne. <C 20_JOHANNES> jan <C 20_PUTOK> putoch. <C 21_TIELE> tielema<A >n</A>ne <C 474_DE/HET> den 
+<L 784:25> <C 4_FRIES> vriesen, <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 0_VROUW> ver <C 21_DIEDE> Dieduie <C 1_ZOON> sone. <C 520_TOEN> doe <C 406_ZIJ> si <C 224_VAREN> voeren <C 700_IN> i<A >n</A> <C 471_DE> die <C 1_HAAG> haghe <C 309_7> .vij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> 
+<L 784:26> <C 309_6> .vj. <C 19_SOLIDUS> 't3s. 
+<L 784:27> <C 500_ITEM> Jt<A >em</A>. <C 21_TIELE> th<A >ielemanne</A> <C 20_FIERABRAS-X> fierenbras <C 520_TOEN> doe <C 403_HIJ> hi <C 474_DE/HET> den <C 1_GRAAF> graue <C 474+700_DE/HET+TE> ten <C 1_BOS> busche <C 221_VOEREN> voerde <C 309_6> .vj. 
+<L 784:28> <C 19_LIBRA> lb. 
+<L 784:29> <C 500_ITEM> Jt<A >em</A> <C 20_HERMAN> harman <C 474_DE/HET> den <C 1_WEVER> weuere. <VN type=1> <C 309_30> .xxx. <C 19_SOLIDUS> sol <C 700_VAN> van <C 455_ZIJN> siere <C 1_HOFSTEDE> hoefstede, <C 474+700_DE/HET+NA> naden <C 0_BRAND> brand 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<L 784:30> <C 700_VAN> va<A >n</A> <C 454_ZIJN> sinen <C 1_HUIS> huse <C 700_TE> te <C 250_BREKEN> breke<A >n</A> <VN type=1> 
+<L 784:31> <C 1_SOM> su<A >mme</A> <C 309_300> .c.c.c. <C 19_LIBRA> lb <C 309_30> .xxx. <C 19_LIBRA> lb <C 309_31> xxxi <C 19_DENARIUS> d <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 784:33> <q> [achtste] <q> [stuk] 
+<L 784:34> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den <C 14_BROEDER> brodren <C 309_18> xviij. <C 19_DENARIUS> d <C 700_TE> te <C 1_WIJN> wine. 
+<L 784:35> <C 500_ITEM> Jt<A >em</A>, <C 20_WOUTER> wouter <C 21_BONAVENT-X> bonevente <C 309_5> .v. <C 19_SOLIDUS> 't3s <C 700_VAN> van <C 309_2> .ij. <C 14_VAT> vaten <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 1_LAGELIJN> lagheline <VN type=1> <C 700_TE> te <C 4_KELDERHUUR> kelre+huren. 
+<L 784:37> <C 500_ITEM> Jt<A >em</A>. <C 1_SNELLAARD> Snellarde <C 309_30> .xxx. <C 19_SOLIDUS> sol. <C 700_VAN> van. <C 1_KOST> coste, <C 810_DAT> dat <C 440_MEN> men <C 220_LIGGEN> lach, <C 700_VAN> van <C 20_WILHELM> willem <C 21_RAVEN> rauene. 
+<L 784:38> <C 500_ITEM> Jt<A >em</A>. <C 21_BARTOLOMEUS> bartholm[euse] <C 474_DE/HET> [den] <C 0_LOMBARD> l[om]b[ar]d <C 309_HONDERD> .c. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> houder <C 0_SCHULD> sculd. 
+<L 784:39> <C 500_ITEM> Jt<A >em</A>. <C 455_MIJN> miere <C 4_VROUW> [vrouwen] <C 700_VAN> [van] <C 24_HENEGOUWEN> [henegho]uwen <C 309_83> .lxxxiij. <C 19_LIBRA> lb <C 700_VAN> van <C 105_OUD> houder <C 0_SCHULD> sculd. 
+<L 784:41> <C 500_ITEM> Jt<A >em</A> <C 474_DE/HET> den, <q> [clerc] <q> [...] <C 700_VAN> [van] <C 251_VAREN> vaerne <C 700_AAN> an <C 4_HEER> heren <C 21_WOLFHARD> wlfarde. <C 800_EN> en<A >de</A> <C 0_MEESTER> meest<A >er</A>, 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 784:52> <C 700_VAN> van <C 99_ZZZ> p<A >ar</A>f 
+<L 784:54> <C 700_VAN> van <C 24_WAARDE> warden 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+
+<L 785:1> <C 21_GERARD> gherarde. 
+<L 785:2> <C 500_ITEM> Jt<A >em</A>, <C 21_TIELE> thie[lemanne] <q> [...] <C 309_3> .iij. <C 19_SOLIDUS> sol <C 700_TE> te <C 251_GAAN> gane <C 700+20_TE+UTRECHT> tutrecht. 
+<L 785:3> <C 500_ITEM> Jt<A >em</A>. <C 20_ARNOUT> arnoud <C 20_VEKERDEI-X> fekerdey <C 221_REKENEN> rekende <C 309_6> .vj. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_15> .xv. <C 19_SOLIDUS> sol, <C 421_DIE> die <C 403_HIJ> hem <C 101_ACHTERSTAL> afterstelle 
+<L 785:4> <C 234_BLIJVEN> bleuen <C 474+700_DE/HET+VAN> vanden <C 1_BIERACCIJNS> biere+assise <C 700_IN> jn, <C 22_DANIEL> Daniels <C 0_AMBACHT> ambacht. 
+<L 785:5> <C 500_ITEM> Jt<A >em</A>. <C 20_PETRUS> piet<A >er</A> <C 4+472_HEER+DE> sh<A >er</A>en <C 22_TIELE> thielemans <C 1_ZOON> sone <C 700+474_VAN+DE/HET> vanden <C 414_ZELF> seluen <C 309_7> .vij. <C 19_LIBRA> lb. <C 800_EN> en<A >de</A> <C 309_14> .xiiij. 
+<L 785:6> <C 19_SOLIDUS> 't3s. 
+<L 785:7> <C 500_ITEM> Jt<A >em</A>. <C 20_WOUTER> wouter <C 21_BONAVENT-X> bonev[ente] <q> [...] <C 700_VAN> [v]an <C 454_ZIJN> sinen <C 14_TURF> toruen. 
+<L 785:8> <C 500_ITEM> Jt<A >em</A>. <C 21_TIELE> Thielema<A >n</A>[ne] <C 309_EEN> [...]j. <C 9_SOLIDUS> sol <C 700_VAN> van <C 455_MIJN> miere <C 4_VROUW> vrouwen <C 700_VAN> van 
+<L 785:9> <C 24_HENEGOUWEN> heneghouwen <C 1_LICHAAM> lechame <q> [...] <C 251_VOEREN> voerne. 
+<L 785:10> <C 500_ITEM> Jt<A >em</A> <C 309_TIEN> .x. <C 19_LIBRA> lb <C 20_NICOLAAS> cla[is] <C 4_OOM> [omen] <C 700_VAN> van <C 1_LIGGEN> lecghene <C 474+700_DE/HET+VOOR> vorden <C 1_GRAAF> graue, <C 421_DIE> die <C 20_NICOLAAS> colijn <C 220_GEVEN> gaf 
+<L 785:11> <C 474+700_DE/HET+VAN> vanden <C 1_ACCIJNS> assise <C 501_EENPAAR> en+pare <C 273_REKENEN> gherekent. <VN type=1> 
+<L 785:12> <C 500_ITEM> Jt<A >em</A>, <C 22_NICOLAAS> clais <C 4_OOM> omen <C 1_INLIGGEN> jn+lecghene <C 701_VOOR> vore <C 474_DE/HET> den <C 1_GRAAF> Graue <C 309_39> .xxxix. <C 19_LIBRA> lb. <C 309_8> viij. <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> 
+<L 785:13> <C 309_6> ,vj. <C 19_DENARIUS> d. 
+<L 785:14> <C 500_ITEM> Jt<A >em</A>, <C 4_HEER> heren <C 21_TIELE> thiele[manne] <C 0_VROUW> [ver] <C 24_MATHILDE> [macht]ilden <C 1_ZOON> sone. <C 4_HEER> heren <C 21_GERARD> Gherarde <C 0_VROUW> ver 
+<L 785:15> <C 24_ADELHEID> alyen <C 1_ZOON> sone, <C 4_HEER> heren <C 24_HUGO> h[ughen] <C 0_VROUW> [ver] <C 24_SIEGRAAD> [zegherad]en <C 1_ZOEN> sone <C 20_JOHANNES> jan <C 474_DE/HET> den <C 0_KEIZER> keiser <C 810_TOEN> doe <C 406_ZIJ> si 
+<L 785:16> <C 224_VAREN> voeren <C 700+474_TE+DE/HET> ten <C 1_BERG> berghe <C 800_EN> en<A >de</A> <q> [...] <C 475_DE/HET> der <C 1_HANDVEST> hantvaste <C 700+474_VAN+DE/HET> vanden <C 1_SCHEPENDOM> scependoeme 
+<L 785:17> <C 309_34> .xxxiiij. <C 19_SOLIDUS> 't3s 
+<L 785:18> <C 500_ITEM> Jt<A >em</A>. <C 474_DE/HET> den <C 0_KLERK> clerc <C 309_20> .xx. <C 19_SOLIDUS> 't3s <C 520_TOEN> doe <C 403_HIJ> hi <C 220_VAREN> voer <C 700_NA> na <C 474_DE/HET> den <C 1_GRAAF> Graue <C 700*_TE> te <C 20_VLAANDEREN> vlaend<A >er</A> <C 700#_WAART> ward. 
+<L 785:19> <C 500_ITEM> Jt<A >em</A> <C 21_JOHANNES> hannekine <C 1_VLAMING> vlami<A >n</A>ghe <C 700_IN> in <C 471_DE> die <C 1_HAAG> haghe <C 309_14> .xiiij. <C 19_DENARIUS> d 
+<L 785:20> <C 500_ITEM> Jt<A >em</A>. <C 700+475_TE+DE> ter <C 11_MINDERBROEDER> minder+br[o]d[er]e <C 700_VAN> van <C 14_HORDE> horden <C 309_20> xx. <C 19_DENARIUS> d. 
+<L 785:21> <C 500_ITEM> Jt<A >em</A>, <C 20_WILHELM> willem <C 21_RAVEN> rau[ene] <q> [...] <q> f <C 700+20_TE+UTRECHT> tutrecht <C 701_OM> omme <C 0_FIJNEMENT> fynement. 
+<L 785:22> <C 500_ITEM> Jt<A >em</A>, <C 20_PETRUS> pieter <q> [...] <C 309_40> xxxx. <C 19_SOLIDUS> sol <C 700_BIJ> bi <C 14_SCHEPEN> scepenen <C 271_HETEN> ghehete. 
+<L 785:23> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 472+4_DE+HEER> sheren <C 2_VESTERT> vas[tra]rds <C 1_KOST> coste <C 309_32> .xxxij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 9_DENARIUS> d, <C 521+403_TOEN+HIJ> doene <C 14_SCHEPEN> scepenen 
+<L 785:24> <C 224_BIDDEN> baden <C 700_TE> te <C 251_ETEN> hetene. 
+<L 785:25> <C 500_ITEM> Jt<A >em</A> <C 700_VAN> van <C 4+472_HEER+DE> sheren <C 22_JOHANNES> jans <C 1_KOST> coste <C 700_VAN> van <C 1_LEDE> leede <C 700_TE> te <C 309_2> .ij. <C 14_STOND> stonden <C 309_42> .xlij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_4> .iiij <C 19_DENARIUS> d. 
+<L 785:26> <C 500_ITEM> Jt<A >em</A> <C 309_6> ,vj. <C 19_SOLIDUS> 't3s <C 700_TE> te <C 24+0_ELISABETH+VROUW> verli[sen] <C 700_VAN> [v]an <C 304_EEN> enen <C 1_LAGELIJN> lagheline <C 2_WIJN> wijns <C 420_DAT> dat <C 10_SCHEPEN> scepen <C 224_DRINKEN> dronken. 
+<L 785:28> <C 500_ITEM> Jt<A >em</A>, <C 700_VAN> van <C 1_TERING> ter[inghe] <C 700_TE> [t]e <C 22_HENDRIK> heinrics <C 4_FRIES> friesen <C 700_VAN> van <C 20_WILHELM> willem <C 2_RAVEN> rauene <C 309_7> vii. <C 19_LIBRA> lb <C 800_EN> & 
+<L 785:29> <C 309_9> .ix. <C 19_SOLIDUS> ['t3s.] <C 800_EN> [&] <C 309_4> iiij. <C 19_DENARIUS> d. 
+<L 785:30> <C 500_ITEM> Jt<A >em</A> <C 471+700_DE+IN> jndie <C 411_ZELF> selue <C 1_HERBERG> herberghe <C 850_DAT> dat <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 0_RAAD> raet <C 224_LIGGEN> laghen <C 309_3> .iij. 
+<L 785:31> <C 11_MAALTIJD> maeltyde <C 21_MICHAEL> ,michiele <C 1_BACHELEER> batchelere <C 309_32> .xxxij. <C 19_SOLIDUS> 't3s. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<datering  jaar_tot='1287' jaar_van='1284' tijdsoort='2' tijdstatus='1'>
+
+<L 785:32> <C 500_ITEM> Jt<A >em</A> <VN type=1> <C 4_HEER> haren <C 24_JACOB> Coppesoeten <q> [...] <C 700_VAN> van <C 454_ZIJN> sinen <C 1_ERF> Erue <C 500+420_ER+DAT> datter <C 100_LEDIG> ledech 
+<L 785:33> <C 220_LIGGEN> lach <C 700+475_TE+DE> ter <C 1_STEEG> steghe <C 700+475_TE+DE> ter <C 4_POORT> porten <C 0_BEHOEF> behoef 
+<L 785:34> <C 500_ITEM> Jtem <C 474_DE/HET> den <C 0_KLERK> Clerc <q> [...] <C 700+474_VAN+DE/HET> vanden <C 1_GELD> ghelde <C 420_DAT> dat <C 403_HIJ> heme <C 471_DE> die <C 10_SCHEPEN> scepen 
+<L 785:35> <C 204_PLEGEN> pleghen <C 250+700_GEVEN+TE> tegheuen <C 810+406_ALS+ZIJ> alsi <C 204_UITGAAN> vt+gaen 
+<L 785:36> <C 500_ITEM> Jt<A >em</A> <C 309_7> .vij. <C 19_LIBRA> lib <C 800_EN> ende <C 309_8> .viij. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 19_DENARIUS> de't3n. <C 421_DIE> die. <C 20_TIELE> Th<A >ieleman</A>. <C 471_DE> die <C 1_FRIES> vriese 
+<L 785:37> <C 221_VERTEREN> verteerde <C 700+700_IN+TE> endit <C 20_JOHANNES> jan <C 0_VROUW> ver <C 24_DIEDWINA> diedewien <C 520_TOEN> doe <C 404_WIJ> wi <C 224_LIGGEN> laghen <C 700_OP> op <C 22_WILHELM> willems <C 22_RAVEN> rauens 
+<L 785:38> <C 0_SCHULD> scult 
+<L 785:39> <C 500_ITEM> Jt<A >em</A> <C 309_47> .xlvij. <C 19_DENARIUS> de't3n <C 421_DIE> die <C 406_ZIJ> si <C 301_VIER> viere <C 700+474_VAN+DE/HET> vanden <C 11_SCHEPEN> scepene <C 800_EN> en<A >de</A> <C 474+700_DE/HET+VAN> vanden <C 1_RAAD> rade 
+<L 785:40> <C 224_VERTEREN> verterden <C 700_IN> in <C 451_ONS> onse <C 0_HUIS> huus <C 520_TOEN> doe <C 406_ZIJ> si <C 224_LIGGEN> laghen <C 700_OP> op <C 24_GIJSBERT> ghiben <C 0_SCHULD> scult 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M1.P.'>
+<end-datering  jaar_tot='1287' jaar_van='1284' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+
+<L 785:41> <C 500_ITEM> Jt<A >em</A> <VN type=1> <C 700_VAN> van <C 810_DAT> dat <C 14_SCHEPEN> [scepen]en <C 474_DE/HET> den <C 14_LOMBARD> lombarden <C 224_LIGGEN> laghen <C 700_TE> te <C 22_JOHANNES> jans <C 0_VROUW> ver <C 21_DIEDE> dieduie 
+<L 785:42> <C 2_ZOON> soens <C 309_51> .li. <C 19_SOLIDUS> sol. <C 800_EN> en<A >de</A> <C 309_TIEN> .x. <C 19_DENARIUS> d. 
+<L 785:43> <C 1_SOM> Su<A >m</A>me <C 309_200> .cc. <C 19_LIBRA> lb <C 309_74> .lxxiiij. <C 19_LIBRA> lb <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 800_EN> & <C 309_8> viij. <C 19_DENARIUS> d 
+<L 786:1> <C 1_SOM> su<A >mme</A> <C 309_269> .cc.lxviiij. <C 19_LIBRA> lb <VN type=1> 
+<L 786:2> <q> [op] <q> [de] <q> [rug] <q> [:] 
+<L 786:3> <C 1_SOM> su<A >mme</A> <C 309_200> cc <C 19_LIBRA> lb <C 309_69> lxviiii <C 19_LIBRA> lb <C 309_4> iiii <C 19_SOLIDUS> 't3s <C 309_4> iiii <C 19_DENARIUS> d <VN type=1> 
+<L 786:4> <C 9_SOM> s<A >umma</A> <C 700_VAN> van <C 324_AL> allen <C 1_UITGEVEN> vte+gheuene <C 309_DUIZEND> .m. <C 19_LIBRA> lb <C 309_600> .dc. <C 19_LIBRA> lb <C 309_29> .xxix. <C 19_LIBRA> lb <C 309_3> .iij. <C 19_SOLIDUS> 't3s <C 309_5> .v. <C 19_DENARIUS> d. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.M2.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

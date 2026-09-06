@@ -1,0 +1,54 @@
+<header>
+<docId>0779</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1278:24> <C 20_AEGIDIUS> Gillis <C 24_FLORIANE> Florianen <C 1_ZOON> zoene 
+<end-datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 1278:25> <q> de <q> ij <C 14_LIJN> lin<A >en</A> 
+<L 1278:26> <q> xxxiiij't! <C 14_ROEDE> r<A >oden</A> <q> terre <q> empte <q> contra <q> x<A >risti</A>lotum <q> filium <q> robins <q> iuxta <q> wailant.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<L 1278:27> <q> de <q> ij <C 14_LIJN> lij<A >nen</A> <q> xxxiiij't! <C 14_ROEDE> R<A >oeden</A> <q> juxta <q> wayland <q> f'ho <q> xcvj. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1278:33> <C 20_DIEDERIK> Thirin <C 0_OOFHAND-X> oefhant <C 20_AEGIDIUS> Gillis <q> filius <C 21_FLORIANE> floriane <C 20_WILHELM> willem <q> filius <C 22_JACOB> coppins <q> filius 
+<L 1278:34> <C 22_ARNOUT> arn<A >ouds</A>. <C 20_SIMON> simon <C 471_DE> die <C 1_VELDER-X> veldere. <C 20_HENDRIK> henric <C 0_MOOIAARD> moiard <C 11_SCHEPEN> scepene <C 700_VAN> van <C 21_GISTEL> Ghistele <C 204_DOEN> doen 
+<L 1278:35> <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 1278:36> <C 810_DAT> dat <C 220_KOMEN> quam <C 700_VOOR> voer <C 404_WIJ> ons <C 20_CHRISTIAAN> karsteloet <q> filius <C 22_ROBERT> robins <C 800_EN> & <C 20_GODLIEF> Godelief <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 800_EN> & <C 224_GEVEN> gauen 
+<L 1278:37> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 474_DE/HET> den <C 1_HEER> here <C 21_PETRUS> pietre <C 700_VAN> van <C 21_ONKEVLIET> onkeuliete <C 1_MONNIK> moneke <C 700_VAN> van <C 101_SINT> sinte 
+<L 1278:38> <C 20_ANDREAS> andries <C 700_BIJ> bi <C 21_BRUGGE> brugge <C 700_TE> te <C 455_ZIJN> sire <C 4_KERK> kerken <C 1_EIGENDOM> eghindome, <C 700_VAN> van <C 300_2> tue <C 14_LIJN> linen <C 800_EN> & <C 309_34,5> xxxiiij't! 
+<L 1278:39> <C 14_ROEDE> Roden <C 2_LAND> lants <C 274_LIGGEN> liggenden <C 700_BIJ> bi <C 474_DE/HET> den <C 1_HOF> houe <C 700_VAN> van <C 100_SINT> sint <C 20_ANDREAS> andries <C 420_DAT> dat <C 440_MEN> men <C 203_HETEN> hetet 
+<L 1278:40> <C 20_WAAILAND> wailant, <C 500_ZUIDWAART> zuudward <C 700_VAN> van <C 414_DIE> dien <C 1_HOF> houe, <C 800_EN> & <C 406_ZIJ> sie <C 221_WEDDEN> weddende <C 510_DAAR> daer <C 474_DE/HET> den <C 1_HEER> here <C 21_PETRUS> pietre 
+<L 1278:41> <C 100_VOORZEID> voerseid <C 100_VRIJ> vri <C 0_LAND> lant <C 800_EN> & <C 101_KWIJT> quite <C 0_LAND> lant <C 800_EN> & <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> warne <C 700_JEGEN> joghen <C 321_ELK> elke <C 1_MENS> mensche 
+<L 1278:42> <C 800_EN> & <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 204_WILLEN> wille<A >n</A> <C 810_DAT> dat <C 410_DIT> dit <C 210_ZIJN> si <C 100_VAST> vast <C 800_EN> & <C 101_GESTADE> ghestade <C 551_ZO> soe <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 410_DIT> dit 
+<L 1278:43> <C 273_ZEGELEN> gheseglet <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsmen 
+<L 1278:44> <C 203_SCHRIJVEN> scriuet <C 450_ZIJN> sijn <C 0_INCARNATIOEN> incarnation <q> m'ho <q> cc'ho <q> lxxx <q> septimo <C 2_DINSDAG> dinsedaghes <C 700_NA> na 
+<L 1278:45> <C 1_PALMZONDAG> palmesoendaghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

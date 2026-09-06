@@ -1,0 +1,106 @@
+<header>
+<docId>1009</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1535:5> <q> .. <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> Hollant <C 204_MAKEN> maken <C 100_KOND> cont <C 800_EN> ende <C 100_KENLIJK> kenleec, <C 321_AL> alle <C 414_DIE> dien 
+<L 1535:6> <C 414_GENE> ghenen, <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 250_ZIEN> zien <C 214_ZULLEN> zullen <C 801_OF> ofte <C 250_HOREN> horen <C 250_LEZEN> lezen, <C 810_DAT> Dat <C 404_WIJ> wi <C 100_SCHULDIG> sculdech <C 214_ZIJN> zijn, 
+<L 1535:7> <C 114_GEESTELIJK> gheestliken <C 14_LIEDEN> lieden, <C 800_EN> ende <C 114_EERACHTIG> eraichteghen, <C 474_DE/HET> den <C 0_COMMANDEUR> Commendoer, <C 800_EN> ende <C 474_DE/HET> den 
+<L 1535:8> <C 14_BROEDER> broderen, <C 474+700_DE/HET+VAN> vanden <C 1+104_HUIS+DUITS> dvitschenhuze <C 700_VAN> van <C 21_KOBLENZ> Covelense, <C 421_DIE> die <C 12_HOUDER> houders <C 214_ZIJN> zijn <C 700_VAN> van 
+<L 1535:9> <C 414_DEZE> desen <C 1_BRIEF> brieve, <C 300_2000> Tvee+duzent <C 10_POND> pont <C 115_HOLLANDS> hollanscher <C 11_PENNING> penninghe, <C 700_TE> te <C 105_GOED> goeder 
+<L 1535:10> <C 1_REKENING> rekeninghe, <C 704_TUSSEN> tuschen <C 404_WIJ> ons, <C 800_EN> ende <C 406_ZIJ> hem, <C 820_GELIJKERWIJS-DAT> gheliker+wijs+dat <C 451_ONS> onse <C 11_BRIEF> brieve 
+<L 1535:11> <C 204_SPREKEN> spreken <C 421_DIE> die <C 404_WIJ> wi <C 406_ZIJ> hem <C 510_HIERVOORMAALS> hier+voermaels <C 610_DAAROP> daer+op <C 274_GEVEN> ghegheven <C 214_HEBBEN> hebben. <C 800_EN> Ende 
+<L 1535:12> <C 471_DE> die <C 301_EEN> ene <C 0_HELFT> helft <C 700_VAN> van <C 414_DEZE> desen <C 14_PENNING> penninghen <C 841_ALS> alze <C 300_DUIZEND> duzent <C 10_POND> pont, <C 411_DIE> die <C 211_ZULLEN> zulle <C 404_WIJ> wi 
+<L 1535:13> <C 250_GELDEN> ghelden <C 800_EN> ende <C 250_BETALEN> betalen, <C 414_DEZE> desen <C 104_VOORGENOEMD> voerghenoemden <C 0_COMMANDEUR> Commendoer <C 700_VAN> van 
+<L 1535:14> <C 21_KOBLENZ> Covelense. <C 801_OF> ofte <C 474_DE/HET> den <C 0_COMMANDEUR> Commendoer <C 474+700_DE/HET+VAN> vanden <C 104+1_DUITS+HUIS> dvitschenhuze <C 700_VAN> van <C 20_UTRECHT> vtrecht 
+<L 1535:15> <C 700_VAN> van <C 455_ZIJN> zire <C 1_WEG> weghe, <C 801_OF> ofte <C 444_WIE> wien, <C 424_DIE> dien <C 403_HIJ> hi <C 203_MAKEN> maket <C 100_GEWAARD> gheward <C 1_BODE> boede <C 700_MET> met <C 454_ZIJN> sinen 
+<L 1535:16> <C 104_OPEN> openen <C 4_LETTER> lettren, <C 704_BINNEN> binnen <C 475_DE/HET> der <C 0_POORT> port <C 700_VAN> van <C 20_DORDRECHT> Dordrecht, <C 701_TOT> tote <C 1_BAAFSMIS> bamisse, <C 420_DAT> dat <C 500_NU> nv <C 500_NAAST> naest 
+<L 1535:17> <C 271_TOEKOMEN> toe+comende <C 210_ZIJN> es. <C 800_EN> Ende <C 471_DE> die <C 311_ANDER> andre <C 0_HELFT> helft <C 700_VAN> van <C 414_DEZE> desen <C 11_PENNING> penninghe, <C 411_DIE> die <C 211_ZULLEN> zulle 
+<L 1535:18> <C 404_WIJ> wi <C 403_HIJ> hem <C 250_GELDEN> ghelden <C 800_EN> ende <C 250_BETALEN> betalen, <C 841_ALS> alze <C 300_DUIZEND> duzent <C 10_POND> pont, <C 701_TOT> tote <C 101_SINT> zente <C 22_MARTIN> martijns <C 1_MIS> misse 
+<L 1535:19> <C 610_DAARNA> daer+na <C 701_VOOR> vore <C 20_MIDWINTER> midden+winter, <C 800_EN> ende <C 500_OOK> oec <C 704_BINNEN> binnen <C 475_DE/HET> der <C 0_POORT> port <C 700_VAN> van <C 20_DORDRECHT> Dordrecht. 
+<L 1535:20> <C 801_MAAR> Mare <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake, <C 810_DAT> dat <C 404_WIJ> wi <C 412_DAT> des <C 560_NIET> niet <C 560_NE> ne <C 224_DOEN> daden, <C 810_DAT> dat <C 404_WIJ> wi <C 560_NIET> niet <C 560_NE> ne <C 224_BETALEN> betaelden, 
+<L 1535:21> <C 411_DEZE> dese <C 300_2000> Tvee+duzent <C 10_POND> pont, <C 700_TE> te <C 105_GOED> goeder <C 1_REKENING> rekeninghe, <C 701_TOT> tote <C 414_DEZE> desen <C 304_TWEE> tveen <C 14_DAG> daghen, 
+<L 1535:22> <C 421_DIE> die <C 614_HIERVOREN> hier+voren <C 273_NOEMEN> ghenoemt <C 214_ZIJN> zijn, <C 841_ALS> alze <C 701_TOT> tote <C 1_BAAFSMIS> bamisse, <C 800_EN> ende <C 101_SINT> zente <C 22_MARTIN> martijns 
+<L 1535:23> <C 1_MIS> misse, <C 414_DEZE> desen <C 104_VOORGENOEMD> voerghenoemden, <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 21_KOBLENZ> Covelense, <C 801_OF> ofte <C 474_DE/HET> den 
+<L 1535:24> <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 700_VAN> van <C 455_ZIJN> zire <C 1_WEG> weghe, <C 801_OF> ofte <C 454_ZIJN> zinen <C 104_GEWAARD> ghewaerden <C 1_BODE> boede, 
+<L 1535:25> <C 421_DIE> die <C 451_ZIJN> zine <C 101_OPEN> opene <C 4_LETTER> lettren <C 221_BRENGEN> broichte, <C 550_ZO> Soe <C 210+404_HEBBEN+WIJ> hebwi <C 403_HIJ> hem <C 610_HIERAF> hier+af <C 700_TE> te <C 1_BORG> borghe <C 273_ZETTEN> ghezeth 
+<L 1535:26> <C 700_MET> met <C 105_GEZAMEND> ghezaemender <C 0_HAND> hant. <C 20_LAMBERT> Lambrecht <C 474_DE/HET> den <C 1_FRIES> vriese <C 0_BURGER> borgher <C 700_VAN> van <C 20_UTRECHT> vtrecht, 
+<L 1535:27> <C 800_EN> ende <C 20_RICHOLD> Rycovt <C 700_VAN> van <C 20_NOORDELOOS> Nordeloes, <C 451_ONS> onse <C 14_KNAAP> knapen, <C 810_DAT> dat <C 406_ZIJ> si <C 250+250_INLIGGEN+VAREN> inne+varen <C 214_ZULLEN> zullen 
+<L 1535:28> <C 250_INLIGGEN> ligghen <C 701_TOT> tote <C 20_DELFT> Delf <C 700_IN> in <C 481_EEN> ene <C 1_HERBERG> herberghe, <C 540_ZO-WANNEER> zoe+wanneer <C 810_DAT> dat <C 403+406_HET+ZIJ> zijs <C 273_MANEN> ghemaent 
+<L 1535:29> <C 214_WORDEN> worden, <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORGENOEMD> voerghenoemden <C 0_COMMANDEUR> Commendoer, <C 801_OF> ofte <C 454_ZIJN> zinen 
+<L 1535:30> <C 104_GEWAARD> ghewaerden <C 1_BODE> boede, <C 466_HEN> hem <C 414_ZELF> zeluen <C 700_TE> te <C 250_WINNEN> winnen, <C 800_EN> ende <C 611_DAARIN> daer+inne, <C 700_TE> te <C 251_ETEN> etene, <C 800_EN> ende 
+<L 1535:31> <C 700_TE> te <C 250_DRINKEN> drinken, <C 800_EN> ende <C 472_DE/HET> des <C 2_NACHT> naichts <C 700_TE> te <C 250_SLAPEN> slapen, <C 800_EN> ende <C 700_TE> te <C 251_BLIJVEN> bliuene, <C 800_EN> ende <C 451_HAAR> hore <C 101_RECHT> rechte 
+<L 1535:32> <C 0_MAALTIJD> maeltijt <C 700_TE> te <C 251_HOUDEN> houdene. <C 501_VOORTAAN> Vordane <C 21_TIELE> Thielmanne <C 0_VROUW> ver <C 24_MATHILDE> magtilden <C 1_ZOON> zoene. 
+<L 1535:33> <C 21_GERARD> Gherarde <C 21_WITKEN?> wittekenne. <C 20_PETRUS> Pieter <C 0_VROUW> ver <C 24_DIBBORG> dibborghen <C 1_ZOON> zoene. <C 21_HENDRIK> Henrike <C 474_DE/HET> den <C 14_FRIES> vriezen. 
+<L 1535:34> <C 21_AEGIDIUS> Gilize <C 22_JACOB> iacobs <C 1_ZOON> zoene. <C 21_JOHANNES> Janne <C 0_VROUW> ver <C 24_DIEDE> dyedwighen <C 1_ZOON> zoene. <C 21_AEGIDIUS> Gilize <C 0_VROUW> ver <C 24_HADEWIG> hadewighen 
+<L 1535:35> <C 1_ZOON> zoene. <C 21_JOHANNES> Janne <C 474_DE/HET> den <C 0_KEIZER> keyzer. <C 21_WOLFBRAND> Wolbrande <C 474_DE/HET> den <C 1_FRIES> vrieze. <C 800_EN> ende <C 24_HENDRIK> heinen <C 22_GERARD> Gheraerts 
+<L 1535:36> <C 22_WITKEN?> wittekens <C 1_ZOON> zoene, <C 451_ONS> onse <C 111_LIEF> lieve <C 111_GETROUW> ghetrouwe <C 11_POORTER> portre <C 700_VAN> van <C 20_DORDRECHT> Dordrecht. <C 810_DAT> Dat <C 406_ZIJ> zi <C 214_ZULLEN> zullen 
+<L 1535:37> <C 250_LIGGEN> ligghen <C 704_BINNEN> binnen <C 304_TWEE> tveen <C 14_HERBERG> herberghen <C 700_IN> in <C 471_DE> die <C 0_POORT> port <C 700_VAN> van <C 20_DORDRECHT> Dordrecht. <C 421_DIE> die <C 406_ZIJ> hem, <C 471_DE> die 
+<L 1535:38> <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 21_KOBLENZ> Covelense. <C 801_OF> ofte <C 471_DE> die <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 700_VAN> van <C 455_ZIJN> zire 
+<L 1535:39> <C 1_WEG> weghe, <C 801_OF> ofte <C 450_ZIJN> zijn <C 101_GEWAARD> ghewaerde <C 1_BODE> boede <C 250_WIJZEN> wizen <C 210_ZULLEN> zal, <C 800_EN> ende <C 611_DAARIN> daer+inne <C 700_TE> te <C 251_ETEN> etene, <C 800_EN> ende 
+<L 1535:40> <C 700_TE> te <C 251_DRINKEN> drinkene, <C 800_EN> ende <C 472_DE/HET> des <C 2_NACHT> naichts <C 700_TE> te <C 251_SLAPEN> slapene, <C 800_EN> ende <C 700_TE> te <C 251_BLIJVEN> bliuene, <C 800_EN> ende <C 451_HAAR> hore 
+<L 1535:41> <C 101_RECHT> rechte <C 0_MAALTIJD> maeltiet <C 700_TE> te <C 251_HOUDEN> hovdene, <C 800_EN> ende <C 466_HEN> hem <C 414_ZELF> zeluen <C 700_TE> te <C 250_WINNEN> winnen, <C 800_EN> ende <C 701_UIT> vte <C 414_DIE> dien 
+<L 1535:42> <C 4_HERBERG> herberghen, <C 800*_ZO> zoe <C 700_TE> te <C 20_DELFT> Delf, <C 800#_ZO> zoe <C 700_TE> te <C 20_DORDRECHT> Dordrecht, <C 440_NIEMAND> nieman <C 700_TE> te <C 251_SCHEIDEN> sceidene, <C 800_NOCH> noch <C 700_TE> te 
+<L 1535:43> <C 250_KEREN> keren, <C 810_EER> Eer <C 414_DEZE> desen <C 104_VOORGENOEMD> voerghenoemden <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 21_KOBLENZ> Covelense, <C 474_DE/HET> Den 
+<L 1535:44> <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 700_VAN> van <C 455_ZIJN> zire <C 1_WEG> weghe, <C 801_OF> ofte <C 454_ZIJN> zinen <C 104_GEWAARD> ghewaerden <C 1_BODE> boede, 
+<L 1535:45> <C 411_DEZE> dese <C 300_2000> Tvee+duzent <C 10_POND> pont, <C 701_TOT> tote <C 414_DEZE> desen <C 304_TWEE> tveen <C 14_DAG> daghen, <C 100_VOL> vol <C 800_EN> ende <C 100_AL> al <C 273_BETALEN> betaelt <C 214_ZIJN> zijn, 
+<L 1535:46> <C 821_ALS> alze <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven <C 210_ZIJN> es. <C 230_ZIJN> Waer <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake, <C 810_DAT> dat <C 440_ENIG> enech <C 0_MAN> man <C 700_VAN> van 
+<L 1536:1> <C 414_DEZE> desen <C 114_VOORGENOEMD> voerghenoemden <C 14_BORG> borghen, <C 510_ALZO> alzoe <C 100_SCHEPPEN> ghescepen <C 221_STAAN> stoede, <C 810_DAT> dat <C 403_HIJ> hi <C 700_DOOR> doer 
+<L 1536:2> <C 2_NOOD> noets <C 1_WIL> wille, <C 801_OF> ofte <C 700_DOOR> doer <C 0_KOOPMANSCHAP> comanscap, <C 481_EEN> ene <C 101_KORT> corte <C 1_WIJL> wile <C 231_MOETEN> moeste <C 500_UIT> vit <C 250_WEZEN> wesen, <C 550_ZO> Soe 
+<L 1536:3> <C 231_ZULLEN> soude <C 403_HIJ> hi <C 500_DAN> dan, <C 484_EEN> enen <C 0_MAN> man <C 700_VOOR> voer <C 403_HIJ> hem <C 260_DOEN> doen <C 250_LIGGEN> ligghen, <C 421_DIE> die <C 510_ALZO> alzoe <C 100_KOSTELIJK> costeliech 
+<L 1536:4> <C 231_ZIJN> ware <C 821_ALS> alze <C 403_HIJ> hi, <C 701_TOT> tote <C 455_ZIJN> zire <C 0_WEERKOMST> weder+coemst, <C 800_EN> Ende <C 540_ZO-WANNEER> zoe+wanneer <C 810_DAT> dat <C 403_HIJ> hi <C 221_WEDERKOMEN> weder+quame, 
+<L 1536:5> <C 550_ZO> zoe <C 231_ZULLEN> zoude <C 403_HIJ> hi <C 472_DE/HET> des <C 312_ANDER> anders <C 2_DAG> daghes, <C 500_WEER> weder <C 260_GAAN> gaen <C 250_LIGGEN> ligghen <C 700_IN> in <C 471_DE> die 
+<L 1536:6> <C 1_HERBERG> herberghe, <C 620*_DAAR-> daer <C 403_HIJ> hi <C 620#_-UIT> vit <C 220_VAREN> voer, <C 700_MET> met <C 502_ANDERS> anders <C 474_DE/HET> den <C 14_BORG> borghen, <C 800_EN> ende <C 250_HOUDEN> hovden <C 451_ZIJN> zine 
+<L 1536:7> <C 1_TROUW> trouwe <C 700_VAN> van <C 1_LIGGEN> ligghene, <C 821_ALS> alze <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven <C 210_ZIJN> es. <C 800_EN> Ende <C 440_NIEMAND> nieman <C 560_NE> ne 
+<L 1536:8> <C 210_MOGEN> mach <C 463_HEM> hem <C 250_ONTSCHULDIGEN> onsculdeghen <C 700_MET> met <C 104_ANDER> andren, <C 830+403_NE+HIJ> hine <C 210_MOETEN> moet <C 250_LIGGEN> ligghen <C 800_EN> ende <C 250_LEESTEN> leisten 
+<L 1536:9> <C 700_ZONDER> sonder <C 250_MERREN> merren, <C 540_ZO-WANNEER> zoe+wanneer <C 810_DAT> dat <C 403+403_HIJ+HET> hijs <C 504_EERSTWERF> irst+verven <C 273_MANEN> ghemaent <C 213_WORDEN> wordet, <C 700_VAN> van 
+<L 1536:10> <C 414_DEZE> desen <C 104_VOORGENOEMD> voerghenoemden <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 1_KOBLENZ> Covelense, <C 801_OF> ofte <C 700_VAN> van <C 454_ZIJN> sinen 
+<L 1536:11> <C 104_GEWAARD> ghewaerden <C 1_BODE> boede. <C 501_VOORTAAN> Vordane <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake, <C 810_DAT> dat <C 404_WIJ> wi <C 560_NIET> niet <C 560_NE> ne <C 224_BETALEN> betaelden, <C 471_DE> die 
+<L 1536:12> <C 300_DUIZEND> Duzent <C 10_POND> pont, <C 700+474_TE+DE/HET> ten <C 314_EERST> irsten <C 1_DAG> daghe <C 701_TOT> tote <C 1_BAAFSMIS> bamisse, <C 821_ALS> alze <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven 
+<L 1536:13> <C 210_ZIJN> es, <C 550_ZO> zoe <C 231_ZULLEN> zoude <C 500_DAN> dan, <C 411_DEZE> dese <C 101_VOORGENOEMD> voerghenoemde <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 21_KOBLENZ> Covelense, 
+<L 1536:14> <C 801_OF> ofte <C 450_ZIJN> zijn <C 101_GEWAARD> ghewaerde <C 1_BODE> boede, <C 500_WEER> weder <C 250_INTREDEN> intreeden <C 501_VRIJELIJK> vrilike, <C 700_ZONDER> sonder <C 442_IEMAND> imans <C 0_WEDERZEGGEN> weder+zegghen 
+<L 1536:15> <C 700_VAN> van <C 4+453_HALF+ONS> onsen+thalven, <C 701_IN> inne <C 470+0_HET+VIERENDEEL> tfirendeel <C 700_VAN> van <C 320_AL> al <C 454_ONS> onsen <C 14_RENTE> renten, <C 800_EN> ende 
+<L 1536:16> <C 11_TOL> tolne, <C 100_ONBEKOMMERD> ombecommert <C 700_VAN> van <C 441_IEMAND> imene, <C 800_EN> ende <C 411_DIE> die <C 250_OPBEUREN> oppe+boren, <C 406+820_ZIJ+ALS> alzi <C 510_HIERVOORMAALS> hier+voermaels 
+<L 1536:17> <C 274_DOEN> ghedaen <C 214_HEBBEN> hebben, <C 820_GELIJKERWIJS-DAT> gheliker+wijs,+dat <C 451_HAAR> hore <C 11_BRIEF> brieve <C 204_SPREKEN> spreken, <C 421_DIE> die <C 404_WIJ> wi <C 403_HIJ> hem <C 504*_HIER-> hier <C 504#_-TEVOREN> te+voren 
+<L 1536:18> <C 611_DAAROP> daer+oppe <C 274_GEVEN> ghegheven <C 214_HEBBEN> hebben. <C 800_EN> Ende <C 610_HIERBIJ> hier+bi <C 550+560_ZO+NE> zoene <C 214_MOGEN> moghen 
+<L 1536:19> <C 463_HEM> heme, <C 411_DEZE> dese <C 111_VOORGENOEMD> voerghenoemde <C 14_BORG> borghen, <C 421_DIE> die <C 404_WIJ> wi <C 403_HIJ> hem <C 273_ZETTEN> ghezeth <C 214_HEBBEN> hebben <C 560_NIET> niet 
+<L 1536:20> <C 250_ONTSCHULDIGEN> onsculdeghen, <C 810_DAT> dat <C 406_ZIJ> zi <C 610_HIERBIJ> hier+bi <C 101_KWIJT> quite <C 214_ZULLEN> zullen <C 260_WEZEN> wesen, <C 406+830_ZIJ+NE> zine <C 214_MOETEN> moeten <C 250_LIGGEN> ligghen 
+<L 1536:21> <C 800_EN> ende <C 250_LEESTEN> leisten, <C 820+406_ALS+ZIJ> alzi <C 504_TEVOREN> te+voren <C 224_DOEN> deeden, <C 810_TOE-DIE-TIJD-DAT> toe+dire+tiet,+dat <C 403_HIJ> heme <C 450_HAAR> hoer <C 11_PENNING> penninghe 
+<L 1536:22> <C 501_VOLKOMELIJK> volcomenlike <C 214_ZIJN> zijn <C 273_BETALEN> betaelt. <C 501_VOORTAAN> Vordane <C 550_ZO> zoe <C 201_WILLEN> wille <C 404_WIJ> wi, <C 810_DAT> dat <C 321_AL> alle <C 411_DEZE> dese 
+<L 1536:23> <C 111_VOORGENOEMD> voerghenoemde <C 14_VOORWAARDE> vorwaerden, <C 421_DIE> die <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven <C 214_ZIJN> zijn, <C 700_IN> in <C 414_DEZE> desen 
+<L 1536:24> <C 1_BRIEF> brieve, <C 704_TUSSEN> tuschen <C 404_WIJ> ons, <C 800_EN> ende <C 474_DE/HET> den <C 0_COMMANDEUR> Commendoer <C 700_VAN> van <C 21_KOBLENZ> Covelense, <C 801_OF> ofte <C 454_ZIJN> zinen 
+<L 1536:25> <C 104_GEWAARD> ghewaerden <C 1_BODE> boede, <C 560_NIET> niet <C 250_SCHADEN> scaden, <C 800_NOCH> noch <C 250_LETTEN> letten <C 214_MOGEN> moghen, <C 701_AAN> ane <C 454_ONS> onsen <C 314_EERST> irsten 
+<L 1536:26> <C 4_BRIEF> brieven <C 421_DIE> die <C 404_WIJ> wi <C 403_HIJ> heme <C 274_GEVEN> ghegheven <C 214_HEBBEN> hebben, <C 800_EN> ende <C 701_AAN> ane <C 474_DE/HET> den <C 14_BORG> borghen, <C 421_DIE> die <C 404_WIJ> wi 
+<L 1536:27> <C 403_HIJ> heme <C 610_DAARAF> daer+af <C 273_ZETTEN> ghezeth <C 214_HEBBEN> hebben, <C 406+830_ZIJ+NE> zine <C 214_BLIJVEN> bliven <C 100_MACHTIG> machtich <C 821_ALS> alze <C 504_TEVOREN> te+voren, <C 810_TOE-DIE-TIJD-DAT> toe+dire+tiet,+dat 
+<L 1536:28> <C 404_WIJ> wi <C 403_HIJ> heme <C 451_HAAR> hoere <C 11_PENNING> penninghe <C 214_HEBBEN> hebben <C 273_BETALEN> betaelt. <C 501_VOORTAAN> Vordane, <C 404_WIJ> wi <C 20_FLORENTIUS> Florens 
+<L 1536:29> <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> Hollant, <C 800_EN> Ende <C 404_WIJ> wi <C 14_BORG> borghen <C 321_AL> alle <C 501_GEMEENLIJK> ghemeenlike, <C 421_DIE> die <C 614_HIERVOREN> hier+voren 
+<L 1536:30> <C 273_NOEMEN> ghenoemt <C 214_ZIJN> zijn, <C 204_VERTIEN> vertien <C 442_AL> alles <C 102_GEESTELIJK> gheistlijchs <C 2_RECHT> rechts, <C 102_WERELDLIJK> waerlijchs <C 2_RECHT> rechts, 
+<L 1536:31> <C 1_HEERVAART> hervaerde, <C 801_OF> ofte <C 2_HEERSCHAP> heerscaps <C 0_GEBOD> ghebot, <C 801_OF> ofte <C 111_ENIGERHANDE> engherhande <C 11_BRIEF> brieve, <C 421_DIE> die <C 404_WIJ> wi <C 500_NU> nv 
+<L 1536:32> <C 204_HEBBEN> hebben, <C 801_OF> ofte <C 500_NAMAALS> namaels <C 250_GEKRIJGEN> ghekrighen <C 234_MOGEN> moichten, <C 801_OF> ofte <C 440_ZO-WAT> zoe+wat <C 14_ZAAK> saken, <C 421_DIE> die 
+<L 1536:33> <C 440+600_MEN+ERTOE> menre+toe <C 250_TREKKEN> trecken <C 231_MOGEN> moichte, <C 810_DAT> dat <C 404_WIJ> ons <C 481_NEGEEN> ne+ghene <C 1_ZAAK> zake <C 250_HELPEN> helpen <C 210_MOGEN> mach, <C 800_NOCH> noch 
+<L 1536:34> <C 250_BESCHERMEN> bescermen, <C 830+404_NE+WIJ> wine <C 214_ZULLEN> zullen <C 250_LIGGEN> ligghen, <C 800_EN> ende <C 250_LEESTEN> leisten, <C 861_ALS> alze <C 111_GETROUW> ghetrouwe <C 14_BORG> borghen, <C 700_IN> in 
+<L 1536:35> <C 320_AL> al <C 414_DIE> dien <C 14_MANIER> maniren, <C 820_GELIJKERWIJS-DAT> gheliker+wijs+dat <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven <C 210_ZIJN> es. <C 800_EN> Ende <C 404_WIJ> wi 
+<L 1536:36> <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> Hollant, <C 800_EN> ende <C 404_WIJ> wi <C 14_BORG> borghen <C 321_AL> alle <C 501_GEMEENLIJK> ghemeenlike, <C 421_DIE> die <C 614_HIERVOREN> hier+voren 
+<L 1536:37> <C 501_DIKKE> dicke <C 273_NOEMEN> ghenoemt <C 214_ZIJN> zijn, <C 204_GELOVEN> gheloeven <C 700_VOOR> voer <C 464_ONS> ons, <C 800_EN> ende <C 701_VOOR> vore <C 451_ONS> onze 
+<L 1536:38> <C 14_ERFNAAM> erfnamen, <C 474_DE/HET> den <C 0_COMMANDEUR> Commendoer, <C 800_EN> ende <C 474_DE/HET> den <C 14_BROEDER> broederen <C 700_VAN> van <C 21_KOBLENZ> Covelense, <C 801_OF> ofte 
+<L 1536:39> <C 454_HAAR> horen <C 104_GEWAARD> ghewaerden <C 1_BODE> boede, <C 101_WETTELIJK> wittelike <C 800_EN> ende <C 101_TROUWELIJK> trouwelike, <C 101_VAST> vaste <C 800_EN> ende <C 101_GESTADE> ghestade 
+<L 1536:40> <C 700_TE> te <C 251_HOUDEN> hovdene, <C 321_AL> alle <C 411_DEZE> dese <C 14_VOORWAARDE> vorwaerden, <C 421_DIE> die <C 614_HIERVOREN> hier+voren <C 274_SCHRIJVEN> ghescreven <C 800_EN> ende 
+<L 1536:41> <C 273_NOEMEN> ghenoemt <C 214_ZIJN> zijn. <C 700_IN> Jn <C 1_OORKONDE> orconde <C 800_EN> ende <C 700_IN> in <C 4_GESTADIGHEID> ghestadecheden <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dingen, 
+<L 1536:42> <C 550_ZO> zoe <C 404+210_WIJ+HEBBEN> hebwi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> Hollant, <C 800_EN> ende <C 404_WIJ> wi <C 14_BORG> borghen, <C 414_DEZE> desen <C 0_BRIEF> brief <C 260_DOEN> doen 
+<L 1536:43> <C 250_BEZEGELEN> bezeghelen <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen. <C 411_DEZE> Deze <C 0_BRIEF> brief <C 230_WORDEN> waert <C 274_GEVEN> ghegheven <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 452_ONS> ons 
+<L 1536:44> <C 4_HEER> heren <C 850+440_ALS+MEN> alsmen <C 203_SCHRIJVEN> scrivet. <C 300_1000-290> Duzent.+Tveehondert.+ende+Neghentech. <C 472_DE/HET> des 
+<L 1536:45> <C 2_ZATERDAG> zaterdaghes, <C 701_VOOR> vore <C 474_DE/HET> den <C 0_ZONDAG> zonnendach, <C 850_ALS> als <C 440_MEN> men <C 203_ZINGEN> zinghet, <C 29_OCULI-MEI-SEMPER> Oculi+mei+semper. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,37 @@
+<header>
+<docId>1712</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='38' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2560:13> <C 0_VERKRIJG> vercrijgh <C 700_VAN> van <C 0_HUIS> huijs <C 800_EN> en<A >de</A> <C 0_HOF> hoff <C 274_LIGGEN> gelegen <q> tot 
+<L 2560:14> <q> Cortenbergh <C 700_OP> op <C 471_DE> de <q> heijde. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='38' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2560:19> <C 410_DAT> Dat <C 210_ZIJN> si <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 801_OCHTE> ochte <C 250_HOREN> hore<A >n</A>. <C 810_DAT> dat 
+<L 2560:20> <C 220_KOMEN> qua<A >m</A> <C 21_CATHARINA> kateline <C 421_DIE> die <C 230_ZIJN> was <C 22_JOHANNES> jans <C 0_WIJF> wiif <C 421_DIE> die <C 440_MEN> men <C 203_HETEN> hiet <C 700_VAN> va<A >n</A> <C 20_MALINES?> maliin <C 701_VOOR> vore <C 404_WIJ> ons 
+<L 2560:21> <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> va<A >n</A> <C 21_ERPS> erpse. <C 800_EN> en<A >de</A> <C 220_GEVEN> gaf <C 480_EEN> een <C 0_HUIS> hues <C 800_EN> en<A >de</A> <C 480_EEN> een <C 0_HOF> hof <C 474_DE/HET> den <C 1_GODSHUIS> goetshuse <C 700_VAN> va<A >n</A> 
+<L 2560:22> <C 21_KORTENBERG> corte<A >n</A>berge <C 700_IN> i<A >n</A> <C 4_AALMOES> almoessene<A >n</A> <C 701_VOOR> vore <C 451_HAAR> hare <C 1_ZIEL> ziele <C 800_EN> en<A >de</A> <C 701_VOOR> vore <C 452_HAAR> hars <C 2_MAN> mans <C 1_ZIEL> ziele. 
+<L 2560:23> <C 510_ALZO> alsoe <C 820+403_ALS+HET> alst <C 274_LIGGEN> gelege<A >n</A> <C 210_ZIJN> es <C 700_IN> i<A >n</A> <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> va<A >n</A> <C 21_KORTENBERG> cortenberge <C 701_VOOR> vore <C 22_WOUTER> wouters <C 700_VAN> va<A >n</A> 
+<L 2560:24> <C 21_KEERBERGEN> keerberge <C 700_OP> op <C 471_DE> die <C 1_HEIDE> heide <C 420_DAT> dat <C 1_HAVE> haue <C 200_ZIJN> es <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 451_HAAR> hare <C 14_JAARSCHAAR> jaerscare<A >n</A> <C 224_ZIJN> ware<A >n</A> 
+<L 2560:25> <C 474+700_DE/HET+VAN> va<A >n</A>den <C 1_GODSHUIS> goetshuse <C 700_VAN> va<A >n</A> <C 21_KORTENBERG> cortenberge <C 800_EN> en<A >de</A> <C 220_SCHELDEN> scout <C 101_KWIJT> q<A >ui</A>te <C 451_HAAR> hare <C 14_JAARSCHAAR> jaerscare<A >n</A>. <C 800_EN> En<A >de</A> 
+<L 2560:26> <C 810_OMDAT> ombe+dat <C 410_DIT> dit <C 0_GESTADIGHEID> gestedecheit <C 210_ZULLEN> sal <C 250_HEBBEN> hebben <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 14_SCHEPEN> scepene<A >n</A> <C 410_DIT> dit 
+<L 2560:27> <C 273_ZEGELEN> gesegelt <C 700_MET> met <C 454_ONS> onsen <C 104_GEMEEN> gemeine<A >n</A> <C 1_ZEGEL> segele. <C 411_DEZE> Dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> gemaect <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 452_ONS> ons 
+<L 2560:28> <C 4_HEER> here<A >n</A> <C 810_TOEN> doen <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 309_1298> .m'ho.+.cc'ho.+xcviii. <C 2+472_ZONDAG+DE> tsondages <C 701_VOOR> vore <C 0_KERSTDAG> kersdach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='38' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='38' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

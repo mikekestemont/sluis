@@ -1,0 +1,43 @@
+<header>
+<docId>1411</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2174:39> <C 700_TE> te <q> ecloe <q> xx <C 19_SOLIDUS> s. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2174:44> <C 404_WIJ> Wi <C 20_JOHANNES> jan <q> .f. <C 22_NICOLAAS> clais <C 20_WILHELM> willem <C 20_GIJS> ghiselin <C 800_EN> en<A >de</A> <C 20_WOUTER> wouter <q> .f. <C 22_WOUTER> weitsoeds <C 14_SCHEPEN> scepenen <C 700_IN> in 
+<L 2174:45> <C 20_EEKLO-WEST> Eclo+west <C 204_DOEN> doen <C 251+700_WETEN+TE> tewetene <C 324_AL> allen <C 421_DIE> die <C 204_ZIJN> sin <C 800_EN> en<A >de</A> <C 214_ZULLEN> zullen <C 250_ZIJN> sin. <C 810_DAT> Dat <C 700_VOOR> vor <C 404_WIJ> ons 
+<L 2175:1> <C 224_KOMEN> camen <C 20_ADELINDE> adelin <VN type=1> <C 1_WEDUWE> wedewe <C 22_LAMBERT> la<A >m</A>mins <C 2_VLAMING> vlamincs <C 20_GIJS> ghiselin <C 800_EN> en<A >de</A> <C 20_JOHANNES> ha<A >n</A>nin <C 451_HAAR> hare 
+<L 2175:2> <C 10_KIND> kinder <C 800_EN> en<A >de</A> <C 224_GEVEN> ghauen <C 21_GIJS> ghiseline <C 474_DE/HET> de<A >n</A> <C 1_KETELBOETER> ketelboetre <C 101_WETTELIJK> wettelike <C 1_GIFT> ghiifte <C 700_VAN> van <C 301_6> sesse 
+<L 2175:3> <C 14_GEMET> ymeten <C 2_LAND> lants <C 271_LIGGEN> lighende <C 700_BINNEN> bi<A >n</A>nen <C 475_DE/HET> der <C 1_KEUR> kuere <C 700_VAN> van <C 20_EEKLO> eclo <C 704_TUSSEN> tuschen <C 22_LAMBERT> lamsins 
+<L 2175:4> <C 22_DANIEL> danins <C 800_EN> en<A >de</A> <C 24_BELIE> belien <C 2_WISSEL> wissels <C 700_AAN> an <C 471_DE> de <C 1_WESTZIJDE> west+side <C 700_VAN> van <C 454_HAAR> haren <C 1_LAND> lande <C 700_VAN> van <C 474_DE/HET> den 
+<L 2175:5> <C 1_WEG> weghe <C 701_TOT> tote <C 474_DE/HET> den <C 1_WATERGANG> waterghanghe <C 800_EN> en<A >de</A> <C 412_DIE> dies <C 224_GELOVEN> gheloueden <C 471_DE> die <C 1_WEDUWE> wedewe <C 800_EN> en<A >de</A> 
+<L 2175:6> <C 451_HAAR> hare <C 10_KIND> kinder <C 110_VOORZEID> vorseit <C 414_DIE> dien <C 21_GIJS> ghiseline <C 100_VOORZEID> vorseit <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> warne <C 700_MET> met <C 472+4_DE+GRAAF> tsgrauen 
+<L 2175:7> <C 0_SCHULD> schult <C 800_EN> ende <C 471_DE> die <C 1_WEDUWE> wedewe <C 100_VOORZEID> vorseit <C 800_EN> en<A >de</A> <C 451_HAAR> hare <C 10_KIND> kinder <C 403+224_HET+GAAN> ghinghens <C 501_WETTELIJK> wettelike 
+<L 2175:8> <C 504*_TE-> te <C 504#_-BUITEN> buten <C 800_EN> en<A >de</A> <C 411_DIE> die <C 20_GIJS> ghiselin <C 471_DE> de <C 1_KETELBOETER> ketelboetre <C 230+403_WORDEN+HET> warts <C 100_ERFACHTIG> ervactegh <C 800_EN> en<A >de</A> <C 220+403_GAAN+HET> ghincs 
+<L 2175:9> <C 501_WETTELIJK> wettelike <C 504*_TE-> te <C 504#_-BINNEN> bi<A >n</A>nen. <C 500_VOORT> Vort <C 550_ZO> so <C 220_KOMEN> quam <C 411_DIE> die <C 20_GIJS> ghiselin <C 471_DE> de <C 1_KETELBOETER> ketelboetre <C 800_EN> en<A >de</A> 
+<L 2175:10> <C 220+403_GEVEN+HET> ghauet <C 415_DIE> diere <C 4_WEDUWE> wedewen <C 800_EN> en<A >de</A> <C 454_HAAR> haren <C 14_KIND> kindren <C 700_TE> te <C 104_ERFELIJK> erveleken <C 1_CIJNS> tsense <C 701_OM> o<A >m</A>me 
+<L 2175:11> <C 300_20> tuintegh <C 11_SCHELLING> scheleghe <C 2_JAAR> jars <C 111_VLAAMS> vlamesche <C 700_TE> te <C 251_GELDEN> gheldene <C 700+324_TE+ELK> telken <C 101_SINT> sente <C 1_BAAFSMIS> bamesse <C 272_WEGDRAGEN> og+draghe<A >n</A>s 
+<L 2175:12> <C 800_EN> en<A >de</A> <C 471_DE> die <C 1_WEDUWE> wedewe <C 800_EN> en<A >de</A> <C 451_HAAR> hare <C 10_KIND> kinder <C 214_ZULLEN> sullen <C 411_ZELF> selue <C 250_GELDEN> ghelden 
+<L 2175:13> <C 472+4_DE+GRAAF> tsgrauen <C 0_SCHULD> schult. <C 700_IN> Jn <C 4_OORKONDSCHAP> orconscepen <C 700_VAN> van <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 410_DAT> dat <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 811_ALS> alse 
+<L 2175:14> <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 452_ONS> ons <C 4_HEER> heren <C 0_CARNATIOEN> carnatioen <C 300_1294> tuelef+hondert+en<A >de</A>+viere+en<A >de</A>+neghentegh 
+<L 2175:15> <C 10_JAAR> jar <C 700_IN> in <C 21_PALMZONDAG> palme+sondaghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

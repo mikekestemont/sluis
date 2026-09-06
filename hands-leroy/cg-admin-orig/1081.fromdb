@@ -1,0 +1,58 @@
+<header>
+<docId>1081</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1673:32> <C 700_VAN> va<A >n</A> <C 1_MAKELAARDIJ> makelaerdie. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1673:38> <C 411_DEZE> Dese <C 11_KEUR> core <C 214_ZIJN> sijn <C 274_UITGEVEN> vut+ghegheuen. <C 474+700_DE/HET+BIJ> biden <C 0_BALJUW> baliu. <C 1_RECHTER> Rechtere. <C 14_SCHEPEN> Scepenen. <C 800_EN> ende 
+<L 1673:39> <C 11_RAADSMAN> Raesmanne <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 800_EN> Ende <C 214_HEBBEN> hebben <C 510_ALZO> al+soe <C 274_OVEREENDRAGEN> ouer+een+ghedraghen. 
+<L 1673:40> <C 101_VAST> vaste <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 700_TE> te <C 251_HOUDEN> houdene. <C 700_IN> Jn <C 475_DE/HET> der <C 4_MANIER> manieren <C 700_VAN> van <C 324_AL> allen <C 14_MAKELAARDIJ> makelardien 
+<L 1673:41> <C 421_DIE> die <C 440_MEN> men <C 203_DOEN> doet <C 704_BINNEN> binnen <C 475_DE/HET> der <C 1_STAD> stede. <C 440_ZO-WIE> So+wie <C 410_DAT> dat <C 201_WILLEN> wille <C 210_MOGEN> mach <C 463_HEM> hem 
+<L 1673:42> <C 250_ONDERWINDEN> onderwinden <C 1_MAKELAAR> makelare <C 700_TE> te <C 261_WEZEN> wesene <C 421_DIE> die <C 0_POORTER> poert<A >er</A> <C 210_ZIJN> es. <C 210_ZIJN> Si <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 403_HIJ> hi 
+<L 1673:43> <C 250_BERECHTEN> berechten <C 210_KUNNEN> kan <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 203_INKOPEN> in+coept. <C 800_EN> en<A >de</A> <C 421_DIE> die <C 203_VERKOPEN> vercoept. <C 800_EN> Ende <C 440_WAT> wat 
+<L 1673:44> <C 14_MAKELAAR> makelaren <C 420_DAT> dat <C 221_VERSPREKEN> versprake <C 484_EEN> enen <C 104_ANDER> andren <C 1_MAKELAAR> makelare <C 810_OMDAT> ombe+dat <C 403_HIJ> hi <C 463_HEM> hem 
+<L 1673:45> <C 250_GENEREN> gheneren <C 231_WILLEN> wilde <C 501_GELIJK> ghelike <C 403_HIJ> hem <C 700_MET> met <C 4_MAKELAARDIJ> makelardien. <C 800_EN> Ende <C 403_HET> des <C 273_BETUIGEN> betuucht 
+<L 1673:46> <C 231_WORDEN> wordde <C 700_MET> met <C 304_2> tween <C 114_WETACHTIG> wittachteghen <C 14_OORKONDE> orkonden. <C 234+403_ZIJN+HET> warent <C 11_POORTER> poertre <C 800_OF> jof <C 11_GAST> gaste. <C 411_DIE> die 
+<L 1674:1> <C 231_HEBBEN> hadde <C 273_VERBEUREN> verboert <C 309_TIEN> .x. <C 19_LIBRA> lib. <C 230_ZIJN> Waer <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 403_HIJ> hi <C 451_ZIJN> sine <C 1_BOETE> boete <C 560_NIET> niet <C 560_NE> en 
+<L 1674:2> <C 231_MOGEN> mochte <C 250_GELDEN> ghelden. <C 471_DE> Die <C 0_RECHTER> rechter <C 700_VAN> van <C 475_DE/HET> der <C 1_STAD> stede <C 231_ZULLEN> soude <C 474_DE/HET> den <C 414_GENE> ghenen <C 250_LEGGEN> legghen 
+<L 1674:3> <C 700_IN> in <C 101_ZWAAR> suare <C 1_VANGENIS> vancnesse. <C 800_EN> Ende <C 610#_DAAR-> daer <C 231_ZULLEN> soude <C 403_HIJ> hi <C 610*_-IN> in <C 250_LIGGEN> ligghen <C 511_ALZO> alse <C 101_LANG> langhe <C 1_WIJL> wile <C 810_DAT> dat 
+<L 1674:4> <C 440_MEN> men <C 403_HIJ> heme <C 322_ELK> elkes <C 2_DAG> daghes <C 221_AFSLAAN> af+sloeghe <C 309_12> .xij. <C 19_DENARIUS> d. <C 111_HOLLANDS> hollansche. <C 810_TOT-DE-WIJL-DAT> toter+wilen+dat <C 471_DE> die 
+<L 1674:5> <C 111_VOORZEID> voerseide <C 309_TIEN> .x. <C 10_POND> pont <C 101_KWIJT> quite <C 234_ZIJN> waren. <C 500_VOORT> Voert <C 221_SLAAN> sloeghe <C 480_EEN> een <C 1_MAKELAAR> makelare <C 474_DE/HET> den <C 104_ANDER> andren 
+<L 1674:6> <C 1_MAKELAAR> makelare. <C 810_OMDAT> ombe+dat <C 403_HIJ> hi <C 463_HEM> hem <C 250_ONDERWINDEN> onderwinden <C 231_WILLEN> wilde <C 4_MAKELAARDIJ> makelardien. <C 411_DIE> Die 
+<L 1674:7> <C 221_VERBEUREN> verboerde <C 309_TIEN> .x. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 450_ZIJN> sijn <C 0_AMBACHT> ambocht <C 300_EEN> een <C 0_JAAR> jaer. <C 231_WORDEN> Wordde <C 403_HIJ> hi <C 273_BETUIGEN> betuucht <C 820+403_ALS+HET> alst <C 210_ZIJN> es 
+<L 1674:8> <C 274_VOORSCHRIJVEN> voerscreuen. <C 500_VOORT> Voert <C 221#_-VANGEN> vinghe <C 403_HIJ> hi <C 221*_AAN-> an <C 4_MAKELAARDIJ> makelardien. <C 800_OF> jof <C 221_ONDERWINDEN> onderwonde <C 403+403_HET+HIJ> hise <C 463_HEM> hem 
+<L 1674:9> <C 700_TE> te <C 251_DOEN> doene <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> jare <C 403+850_HET+DAT> dat <C 403_HIJ> hem <C 274_VERBIEDEN> verboden <C 231_ZIJN> ware <C 510_ALZO> alsoe <C 820+403_ALS+HET> alst <C 210_ZIJN> es 
+<L 1674:10> <C 274_VOORSCHRIJVEN> voerscreuen <C 700_TE> te <C 251_DOEN> doene. <C 403_HIJ> hi <C 231_ZULLEN> soude <C 471_DE> die <C 0_POORT> poert <C 250_RUIMEN> rumen <C 300_EEN> een <C 0_JAAR> jaer. <C 500_VOORT> Voert <C 560+550_NE+ZO> sone <C 210_MOETEN> moet 
+<L 1674:11> <C 800_NOCH> noch <C 560_NE> en <C 210_ZULLEN> sal <C 700_OVER> ouer <C 481_EEN> ene <C 1_KOOPMANSCHAP> coepmanscepe <C 250_WEZEN> wesen <C 700_VAN> van <C 325_AL> alre <C 14_MAKELAARDIJ> makelardien. <C 325_MEER> meer 
+<L 1674:12> <C 820_DAN> dan <C 300_TWEE> twee <C 14_MAKELAAR> makelaren. <C 700_OP> op <C 471_DE> die <C 1_BOETE> boete <C 421_DIE> die <C 274_VOORSCHRIJVEN> voerscreuen <C 210_ZIJN> es. <C 500_VOORT> Voert <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake 
+<L 1674:13> <C 810_DAT> dat <C 300+470_EEN+DE> deen <C 1_MAKELAAR> makelare <C 474_DE/HET> den <C 314_ANDER> andren <C 454_ZIJN> sinen <C 0_KOOPMAN> coepman <C 221_BENEMEN> bename. <C 800_OF> jof <C 221_ONTTIËN> ontoghe. 
+<L 1674:14> <C 800_EN> ende <C 403_HET> des <C 273_BETUIGEN> betuucht <C 231_WORDEN> wordde. <C 510_ALZO> alsoe <C 820+403_ALS+HET> alst <C 210_ZIJN> es <C 274_VOORSCHRIJVEN> voerscreuen. <C 411_DIE> die <C 221_ZIJN> ware <C 700_IN> in <C 4_BOETE> boeten 
+<L 1674:15> <C 700_VAN> van <C 309_TIEN> .x. <C 14_POND> ponden. <C 500_VOORT> Voert <C 221_SLAAN> sloghe <C 480_EEN> een <C 1_MAKELAAR> makelare <C 484_EEN> enen <C 0_KOOPMAN> coepman <C 810_OMDAT> ombe+dat <C 403_HIJ> hi 
+<L 1674:16> <C 700_MET> met <C 403_HIJ> hem <C 560_NIET> niet <C 250_KOPEN> coepen <C 560_NE> en <C 231_WILLEN> wilde. <C 800_NOCH> noch <C 250_VERKOPEN> vercoepen. <C 500_UIT> vut <C 800_NOCH> noch <C 500_IN> in. <C 411_DIE> Die 
+<L 1674:17> <C 221_VERBEUREN> ver[b]oerde <C 309_TIEN> .[x.] <C 19_LIBRA> lib. <C 231_WORDEN> wordde <C 403_HIJ> hi <C 273_BETUIGEN> betuucht <C 820+403_ALS+HET> alst <C 210_ZIJN> es <C 274_VOORSCHRIJVEN> voerscreuen. <C 411_DEZE> Dese <C 14_KEUR> coren 
+<L 1674:18> <C 214_ZULLEN> selen <C 250_STAAN> staen <C 810+406_TOT-DE-WIJL-DAT+ZIJ> toter+wilen+dattene <C 14_SCHEPEN> scep[enen] <C 440_IET> [y]et <VN type=1> <C 204_WEDERZEGGEN> weder+segghen. <C 700_IN> Jn 
+<L 1674:19> <C 1_OORKONDE> orkonde <C 414_DEZE> desen <C 1_BRIEF> brieue <C 421_DIE> die <C 210_ZIJN> es <C 273_BEZEGELEN> bezeghelt <C 700_MET> met <C 474_DE/HET> den <C 104_KLEIN> clenen <C 1_ZEGEL> zeghele <C 700_VAN> van <C 475_DE/HET> der 
+<L 1674:20> <C 1_STAD> [stede] <C 700_VAN> [van] <C 20_DORDRECHT> dordrecht. <C 421_DIE> Die <C 274_GEVEN> ghegheuen <C 230_ZIJN> was <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 300_1291> .m'ho.cc'ho.+en<A >de</A>.+een.+en<A >de</A>+Neghentich. 
+<L 1674:21> <C 700_IN> jn <C 101_SINT> sente <C 22_LUCAS> lucas <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

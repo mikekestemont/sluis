@@ -1,0 +1,45 @@
+<header>
+<docId>1735</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='2' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2591:22> <q> Littera <q> in <C 109_VLAAMS> flami<A >n</A>go <q> sigillata 
+<L 2591:23> <q> Comitis <q> Guyd<A >onis</A> <q> & <C 29_JOHANNES> Joh<A >ann</A>is <q> Comitis <C 29_HOLLANDIA> Hollandie. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2591:30> <C 404_WIJ> Wj <C 20_GUIDO> Guit <C 1_GRAAF> Graue <C 700_VAN> van <C 24_VLAANDEREN> vlaendren <C 800_EN> Ende <C 1_MARKGRAAF> Marchg<A >ra</A>ue <C 700_VAN> van <C 24_NAMEN> Namen <C 800_EN> Ende <C 404_WIJ> Wi 
+<L 2591:31> <C 20_JOHANNES> Jan <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> holland <C 700_VAN> van <C 20_ZEELAND> zieland <C 800_EN> Ende <C 1_HEER> here <C 700_VAN> van <C 20_FRIESLAND> vrieseland <C 204_MAKEN> maken 
+<L 2591:32> <C 100_KOND> Cont <C 800_EN> Ende <C 100_KENLIJK> kenlic <C 324_AL> allen <C 14_LIEDEN> lieden <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sijn <C 800_EN> Ende <C 250_KOMEN> comen <C 214_ZULLEN> zullen <C 810_DAT> dat <C 500_AL> al <C 210+403_ZIJN+HET> eist 
+<L 2591:33> <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 700_IN> in <C 471_DE> de <C 4_LETTER> lettren <C 271_SPREKEN> sprekende <C 700_VAN> van <C 475_DE/HET> der <C 105_GEMEEN> ghemeenre <C 1_ZOEN> zoune <C 704_TUSSEN> tusschen 
+<L 2591:34> <C 451_ONS> onse <C 300_TWEE> tuee <C 14_GRAAFSCHAP> grafscepen <C 213_STAAN> staet <C 274_SCHRIJVEN> ghescreuen <C 810_DAT> dat <C 441_AL> alle <C 1_SCHADE> scade <C 421_DIE> die <C 700_AAN> an <C 304_BEIDE> beden <C 14_ZIJDE> ziden 
+<L 2591:35> <C 273_GESCHIEDEN> ghescied <C 210_ZIJN> es, <C 210_ZIJN> Es <C 101_KWIJT> quite <C 274_SCHELDEN> ghescolden <C 800_EN> Ende <C 274_VERLATEN> verlaten <C 700+474_TOT+DE> toten <C 1_DAG> daghe <C 850_DAT> dat <C 471_DE> de <C 1_LETTER> lettrre <VN type=1> 
+<L 2591:36> <C 274_GEVEN> ghegheuen <C 230_ZIJN> was <C 700_VAN> van <C 475_DE/HET> der <C 105_GEMEEN> ghemeenre <C 1_ZOEN> zoune, <C 810_DAT> Dat <C 451_ONS> onse <C 1_MENING> meninghe <C 560_NIET> niet 
+<L 2591:37> <C 560_NE> en <C 210_ZIJN> es <C 800_NO> no <C 700_OVER> ouer <C 470+301_DE+EEN> dene <C 1_PARTIJ> partie <C 800_NO> no <C 700_OVER> ouer <C 311+470_ANDER+DE> dandre <C 440+830_MEN+NE-830> menne <C 201_VERZIEN> versie <C 700_IN> in <C 471_DE> de 
+<L 2591:38> <C 14_BORGTOCHT> borechtachten <C 800_EN> Ende <C 700_IN> in <C 471_DE> de <C 11_ARRESTERING> aresteringhe <C 421_DIE> die <C 274_GEVALLEN> gheuallen <C 214_ZIJN> zijn <C 704_TUSSEN> tusscen <C 454_ONS> onsen 
+<L 2591:39> <C 14_GRAAFSCHAP> g<A >ra</A>fscepen <C 700_BIJ> bi <C 114_GOED> goeden <C 14_LIEDEN> lieden <C 700_VAN> van <C 455_ONS> onser <C 305_BEIDE> beder <C 1_RAAD> rade <C 471_DE> de <C 421_WELK> welke <C 404_WIJ> wi <C 204_GELOVEN> gheloeuen 
+<L 2591:40> <C 700_IN> in <C 304_BEIDE> beden <C 14_ZIJDE> ziden <C 610_DAARTOE> daer+toe <C 700_TE> te <C 251_ORDINEREN> ordinerne <C 800_EN> Ende <C 700_TE> te <C 251_ZETTEN> settene <C 610_DAARIN> daer+in <C 700_TE> te <C 251_VERZIEN> versiene 
+<L 2591:41> <C 800_EN> Ende <C 700_TE> te <C 251_BESCHEIDEN> bescedene <C 704_TUSSEN> tusscen <C 404_WIJ> ons <C 304_BEIDE> beden <C 800_EN> Ende <C 474_DE/HET> den <C 114_GOED> goeden <C 14_LIEDEN> lieden <C 700_VAN> van 
+<L 2591:42> <C 455_ONS> onser <C 15_LIEDEN> lieder <VN type=1> <C 1_LAND> lande <C 821_ALS> alse <C 100_REDELIJK> redenlic <C 210_ZIJN> es <C 800_EN> Ende <C 100_MOGELIJK> moghenlic <C 800*_BEIDE> bede <C 404_WIJ> ons <C 800#_EN> Ende <C 474_DE/HET> den 
+<L 2591:43> <C 14_LIEDEN> lieden <C 700_VAN> van <C 454_ONS> onsen <C 1_LAND> lande <C 800_EN> Ende <C 505_IMMER> emmer <C 100_VAST> vast <C 800_EN> Ende <C 101_GESTADE> ghestade <C 281_BLIJVEN> bliuende <C 700_IN> in <C 100_AL> al 
+<L 2591:44> <C 451_HAAR> hare <C 0_KRACHT> cracht <C 800_EN> Ende <C 700_IN> in <C 324_ELK> elken <C 1_PUNT> pointe <C 471_DE> de <C 101_GEZEGELD> ghezeghelde <C 1_LETTER> lettre <C 700_VAN> van <C 475_DE/HET> der 
+<L 2591:45> <C 105_GEMEEN> ghemeenre <C 1_ZOEN> zoune <C 800_EN> Ende <C 411_DEZE> dese <C 14_LETTER> lettren <C 234_ZIJN> waren <C 274_GEVEN> ghegheuen <C 700_TE> te <C 20_BIERVLIET> bierueliet <C 851_ALS> alse 
+<L 2592:1> <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 0_JAAR> jar <C 301_DUIZENTIG-290-EN-8> dusentech+tuee+hondert+Neghentech+Ende+achte 
+<L 2592:2> <C 472_DE/HET> des <C 2_VRIJDAG> vridaechs <C 700_NA> na <C 455_ONS> onser <C 4_VROUW> vrauwen <C 0_DAG> dach <C 700_IN> in <C 21_MAART> maerte 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='2' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

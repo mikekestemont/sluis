@@ -1,0 +1,57 @@
+<header>
+<docId>1428</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2189:39> <C 105_RECHT> recht<A >er</A>e <C 1_SCHOUTHEET> scouthete.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 20_JOHANNES> Jan 
+<L 2189:40> <C 471_DE> de <q> bere <q> .xl. <C 19_SOLIDUS> sol. <q> paime<A >n</A>s.- <q> n<A >e</A>ck<A >er</A>spoel <C 1_PAROCHIE> prochie.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<L 2189:41> <q> lijsb<A >et</A> <C 700+474_VAN+DE/HET> va<A >n</A>de<A >n</A> <q> ghasthuse <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <q> kempe <C 700_VAN> van <C 20_STRAATSBURG> straesborch. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2190:1> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 21_NEKKERSPOEL> neckerspoele <C 20_HENDRIK> heinric <C 20_KARREMAN> kerman <C 20_JOHANNES> jan <C 471_DE> de <C 1_BEER> bere <C 404_WIJ> wi <C 204_DOEN> doen 
+<L 2190:2> <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sin <C 800_EN> en<A >de</A> <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 1_JONKVROUW> joncv<A >rouw</A>e <C 20_ADELHEID> aleit 
+<L 2190:3> <C 2+472_BAKKER+DE> sbackers <C 800_EN> en<A >de</A> <C 1_JONKVROUW> joncv<A >rouw</A>e <C 20_CLEMENTIA> clemencie <C 700_VAN> van <C 21_MALRE> malre <C 214_HEBBEN> hebben <C 274_KRIJGEN> ghecregen <C 475+700_DE+TE> ter 
+<L 2190:4> <C 4_KIST> kisten <C 0_BEHOEF> bouf <C 470+700_HET+IN> int <C 0_BEGIJNHOF> beghiin+hof <C 300_VEERTIG> viertech <C 19_SOLIDUS> 't3s <C 2+472_JAAR+HET> siaers <C 501_ERFELIJK> erfleke <C 511_ALZO> alse <C 415_ZULK> sulker <C 14_MUNT> munten 
+<L 2190:5> <C 821_ALS> alse <C 621*_DAAR-> daer <C 440_MEN> m<A >en</A> <C 621#_-MEDE> mede <C 203_KOPEN> coept <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>coept, <C 704_JEGEN> jegen <C 21_JOHANNES> janne <C 700_VAN> van <C 20_WALEM> walem <C 474_DE/HET> den 
+<L 2190:6> <C 1_SCHEEMAKER-X> scemakere <C 700_OP> op <C 1_ERF> erue <C 420_DAT> dat <C 20_JOHANNES> jan <C 700_VAN> van <C 20_STRAATSBURG> straesborch <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 700_OP> op <C 484_EEN> enen 
+<L 2190:7> <C 0_WEG> wech <C 421_DIE> die <C 203_BEHOREN> behort <C 414+700_DEZE+TE> tesen <C 1_ERF> erue <C 800_EN> en<A >de</A> <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 704_NEVEN> neuen <C 410_DIT> dit <C 1_ERF> erue <C 510_ALZO> also <C 821_ALS> alse <C 20_JOHANNES> ian 
+<L 2190:8> <C 700_VAN> van <C 20_STRAATSBURG> straesborch <C 500_ACHTERWAART> acht<A >er</A>waert <C 203_GAAN> gaet <C 700_TE> te <C 454_ZIJN> sinen <C 1_BEEMD> beemde <C 414_DEZE> desen <C 0_CIJNS> tsens <C 440+210_MEN+ZULLEN> salm<A >en</A> 
+<L 2190:9> <C 250_GELDEN> ghilden <C 471_DE> de <C 301_EEN> ene <C 0_HELFT> helft <C 700_TE> te <C 1_KERSTAVOND> kersauonde <C 800_EN> en<A >de</A> <C 310+470_ANDER+DE> dander <C 0_HELFT> helft <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_MIS> misse 
+<L 2190:10> <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 101_VOORNOEMD> vornomde <C 1_ERF> erue <C 410_DAT> dat <C 210_ZIJN> es <C 274_LIGGEN> ghelegen <C 704_TUSSEN> tusschen <C 20_PETRUS> piet<A >er</A> <C 22_SAGE> sagis <C 800_EN> en<A >de</A> 
+<L 2190:11> <C 22_WOUTER> wouters <C 700_VAN> van <C 474_DE/HET> den <C 1_HOUT> houte <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde <C 0_ERFELIJKHEID> erfliicheit <C 411_DIE> die <C 210_ZIJN> es <C 274_LIGGEN> ghelegen 
+<L 2190:12> <C 704_BINNEN> binnen <C 475_DE/HET> der <C 0_VRIJHEID> vriheit <C 700_VAN> van <C 21_NEKKERSPOEL> neckerspoele <C 800_EN> en<A >de</A> <C 610_DAARIN> daer+in <C 210_ZIJN> es <C 274_KOMEN> comen <C 700_IN> in <C 414_DEZE> desen 
+<L 2190:13> <C 0_CIJNS> tsens <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde <C 1_JONKVROUW> joncv<A >rouw</A>e <C 20_ADELHEID> aleit <C 800_EN> en<A >de</A> <C 1_JONKVROUW> joncv<A >rouw</A>e <C 21_CLEMENTIA> clem<A >en</A>cie <C 700_MET> met 
+<L 2190:14> <C 4_MANIS> manessen <C 472+2_DE+RECHTER> srechters <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_WIJSDOM> wiisdoeme <C 475_DE/HET> der <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 410_DIT> dit 
+<L 2190:15> <C 100_WAAR> waer <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 100_ZEKER> seker <C 550_ZO> so <C 210+404+600*_HEBBEN+WIJ+ER-> hebwiere <C 404_WIJ> wi <C 111_VOORNOEMD> vornomde <C 14_SCHEPEN> scepenen <C 451_ONS> onse <C 1_ZEGEL> seghele <C 600#_-AAN> an 
+<L 2190:16> <C 274_HANGEN> gheangen <C 411_DEZE> dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsm<A >en</A> <C 203_SCHRIJVEN> scriift 
+<L 2190:17> <C 309_1200> .mcc. <C 10_JAAR> jaer <C 800_EN> en<A >de</A> <C 309_95> xcv. <C 0_ANDAG> andach <C 0_SINKSENDAG> tsinxsendach <q> --- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

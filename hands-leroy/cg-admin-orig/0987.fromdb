@@ -1,0 +1,37 @@
+<header>
+<docId>0987</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1509:24> <C 700_IN> jn <q> strate<A >n</A> <C 700+474_VAN+DE/HET> va<A >n</A>de<A >n</A> <q> l <C 19_SOLIDUS> 't3s <C 700+474_VAN+DE/HET> va<A >n</A>de<A >n</A> 
+<L 1509:25> <C 1_HEER> here <q> pouwelse <C 700+474_TE+DE/HET> te<A >n</A> <q> wilde<A >n</A> <q> walle <C 800_EN> en<A >de</A> <C 471_DE> de <C 1_KERK> k<A >er</A>ke <C 700_VAN> va<A >n</A> <C 455_ONS> onser <C 4_VROUW> vrouwe<A >n</A> <C 700_VAN> va<A >n</A> 
+<L 1509:26> <C 21_BRUGGE> brugghe <q> heuet <C 610_DAARAAN> t<A >er</A>+an <q> iii't! <C 9_LIBRA> lb.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> jn <q> straten. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.B.I.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1509:32> <C 410_DIT> Dit <C 210_ZIJN> es <C 0+470_TRANSSCHRIFT+HET> transcrift. <C 700+474_VAN+DE/HET> vanden <C 1_CHARTER> saertre. <C 620_DAARIN> daer+jn <C 204_STAAN> staen. <C 301_6> sesse <C 10_POND> pond <C 472+2_HET+JAAR> sjaers. <C 421_DIE> die <C 471_DE> die 
+<L 1509:33> <C 1_HEER> h<A >er</A>e <C 20_BARTOLOMEUS> mewes <C 0_PROVENSIJN-X> provesiin <C 220_GEVEN> ghaf <C 700_OVER> ouer <C 451_ZIJN> sine <C 1_ZIEL> ziele. <C 475_DE/HET> der <C 1_KERK> kerke <C 700_VAN> van <C 455_ONS> onser <C 4_VROUW> vrouwen. 
+<L 1509:34> <C 300_VIERDEHALF> vierdalf <C 10_POND> pont <C 800_EN> en<A >de</A> <C 700_TE> te <C 101_SINT> sinte <C 24_MARIA> marien <C 24_MAGDALENA> magdalenen. <C 300_VIJFTIG> vichtich <C 11_SCHELLING> sceleghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.B.I.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

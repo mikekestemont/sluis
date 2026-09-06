@@ -1,0 +1,56 @@
+<header>
+<docId>1509</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2294:13> <q> zeue<A >n</A>b<A >er</A>ghen.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 20_BRABANT> brabant. 
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2294:18> <q> .. <C 701_TOT> Tote <C 114_EERACHTIG> Erachtighen <C 14_LIEDEN> lieden <C 800_EN> en<A >de</A> <C 114_VROED> vroeden <C 20_HUGO> hugheman <q> f <C 22_WILHELM> willems <C 1_HEER> here <C 700_VAN> van 
+<L 2294:19> <C 21_ZEVENBERGEN> zeuenberghe <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 10_SCHEPEN> scepen <C 700_VAN> van <C 21_ZEVENBERGEN> zeuenberghe, <C 471_DE> De <C 12_MEESTER> meesters <C 700_VAN> van 
+<L 2294:20> <C 101_SINT> sinte <C 22_JOHANNES> jans <C 0_HUIS> huis <C 800_EN> en<A >de</A> <C 700_VAN> van <C 472+0_DE+HEILIGEGEEST> scelichgheest <C 0_HUIS> huis <C 700_IN> in <C 21_BRUGGE> Brucghe <C 12_BEDRIJVER> Bedriu<A >er</A>s <C 800_EN> en<A >de</A> 
+<L 2294:21> <C 12_REKENAAR> Rekenars <C 475+700_DE+VAN> vander <C 15+115_LIEDEN+GOED> goederlieder <C 1_MOER> moere <VN type=1> <C 700_VAN> van <C 20_BRUGGEAMBACHT> Brucgheambocht <C 421_DIE> die <C 406_ZIJ> si 
+<L 2294:22> <C 204_HEBBEN> hebben <C 21+700_ZEVENBERGEN+TE> tezeuenberghe. <C 404_WIJ> wi <C 204_OORKONDEN> orconden <C 405_GIJ> v <C 700_BIJ> bi <C 454_ONS> onsen <C 4_EED> Ede<A >n</A> <C 860_ALS> als <C 12_ONTVANGER> ontfanghers 
+<L 2294:23> <C 810_DAT> dat <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 610_HIERNA> hier+na <C 274_SCHRIJVEN> ghescreuen <C 214_STAAN> staen <C 214_ZIJN> siin <C 100_SCHULDIG> sculdich <C 11_ACHTERSTAL> acht<A >er</A>stelle <C 700_VAN> van 
+<L 2294:24> <C 454_HAAR> haren <C 1_MOER> moere <C 700_VAN> van <C 20_ZEVENBERGEN> zeuenberghe <C 700_VAN> van <C 14_GESCHOT> ghescoten <C 510_ALZO> also <C 403+820_HET+ALS> alst <C 615_HIERNAAR> hier+naer <C 210_ZIJN> es 
+<L 2294:25> <C 274_SCHRIJVEN> ghescreuen. <C 200+410_ZIJN+DAT> Dats <C 700_TE> te <C 251_WETEN> wetene <C 471_DE> de <C 0_ABT> abt <C 700+474_VAN+DE/HET> vanden <C 21_ZOETENDALE> zoetendale <C 309_44> .xliiij <C 19_SOLIDUS> 't3s <C 309_4,5> iiij't! <C 9_DENARIUS> d, <C 20_NICOLAAS> clais 
+<L 2294:26> <C 700_VAN> van <C 0_VINK> vinc <C 309_4> iiij <C 19_LIBRA> lb <C 309_11> xi <C 19_SOLIDUS> 't3s, <C 20_JOHANNES> jan <C 471_DE> de <C 0_KIK> kic <C 309_24,5> xxiiij't! <C 9_SOLIDUS> 't3s, <C 101_SINT> sinte <C 24_CLARA> claren <C 309_24> xxiiij <C 19_SOLIDUS> 't3s <C 309_9> ix <C 19_DENARIUS> d, 
+<L 2294:27> <C 20_GIJS> Ghiselin <q> f <C 22_JOHANNES> jans <C 309_4> .iiij <C 19_LIBRA> lb <C 309_12> xij <C 19_DENARIUS> d, <C 450_MIJN> miin <C 1_HEER> h<A >er</A>e <C 20_GERARD> gherard <C 471_DE> de <C 0_MOOR> moor <C 309_15> .xv <C 19_LIBRA> lb <C 309_15> xv <C 19_SOLIDUS> 't3s, 
+<L 2294:28> <C 21_KAPPE?> Cappe <C 309_3> .iii <C 19_LIBRA> lb <C 309_5> v <C 19_SOLIDUS> 't3s, <C 20_JOHANNES> jan <C 700_VAN> van <C 20_MAALTE> maelt <C 309_45> .xlv <C 19_SOLIDUS> 't3s <C 450_MIJN> miin <C 1_HEER> h<A >er</A>e <C 20_JOHANNES> jan <C 700_VAN> van <C 21_UITKERKE> vtkerke <C 309_45> .xlv 
+<L 2294:29> <C 19_SOLIDUS> 't3s, <C 450_MIJN> miin <C 1_HEER> h<A >er</A>e <C 20_PETRUS> piet<A >er</A> <C 700_VAN> van <C 21_UITKERKE> vtkerke <C 309_3> iii <C 19_LIBRA> lb, <C 20_BOUDEWIJN> Boidin <C 20_HEURIS-X> hueris <C 309_50> .l. <C 19_SOLIDUS> 't3s. <C 20_SIEGER> zegard <C 471_DE> de <C 0_MAN> man 
+<L 2294:30> <C 309_4> .iiij <C 19_LIBRA> lb, <C 20_DIONYSIUS> Deniis <C 471_DE> de <C 1_BROEKER> Broek<A >er</A>e <C 309_5> v <C 19_LIBRA> lb <C 309_TIEN> x <C 19_DENARIUS> d, <q> vidua <C 20_BOUDEWIJN> boud<A >en</A> <C 22_PIERIN> pierins <C 309_TIEN> x <C 19_SOLIDUS> 't3s <C 20_JOHANNES> jan <C 471_DE> de 
+<L 2294:31> <C 0_KOK> coc <q> de <C 20_MALDEGEM> maldengheem <C 309_15> xv <C 19_SOLIDUS> 't3s, <C 20_GISLAIN> lains <C 700_VAN> van <C 21_SIJSELE> ziesele <C 309_45> xlv <C 19_SOLIDUS> 't3s. <C 21_HUGO> hughe <C 471_DE> de <C 0_RAM> ram <C 309_12> xij <C 19_SOLIDUS> 't3s <C 309_8> viii 
+<L 2294:32> <C 19_DENARIUS> d <C 21_HUGO> hughe <VN type=1> <q> f <C 22_HUGO> hughens <q> f <C 22_LAURENTIUS> lourens <C 309_6> .vi <C 19_LIBRA> lb.. <C 800_EN> En<A >de</A> <C 404_WIJ> wi <C 204_BIDDEN> bidden <C 405_GIJ> v, <C 810_DAT> dat <C 405_GIJ> ghi <C 203_HELPEN> helpt 
+<L 2294:33> <C 21_HUGO> hughe <C 0_STORM> storm <C 424_DIE> dien <C 404_WIJ> wi <C 214_HEBBEN> hebben <C 273_ZETTEN> gheset <C 700_IN> in <C 451_ONS> onse <C 1_STAD> stede <C 810_DAT> dat <C 403_HIJ> hie <C 410_DIT> dit <C 0_GELD> ghelt 
+<L 2294:34> <C 201_GEÏNNEN> ghehinne <C 700_NA> na <C 475_DE/HET> der <C 0_WET> wet <C 700_VAN> van <C 11_ZEVENBERGEN> zeuenberghe <C 510_ALZO> also <C 820_ALS> als <C 440_MEN> men <C 100_SCHULDIG> sculdich <C 210_ZIJN> es <C 251+700_INNEN+TE> thinne, 
+<L 2294:35> <C 800_EN> En<A >de</A> <C 810_OMDAT> omme+dat <C 411_DEZE> dese <C 14_STUK> sticken <C 100_WAARACHTIG> warachtich <VN type=1> <C 214_ZIJN> siin <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 1_LETTER> lettre 
+<L 2294:36> <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 451_ONS> onse <C 14_ZEGEL> zeglen, <C 800_EN> En<A >de</A> <C 404_WIJ> wie <C 20_ARNOUT> arnoud <C 20_BRANTIJN-X> Brantin <C 800_EN> en<A >de</A> <C 20_PETRUS> piet<A >er</A> <C 700_VAN> van 
+<L 2294:37> <C 20_OOSTBURG> oestburch <C 12_MEENTER> meent<A >er</A>s <C 700_VAN> van <C 11_ZEVENBERGEN> zeuenberghe <C 204_OORKONDEN> orconden <C 411_DEZE> dese <C 14_STUK> sticken <C 415_DIE> dier 
+<L 2294:38> <C 1_GELIJK> ghelike <C 810_NADAT> na+dat <C 404_WIJ> wie <C 274_VERSTAAN> verstaen <C 214_HEBBEN> hebben <C 800_EN> en<A >de</A> <C 500+210_ER+HEBBEN> hebbre <C 451_ONS> onse <C 14_ZEGEL> zeglen <C 600_DAARAAN> der+an 
+<L 2294:39> <C 274_HANGEN> ghehanghen <C 700_IN> in <C 1_OORKONDSCHAP> orconscepe, <C 411_DEZE> Dese <C 14_LETTER> lettren <C 234_ZIJN> ware<A >n</A> <C 274_GEVEN> ghegheuen <C 700+474_OP+DE/HET> vpten 
+<L 2294:40> <C 0_ZONDAG> soendach <C 700_NA> na <C 101_SINT> sinte <C 22_PETRUS> pieters <C 800_EN> en<A >de</A> <C 101_SINT> sinte <C 22_PAULUS> pouwels <C 1_DAG> daghe, <C 810_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef 
+<L 2294:41> <C 0+470_INCARNATIOEN+HET> thincarnation <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 300_DUIZENTIG-296> dusentich,+Twe+ondert+en<A >de</A>+ses+en<A >de</A>+Neghentich 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

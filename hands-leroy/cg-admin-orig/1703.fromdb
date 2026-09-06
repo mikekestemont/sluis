@@ -1,0 +1,63 @@
+<header>
+<docId>1703</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='84' plaats_2='' regio_1='7' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 2551:39> <q> venditio <q> dominij <q> de 
+<L 2551:40> <C 21_HUELCHRATH> hilkerode. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='7' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2552:1> <C 404_WIJ> Wj <C 20_DIEDERIK> Diderich <C 20_LOEF> l't2uf <C 700_VAN> van <C 21_KLEVE> Cleue <C 1_HEER> here <C 700_VAN> van <C 21_HUELCHRATH> Hilkerode <C 800_EN> jnde <C 700_VAN> van <C 20_TOMBERG> Thoneburch, 
+<L 2552:2> <C 800_EN> jnde <C 20_ELISABETH> Elizabet <C 451_ONS> vnse <C 0_WIJF> wif <C 1_VROUW> vrouwe <C 700_VAN> van <C 21_HUELCHRATH> hilkerode <C 800_EN> jnde <C 700_VAN> van <C 20_TOMBERG> Thoneburch 
+<L 2552:3> <C 204_MAKEN> maken <C 100_KOND> kunt <C 320+474_AL+DE/HET> alden <C 414_GENE> genen <C 421_DIE> de <C 414_DEZE> desen <C 0_BRIEF> brif <C 250_ZIEN> sin <C 214_ZULLEN> solen <C 801_OF> ofte <C 250_HOREN> horen <C 250_LEZEN> lesen, <C 810_DAT> Dat <C 404_WIJ> wi 
+<L 2552:4> <C 700_MET> mit <C 104_GANSE> ganzen <C 1_RAAD> rade <C 800_EN> jnde <C 700_MET> mit <C 100_VOLKOMEN> volkomen <C 800_EN> jnde <C 104_VRIJ> vrien <C 4_WIL> willen <C 454_ONS> vnsen <C 0_BROEDER> br't2uder <C 800_EN> jnde 
+<L 2552:5> <C 454_ONS> vnsen <C 1_HEER> here <C 4_HEER> heren <C 20_DIEDERIK> Diderich <C 474_DE/HET> den <C 4_GRAAF> Greven <C 700_VAN> van <C 21_KLEVE> Cleue, <C 800_EN> jnde <C 1_VROUW> vore <C 24_MARGARETA> Margareten 
+<L 2552:6> <C 700_VAN> van <C 20_KIBURG> kiburch <C 454_ZIJN> sinen <C 104_WETTELIJK> witteliken <C 1_WIJF> wiue <C 475_DE/HET> der <C 4_GRAVIN> Grevinnen <C 700_VAN> van <C 21_KLEVE> Cleue <C 700_TOT> t't2ut <C 455_HAAR> vrre 
+<L 2552:7> <C 1_OORBOOR> vrbure <C 800_EN> jnde <C 455_HAAR> vrre <C 14_KIND> kinderen <C 500_WETTELIJK> wittelich <C 800_EN> inde <C 500_REDELIJK> redelich <C 273_VERKOPEN> vir+kocht <C 214_HEBBEN> hebben <C 800_EN> jnde 
+<L 2552:8> <C 274_OPDRAGEN> vp+gedragen <C 320_AL> al <C 470_DE> di <C 11_GERECHT> gerichte <C 800_EN> jnde <C 320_AL> al <C 810_DAT> dat <C 0_GOED> g't2ut <C 641_ZO-WAARAAN> so+war+ane <C 403_HET> id <C 274_LIGGEN> gelegin <C 210_ZIJN> is <C 700_AAN> an 
+<L 2552:9> <C 4_RENTE> renten <C 0_HEERSCHAP> heyrsschap <C 800_OF> oft <C 700_AAN> an <C 14_LIEDEN> luden <C 420_DAT> dat <C 404_WIJ> wi <C 224_HEBBEN> hadden <C 800_EN> jnde <C 420_DAT> dat <C 221_BEHOREN> behorde <C 700_TOT> t't2ut <C 474_DE/HET> den 
+<L 2552:10> <C 1_LAND> lande <C 800_EN> jnde <C 454_ONS> vnsen <C 0_HUIS> h't2us <C 700_VAN> van <C 21_HUELCHRATH> hylkerode. <C 800_EN> jnde <C 410_DAT> dat <C 203_LIGGEN> legit <C 700_VAN> van <C 21_NEUSS> Nusse <C 800_EN> jnde <C 700_VAN> van 
+<L 2552:11> <C 20_HUNENVOORDE> hunenvort <C 500_NEDERWAART> niderwert <C 700_TOE> t't2u <C 21_MORS> Morse <C 500_TOE> t't2u. <C 500+810_ALZO+DAT> also+dat <C 404_WIJ> wi <C 440_NEGEEN> engein <C 0_GOED> g't2ut <C 800_NOCHTE> nocht 
+<L 2552:12> <C 0_HEERSCHAP> hersschap <C 421_DIE> de <C 224_GEHOREN> gehorden <C 700_TOT> t't2ut <C 21_HUELCHRATH> hylkerode <C 614_DAARTUSSEN> dar+tuschen <C 250_BEHOUDEN> behalden <C 560_NE> en <C 214_ZULLEN> solen 
+<L 2552:13> <C 800_EN> jnde <C 500_NAMELIJK> nemelich <C 700+474_IN+DE/HET> inden <C 14_KERSPEL> kirsplin <C 700_TOT> t't2ut <C 21_WILLICH> Wilike <C 700_TE> te <C 21_FISCHELN> Vissele <C 21_OSTERATH> Ostrode <C 21_HEERDT> herde <q> Nile 
+<L 2552:14> <C 21_LANK> lanke. <C 800_EN> jnde <C 700_IN> in <C 314_ANDER> and[er]in <C 14_KERSPEL> kirsplin <C 500_NEDERWAART> nederwart <C 700_TOE> t't2u <C 21_MORS> Morse <C 500_TOE> t't2u <C 420_DIE> di <C 700_TE> te <C 21_HUELCHRATH> hilkerode 
+<L 2552:15> <C 224_GEHOREN> gehorden <C 800_OCHTE> och <C 540_WIE> wi <VN type=1> <C 406_ZIJ> si <C 273_NOEMEN> genumit <C 214_ZIJN> sin. <C 800_EN> Jnde <C 810_OMDAT> vmbe+dat <VN type=1> <C 810_DAT> dat <C 406_ZIJ> si <C 100_ZEKER> seker <C 214_ZIJN> sin <C 800_EN> inde 
+<L 2552:16> <C 404_WIJ> wi <C 800_EN> jnde <C 451_ONS> vnse <C 14_ERF> erven <C 560_NIET> nit <C 505_MEER> meyr <C 406_ZIJ> si <C 700_TE> te <C 250_AANTALEN> antalen <C 560_NE> en <C 214_HEBBEN> hebben <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 414_DEZE> desen 
+<L 2552:17> <C 0_BRIEF> brif <C 406_ZIJ> vn <C 274_GEVEN> gegeven <C 273_ZEGELEN> gesegilt <C 700_MET> mit <C 404_WIJ> vnser <C 305_BEIDE> beyder <C 1_ZEGEL> segele. <C 800_EN> jnde <C 214_HEBBEN> hebben <C 274_BIDDEN> gebeden 
+<L 2552:18> <C 451_ONS> vnse <C 0_MOEDER> m't2uder <C 800_EN> jnde <C 451_ONS> vnse <C 1_VROUW> vrouwe <C 4_VROUW> voren <C 20_ADELHEID> Aleyd <C 471_DE> de <C 1_GRAVIN> Grevinne <C 700_VAN> van <C 21_KLEVE> Cleue <C 4_HEER> heren 
+<L 2552:19> <C 21_JOHANNES> Johanne <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 21_CUIJK> kuke, <C 4_HEER> heren <C 20_HENDRIK> henrich <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 475_DE/HET> der <C 1_LEK> lecke, 
+<L 2552:20> <C 4_HEER> heren <C 21_JOHANNES> Johanne <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 24_HEUSDEN> husden, <C 4_HEER> heren <C 21_JOHANNES> Johanne <C 700_VAN> van <C 24_ZUILEN> sulen, <C 800_EN> jnde 
+<L 2552:21> <C 24_ODE> Otten <C 454_ONS> vnsen <C 4_NEEF> neven <C 472_DE/HET> des <C 4_GRAAF> Greven <C 0_ZOON> sun <C 700_VAN> van <C 21_KLEVE> Cleue <C 810_DAT> dat <C 406_ZIJ> si <C 700_MET> mit <C 404_WIJ> vnser <C 305_BEIDE> beyder 
+<L 2552:22> <C 1_ZEGEL> sigele <C 450_HAAR> vr <C 11_ZEGEL> segele <C 204_HANGEN> hangin <C 700_AAN> an <C 414_DEZE> disen <C 0_BRIEF> brif <C 810+403_OMDAT+HET> vmbe+dat <C 700_TE> te <C 105_VAST> vastere <C 800_EN> jnde <C 105_STADIG> stediger <C 210_ZIJN> si, 
+<L 2552:23> <C 800_EN> Jnde <C 404_WIJ> wi <C 20_ADELHEID> Aleyd <C 1_GRAVIN> Grevinne <C 700_VAN> van <C 21_KLEVE> Cleue <C 800_EN> jnde <C 470_DE> di <C 311_ANDER> andere <C 420_DIE> di <C 610_HIERVOOR> hir+v't2ur <C 273_NOEMEN> genumit 
+<L 2552:24> <C 214_ZIJN> sin <C 204_OORKONDEN> vrkunden <C 810_DAT> dat <C 404_WIJ> wi <C 700_OM> vm <C 4_BEDE> beyden <C 4_HEER> heren <C 20_LOEF> l't2uvis <C 700_VAN> van <C 21_KLEVE> Cleue <C 800_EN> jnde <C 0_VROUW> vor 
+<L 2552:25> <C 24_ELISABETH> Elizabetten <C 452_ZIJN> sins <C 2_WIJF> wifs <C 472_DE/HET> des <C 4_HEER> heren <C 800_EN> jnde <C 475_DE/HET> der <C 4_VROUW> vrouwen <C 700_VAN> van <C 21_HUELCHRATH> hylkerode <C 800_EN> jnde 
+<L 2552:26> <C 700_VAN> van <C 20_TOMBERG> Thoneburch <C 451_ONS> vnse <C 1_ZEGEL> segele <C 700_MET> mit <C 474_DE/HET> den <C 454_HAAR> oren <C 214_HEBBEN> hebben <C 274_HANGEN> gehangin <C 700_AAN> an <C 414_DEZE> desen 
+<L 2552:27> <C 0_BRIEF> brif. <C 700+470_IN+HET> Jnt <C 0_JAAR> jar <C 452_ONS> vnses <C 4_HEER> heren <C 440+850_MEN+ALS> asmen <C 203_SCHRIJVEN> scrift. <VN type=1> <C 300_DUIZEND-298> Dusent,+Twey+hundert+jnde+achte+jnde+Negentich 
+<L 2552:28> <C 700_OP> vp <C 101_SINT> sente <C 22_SEVERINUS> Severins <C 1_AVOND> auende. <C 800_EN> Jnde <C 404_WIJ> wi <C 20_WILHELM> Wilhelm <C 1_GRAAF> Greue <C 700_VAN> van 
+<L 2552:29> <C 474_DE/HET> den <C 1_BERG> Berge <C 204_OORKONDEN> vrkunden <C 810_DAT> dat <C 404_WIJ> wi <C 700_OVER> ouer <C 414_DEZE> disen <C 14_STUK> st't2ucken <C 214_HEBBEN> hebbin <C 274_ZIJN> gewesin, <C 800_EN> jnde 
+<L 2552:30> <C 701_OM> vmbe <C 1_BEDE> bede <C 452_ONS> vns <C 2_ZWAGER> swagirs <C 4_HEER> heren <C 20_LOEF> l't2ufs <C 700_VAN> van <C 21_KLEVE> Cleue <C 454_ONS> vnsen <C 0_ZEGEL> sigel <C 274_HANGEN> gehangi<A >n</A> 
+<L 2552:31> <C 214_HEBBEN> hebben <C 700_AAN> an <C 414_DEZE> disen <C 0_BRIEF> brif, <C 274_GEVEN> Gegeven <C 821_ALS> asse <C 504*_HIER-> he <C 504#_-ENBOVEN> in+boven <VN type=1> <C 274_SCHRIJVEN> ge+scri+ven <C 210_ZIJN> is. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2552:53> <C 209_SCHRIJVEN> scrist 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='7' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='84' plaats_2='' regio_1='7' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

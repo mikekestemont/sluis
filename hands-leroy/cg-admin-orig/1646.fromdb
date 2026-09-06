@@ -1,0 +1,118 @@
+<header>
+<docId>1646</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2468:23> <q> Quedam <q> ordinacio <q> siue <q> concordia <q> inter 
+<L 2468:24> <C 29_JOHANNES> jo<A >hannem</A> <q> ducem <C 29_BRABANT> Braban<A >tie</A> <C 29_GODFRIED> Godefridu<A >m</A> <q> Comitem <q> de <C 24_VIANEN> vyane<A >n</A> <q> & 
+<L 2468:25> <C 29_HENDRIK> henricu<A >m</A> <q> de <C 20_AA> Aa <q> dominos <q> de <q> Grymberge<A >n</A>. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2468:33> <C 404_WIJ> Wi <C 20_JOHANNES> jan <C 700_BIJ> bi <C 475_DE/HET> der <C 4_GENADE> gheneden <C 2_GOD> Gods, <C 1_HERTOG> hertoghe <C 700_VAN> van <C 21_LOTRIJK> Lothr<A >ike</A>, <C 700_VAN> van <C 20_BRABANT> Brabant 
+<L 2468:34> <C 800_EN> ende <C 700_VAN> van <C 20_LIMBURG> Lymborch <VN type=1> <q> ,. <C 800_EN> Ende <C 404_WIJ> wi <C 20_GODFRIED> Godeuert <C 1_GRAAF> Greue <C 700_VAN> van <C 24_VIANEN> vyanen, <C 800_EN> Ende <C 404_WIJ> wi 
+<L 2468:35> <C 20_GERARD> Gherart <C 700_VAN> van. <C 20_AA> AA. <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberg<A >hen</A> <C 204_MAKEN> maken <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den 
+<L 2468:36> <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <C 250_ZIEN> sien <C 214_ZULLEN> selen <C 800_EN> ende <C 250_HOREN> horen, <C 810_DAT> dat <C 404_WIJ> wi <C 701_OM> ombe <C 111_ALLERHANDE> alrehande 
+<L 2468:37> <C 11_TWIST> tuiste, <C 800_EN> ende <C 701_OM> ombe <C 111_ALLERHANDE> alrehande <C 14_DONKERNIS> donkernessen <C 700_TE> te <C 251_VERKLAREN> verclaerne <C 800_EN> ende <C 700_TE> te 
+<L 2468:38> <C 251_BESCHEIDEN> bescedene, <C 841_ALS> alse <C 700_VAN> van <C 454_ONS> onsen <C 104_GEMEEN> ghemeinen <C 4_HEERSCHAP> heerscapen <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, 
+<L 2468:39> <C 214_HEBBEN> hebben <C 273_MAKEN> ghemaect <C 800_EN> ende <C 273_WILKEUREN> ghewilcort <C 700_BIJ> bi <C 455_ONS> onser <C 115_GEMEEN> ghemeinre <C 11_VRIEND> vrinde <C 1_RAAD> rade,. <C 411_DEZE> Dese 
+<L 2468:40> <C 11_PUNT> pointe <C 700_TE> te <C 251_HOUDEN> houdene <C 800_EN> ende <C 411_DEZE> dese <C 1_ORDONNANS> ordinance, <C 101_VAST> vaste <C 800_EN> ende <C 100_GESTADIG> ghestadech 
+<L 2468:41> <C 500_IMMERMEER> emm<A >er</A>meer, <C 421_DIE> die <C 610_HIERNA> hier+na <C 274_BESCHRIJVEN> bescreven <C 214_ZIJN> sijn.. <C 410_DAT> Dat <C 200_ZIJN> es <C 700_TE> te <C 251_VERSTAAN> verstane, <C 420+0+810_WELK+TIJD+DAT> weltijt+dat 
+<L 2468:42> <C 404_WIJ> ons, <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 801_OCHTE> ochte <C 454_ONS> onsen <C 14_KNAAP> knapen, <C 471_DE> die <C 1_HERTOG> hertoghe <C 203_ONTBIEDEN> ontbiedt 
+<L 2468:43> <C 701_OM> ombe <C 100_GEMEEN> ghemein <C 1_OORLOG> orloghe, <C 801_OCHTE> ochte <C 701_OM> ombe <C 1_CHEVAUCHIE> cheuachie, <C 550_ZO> so <C 211_ZULLEN> sele <C 404_WIJ> wi <C 14_HEER> h<A >er</A>en <C 700_VAN> van 
+<L 2468:44> <C 24_GRIMBERGEN> Grimberghe<A >n</A> <C 454_ONS> onsen <C 1_HEER> here <C 474_DE/HET> den <C 1_HERTOG> hertoghe <C 250_HELPEN> helpen <C 700_TE> te <C 104_GEMEEN> gheminen <VN type=1> <C 1_OORLOG> orloghe 
+<L 2468:45> <C 700_OP> op <C 454_ONS> onsen <C 0_KOST> cost, <C 800_EN> ende <C 700_TE> te <C 4_CHEVAUCHIE> chyuachien <C 700_OP> op <C 454_ZIJN> sinen <C 0_KOST> cost, <C 700_NA> na <C 451_ONS> onse <C 0_MACHT> macht <C 820_GELIJK-DAT> ghelijc+dat 
+<L 2469:1> <C 403_HIJ> hi <C 404_WIJ> ons <C 203_ONTBIEDEN> ontbiedt,. <C 800_EN> Ende <C 550_ZO> so <C 211_ZULLEN> sele <C 404_WIJ> wi <C 250_HEBBEN> hebben <C 470_HET> dat <C 0_LEIDEN> leiden <C 700_VAN> van <C 4+472_HERTOG+DE> chertoghen 
+<L 2469:2> <C 14_MEISNIEDELIEDEN> maisniede+lieden <C 421_DIE> die <C 704_BINNEN> binnen <C 24_GRIMBERGEN> Grimberghen <C 274_ZITTEN> gheseten <C 214_ZIJN> sijn.. <C 700_IN> jn <C 4_MANIER> manieren 
+<L 2469:3> <C 440_WIE> wie <C 810_DAT> dat <C 500_TUIS> thus <C 221_BLIJVEN> bleue <C 700_VAN> van <C 472+4_DE+HERTOG> chertoghen <C 14_LIEDEN> lieden, <C 801_OCHTE> ochte <C 221_WEDERKEREN> wederkierde <C 422_DIE> dies <C 440_MEN> men 
+<L 2469:4> <C 560_NIET> niet <C 250_GEOORLOVEN> gheorlouen <C 560_NE> en <C 210_MOGEN> mach <C 700_ZONDER> sonder <C 474_DE/HET> den <C 1_HERTOG> hertoghe, <C 471_DE> Die <C 0_MAN> man <C 700+0_TE+HORS> thors <C 221_VERBEUREN> v<A >er</A>borde 
+<L 2469:5> <C 309_TIEN> .x. <C 19_LIBRA> lib. <C 471_DE> Die <C 0_MAN> man <C 700_TE> te <C 0_VOET> voet <C 309_40> .xl. <C 19_SOLIDUS> sol. <C 800_EN> ende <C 500_NOCHTAN> nochtan <C 234+406_MOETEN+ZIJ> moestense <C 500_WEER> weder <C 250_VAREN> varen <C 470+700_HET+IN> int 
+<L 2469:6> <C 1_OORLOG> orloghe,. <C 411_DEZE> Dese <C 0_MISDAAD> mesdaet <C 210_ZULLEN> sal <C 471_DE> die <C 1_HERTOG> hertoghe <C 250_HEFFEN> heffen <C 500_HALF> half, <C 800_EN> ende <C 470+310_DE+ANDER> dander <C 0_HELFT> heleft 
+<L 2469:7> <C 250_LEVEREN> leu<A >er</A>en <C 474_DE/HET> den <C 4_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen., <C 700_UITGENOMEN> vte+ghenomen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die 
+<L 2469:8> <C 700_BOVEN> bouen <C 300_60> sestech <C 10_JAAR> jaer <C 204_ZIJN> sijn, <C 801_OCHTE> ochte <C 421_DIE> die <C 14_NOODZAAK> noetsaken <C 204_HEBBEN> hebben,. <C 501_VOORTAAN> Vort+ane <C 560_NE> en <C 210_MOGEN> mach 
+<L 2469:9> <C 440_NIEMAND> niemen <C 1_MEISNIEDE> maisniede <C 250_TONEN> tonen, <C 830+403_NE+HET> hen <C 200_ZIJN> si <C 475+700_DE+VAN> vander <C 0_MOEDER> moeder <C 4_HALF> haluen. <C 410_DAT> Dat <C 200_ZIJN> es <C 700_TE> te 
+<L 2469:10> <C 251_VERSTAAN> verstane <C 700_VAN> van <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 700+500_TOT+HER> tote+here <C 861_ALS> alse <C 11_MEISNIEDELIEDEN> maisniede+liede <C 560_NIET> niet <C 274_ZITTEN> gheseten 
+<L 2469:11> <C 560_NE> en <C 214_HEBBEN> hebben. <C 800_EN> ende <C 700_VAN> van <C 474_DE/HET> den <C 414_GENE> ghenen <C 403+421_ZIJ+DIE> diese <C 250_BETONEN> betonen <C 214_WILLEN> willen, <C 610_DAARTOE> daer+toe <C 210_MOETEN> moet 
+<L 2469:12> <C 440_MEN> men <C 0_DAG> dach <C 250_ZETTEN> setten <C 475_DE/HET> der <C 14_HEER> heeren <C 14_KNAAP> knapen <C 620_DAARUIT> daer <C 406+406_ZIJ+ZIJ> siese <C 620+250_DAARUIT+TONEN> vte+tonen <C 214_WILLEN> willen,. <C 500_VOORT> Uort 
+<L 2469:13> <C 321_AL> alle <C 411_DIE> die <C 411_GENE> ghene <C 421_DIE> die <C 700_OP> op <C 414_DEZE> desen <C 0_DAG> dach, <C 861_ALS> alse <C 11_MEISNIEDELIEDEN> maisniede+liede <C 274_ZITTEN> gheseten <C 214_HEBBEN> hebben, 
+<L 2469:14> <C 411_DIE> die <C 214+600_ZULLEN+ERTOE> selenre+toe <C 250_BLIJVEN> bliuen, <C 800_EN> ende <C 451_HAAR> hare <C 11_NAKOMELING> Nacomelinghe.,. <C 540+500_WANNEER+OOK> Wanneer+oec <C 810_DAT> dat <C 472_DE/HET> des 
+<L 2469:15> <C 4_HERTOG> hertoghen <C 11_MEISNIEDELIEDEN> maisniede+liede <C 801_OCHTE> ochte <C 451_ZIJN> sine <C 14_POORTER> port<A >er</A>en <C 421_DIE> die <C 700+470_IN+HET> int <C 0_LAND> lant <C 700_VAN> van 
+<L 2469:16> <C 24_GRIMBERGEN> Grimberghen <C 100_WOONACHTIG> wonechtech <C 214_ZIJN> sijn, <C 204_VERBEUREN> verboren <C 406_ZIJ> sie <C 0_LIJF> lijf <C 801_OCHTE> ochte <C 0_GOED> goet.. <C 451_HAAR> hare <C 0_LIJF> lijf <C 800_EN> ende 
+<L 2469:17> <C 451_HAAR> hare <C 1_HAVE> haue <C 214_ZIJN> sijn <C 404_WIJ> wi <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> G<A >ri</A>mberghen, <C 474_DE/HET> den <C 1_HERTOG> hertoghe <C 100_SCHULDIG> sculdech <C 700_TE> te 
+<L 2469:18> <C 251_LEVEREN> leuerne, <C 540_WAAR> waer <C 440+403_MEN+HET> ment <C 250_GEKRIJGEN> ghecrighen <C 210_MOGEN> mach; <C 0_BRAND> Brant, <C 800_EN> ende <C 100_JAARLIJKS> jaerlikes <C 1_VROOM> vrome <C 700_VAN> van 
+<L 2469:19> <C 474_DE/HET> den <C 1_ERF> erue, <C 700_VAN> van <C 1_EIGEN> eighene <C 800_EN> ende <C 700_VAN> van <C 1_LEEN> leene, <C 203_BLIJVEN> blijft <C 474_DE/HET> den <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> Grimberg<A >hen</A>. 
+<L 2469:20> <C 810_TOTDAT> tote+dat <C 406_ZIJ> sie <C 0_PAIS> pais <C 204_MAKEN> maken. <C 800_EN> Ende <C 406+810_ZIJ+ALS> alsie <C 454_HAAR> haren <C 0_PAIS> pais <C 204_HEBBEN> hebben <C 704_JEGEN> jeghen <C 474_DE/HET> den 
+<L 2469:21> <C 1_HERTOG> hertoghe, <C 550_ZO> so <C 214_HEBBEN> hebben <C 403+406_HIJ+ZIJ> siene <C 704_JEGEN> jeghen <C 471_DE> die <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> Grimberg<A >hen</A>, <C 800_EN> Ende 
+<L 2469:22> <C 214_MOETEN> moeten <C 500_WEER> weder <C 250_HEBBEN> hebben, <C 450_HAAR> haer <C 1_ERF> erue, <C 450_HAAR> haer <C 0_EIGEN> eighen <C 800_EN> ende <C 450_HAAR> haer <C 0_LEEN> leen. <C 800_EN> Ende <C 411_DEZE> dese 
+<L 2469:23> <C 1_GELIJK> ghelike <C 204_HEBBEN> hebben <C 475_DE/HET> der <C 14_HEER> heren <C 11_LIEDEN> liede <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 704_JEGEN> jeghen <C 474_DE/HET> den <C 1_HERTOG> hertoghe 
+<L 2469:24> <C 421_DIE> die <C 700_IN> in <C 454_ZIJN> sinen <C 1_LAND> lande <C 274_ZITTEN> gheseten <C 214_ZIJN> sijn, <C 500_VOORT> Vort <C 811_ALS> alse <C 440_MEN> men <C 203_MAKEN> maect <C 111_REDELIJK> redeleke <C 14_KEUR> coren 
+<L 2469:25> <C 700_BIJ> bi <C 14_MAN> mannen <C 800_EN> ende <C 700_BIJ> bi <C 14_SCHEPEN> scepenen <C 701_OM> ombe <C 472_DE/HET> des <C 2_LAND> lants <C 1_OORBAAR> orbore, <C 440+403_ZO-WIE+HIJ> so+wiene <C 203_BREKEN> brect <C 403_HIJ> hi 
+<L 2469:26> <C 403+203_HIJ+BETEREN> betertene <C 474_DE/HET> den <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 700_NA> na <C 474_DE/HET> den <C 1_VONNIS> vonnesse, <C 500_VOORT> Vort <C 420+0+810_WELK+TIJD+DAT> weltijt+dat 
+<L 2469:27> <C 440_MEN> men <C 203_GEBIEDEN> ghebiedt <C 0_BELEID> beleet <C 700+475_UIT+DE> vter <C 4_KERK> kerken, <C 800_EN> ende <C 440_MEN> men <C 410_DAT> dat <C 203_DOEN> doet <C 700_BIJ> bi <C 14_MAN> mannen <C 800_EN> ende 
+<L 2469:28> <C 700_BIJ> bi <C 14_SCHEPEN> scepenen, <C 440_WAT> wat <C 11_MISDAAD> mesdade <C 810_DAT> dat <C 610_DAARAF> daer+af <C 203_VALLEN> valt, <C 511_ALZO> alse <C 501_VER> verre <C 821_ALS> alse <C 1_VONNIS> vonnesse <C 203_DELEN> deilt, 
+<L 2469:29> <C 204_HEFFEN> heffen <C 471_DE> die <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 231_ZIJN> Ware <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 440_ENIG> eenech 
+<L 2469:30> <C 1_POORTER> port<A >er</A>e <C 0_MISDAAD> mesdaet <C 221_VERBEUREN> v<A >er</A>borde <C 700_IN> in <C 474_DE/HET> den <C 1_LAND> lande <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 231_BLIJVEN> bleue <C 403_HIJ> hi 
+<L 2469:31> <C 100_GEVANGEN> ghevaen <C 700+475_MET+DE> metter <C 105_VERS> verscher <C 0_DAAD> daet, <C 810_DAT> dat <C 231_MOETEN> moeste <C 403_HIJ> hi <C 250_BETEREN> bet<A >er</A>en <C 474_DE/HET> den <C 4_HEER> heren <C 700_VAN> van 
+<L 2469:32> <C 24_GRIMBERGEN> Grimberghen, <C 700_NA> na <C 474_DE/HET> den <C 1_VONNIS> vonnesse, <C 800_EN> Ende <C 221_ONTVOEREN> ontvoere <C 403_HIJ> hi <C 701_UIT> vte <C 474_DE/HET> den <C 1_LAND> lande <C 700_VAN> van 
+<L 2469:33> <C 24_GRIMBERGEN> Grimberg<A >hen</A>, <C 800_EN> ende <C 560+500_NE+NIET> niene <C 231_WORDEN> worde <C 273_HACHTEN> ghehacht <C 475+700_DE+MET> mett<A >er</A> <C 105_VERS> verscher <C 0_DAAD> daet, <C 550_ZO> so <C 231_ZIJN> ware 
+<L 2469:34> <C 403_HIJ> hi <C 101_KWIJT> quite <C 704_JEGEN> jeghen <C 471_DE> die <C 14_HEER> h<A >er</A>en <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 500_VOORT> Vort <C 560_NE> en <C 214_MOGEN> moghen <C 472_DE/HET> des 
+<L 2469:35> <C 4_HERTOG> hertoghen <C 14_KNAAP> knapen <C 441_NEGEEN> en+ghene <C 1_HACHT> hachte <C 250_DOEN> doen <C 800_NOCH> noch <C 1_SAISINE> saisine <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_LAND> lande 
+<L 2469:36> <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 100_ONVERZOCHT> onversocht <C 475_DE/HET> der <C 14_HEER> heren <C 14_KNAAP> knapen.. <C 221_ZIJN> Ware <C 500_OOK> oec <C 810_DAT> dat <C 700_VAN> van 
+<L 2469:37> <C 105_GROF> grouer <C 0_MISDAAD> mesdaet <VN type=1> <C 221_GEVALLEN> gheuiele <C 700+470_IN+HET> int <C 0_LAND> lant <C 700_VAN> van <C 24_GRIMBERGEN> Grimb<A >er</A>ghen, <C 445_ZO-WELK> so+welker <C 14_HEER> heren 
+<L 2469:38> <C 14_KNAAP> knapen, <C 810+600_DAT+DAARTOE> datt<A >er</A>+toe <C 224_KOMEN> quamen, <C 406_ZIJ> sie <C 601*+234_ER-+MOGEN> mochtenre <C 471_DE> de <C 0_HAND> hant <C 601#_-AAN> ane <C 250_SLAAN> slaen, 
+<L 2469:39> <C 501_BEHOUDELIJK> behoudeleke <C 322_ELK> elkes <C 4_HEER> heren <C 1_RECHT> rechte.. <C 231_ZIJN> Ware <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 11_LIEDEN> liede <C 224_KOMEN> quamen 
+<L 2469:40> <C 704_BINNEN> binnen <C 474_DE/HET> den <C 104_GEMEEN> ghemeinen <C 1_HEERSCHAP> heerscape <C 700_VAN> van <C 24_GRIMBERGEN> Grimberg<A >hen</A> <C 700_VAN> van <C 700_BUITEN> buten <C 2_LAND> lants, 
+<L 2469:41> <C 520_DAAR> daer <C 471_DE> die <C 1_HERTOG> hertoghe <C 485_NEGEEN> en+gheere <C 4_MEISNIEDE> maisnieden <C 560_NE> en <C 203_VOLGEN> volghet, <C 800_EN> ende <C 421_DIE> die <C 504_TEVOREN> te+voren <C 700+472_TE+DE> tes 
+<L 2469:42> <C 4_HERTOG> hertoghen <C 4_MEISNIEDE> maisnieden <C 560+500_NE+NIET> niene <C 224_HOREN> horden, <C 411_DIE> die <C 214_ZULLEN> selen <C 260_BLIJVEN> bliuen <C 474_DE/HET> den <C 14_HEER> heren <C 700_VAN> van 
+<L 2469:43> <C 24_GRIMBERGEN> Grimberghen.., <C 440+540_WIE+OOK> Wie+oec <C 14_POORTER> port<A >er</A>en <C 700+475_TE+DE> ter <C 4_KAPEL> capellen <C 801_OCHTE> ochte <C 700_TE> te <C 24_VILVOORDE> viluorden <C 260_WORDEN> w<A >er</A>den 
+<L 2469:44> <C 214_WILLEN> willen, <C 406_ZIJ> sie <C 214+403_MOGEN+HET> moghent <C 250_DOEN> doen, <C 700_IN> in <C 4_MANIER> manieren <C 810_DAT> dat <C 406_ZIJ> sie <C 250_PLEGEN> pleghen <C 214_MOETEN> moeten <C 444_AL> alles <C 412_DIE> dies 
+<L 2469:45> <C 620*_DAAR-> daer <C 406_ZIJ> sie <C 504_TEVOREN> tevoren <C 620#_-AF> af <C 273_BEKOMMEREN> beco<A >m</A>mert <C 234_ZIJN> waren, <C 511_ALZO> alse <C 501_VER> verre <C 821_ALS> alse <C 403+440_HET+MEN> ment <C 700_MET> met <C 474_DE/HET> den 
+<L 2470:1> <C 1_VONNIS> vonnesse <C 250_VERREKEN> verreiken <C 210_MOGEN> mach, <C 701_VOOR> vore <C 474_DE/HET> den <C 1_HEER> here <C 620*_DAAR-> daer <C 406_ZIJ> sie <C 504_TEVOREN> te+voren <C 620#_-TOE> toe <C 224_HOREN> horden, <C 810_OPDAT> op+dat 
+<L 2470:2> <C 406_ZIJ> sie <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> jare <C 273_CALANGEREN> ghecalengiert <C 214_WORDEN> werden, <C 800_EN> Ende <C 424_DIE> dien <C 470_HET> dat <C 0_POORTERSCHAP> port<A >er</A>scap 
+<L 2470:3> <C 700_IN> in <C 4_STAD> staden <C 250_STAAN> staen <C 210_ZULLEN> sal. <C 403_HIJ> hi <C 210_MOETEN> moet <C 250_TONEN> tonen <C 700_MET> met <C 14_SCHEPEN> scepenen, <C 800_EN> ende <C 700_OP> op <C 475_DE/HET> der <C 14_SCHEPEN> scepenen 
+<L 2470:4> <C 0_EED> eet, <C 700_OP> op <C 434_WELK> welken <C 0_DAG> dach <C 403_HIJ> hi <C 1_POORTER> port<A >er</A>e <C 230_WORDEN> wart, <C 440+540_WIE+OOK> Wie+oec <C 810_DAT> dat <C 201_WILLEN> wille <C 210_MOGEN> mach <C 463_HEM> hem 
+<L 2470:5> <C 250_ONTPOORTEREN> ontport<A >er</A>en, <C 701_BEHOUDELIJK> behoudeleke <C 475_DE/HET> der <C 1+0_RECHT+POORT> port+rechte, <C 800_EN> ende <C 701_BEHOUDELIJK> behoudeleke <C 474_DE/HET> den 
+<L 2470:6> <C 1_KOMMER> co<A >m</A>mere <C 620*_DAAR-> daer <C 403_HIJ> hi <C 700_OP> op <C 414_DIE> dien <C 0_DAG> dach <C 620#_-AF> af <C 273_BEKOMMEREN> beco<A >m</A>mert <C 210_ZIJN> es.,. <C 540*_WAAR> Waer <C 440_MEN> men <C 540#_OOK> oec <C 203_VAREN> vaert 
+<L 2470:7> <C 700_IN> in <C 1_OORLOG> orloghe, <C 550_ZO> so <C 204_HEBBEN> hebben <C 471_DE> die <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 470_HET> dat <C 0_VOORVECHTEN> vorevechten <C 800_EN> ende 
+<L 2470:8> <C 471_DE> die <C 1_ACHTERHOEDE> achter+hoede, <C 800_EN> ende <C 611_DAARMEDE> daer+mede <C 214_ZIJN> sijn <C 406_ZIJ> sie <C 101_KWIJT> quite <C 700_VAN> van <C 475_DE/HET> der <C 1_SCHILDWACHT> scilt+wachte, <C 500_VOORT> Vort 
+<L 2470:9> <C 811_ALS> alse <C 471_DE> die <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen <C 204_VAREN> varen <C 700_IN> in <C 1_OORLOG> orloghe <C 472_DE/HET> des <C 4_HERTOG> hertoghen, <C 801_OCHTE> ochte 
+<L 2470:10> <C 1_CHEVAUCHIE> chiuachie <C 550_ZO> so <C 214_MOGEN> moghen <C 406_ZIJ> sie <C 11_PAARD> paerde <C 250_ONTLENEN> ontleenen <C 520_DAAR> daer <C 406+406_ZIJ+ZIJ> siese <C 204_VINDEN> vinden <C 704_BINNEN> binnen 
+<L 2470:11> <C 454_HAAR> haren <C 104_GEMEEN> ghemeinen <C 1_LAND> lande <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 800_EN> ende <C 406+250_ZIJ+LEVEREN> leuerense <C 14_RIDDER> ridd<A >er</A>en <C 800_EN> ende 
+<L 2470:12> <C 14_KNAAP> knapen <C 421+406_DIE+ZIJ> diere <C 204_BEHOEVEN> behouen, <C 800_EN> Ende <C 440_MEN> men <C 210_MOGEN> mach <C 700_VAN> van <C 472_DE/HET> des <C 4_HERTOG> hertoghen <C 4_HALF> haluen <C 441_NEGEEN> en+gheene 
+<L 2470:13> <C 11_PAARD> paerde <C 250_NEMEN> nemen <C 704_BINNEN> binnen <C 474_DE/HET> den <C 104_GEMEEN> ghemeinen <C 1_HEERSCHAP> heerscape <C 700_VAN> van 
+<L 2470:14> <C 24_GRIMBERGEN> Grimberg<A >hen</A>. <C 500_VOORT> Vort <C 560_NE> en <C 210_MOGEN> mach <C 450_MIJN> mijn <C 1_HEER> here <C 471_DE> die <C 1_HERTOG> hertoghe, <C 444_NEGEEN> en+gheene<A >n</A> <C 0_DIENST> dienst 
+<L 2470:15> <C 250_NEMEN> nemen <C 700_VAN> van <C 475_DE/HET> der <C 4_ABDIJ> abdien <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen. <C 800_NOCH> noch <C 700_VAN> van <C 444_NEGEEN> en+gheenen <C 1_GOED> goede 
+<L 2470:16> <C 420_DAT> dat <C 610_DAARTOE> daer+toe <C 203_BEHOREN> behort, <C 420_DAT> dat <C 704_BINNEN> binnen <C 474_DE/HET> den <C 104_GEMEEN> ghemeinen <C 1_HEERSCHAP> heerscape <C 700_VAN> van 
+<L 2470:17> <C 24_GRIMBERGEN> Grimberghen <C 274_LIGGEN> gheleghen <C 210_ZIJN> es, <C 810_BEHOUDELIJK-DAT> behoudeleke+dat <C 472_DE> dies <C 4_HERTOG> hertoghen <C 11_HOND> honde <C 481_EEN> eene 
+<L 2470:18> <C 1_GISTE> giste <C 502_JAARLIJKS> jaerlikes <C 214_ZULLEN> selen <C 250_HEBBEN> hebben <C 700_VAN> van <C 305_EEN> eerre <C 0_NACHT> nacht <C 800_EN> ende <C 700_VAN> van <C 304_EEN> eenen <C 1_DAG> daghe <C 700_IN> in <C 471_DE> die 
+<L 2470:19> <C 1_ABDIJ> abdie <C 700_VAN> van <C 24_GRIMBERGEN> Grimberg<A >hen</A>, <C 800_EN> ende <C 700_IN> in <C 320_ELK> elc <C 406_ZIJ> harre <C 11_HOF> houe <C 700+470_IN+HET> int <C 0_LAND> lant <C 700_VAN> van 
+<L 2470:20> <C 24_GRIMBERGEN> Grimberg<A >hen</A> <C 204_STAAN> staen, <C 500_OOK> Oec <C 210_MOGEN> mach <C 471_DE> die <C 1_GRAAF> greue <C 700_VAN> van <C 24_VIANEN> vyanen <C 1_LOMBARD> lombarde <C 250_HOUDEN> houden 
+<L 2470:21> <C 704_BINNEN> binnen <C 454_ZIJN> sinen <C 104_ZONDERLING> sonderlinghen <VN type=1> <C 1_LAND> lande, <C 500_VOORT> Vort <C 475_DE/HET> der <C 14_POORTER> port<A >er</A>en <C 0_GOED> goet <C 421_DIE> die <C 701_UIT> vte <C 474_DE/HET> den 
+<L 2470:22> <C 1_LAND> lande <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen <C 214_ZIJN> sijn <C 14_POORTER> porteren <C 801_OCHTE> ochte <C 214_WORDEN> werden, <C 420_DAT> dat <C 500_NU> nu <C 700_TE> te <C 1_DIENST> dienste 
+<L 2470:23> <C 203_STAAN> steet, <C 210_MOETEN> moet <C 474_DE/HET> den <C 14_HEER> heren <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 250_DIENEN> dienen <C 700_TE> te <C 1_HUWELIJK> huweleke <C 700_TE> te 
+<L 2470:24> <C 1_RIDDERSCHAP> ridderscape. <C 800_EN> ende <C 700_TE> te <C 1_GEVANGENIS> ghevancnesse, <C 510_ALZO> also <C 501_VER> verre <C 821_ALS> alse <C 406+403_ZIJ+HET> siet <C 273_GELOVEN> gheloeft <C 214_HEBBEN> hebbe<A >n</A>. 
+<L 2470:25> <C 500_VOORT> Vort <C 321_AL> alle <C 411_DEZE> dese <C 14_STUK> stucken <C 820+406_GELIJK-DAT+ZIJ> ghelijc+datse <VN type=1> <C 510_HIER> hier <C 274_BESCHRIJVEN> bescreuen <C 214_ZIJN> sijn <C 421_DIE> die <C 471_DE> de <C 14_HEER> heren <C 700_VAN> van 
+<L 2470:26> <C 24_GRIMBERGEN> Grimberghen <C 101_GEMEEN> ghemeine <C 204_HEBBEN> hebben, <C 210_ZULLEN> sal <C 471_DE> die <C 1_GRAAF> graue <C 700_VAN> van <C 24_VIANEN> vyanen <C 700_IN> in <C 450_ZIJN> sijn 
+<L 2470:27> <C 101_ZONDERLING> sonderlinghe <C 0_HEERSCHAP> heerscap <C 250_HEBBEN> hebben. <C 800_EN> Ende <C 810_OMDAT> ombe+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 321_AL> alle <C 411_DEZE> dese 
+<L 2470:28> <C 14_ORDONNANS> ordinanchen <C 800_EN> ende <C 411_DEZE> dese <C 14_VOORWAARDE> vorwarden <C 100_GESTADIG> ghestedech <C 800_EN> ende <C 100_VAST> vast <C 214_ZULLEN> selen <C 260_BLIJVEN> bliuen. <C 550_ZO> so 
+<L 2470:29> <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 451_ONS> onse <C 1_ZEGEL> zeghele <C 700_IN> in <C 1_OORKONDSCHAP> orconscape <C 260_DOEN> doen <C 250_HANGEN> hanghen <C 701_AAN> ane <C 411_DEZE> dese <C 14_LETTER> lett<A >er</A>en.. 
+<L 2470:30> <C 421_DIE> Die <C 273_MAKEN> ghemaect <C 234_ZIJN> waren <C 800_EN> ende <C 274_GEVEN> ghegheuen <C 700_IN> in <C 474_DE/HET> den <C 1_JAAR> jare <C 452_ONS> ons <C 4_HEER> heren <C 850_DAT> dat <C 440_MEN> men 
+<L 2470:31> <C 203_SCHRIJVEN> scrijft. <C 300_DUIZENTIG-297> Ducentech.+Tuehondert.+ende+seuene+ende+Neghentech <C 472_DE> des 
+<L 2470:32> <C 2_MAANDAG> manendaghes <C 701_VOOR> vore <C 101_SINT> sente <C 22_PAULUS> pawels <C 0_DAG> dach.. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

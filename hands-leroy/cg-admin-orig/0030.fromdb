@@ -1,0 +1,47 @@
+<header>
+<docId>0030</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 84:9> <C 700_IN> j<A >n</A> <q> lophe<A >m</A> <q> .xxx <q> 't3s <q> redditus <q> cum <q> releuio <q> de 
+<L 84:10> <q> terra <q> condam. <q> J. <q> ca<A >m</A>mere. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1264' jaar_van='1264' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 84:13> <C 20_JOHANNES> Joh<A >ann</A>es <q> dictus <C 1_KAMMER> cammere <C 800_EN> & <C 26_AVE> auesoeta <q> eius <q> vxor <q> vendiderunt. <C 29_JOHANNES> Joh<A >ann</A>i 
+<L 84:14> <q> filio <q> domini <C 22_ROBERT> robesoets <C 104_ROOD> roden <q> duas <q> mensuras <q> & <q> vnamlinam <q> vel <q> circiter 
+<L 84:15> <q> terre <q> que <q> uocatur <C 20_MOERAKKER> moeracker.. <q> Jtem <q> duas <q> mensuras <q> terre <q> que <q> uocantur 
+<L 84:16> <C 20_HELINHOF> helinhof <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 203+610_LIGGEN+DAARONDER> ter+onderleghet <VN type=1> <q> .. <q> Jtem <q> vnam <q> mensuram <C 2_MEERS> mers <q> que 
+<L 84:17> <q> dicitur <C 700_IN> in <C 471_DE> die <C 300+14_VIER+LIJN> uierlinen.. <q> Jtem <q> vnam <q> mensuram <C 2_MEERS> mers <C 700_IN> in <C 22_PAALVOET-X> palevoets <C 1_WEIDE> wede.. 
+<L 84:18> <q> Jtem <q> quartam <q> partem <q> mensure <q> terre <q> que <q> dicitur <C 700+471_IN+DE> indie <C 1_ETTING> ettinge.. <q> Jtem 
+<L 84:19> <q> quartam <q> partem <q> mensure <VN type=1> <C 700_IN> in <C 471_DE> die <C 21_PIET-X> piete <q> terre <q> iacentis <q> in <q> parrochia <q> de 
+<L 84:20> <C 20_LOPPEM> loppem <q> pro <q> quadam <q> pecunie <q> summa <q> ipsis <q> ad <q> plenum <q> persoluta.. <q> Hoc 
+<L 84:21> <q> cognoscunt <q> dominus <C 29_WOUTER> walterus <C 106_GROOT> grota <q> miles. <C 20_JOHANNES> Joh<A >ann</A>es <q> de <C 20_KLEIEM> cleiem. <q> et 
+<L 84:22> <C 29_DIEDERIK> theodericus <q> de <C 21_ROSSEWAAL> rasuale; <q> franci <q> scabinj. <q> coram <q> quibus <q> predictus 
+<L 84:23> <C 20_JOHANNES> ioh<A >ann</A>es <C 800_EN> & <q> eius <q> vxor <C 224_UITGAAN> vteghingen <C 472_DE/HET> des <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte 
+<L 84:24> <C 800_EN> en<A >de</A> <C 224+403_HALMEN+HET> halments <C 466_HEN> hem. <C 800_EN> en<A >de</A> <C 406_ZIJ> si <C 224_GELOVEN> gheloueden <C 470_HET> dat <C 0_LAND> land <C 414_DIE> dien <C 21_JOHANNES> ianne <C 700_TE> te <C 1_WET> wette <C 700_TE> te 
+<L 84:25> <C 251_GEWAREN> ghewarne.. <q> prefatj <C 20_JOHANNES> ioh<A >ann</A>es <C 800_EN> & <q> eius <q> vxor <q> etiamreceperunt <q> dictam <q> terram 
+<L 84:26> <q> a <q> dicto <C 21_JOHANNES> ioh<A >ann</A>e <q> sub <q> annuo <q> censu <q> triginta <q> solidorum <q> soluendorum 
+<L 84:27> <q> quindecim <q> solidorum <q> in <q> natiuitate <q> beatj <q> iohannis <q> baptiste.. <q> Alios <q> uero 
+<L 84:28> <q> quindecim <q> solidorum <q> in <q> natali <q> domini. <q> & <q> soluent <q> dimidium <q> releuium.. 
+<L 84:29> <q> Jn <q> cuius <q> rei <q> testimonium. <q> nos <q> franci <q> scabini. <C 29_WOUTER> walterus <C 101_GROOT> grote <q> miles. 
+<L 84:30> <C 20_JOHANNES> joh<A >ann</A>es <q> de <C 20_KLEIEM> cleiem. <C 29_DIEDERIK> theodericus <q> de <C 21_ROSSEWAAL> rasuale <q> presentes <q> litteras <q> sigillorum 
+<L 84:31> <q> nostrorum <q> munimine <q> duximus <q> roborare.. <q> Datum <q> Anno <q> domini <q> .m'ho. <q> cc'ho. 
+<L 84:32> <q> lx'ho. <q> tercio. <q> jn <q> vigilia <C 21_PASEN> pasche <q> . <q> . <q> . <q> . 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1264' jaar_van='1264' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

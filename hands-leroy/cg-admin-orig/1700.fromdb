@@ -1,0 +1,47 @@
+<header>
+<docId>1700</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2548:9> <q> x <q> 't3s <q> ad <q> quandam <q> hereditatem <q> sitam <q> in <q> n<A >e</A>ck<A >er</A>spole <q> supra <q> locum 
+<L 2548:10> <q> dictum <C 20_HEERGRACHT> hergragt. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2548:13> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 475_DE/HET> der <C 0_VRIJHEID> vriheit <C 700_VAN> van <C 21_NEKKERSPOEL> neckerspoele, <C 21_WOUTER> wout<A >er</A>e <C 700_VAN> van <C 21_GISTEL> ghestele, 
+<L 2548:14> <C 21_WOUTER> wout<A >er</A>e <C 700_VAN> van <C 21_ROMPAAI?> ru<A >m</A>pade, <C 800_EN> en<A >de</A> <C 20_JOHANNES> ian <C 471_DE> de <C 1_BEER> beere <C 204_GROETEN> groeten <C 321_AL> alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 411_DEZE> dese 
+<L 2548:15> <C 4_LETTER> lettren <C 214_ZULLEN> selen <C 250_ZIEN> sien, <C 800_EN> en<A >de</A> <C 250_HOREN> horen <C 250_LEZEN> lesen, <C 800_EN> en<A >de</A> <C 204_DOEN> doen <C 406_ZIJ> hen <C 100_KOND> cont <C 700_MET> met <C 4_KENNIS> kennissen 
+<L 2548:16> <C 475_DE/HET> der <C 0_WAARHEID> wareit, <C 810_DAT> dat <C 0_HEER> her <C 20_DANIEL> daneel <C 471_DE> de <C 1_PAAP> pape <C 0_KAPELAAN> capelaen <C 455_MIJN> mire <C 4_VROUW> vrouwen <C 700_VAN> van <C 21_MECHELEN> machele 
+<L 2548:17> <C 213_HEBBEN> heuet <C 274_VERKRIJGEN> v<A >er</A>creghen <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 472+2_HET+JAAR> tsiaers <C 102_ERFELIJK> erfleecs <C 2_CIJNS> tseins <C 102_GEMEEN> ghemeins <C 2_PAAIMENT> paiments <C 510_ALZO> also 
+<L 2548:18> <C 412_ZULK> selcs <C 821_ALS> alse <C 440_MEN> men <C 651_MEDE> mede <C 203_KOPEN> coept <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>coept <C 800_EN> en<A >de</A> <C 501_GEMEENLIJK> ghemeinleke <C 700_IN> in <C 1_BEURS> borse 
+<L 2548:19> <C 203_GAAN> gheet <C 700_OP> op <C 324_ELK> elken <C 0_DAG> dach <C 810_ALS> als <C 440_MEN> men <C 474_DE/HET> den <C 0_CIJNS> tseins <C 203_GEVEN> gheuet, <C 700_OP> op <C 480_EEN> een <C 1_ERF> erue, <C 800_EN> en<A >de</A> <C 700_OP> op 
+<L 2548:20> <C 480_EEN> een <C 0_ERFELIJKHEID> erfleecheit <C 420_DAT> dat <C 274_LIGGEN> gheleghen <C 210_ZIJN> es <C 700_JEGEN> ieghen <C 471_DE> de <C 1_BEGIJNSTRAAT> beghinen+strate <C 700_OP> op <C 471_DE> de 
+<L 2548:21> <C 20_HEERGRACHT> hergracht <C 620*_DAAR-> daer <C 20_JOHANNES> ian <C 471_DE> de <C 1_NEEF> neue <C 620#_-OP> op <C 203_HEBBEN> heuet <C 309_40> .xl. <C 19_SOLIDUS> 't3s. <C 472+2_HET+JAAR> tsiaers, <C 800_EN> en<A >de</A> <C 21_WOUTER> wout<A >er</A>e <C 700_VAN> van 
+<L 2548:22> <C 21_GISTEL> ghestele <C 309_20> .xx. <C 19_SOLIDUS> 't3s. <C 102_GEMEEN> ghemeins <C 2_PAAIMENT> paiments <C 420+600_DIE+ERVOOR> dire+vor <C 204_UITGAAN> wt+ghaen, <C 800_EN> en<A >de</A> <C 700_VAN> van <C 414_DEZE> desen 
+<L 2548:23> <C 114_VOORGENOEMD> vorghenoemden <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 472+2_HET+JAAR> tsiaers, <C 210+440_ZULLEN+MEN> salmen <C 250_GELDEN> ghilden <C 470+301_DE+EEN> dene <C 0_HELFT> helft <C 700_TE> te <C 1_KERSTAVOND> kersauonde, 
+<L 2548:24> <C 800_EN> en<A >de</A> <C 310+470_ANDER+DE> dander <C 0_HELFT> helft <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> ians <C 1_MIS> misse. <C 800_EN> en<A >de</A> <C 700_TE> te <C 414_DEZE> desen <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 2+472_JAAR+HET> tsiaers 
+<L 2548:25> <C 102_GEMEEN> ghemeins <C 2_PAAIMENT> paiments <C 102_ERFELIJK> erfleecs <C 2_CIJNS> tseins, <C 550_ZO> so <C 210_ZIJN> es <C 411_DEZE> dese <C 101_VOORGENOEMD> vorghenoemde <C 0_HEER> her <C 20_DANIEL> daneel 
+<L 2548:26> <C 471_DE> de <C 1_PAAP> pape <C 274_DOEN> ghedaen <C 700_MET> met <C 4_MANIS> maennissen <C 2+472_RECHTER+DE> srechters <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_WIJSDOM> wijsdoeme <C 475_DE/HET> der 
+<L 2548:27> <C 14_SCHEPEN> scepenen <C 420+600_DIE+ERVOOR> dire+vor <C 273_NOEMEN> ghenoemt <C 214_ZIJN> siin <C 800_EN> en<A >de</A> <C 600*+420_ER-+DIE> dire <C 100_SCHULDIG> sculdech <C 600#_-OP> op <C 234_ZIJN> waren <C 700_TE> te <C 251_WIJZEN> wisene 
+<L 2548:28> <C 820_ALS> als <C 0_WET> wit <C 800_EN> en<A >de</A> <C 0_RECHT> recht <C 700+474_VAN+DE/HET> vanden <C 1_LAND> lande <C 203_WIJZEN> wijst <C 800_EN> en<A >de</A> <C 501_BEHOUDELIJK> behoudeleke <C 442_IEGELIJK> ieghelijcs <C 1_RECHT> rechte, 
+<L 2548:29> <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> es, <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 1_KENNIS> kennisse <C 204_HEBBEN> hebben <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dinghen, 
+<L 2548:30> <C 550_ZO> so <C 600*+404+210_ER-+WIJ+HEBBEN> hebwire <C 404_WIJ> wi <C 111_VOORGENOEMD> vorghenoemde <C 14_SCHEPEN> scepenen <C 451_ONS> onse <C 101_PROPER> propre <C 1_ZEGEL> seghele <C 600#_-AAN> an 
+<L 2548:31> <C 274_HANGEN> ghehanghen, <C 411_DEZE> dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 700_IN> in <C 470+0_HET+JAAR> diaer <C 452_ONS> ons <C 4_HEER> heren <C 810_TOEN> doen <C 440_MEN> men 
+<L 2548:32> <C 220_SCHRIJVEN> screef <C 301_1298> .m'ho.+cc'ho.+xcviij. <C 301_ACHT> achte <C 11_DAG> daghe <C 700_NA> na <C 101_SINT> sinte <C 24_BAVO> bauen <C 0_DAG> dach <q> ----- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

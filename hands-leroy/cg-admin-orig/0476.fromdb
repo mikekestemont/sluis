@@ -1,0 +1,60 @@
+<header>
+<docId>0476</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 714:17> <q> door <q> de <q> hand <q> van <q> de 
+<L 715:18> <q> voorzij: <C 700_IN> jn <C 20_OEDELEM> odele<A >m</A>.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> jn <q> oedeleem <C 700_VAN> va<A >n</A> <q> xx <C 19_SOLIDUS> 't3s <C 472+2_HET+JAAR> tsiaers <q> renten. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 715:24> <q> [...] <C 26_MABELIA> mabelia <C 450_ZIJN> zijn <C 0_WIJF> wijf <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 0_HALM> halm <C 800_EN> en<A >de</A> <C 1_GIFT> ghifte 
+<L 715:25> <C 1_JONKVROUW> joncfrouwe <C 24_MARGARETA> margrieten <C 999_ZZZ> ste[...] <q> [...] <C 700_VAN> van <C 4_STRATEN> straten <C 475+700_DE+TE> ter <C 1_FERMERIE> fermerie 
+<L 715:26> <C 700_VAN> van <C 100_SINT> sent <C 22_OBERT> obrechts <C 0_BEHOEF> behoef <C 700_IN> in <C 21_BRUGGE> brugghe <C 700_VAN> van <C 999_ELF> elle[...] <q> [...] 
+<L 715:27> <C 11_GEMET> [g]hemete <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 271_LIGGEN> ligghende <C 704_BINNEN> binne<A >n</A> <C 475_DE/HET> der 
+<L 715:28> <C 1_PAROCHIE> prochie <C 800_EN> en<A >de</A> <C 700_BINNEN> bin <q> [...] <C 474_DE/HET> den <C 104_SIJSEELS> zieselschen <C 800_EN> en<A >de</A> <C 471+700_DE+IN> inde <C 1_PAROCHIE> prochie 
+<L 715:29> <C 700_VAN> van <C 20_OEDELEM> oedelem <C 700_TE> te <C 414_DEZE> desen <C 114_BENOEMD> benom<A >en</A>den <C 14_STUK> sticken. <C 700+470_OP+HET> vpt <q> [...] 
+<L 715:30> <C 620*_DAAR-> [d]aer <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 20_LAMBERT> lamsin <C 800_EN> En<A >de</A> <C 26_MABELIA> mabelia <C 620#_-OP> vp <C 204_WONEN> wone<A >n</A> <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 610_DAARTOE> dar+toe 
+<L 715:31> <C 203_BEHOREN> behoert <C 309_3> .iij. <q> [...] <C 500_BEZUIDHALF> besuuthalf <C 471+700_DE+AAN> ande <C 1_HOFSTEDE> hofstede <C 309_6> .vi. <C 19_MENSURA> 't3m. <C 0_STUK> stic <C 420_DAT> dat 
+<L 715:32> <C 213_HETEN> heet <C 20_BARGELIJN> barghelin <C 309_EEN> .i. <C 9_MENSURA> 't3m. <C 0_STUK> stic <C 420_DAT> dat <C 213_HETEN> heet <q> [....] <C 800_EN> En<A >de</A> <C 309_EEN> .i. <C 9_MENSURA> 't3m <C 700_IN> in 
+<L 715:33> <C 20_HAASCHOT> haiscoet. <C 800_EN> En<A >de</A> <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 20_LAMBERT> lamsin <C 800_EN> en<A >de</A> <C 26_MABELIA> mabelia <C 224_GELOVEN> gheloueden <C 0_WEG> wech 
+<L 715:34> <q> [...] <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <C 700_TE> te <C 104_VOL> wllen <C 1_EIGENDOM> eghindome <C 704_JEGEN> ieghen <C 324_ELK> elke<A >n</A> 
+<L 715:35> <C 1_MENS> mensche <C 700_TE> te <C 415_DIE> diere <C 999_ZZZ> vor[...] <q> [...] <C 700_MET> met <C 300_39> neghenendartich 
+<L 715:36> <C 14_PENNING> peneghen <C 800_EN> en<A >de</A> <C 300_EEN> en <C 0_HALLING> hallinc <C 4_SCHULD> sculde<A >n</A> <C 700_VAN> van <C 320_AL> al <C 322_ELK> elcs <C 2_JAAR> iaers <q> [...] 
+<L 715:37> <q> [...] <C 500_VOORT> vord <C 224_GEVEN> gauen <C 471_DE> die <C 101_VOORZEID> vorseide <C 4_JONKVROUW> ioncfrouwen <C 21_MARGARETA> margriete <C 800_EN> en<A >de</A> <C 20_MARIA> maria <C 475+700_DE+VAN> vander 
+<L 715:38> <C 999_ZZZ> vor[.] <q> [...] <C 414_DIE> dien <C 104_VOORZEID> vorseiden <C 21_LAMBERT> lamsine <C 800_EN> en<A >de</A> <C 24_MABELIA> mabelien <C 320_AL> al <C 410_DIT> dit 
+<L 715:39> <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 700_TE> te <C 104_ERFELIJK> eruelike<A >n</A> <q> [...] <C 999_ZZZ> [...]h <C 11_SCHELLING> scheleghe <C 111_VLAAMS> vlaemsche <C 322_ELK> els 
+<L 715:40> <C 2_JAAR> iaers <C 700_TE> te <C 251_GELDEN> gheldene <C 470+301_DE+EEN> dene <C 0_HELFT> helt <C 700_TE> te <C 101_SINT> sente <C 1_BAAFSMIS> bames[se] <q> [...] <C 470+310_DE+ANDER> [dan]d<A >er</A> 
+<L 715:41> <C 0_HELFT> helt <C 701_BINNEN> binne <C 21_MEI> meie <C 603+421_ERNAAST+DIE> diere+naest <C 203_KOMEN> coemt. <C 800_EN> en<A >de</A> <C 0_KOOP> coep <C 800_EN> en<A >de</A> <C 1_VERSTERFENIS> v<A >er</A>sterfnesse <C 810+403_ALS+HET> alst 
+<L 715:42> <C 203_GEVALLEN> ghe[valt] <q> [...] <C 1_CIJNS> chense. <C 410_DIT> Dit <C 204_KENNEN> kennen <C 14_SCHEPEN> schepene<A >n</A> <C 700+474_VAN+DE/HET> vanden 
+<L 715:43> <C 104_SIJSEELS> zieselschen <C 20_HENDRIK> heineman <C 475+700_DE+VAN> vander <C 0_BIEST> biest <q> [...] <C 20_AEGIDIUS> [g]ielis <C 471_DE> die <C 0_KLERK> clerc. 
+<L 715:44> <C 20_WILHELM> willem <C 700+475_VAN+DE> vander <C 0_LO> lo. <C 20_JOHANNES> Jhan <C 471_DE> die <C 1_FOKKER> fockere. <C 20_DIEDERIK> diederic <C 700+474_VAN+DE/HET> vande<A >n</A> <C 1_LEEN> lene. <q> [...] 
+<L 715:45> <q> [...] <C 901_DAUW> dauwe. <C 800_EN> En<A >de</A> <C 14_SCHEPEN> scepene<A >n</A> <C 700+474_VAN+DE/HET> vanden <C 104_NIEUW> niewen. <C 20_BOUDEWIJN> boidin <C 0_TROOST> troest. 
+<L 715:46> <C 20_ARNOUT> arnoud <C 1_HAK> hacke. <C 20_JOHANNES> jhan <q> .f. <q> [...] <C 999_ZZZ> [m]inne<A >n</A> <C 1_BODE> bode. <C 800_EN> En<A >de</A> <C 21_BOUDEWIJN> boudene 
+<L 716:1> <C 22_MACHARIUS> makeries. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_TE> te <C 100_SINT> sent <C 22_OBERT> obrechts <q> [...] <C 101_SINT> sente 
+<L 716:2> <C 22_MARCUS> marcs <C 1_AVOND> auende. <q> anno <q> domini <q> .m'ho.cc'ho.lxxx'ho <q> tercio. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

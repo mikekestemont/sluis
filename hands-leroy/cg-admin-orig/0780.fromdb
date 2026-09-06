@@ -1,0 +1,24 @@
+<header>
+<docId>0780</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1288' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1279:16> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_GELOVEN> geloue<A >n</A> <C 454_ONS> onse<A >n</A> <C 114_LIEF> liue<A >n</A> <C 12_POORTER> porters <C 700_VAN> van 
+<L 1279:17> <C 20_DORDRECHT> Dordrecht, <C 810_DAT> dat <C 406+404_ZIJ+WIJ> wise <C 100_SCHADELOOS> scadeloes <C 214_ZULLEN> sulle<A >n</A> <C 250_HOUDEN> houde<A >n</A> <C 700_VAN> van <C 475_DE/HET> der <C 0_BORGTOCHT> borhtoht <C 702_JEGENS> iegens 
+<L 1279:18> <C 20_WILHELM> willaem <C 700_VAN> van <C 474_DE/HET> den <C 1_BOS> bosche. <C 700_VAN> van <C 300_2000> tueendusent <C 14_POND> ponde<A >n</A>. <C 300_200> tuehondert <C 14_POND> ponde<A >n</A>. 
+<L 1279:19> <C 300_17> seue<A >n</A>+tien <C 14_POND> ponde<A >n</A> <C 800_EN> ende <C 300_TIEN> tien <C 14_SCHELLING> scellinge<A >n</A> <C 115_HOLLANDS> hollansker <C 11_PENNING> penni<A >n</A>ge <C 700_IN> [Jn] 
+<L 1279:20> <C 1_OORKONDE> orconde <C 700_VAN> [van] <C 414_DEZE> dese<A >n</A> <C 1_BRIEF> briue <C 274_GEVEN> gegeue<A >n</A> <C 700_IN> in <C 452_ONS> onses <C 4_HEER> h<A >er</A>en <C 4_JAAR> iare<A >n</A>. <C 300_1287> tualefhondert+ende+[seue<A >n</A>]+ende+[tachtich] <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1288' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

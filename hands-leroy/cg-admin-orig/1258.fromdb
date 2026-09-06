@@ -1,0 +1,32 @@
+<header>
+<docId>1258</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1926:35> <C 1_LETTER> Lett<A >er</A>e <C 0_BISSCHOP> bisscop 
+<L 1926:36> <C 22_JOHANNES> jans <C 700_VAN> van <C 20_ZIERIK> zieric <q> in <q> tweede <q> helft <q> 14'he <q> eeuw <q> doorgestreept <q> en 
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 20_UTRECHT> vtrecht 
+<L 1926:37> <q> bovengeschreven 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<C 700_VAN> van <C 300_900> neghen+hond<A >er</A>t <C 11_POND> ponde. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

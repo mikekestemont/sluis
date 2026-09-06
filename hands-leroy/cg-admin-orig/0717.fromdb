@@ -1,0 +1,32 @@
+<header>
+<docId>0717</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1200:11> <C 401_IK> Jc <C 20_JOHANNES> jan <C 20_LAUWAARD> lauwart <C 0_BALJUW> bailliu <C 700_VAN> van <C 20_GENT> ghent <C 201_MAKEN> make <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 1200:12> <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 401_IK> ic <C 211_HEBBEN> hebbe <C 273_ZETTEN> gheset <C 700_IN> in <C 451_MIJN> mine <C 1_STAD> stede 
+<L 1200:13> <C 0_MEESTER> meester <C 21_WOUTER> woutre <C 1_BRUIS-X> brusche <C 700_VAN> van <C 20_GENT> ghent <C 700_IN> in <C 474_DE/HET> den <C 0_WATERGANG> waterganc <C 421_DIE> die <C 203_GAAN> ghaet <C 700_VAN> van <C 20_GENT> ghent 
+<L 1200:14> <C 474+700*_DE+TE> ten <C 21_DAMME> damme <C 700#_WAARTS> warts, <C 800_EN> ende <C 700_IN> in <C 1+470_ERFENIS+DE> deeruenesse. <C 800_EN> ende <C 700_IN> in <C 320_AL> al <C 414_DIE> dien <C 420_DAT> dat <C 610_DAARTOE> daer+toe 
+<L 1200:15> <C 203_BEHOREN> behoert. <C 800_EN> Ende <C 11_DAM> damme <C 700_TE> te <C 251_VERSLAAN> verslane, <C 800_EN> ende <C 700_TE> te <C 251_RUIMEN> rumene <C 800_EN> en<A >de</A> <C 700_TE> te <C 251_STOPPEN> stoppene 
+<L 1200:16> <C 800_EN> en<A >de</A> <C 251+700_ONTSTOPPEN+TE> tonstoppene. <C 800_EN> ende <C 0+470_LAND+HET> [t]lant <VN type=1> <C 700_TE> te <C 251_VERHUREN> verhurne <C 420_DAT> dat <C 203+600_BEHOREN+DAARTOE> ter+toebehoert, <C 800_EN> en<A >de</A> <C 700_TE> te 
+<L 1200:17> <C 251_DOEN> doene <C 320_AL> al <C 420_DAT> dat <C 700+474_TE+DE/HET> te<A >n</A> <C 104_VOORZEID> [v]orseiden <C 1_WATERGANG> waterganghe <C 203_TOEBEHOREN> toebehoert <C 800_EN> Ende <C 201_GEVEN> gheue <C 403_HIJ> hem 
+<L 1200:18> <C 0_MACHT> macht <C 700_IN> in <C 410_DIT> dit <C 0_WERK> werch. <C 800_EN> en<A >de</A> <C 700_IN> in <C 414_DEZE> desen <C 0_WATERGANG> waterganc, <C 700_VAN> van <C 324_AL> allen <C 14_STUK> sticken <C 500_GELIJK> ghelijc 
+<L 1200:19> <C 461_MIJ> mi <C 414_ZELF> seluen, <C 800_EN> en<A >de</A> <C 440+550_WIE+ZO> wie+soe <C 441_ENIG> eneghe <C 1_STUK> sticke <C 704_JEGEN> jeghen <C 403_HIJ> hem <C 221_DOEN> dade <C 801_OF> ofte <C 221_ZEGGEN> seide <C 810_DAT> dat <C 403+403_HET+HIJ> hijt 
+<L 1200:20> <C 221_DOEN> dade <C 821_ALS> alse <C 704_JEGEN> jeghen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 200_ZIJN> es <C 700_IN> in <C 451_MIJN> mine <C 1_STAD> stede, <C 700_IN> Jn <C 1_OORKONDSCHAP> orconscepe <C 700_VAN> van 
+<L 1200:21> <C 414_DEZE> desen <C 14_STUK> sticken <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 401_IK> ic <C 403_HIJ> hem <C 274_GEVEN> ghegheuen <C 411_DEZE> dese <C 14_LETTER> lettren <C 273_BEZEGELEN> beseghelt <C 700_MET> met 
+<L 1200:22> <C 454_MIJN> minen <C 104_PROPER> propren <C 1_ZEGEL> seghele, <C 421_DIE> Die <C 234_ZIJN> waren <C 274_GEVEN> ghegheuen <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 301_1200-VIERWERF-TWINTIG-EN-ZEVEN> .m.+cc.+iiiixx.+ende+seuene 
+<L 1200:23> <C 472+2_DE+ZONDAG> sondaghes <C 700_VOOR> vor <C 101_SINT> sente <C 22_MARCUS> marcs <C 0_DAG> dach, 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

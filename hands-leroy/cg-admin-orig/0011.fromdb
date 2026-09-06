@@ -1,0 +1,36 @@
+<header>
+<docId>0011</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<atlas_lokalisering  kanselarij='' plaats_1='128' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1280' jaar_van='1280' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='128' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 50:45> <C 14+471_LANDSCHEPEN+DE> Delamscepenen <C 700_VAN> van <C 21_VELZEKE> velseke <C 204_KWEDDEN> quedden <C 321_AL> alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 50:46> <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 700_IN> in <C 454_ONS> honsen <C 1_HEER> here. <C 800_EN> Ende <C 204_MAKEN> maken <C 100_BEKEND> bekent <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu 
+<L 51:1> <C 204_ZIJN> sin <C 800_EN> ende <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 0+472_HEER+DE> ser <C 20_GOSWIJN> gosin <C 2_KLERK> clercs <C 12_OOR> ors <C 620*_DAAR-> dar <C 450_ZIJN> sin <C 0_GOED> ghoet <C 620#_-OP> op <C 220_VERSTERVEN> verstarf 
+<L 51:2> <C 224_KOMEN> quamen <C 321_AL> alle <C 700_BIJ> bi <C 454_HAAR> haren <C 1_WIL> wille <C 800_EN> ende <C 224_SCHELDEN> scouden <VN type=1> <C 101_KWIJT> quite <C 320_AL> al <C 11+471_VOORWAARDE+DE> devorworde <C 421_DIE> die <C 470+0_DE+HEER> der 
+<L 51:3> <C 20_GOSWIJN> gosin <C 471_DE> de <C 0_KLERK> clerc <C 273+231_MAKEN+HEBBEN> haddeghemaket <C 700_TEGEN> cheghen <C 474_DE/HET> den <C 0_ABT> abd <C 700_VAN> van <C 20_HANON-X> hanon <C 700_BIJ> bi <C 1_KOOP> coepe. 
+<L 51:4> <C 800_EN> Ende <C 810_DAT> dat <C 411_DEZE> dese <C 1_VOORWAARDE> uorworde <C 700_VOOR> vor <C 404_WIJ> hons <C 230_ZIJN> was <C 273_MAKEN> gemaket <C 421_DIE> die <C 14_LANDSCHEPEN> lantscepenen <C 214_HETEN> heten 
+<L 51:5> <C 700_VAN> van <C 21_VELZEKE> velseke <C 211_HEBBEN> hebbe <C 403+404_HET+WIJ> vit <C 273_TEKENEN> getekent <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele <C 701_OM> ombe <C 471+11_DE+VOORWAARDE> deuorworde 
+<L 51:6> <C 105+500_VAST+TE> teuaster <VN type=1> <C 700_TE> te <C 251_HOUDEN> houdene. <q> Datum <q> Anno <q> domini <q> .m'ho. <q> cc'ho. <q> l'ho. <q> tercio <q> Dominica 
+<L 51:7> <q> post <q> carnipriuium <q> proxima. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.R.'>
+<statushand  statushandkode='an'>
+
+<L 51:51> <C 229_SCHELDEN> sconden 
+<L 51:52> <C 700+109_TE+VAST> tenaster 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='128' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1280' jaar_van='1280' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='128' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

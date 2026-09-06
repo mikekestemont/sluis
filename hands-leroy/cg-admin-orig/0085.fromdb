@@ -1,0 +1,36 @@
+<header>
+<docId>0085</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 143:33> <C 309_59> .lix. 
+<L 143:34> <C 14_ROEDE> r<A >oeden</A> <C 2_LAND> lants <C 410_DIT> dit <C 210_KUNNEN> can <C 440_MEN> men <C 560_NIET> niet <q> vinden. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 143:39> <C 20_WILHELM> willem <C 700_VAN> van <C 21_SCHEEPSTALE> schepestale. <C 20_WILHELM> willem <q> .f <C 22_ROBERT> robins. <C 20_RIJKWARD> riq<A >ua</A>rd <C 471_DE> die <C 0_MONNIK> moenec. 
+<L 143:40> <C 14_SCHEPEN> schepenen <C 474+700_DE/HET+VAN> vanden <C 104_SIJSEELS> ziesselschen <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 474+320_DE/HET+AL> alden <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 143:41> <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_HOREN> horen <C 800_EN> en<A >de</A> <C 250_ZIEN> zien <C 810_DAT> dat <C 220_KOMEN> Cam <C 701_VOOR> vore <C 404_WIJ> ons <C 0+21_VROUW+HEILE> v<A >er</A>heile <C 475+700_DE+VAN> vander <C 0_EE> hee <VN type=1> 
+<L 143:42> <C 800_EN> en<A >de</A> <C 220_OPGEVEN> gaf+vp <C 501_WETTELIJK> wetlike <C 800_EN> en<A >de</A> <C 501_ERFELIJK> arflike <C 21_JOHANNES> jhanne <C 474_DE/HET> den <C 104_BRUIN> brunen <C 0_DISMEESTER> dischmest<A >er</A> <C 700_VAN> van 
+<L 143:43> <C 101_SINT> sinte <C 22_AEGIDIUS> gilis <C 700_BIJ> bi <C 21_BRUGGE> brughe <C 472+700_DE+TE> tes <C 2_DIS> disch <C 1_EIGENDOM> eghinedome <C 0_BEHOEF> boef <C 309_59> .lix. <C 14_ROEDE> roeden <C 2_LAND> lands 
+<L 143:44> <C 500_LICHTELIJK> lichtlic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer <C 271_LIGGEN> ligghende <C 700_BENOORDHALF> benordhalf <C 474_DE/HET> den <C 104_NOORD> Norderen <C 1_SPUITJE> spoykine <C 510_ALZO> also 
+<L 143:45> <C 440+821_MEN+ALS> alseme <C 203_GAAN> gaet <C 700_TE> te <C 26_KOOLKERKE> Coelk<A >er</A>ca <C 470+700_HET+OP> vpt <C 421_WELK> wilke <C 0_LAND> lant <C 203_STAAN> staet <C 471_DE> die <C 0_OLIEMOLEN> oliemoelen <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 144:1> <C 274_DOEN> ghedaen <C 2+472_VRIJDAG+DE> sfridaghes <C 701_VOOR> vore <C 1_PALMZONDAG> palmesoene<A >n</A>daghe <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 440+851_MEN+ALS> alseme 
+<L 144:2> <C 203_SCHRIJVEN> scriuet <C 0+470_INCARNATIOEN+DE> dei<A >n</A>carnation <q> m'ho <q> cc'ho <q> Lx'ho <q> ------- <q> Nono 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

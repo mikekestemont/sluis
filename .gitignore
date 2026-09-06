@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local / Cursor
+.DS_Store
+**/.DS_Store
+.cursor/
+
+# Gallery pixels stay on disk and on mike (too large for GitHub).
+# Query photos and metadata are tracked.
+images/archive-original/
+images/pages-recto/
+images/pages-zoned/
+images/pages-zoned-stretched/
+
+# Old raven/Antwerp weights (not the Sluis freeze)
+assets/
+
+# Leroy scans (not ours to republish)
+hands-leroy/literature/
+
+# Mole viz HTML inlines every page (~80 MB)
+outputs/*.viz.html
+outputs/zone_review.html
+outputs/match-thumbs/

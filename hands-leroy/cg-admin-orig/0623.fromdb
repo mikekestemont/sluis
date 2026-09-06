@@ -1,0 +1,33 @@
+<header>
+<docId>0623</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1048:19> <C 20_WOUTER> wouter <C 700_VAN> van <C 20_HAARLEM> harlem; <C 20_WILHELM> willem <C 700_VAN> [van] <C 20_HAARLEM> harlem; <C 20_DIEDERIK> diederic <C 4_HEER> hare<A >n</A> 
+<L 1048:20> <C 22_WOUTER> wout<A >er</A>s <C 1_ZOON> [s]one; <C 20_WILHELM> willem <C 700_VAN> van <C 20_OEGSTGEEST> oestghest; <C 20_FLORENTIUS> flore<A >n</A>s <C 22_FLORENTIUS> flore<A >n</A>s <C 1_ZOON> sone <C 700+475_VAN+DE> vander 
+<L 1048:21> <C 0_WOERD> [wort]; <C 20_GIJSBERT> gisebrecht <C 4_HEER> har<A >en</A> <q> [g] <C 1_ZOON> sone <C 2_BOKEL> bokels; <C 20_JOHANNES> jan <C 700_VAN> van <C 24_TOULOUSE> toloisen; <C 470+700_HET+IN> jnt <C 0_BISDOM> bisdu<A >m</A> <C 0_HEER> har 
+<L 1048:22> <C 20_WOUTER> wout<A >er</A> <C 700_VAN> van <C 21_AMERSFOORT> amersuord[e]; <C 0_HEER> har <C 20_HUBERT> hubrecht <C 700_VAN> van <C 21_EVERDINGEN> eu<A >er</A>dinge; <C 0_HEER> har <C 29_ZZZ> G. <C 700_VAN> van 
+<L 1048:23> <C 20_SCHELWIJK> s[c]alcwijc; <C 450_HAAR> har <C 20_DIEDERIK> died<A >eric</A> <C 700_VAN> van <C 24_ZUILEN> zulen; <C 20_WOUTER> [wouter] <C 700_VAN> van <C 21_LANGERAK> langerake; <C 20_AEMILIUS> amelijs <C 700_VAN> van 
+<L 1048:24> <C 24_MINDEN> minden; <C 0_HEER> har <C 20_HENDRIK> hei<A >n</A>ric <q> eerste <q> i <q> onzeker <C 700+475_VAN+DE> vander <C 1_LEK> lecke; <C 0_HEER> har <C 24_HARBERT> hartbare<A >n</A> <C 475+700_DE+VAN> va<A >n</A>der 
+<L 1048:25> <C 1_LEDE> lede; <C 20_GERARD> Gherart <C 700_VAN> van <C 24_VELZEN> velsen. 
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> Littera <C 22_WILHELM> wilems <q> ? <q> de 
+<L 1048:26> <C 20_AMSTEL> amestel <q> de <q> ? <q> dna <q> sua. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

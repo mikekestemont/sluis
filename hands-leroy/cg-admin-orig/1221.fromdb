@@ -1,0 +1,51 @@
+<header>
+<docId>1221</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1860:35> <C 20_BOUDEWIJN> boude<A >n</A> <C 471_DE> de <q> bere.- <C 700_OP> op <C 471_DE> de <q> heide.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> .vj. <C 19_SOLIDUS> 't3s <q> hier <q> p 
+<L 1860:36> <q> uitgekrabd <q> heeft <q> u<A >er</A>cocht <C 472+700_HET+TE> tcloest<A >er</A>s <C 0_BEHOEF> behoef <C 20_BOUDEWIJN> boude<A >n</A> <C 471_DE> de <q> bere <C 700_OP> op <C 489_EEN> .j. 
+<L 1860:37> <C 0_HOFSTEDE> hofstat <C 421_DIE> die <C 504_WIJLEN> wile<A >n</A> <C 230_ZIJN> was <q> la<A >m</A>br<A >echts</A> <q> hasaerts <C 274_LIGGEN> gelege<A >n</A> <C 471+700_DE+IN> inde <C 1_BEZEMSTRAAT> bessemst<A >ra</A>te 
+<L 1860:38> <C 700+471_OP+DE> opde <q> heide <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <q> m+cc+xcij <C 2_DINSDAG> disendag<A >es</A> <C 700_NA> na <C 24_HALFVASTEN> halfvasten<A >en</A>. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1860:43> <q> .. <C 700_AAN> An <C 320_AL> al <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 801_OF> ofte <C 250_HOREN> hore<A >n</A>. <C 20_HENDRIK> heinric <C 20_GOEDGEBUUR-X> goet+gebuer 
+<L 1860:44> <C 20_JOHANNES> jan <C 471_DE> de <C 1_BEER> bere <C 800_EN> en<A >de</A> <C 20_LAMBERT> lambrecht <C 0_ASART-X> hasart <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> 
+<L 1860:45> <C 1_NIEUWLAND> nuwenlande <C 704_BUITEN> bute<A >n</A> <C 21_NEKKERSPOEL> neck<A >er</A>spole <C 910_SALUUT> saluut <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 415_DIE> derre <C 0_DING> dinc <C 700_TE> te <C 250_KENNEN> kenne <C 471_DE> de 
+<L 1860:46> <C 0_WAARHEID> warheit <C 404_WIJ> wi <C 204_DOEN> doen <C 405_GIJ> v <C 410_DAT> dat <C 100_KOND> cont <C 810_DAT> dat <C 20_BOUDEWIJN> boude<A >n</A> <C 471_DE> de <C 1_BEER> bere <C 210_ZIJN> es <C 270_KOMEN> com<A >en</A> <C 701_VOOR> voere <C 404_WIJ> ons <C 800_EN> en<A >de</A> 
+<L 1861:1> <C 213_HEBBEN> heeft <C 410_DAT> dat <C 273_VERLIJDEN> v<A >er</A>liit <C 810_DAT> dat <C 403_HIJ> hi <C 273_VERKOPEN> v<A >er</A>cocht <C 213_HEBBEN> heft <C 0_BROEDER> brued<A >er</A> <C 21_HENDRIK> heinrike <C 0_PROVISEUR> prouisoer <C 700_VAN> van <C 474_DE/HET> de<A >n</A> 
+<L 1861:2> <C 14_NON> no<A >n</A>ne<A >n</A> <C 700_VAN> va<A >n</A> <C 21_MECHELEN> mechelne <C 700+474_TE+DE/HET> te<A >n</A> <C 14_NON> no<A >n</A>nen <C 0_BEHOEF> boef <C 300+11_6+SCHELLING> sesscellinghe <C 115_KLEIN> cleinre 
+<L 1861:3> <C 115_GEMEEN> gemeinder <C 14_MUNT> munte<A >n</A> <C 410_ALZULK> alsulc <C 821_ALS> alse <C 700_IN> in <C 1_BEURS> borse <C 203_GAAN> geet <C 800_EN> en<A >de</A> <C 621#_DAAR-> dar <C 440_MEN> me<A >n</A> <C 621*_-MEDE> mede <C 203_KOPEN> coept 
+<L 1861:4> <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>coept <C 700_TE> te <C 251_HEFFEN> heffene <C 800_EN> en<A >de</A> <C 700_TE> te <C 251_HEBBEN> hebne <C 322_ELK> elx <C 2_JAAR> jaers <C 501_ERFELIJK> erflike <C 700_OP> op <C 480_EEN> een <C 1_STUK> stucke 
+<L 1861:5> <C 2_LAND> lands, <C 420_DAT> dat <C 440_MEN> me<A >n</A> <C 203_HETEN> heedt <C 471_DE> de <C 1_HOFSTEDE> hofstade <C 421_DIE> Die <C 504_WIJLEN> wile<A >n</A> <C 234_ZIJN> ware<A >n</A> <C 22_LAMBERT> lambrechts <C 2_ASART-X> hasarts 
+<L 1861:6> <C 800_EN> en<A >de</A> <C 421_DIE> die <C 204_LIGGEN> ligge<A >n</A> <C 700_IN> in <C 471_DE> de <C 1_BEZEMSTRAAT> bessemstrate <C 700_NAAST> naest <C 22_ARNOUT> arnouts <C 2_KREUPEL> cropels <C 1_ERF> erue, <C 470+301_DE+EEN> dene <C 0_HELFT> helft 
+<L 1861:7> <C 700_TE> te <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_MIS> misse <C 420_DAT> dat <C 610_HIERNAAST> hir+naest <C 203_KOMEN> comt, <C 800_EN> en<A >de</A> <C 310+470_ANDER+DE> dand<A >er</A> <C 0_HELFT> helft, <C 800_EN> en<A >de</A> <C 470+310_DE+ANDER> da<A >n</A>der 
+<L 1861:8> <C 0_HELFT> helft <VN type=1> <C 700_TE> te <C 1_KERSTAVOND> kersauonde <C 420_DAT> dat <C 610_DAARNA> daer+na <C 203_VOLGEN> volgt, <C 800_EN> en<A >de</A> <C 610_HIERIN> hier+in <C 210_ZIJN> es <C 274_KOMEN> com<A >en</A> <C 411_DEZE> dese 
+<L 1861:9> <C 101_VOORNOEMD> vornomde <C 0_BROEDER> bruder <C 20_HENDRIK> heinric <C 700_BIJ> bi <C 4_MANIS> manissen <C 4+472_HEER+DE> tshere<A >n</A> <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_GROND> gro<A >n</A>de <C 800_EN> en<A >de</A> <C 700_BIJ> bi 
+<L 1861:10> <C 1_WIJSDOM> wiisdoeme <C 475_DE/HET> der <C 14_SCHEPEN> scepene<A >n</A> <C 700_NA> na <C 471_DE> de <C 1_ZEDE> sede <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_LAND> lande. <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 410_DIT> dit <C 100_WAAR> waer 
+<L 1861:11> <C 800_EN> en<A >de</A> <C 100_ZEKER> seker <C 210_ZIJN> es <C 550_ZO> so <C 404+210+403_WIJ+HEBBEN+HET> hebwiit <C 273_BEZEGELEN> besegelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> segele<A >n</A> <C 411_DEZE> Dese <C 1_LETTER> lettre <C 230_ZIJN> was 
+<L 1861:12> <C 274_GEVEN> gegeue<A >n</A> <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 309_1292> .m'ho.+cc'ho.+xcij. <C 472+2_DE+DINSDAG> sdicendaegs <C 700_NA> na <C 21_LETARE> letare <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

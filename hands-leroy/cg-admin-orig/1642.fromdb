@@ -1,0 +1,35 @@
+<header>
+<docId>1642</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='2'>
+<statushand  statushandkode='mn'>
+<L 2464:45> <q> --- <C 401_IK> Jc <C 20_BERNHARD> bernd <C 700_VAN> van <C 21_DOLDER> dolre <C 200_DOEN> doe <C 700_TE> te <C 250_VERSTAAN> verstaen, <C 320_AL> al <C 474_DE> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre 
+<L 2464:46> <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen, <C 810_DAT> dat <C 20_GIJSBERT> ghisebrecht <C 700_VAN> van <C 474_DE> den <C 1_POEL> poele <C 450_MIJN> mijn <C 1_NEEF> neue 
+<L 2465:1> <C 203_HOUDEN> houd <C 700_VAN> van <C 401_IK> mi <C 700_TE> te <C 1_LEEN> lene, <C 300_20> Tuintich <C 14_HOFSTEDE> hofsteden <C 700_TE> te <C 21_BROEKLEDE> broeclede <C 700_IN> in <C 474_HET> den <C 1_DORP> dorpe, <C 474_DE/HET> den 
+<L 2465:2> <C 1_TIEND> tiende <C 700_IN> in <C 474_DE/HET> den <C 0_BROEK> broeke <C 700_VAN> van <C 300_22> tue+ende+tuintich <C 14_HOEVE> hoeuen, <C 0+470_GERECHT+HET> Tgherecht <C 800_EN> ende <C 0_TIJNS> tins 
+<L 2465:3> <C 800_EN> ende <C 1_TIEND> tiende, <C 800_EN> en<A >de</A> <C 474_DE> den <C 0_OTTERDIJK> oeterdijc <C 700_BIJ> bi <C 475_DE> der. <C 20_AA> a. <C 0+470_GERECHT+HET> Tgherecht <C 800_EN> en<A >de</A> <C 0_TIJNS> tins <C 800_EN> en<A >de</A> 
+<L 2465:4> <C 1_TIEND> tiende <C 700_VAN> van <C 300_4> vier <C 14_HOEVE> hoeuen <C 700_TE> te <C 24_PORTENGEN> bertangen, <C 800_EN> en<A >de</A> <C 474_DE> den <C 1_TIEND> tiende <C 700_OP> op <C 480_EEN> en <C 1_WESTENG> westenghe, 
+<L 2465:5> <C 410_DIT> dit <C 101_VOORGENOEMD> vorghenoemde <C 0_GOED> goed <C 210_ZULLEN> sel <C 20_GIJSBERT> ghisebrecht <C 700_VAN> van <C 474_DE> den <C 1_POEL> poele <C 800_EN> en<A >de</A> <C 451_ZIJN> sine 
+<L 2465:6> <C 14_ERFNAAM> erfnam<A >en</A> <C 504_EEUWELIJK> eweliken <C 700_VAN> van <C 401_IK> mi <C 800_EN> en<A >de</A> <C 700_VAN> van <C 454_MIJN> minen <C 14_ERFNAAM> erfnam<A >en</A> <C 250_HOUDEN> houden <C 700_TE> te <C 1_LEEN> lene, <C 210+403_ZIJN+HET> ist 
+<L 2465:7> <C 0_ZOON> soen <C 800_OF> of <C 0_DOCHTER> dochter, <C 700_VAN> van <C 414_DEZE> desen <C 114_VOORGENOEMD> voerghenoemden <C 11_GOED> goede <C 560+550_NE+ZO> sone <C 214_ZULLEN> sellen <C 451_ZIJN> sine 
+<L 2465:8> <C 14_ERFNAAM> erfnam<A >en</A> <C 560_NIET> niet <C 273_ONTERVEN> onteruet <C 214_MOGEN> moghen <C 260_WORDEN> werden <C 403+210_HET+ZIJN> ist <C 0_ZOON> soen <C 800_OF> of <C 0_DOCHTER> dochter <C 510_ALZO> als <C 501_LANG> langhe 
+<L 2465:9> <C 820_ALS> als <C 500_ER> er <C 200_ZIJN> is <C 480_EEN> een <C 0_ACHTERZUSTERKIND> aftersuster+kint, <C 700_AAN> an <C 414_DEZE> desen <C 114_VOORGENOEMD> voerghenoemden <C 11_GOED> goede <C 203_HEBBEN> heuet <C 450_ZIJN> sijn 
+<L 2465:10> <C 101_OUD> ouste <C 0_ZOON> soen <C 471_DE> de <C 101_SAMEND> samende <C 0_HAND> hand, <C 700_IN> Jn <C 1_OORKONDE> oercunde <C 700_VAN> van <C 414_DEZE> desen <C 114_VOORGENOEMD> vorghenoemden 
+<L 2465:11> <C 14_ZAAK> saken <VN type=1> <q> , <C 210_HEBBEN> heb <C 401_IK> ic <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> beseghelt <C 700_MET> mit <C 454_MIJN> minen <C 100_EIGEN> eyghen <C 0_ZEGEL> seghel, <C 800_EN> en<A >de</A> 
+<L 2465:12> <C 700_MET> mit <C 14_ZEGEL> seglen <C 22_GIJSBERT> ghisebrechts <C 700_VAN> van <C 21_RUWIEL> Ruele <C 800_EN> ende <C 22_SPLINTER> splinters <C 700_VAN> van <C 21_RUWIEL> Ruele <C 455_MIJN> mire <C 11_MAN> manne, 
+<L 2465:13> <C 411_DEZE> Dese <C 0_BRIEF> brief <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700+470_IN+HET> jnt <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 300_DUIZEND-298> dusent,+tuehondert,+en<A >de</A>+acht+ende+neghentich, 
+<L 2465:14> <C 472_DE> des <C 104_NAAST> naesten <C 2_DAG> daghes <C 700_NA> na <C 1_JAARSDAG> iaers+daghe <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,101 @@
+<header>
+<docId>1640</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='mn'>
+<L 2462:11> <C 0+470_GASTHUIS+HET> Tgasthus <C 700_VAN> van <C 20_GENT> ghent <C 203_HEBBEN> heuet <C 700_IN> in <C 471_DE> de <C 1_PAROCHIE> prochie <C 700_VAN> van <C 20_ZAAMSLAG> zaemslacht <C 700_ONDER> onder <C 474_DE/HET> den 
+<L 2462:12> <C 1_BEDRIJF> bedriue <C 700_VAN> van <C 474_DE/HET> den <C 0_HUIS> huus <C 271_LIGGEN> ligghende <C 700_IN> in <C 471_DE> de <C 1_GROEDE> groede <C 309_3> .iij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_200> .cc'ho. 
+<L 2462:13> <C 14_ROEDE> roeden <C 800_EN> en<A >de</A> <C 309_17> .xvij. <C 14_ROEDE> roeden. <C 800_EN> En<A >de</A> <C 700_VOOR> vor <C 471_DE> de <C 0_MOLEN> molen <C 309_6,5> .vi't!. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_4> .iiij. 
+<L 2462:14> <C 14_ROEDE> roed<A >en</A>. <C 800_EN> En<A >de</A> <C 700_VOOR> vor <C 471_DE> de <C 1_POORT> porte <C 309_TIEN> .x. <C 11_GEMET> gh<A >emete</A> <C 309_71> .lxxi. <C 14_ROEDE> roed<A >en</A> <C 320_MIN> min. <C 800_EN> en<A >de</A> <C 471_DE> de 
+<L 2462:15> <C 0_HAVENDIJK> auendijc <C 309_200> .cc'ho. <C 14_ROEDE> rod<A >en</A> <C 800_EN> en<A >de</A> <C 309_36> .xxxvi. <C 14_ROEDE> roed<A >en</A> <VN type=1> <q> . <C 800_EN> En<A >de</A> <C 700_OP> up <C 22_DIEDWAR> tiuers <C 0_HOFSTEDETJE> ofstedekijn <C 309_14> .xiiij. 
+<L 2462:16> <C 11_GEMET> ghem<A >ete</A> <C 309_77> .lxxvij. <C 14_ROEDE> roed<A >en</A> <C 320_MIN> min. <C 800_EN> En<A >de</A> <C 20_DORLOOT> dorloet <C 309_7> .vij. <C 11_GEMET> ghem<A >ete</A> <C 800_EN> en<A >de</A> <C 309_85> .lxxxv. 
+<L 2462:17> <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_200> .cc. <C 14_ROEDE> roed<A >en</A> <C 800_EN> en<A >de</A> <C 309_50> .l. <C 14_ROEDE> roed<A >en</A> <C 2_VLIET> vliets. <C 700_IN> In <C 20_WITTINGELAND> wittinghe+lant <C 309_11> .xi. 
+<L 2462:18> <C 11_GEMET> ghem<A >ete</A> <C 309_27> .xxvij. <C 14_ROEDE> roeden <C 320_MIN> min. <C 800_EN> en<A >de</A> <C 309_200> .cc'ho. <C 14_ROEDE> rode<A >n</A> <C 2_VLIET> vliets <C 309_6> .vi. <C 14_ROEDE> roed<A >en</A> <C 320_MIN> min. <C 700_OP> Vp 
+<L 2462:19> <C 22_STUIFJE-X> stuuekins <C 1_HOFSTEDE> ofstede <C 309_19,5> .xix't!. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_HONDERD> .c. <C 14_ROEDE> roed<A >en</A> <C 2_VLIET> vliets <C 800_EN> en<A >de</A> <C 309_74> .lxxiiij. 
+<L 2462:20> <C 14_ROEDE> roed<A >en</A>. <C 700_VAN> van <C 20_WOUTER> wout<A >er</A> <C 0_KOUSJE-X> couskijn <C 1_LAND> lande <C 309_ANDERHALF> .i't!. <C 1_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_26,5> .xxvi't!. <C 14_ROEDE> roed<A >en</A>. 
+<L 2462:21> <C 700+480_TUSSEN+EEN> Tusschen+een <C 309_3> .iij. <C 11_GEMET> ghem<A >ete</A> <C 309_7,5> .vii't!. <C 14_ROEDE> roed<A >en</A> <C 320_MIN> min. <C 800_EN> en<A >de</A> <C 309_75> .lxxv. <C 14_ROEDE> roeden <C 2_VLIET> vliets. 
+<L 2462:22> <C 700_IN> In <C 22_POOTAARD-X> poetaerds <C 0_HOEK> hoec <C 309_3> .iij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_HONDERD> .c. <C 14_ROEDE> roeden <C 800_EN> en<A >de</A> <C 309_40> .xl. <C 14_ROEDE> roeden. <C 700_OP> Vp 
+<L 2462:23> <C 20_PADDENBURG> padden+borgh <C 309_2> .ij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_73> .lxxiij. <C 14_ROEDE> roed<A >en</A>. <C 700+470_IN+HET> Int <C 0_LAND> lant <C 700_VAN> van <C 20_EVERGEM> euerghem 
+<L 2462:24> <C 309_43> .xliij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_200> .cc. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 1_ROEDE> roed<A >e</A>. <C 20_WILHELM> willem <C 22_EUSTACHIUS> stalijns <C 0_LAND> lant <VN type=1> <C 309_4> .iiij. 
+<L 2462:25> <C 11_GEMET> ghem<A >ete</A> <C 800_EN> en<A >de</A> <C 309_72> .lxxij. <C 14_ROEDE> roed<A >en</A>. <C 471+700_DE+AAN> Ande <C 1_WESTZIJDE> west+side <C 700_VAN> van <C 475_DE/HET> der <C 0_MOLEN> molen <C 309_8> .viij. 
+<L 2462:26> <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_46> .xlvi. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 704_BACHTEN> bachten <C 22_ADELHARD> alaerds <C 700_VAN> van <C 20_OOSTBURG> hoestborgh <C 309_EEN> .i. 
+<L 2462:27> <C 0_GEMET> ghem<A >et</A>. <C 800_EN> en<A >de</A> <C 309_60> .lx. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 0_GEMET> ghem<A >et</A>. <C 800_EN> en<A >de</A> <C 309_HONDERD> .c. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_25> .xxv. 
+<L 2462:28> <C 14_ROEDE> roed<A >en</A>. <C 471_DE> de <C 21_GROENSWAARDE> groenswerde <C 700_MET> met <C 440_AL> al <C 475+700_DE+MET> metter <C 4_HOFSTEDE> hofsteden <C 309_28> .xxviij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> 
+<L 2462:29> <C 309_75> .lxxv. <C 14_ROEDE> roed<A >en</A> 
+<L 2462:30> <C 1_SOM> Somme <C 700_VAN> van <C 414_DEZE> desen <C 1_LAND> lande <C 309_HONDERD> .c. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_70> .lxx. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_200> .cc. 
+<L 2462:31> <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_23> .xxiij. <C 14_ROEDE> roed<A >en</A> 
+<L 2462:33> <C 0+470_GASTHUIS+HET> Tgasthuus <C 700_VAN> van <C 20_GENT> ghent <C 213_HEBBEN> heuet <C 274_GEVEN> ghegheuen <C 700_IN> in <C 20_ZAAMSLAG> zaemslacht <C 450_ZIJN> sijn <C 0_LAND> lant <C 700_TE> te <C 1_PACHT> pachte 
+<L 2462:34> <C 800_EN> en<A >de</A> <C 700_IN> in <C 114_ANDER> anderen <C 14_STAD> steden. 
+<L 2462:35> <C 700_IN> In <C 20_ZAAMSLAG> zaemslacht. <C 20_EVERDEI> euerdei <C 24_IRMGARD> ermengaerden <C 1_ZOON> sone. <C 474_DE/HET> den <C 0_HAVENDIJK> auendijc <C 701_OM> o<A >m</A>me <C 309_9> .ix. <C 19_SOLIDUS> sol. 
+<L 2462:36> <C 20_ARNOUT> Arnout <C 0_HANEBOUT-X> anebout <C 309_EEN> .i. <C 0_GEMET> ghem<A >et</A> <C 309_4> .iiij. <C 14_ROEDE> roeden <C 320_MIN> min. <C 470+0_HET+GEMET> tghem<A >et</A> <C 309_14> .xiiij. 
+<L 2462:37> <C 19_SOLIDUS> sol. <C 1_JAARHUUR> iaerscure <C 309_4> .iiij. <C 10_JAAR> iaer <C 309_1297> .m'ho.cc'ho.xcvij. <C 20_JOHANNES> annijn <C 0_HOOFD> houet <C 309_28> .xxviij. 
+<L 2462:38> <C 14_ROEDE> roed<A >en</A> <C 701_OM> o<A >m</A>me <C 309_2> .ij. <C 19_SOLIDUS> sol. <C 21_WOUTER> weite <C 22_WOUTER> wouters <C 1_ZOON> sone <C 309_EEN> .i. <C 0_GEMET> ghem<A >et</A>. <C 701_OM> o<A >m</A>me 
+<L 2462:39> <C 309_11> .xi. <C 19_SOLIDUS> 't3s. <C 20_OLIVIER> Oliuier <C 20_SCHOONLIEF-X> sconelief <C 309_HALF> .'t!. <C 0_GEMET> ghem<A >et</A> <C 800_EN> en<A >de</A> <C 309_30> .xxx. <C 14_ROEDE> roeden <C 701_OM> o<A >m</A>me 
+<L 2462:40> <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 20_JOHANNES> annijn <C 22_JACOB> iacobs <C 1_ZOON> sone <C 309_ANDERHALF> .i't!. <C 0_VIERENDEEL> vi<A >erendeel</A> <C 701_OM> o<A >m</A>me <C 309_5> .v. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_3> .iij. 
+<L 2462:41> <C 19_DENARIUS> d. <C 700_TE> te <C 309_8> .viij. <C 14_JAAR> iaren <C 319_1297> .m'ho.cc'ho.xcvij'ho. <C 20_IJSWIJN> Isijn <C 700_VAN> van <C 475_DE> der <C 4_HEIDE> Yden <C 309_HALF> .'t!. <C 0_GEMET> ghem<A >et</A> <C 2_VLIET> vliets <C 701_OM> o<A >m</A>me 
+<L 2462:42> <C 309_18> .xviij. <C 19_DENARIUS> d. <C 20_WILLEBAARD-X> Willebaert <VN type=1> <C 800_EN> en<A >de</A> <C 21_BOUDEWIJN> boude <C 450_ZIJN> sien <C 1_ZOON> sone <C 309_3> .iij. <C 11_GEMET> ghem<A >ete</A> 
+<L 2462:43> <C 800_EN> en<A >de</A> <C 309_22> .xxij. <C 14_ROEDE> rod<A >en</A> <VN type=1> <C 701_OM> o<A >m</A>me <C 309_33> .xxxiij. <C 19_SOLIDUS> 't3s. <C 700_TE> te <C 309_8> .viij. <C 14_JAAR> iaren <C 319_1297> .m'ho.cc'ho.xcvij'ho. <C 20_WILHELM> Willem <C 471_DE> de 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 2462:52> <C 700_IN> in <C 22+2_REINMAR+HALS> reimars+hals 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 2463:1> <C 1_VISSER> uissc<A >er</A>e <C 309_2> .ij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_75> .lxxv. <C 14_ROEDE> roed<A >en</A>. <C 701_OM> o<A >m</A>me <C 309_31,5> .xxxi't!. <C 9_SOLIDUS> 't3s. <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren 
+<L 2463:2> <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 20_JOHANNES> Jan <C 20_ADELHARD> alaerd <C 309_EEN> .i. <C 0_GEMET> ghem<A >et</A>. <C 800_EN> en<A >de</A> <C 309_25> .xxv. <C 14_ROEDE> rod<A >en</A>. <C 440_AL> al <C 700_OM> om <C 309_14> .xiiij. <C 19_SOLIDUS> 't3s. <C 700_TE> te 
+<L 2463:3> <C 21_MARGARETA> M<A >er</A>griete <C 101_GROOT> grote <C 22_JOHANNES> ians <C 309_3> .iij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_5> .v. <C 14_ROEDE> rod<A >en</A>. <C 470+0_HET+GEMET> tghem<A >et</A>. 
+<L 2463:4> <C 700_OM> om <C 309_14> .xiiij. <C 19_SOLIDUS> 't3s. <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren <C 319_1295> .m'ho.cc'ho.xcv'ho <C 20_JOHANNES> Annijn <C 700_VAN> van <C 21_AKSEL> axele <C 309_200> .cc'ho. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> 
+<L 2463:5> <C 309_65> .lxv. <C 14_ROEDE> roed<A >en</A>. <C 700_OM> om <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 300_EEN> .i. <C 0_KAPOEN> capoen. <C 700_TE> te <C 20_WOUTER> Wout<A >er</A> <C 471_DE> de <C 0_MONNIK> moenc 
+<L 2463:6> <C 309_10,5> .x't!. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_HALF> .'t!. <C 100_KORT> cort <C 0_GEMET> ghem<A >et</A>. <C 440_AL> al <C 700_OM> om <C 309_6> .vi. <C 19_LIBRA> lib. <C 309_43> xliij. <C 19_DENARIUS> d. <C 320_MIN> min. <C 700_TE> te 
+<L 2463:7> <C 21_HUGO> hughe <C 700_VAN> van <C 474_DE/HET> den <C 1_WAL> walle <C 309_8> .viij. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_20> .xx. <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_500> .d. 
+<L 2463:8> <C 14_ROEDE> roed<A >en</A>. <C 800_EN> en<A >de</A> <C 309_5> .v. <C 14_ROEDE> rod<A >en</A> <C 2_ONDERVLIET> onderuliets. <C 800_EN> en<A >de</A> <C 309_2> .ij. <C 11_GEMET> ghem<A >ete</A> <C 2_LAND> lants. <C 800_EN> en<A >de</A> <C 309_HONDERD> .c. <C 14_ROEDE> rod<A >en</A> 
+<L 2463:9> <C 2_VLIET> vliets. <C 440_AL> al <C 701_OM> o<A >m</A>me <C 309_7> .vij. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_13> .xiij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_TIEN> .x. <C 19_DENARIUS> d. <C 700_TE> te <C 309_8> .viij. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. 
+<L 2463:10> <C 20_JOHANNES> annijn <C 20_EKHART> hegghaert <C 309_2> .ii. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_28> .xxviij. <C 14_ROEDE> rod<A >en</A>. <C 800_EN> en<A >de</A> <C 309_5> .v. <C 10_VIERENDEEL> v<A >ie</A>r<A >endeel</A> 
+<L 2463:11> <C 2_VLIET> vliets. <C 440_AL> al <C 700_OM> om <C 309_25> .xxv. <C 19_SOLIDUS> 't3s. <C 700_TE> te <C 309_8> .viij. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 21_HENDRIK> heine <C 471_DE> de <C 0_TIMMERMAN> te<A >m</A>merman 
+<L 2463:12> <C 309_4,5> .iiij't!. <C 11_GEMET> gh<A >emete</A>. <C 0+470_GEMET+HET> tghem<A >et</A>. <C 309_13,5> xiij't!. <C 9_SOLIDUS> 't3s. <C 700_TE> te <C 309_8> .viii. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 20_EUSTACHIUS> stalijn <C 22_EVERDEI> eu<A >er</A>deis 
+<L 2463:13> <C 1_ZOON> sone <C 309_2,5> .ii't!. <C 11_GEMET> gh<A >emete</A>. <C 800_EN> en<A >de</A> <C 309_75> .lxxv. <C 14_ROEDE> rod<A >en</A> <C 470+0_HET+GEMET> tghem<A >et</A> <C 309_14> .xiiij. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_3> .iii. <C 11_KAPOEN> capoene 
+<L 2463:14> <C 700_VAN> van <C 440_AL> al. <C 700_TE> te <C 309_8> .viij. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 21_HENDRIK> Heine <C 0_TAK> tac <C 309_7> .vij. <C 11_GEMET> ghem<A >ete</A> <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 0_HUIS> huus <C 440_AL> al 
+<L 2463:15> <C 700_OM> om <C 309_7> .vij. <C 19_LIBRA> lib. <C 309_2,5> ii't!. <C 9_SOLIDUS> 't3s. <C 320_MIN> mi<A >n</A> <VN type=1> <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren <C 319_1295> .m'ho.cc'ho.xcv'ho. <C 1_SOM> So<A >m</A>me <C 700_VAN> va<A >n</A> <C 414_DEZE> desen <C 1_LAND> lande 
+<L 2463:16> <C 309_55> .lv. <C 11_GEMET> ghe<A >mete</A>. <C 800_EN> en<A >de</A> <C 309_78> .lxxviij. <C 14_ROEDE> roed<A >en</A>. <C 1_SOM> So<A >m</A>me <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_GELD> ghelde <C 309_36> .xxxvi. <C 19_LIBRA> lib. 
+<L 2463:17> <C 800_EN> en<A >de</A> <C 309_2> .ij. <C 19_SOLIDUS> 't3s. 
+<L 2463:18> <C 700_IN> In <C 24_OTENE> otenen <C 21_WOUTER> weite <C 0_BOOMGAARD> boengaert <C 309_6> .vi. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_24> .xxiiij. <C 14_ROEDE> roed<A >en</A>. <C 440_AL> al <C 700_OM> om <C 309_3> .iij. 
+<L 2463:19> <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_20,5> .xx't!. <C 9_DENARIUS> d. <C 700_TE> te <C 21_HUGO> hughe <C 1_GOEDHEER-X> goetheere <C 309_2,5> .ii't!. <C 0_VIERENDEEL> v<A >ie</A>r<A >endeel</A> <C 700_OM> om <C 309_8> .viij. 
+<L 2463:20> <C 19_SOLIDUS> 't3s. <C 272_WEGDRAGEN> wechdraghens. <C 700_TE> te <C 20_JOHANNES> Jan <C 1_BEN-X> benne <C 309_4,5> .iiij't!. <C 11_GEMET> ghem<A >ete</A> <C 309_40> .xl. <C 14_ROEDE> rod<A >en</A> 
+<L 2463:21> <C 320_MIN> min. <C 700_OM> om <C 309_50> .l. <C 19_SOLIDUS> 't3s. <C 20_WILHELM> willem <C 1_SAGE> sage <C 309_6> .vi. <C 11_GEMET> gh<A >emete</A> <C 309_91,5> .xci't!. <C 14_ROEDE> rod<A >en</A>. <C 470+0_HET+GEMET> tghem<A >et</A> 
+<L 2463:22> <C 309_13> .xiij. <C 19_SOLIDUS> 't3s. <C 700_TE> te 
+<L 2463:23> <C 700_IN> In <C 20_AANDIJKE> adendijc <C 21_WOUTER> woutre <C 471_DE> de <C 1_MOLENAAR> molnere <C 309_19> .xix. <C 11_GEMET> ghemete <C 309_25> .xxv. <C 14_ROEDE> rod<A >en</A>. <C 320_MIN> min. <C 700_OM> om <C 309_12> .xii. 
+<L 2463:24> <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_9> .ix. <C 19_SOLIDUS> 't3s. <C 700_TE> te <C 309_TIEN> .x. <C 11_JAAR> iare <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 20_IJSWIJN> Isijn <C 471_DE> de <C 1_MOLENAAR> molnere <C 309_6> .vi. <C 11_GEMET> gh<A >emete</A>. <C 800_EN> en<A >de</A> 
+<L 2463:25> <C 309_20> .xx. <C 14_ROEDE> rod<A >en</A>. <C 700_OM> om <C 309_3,5> .iij't!. <C 9_LIBRA> lib. <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 20_JOHANNES> Annijn <C 700_VAN> van <C 20_ZAAMSLAG> zaemslacht 
+<L 2463:26> <C 309_2> .ij. <C 11_GEMET> gh<A >emete</A>. <C 800_EN> en<A >de</A> <C 309_35> .xxxv. <C 14_ROEDE> rod<A >en</A>. <C 700_OM> om <C 309_30> .xxx. <C 19_SOLIDUS> 't3s. <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. 
+<L 2463:27> <C 20_ARNOUT> Arnout <C 1_KRAB-X> crabbe <C 309_9,5> .ix't!. <C 11_GEMET> gh<A >emete</A>. <C 800_EN> en<A >de</A> <C 309_70> .lxx. <C 14_ROEDE> rod<A >en</A>. <C 700_OM> om <C 309_6> .vi. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_15> .xv. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> 
+<L 2463:28> <C 309_6> .vi. <C 19_DENARIUS> d. <C 700_TE> te <C 309_TIEN> .x. <C 14_JAAR> iaren <C 319_1296> .m'ho.cc'ho.xcvi'ho. <C 20_JOHANNES> Jan <C 1_KOD-X> codde <C 309_11> .xi. <C 10_VIERENDEEL> v<A >ie</A>r<A >endeel</A> <C 700_OM> om <C 309_28> .xxviij. <C 19_SOLIDUS> 't3s. <C 700_TE> te 
+<L 2463:29> <C 309_TIEN> .x. <C 11_JAAR> iare <C 319_1296> .m'ho.cc'ho.xcvi'ho. 
+<L 2463:30> <q> [op] <q> [de] <q> [rug:] 
+<L 2463:31> <C 1_SOM> So<A >m</A>me <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_PACHTLAND> pachtlande <C 700_IN> in <C 24_OTENE> otenen <C 309_17> .xvij. <C 11_GEMET> ghem<A >ete</A> <C 309_HONDERD> .c. <C 14_ROEDE> roden <C 309_12> .xij. 
+<L 2463:32> <C 14_ROEDE> roeden. <C 1_SOM> So<A >m</A>me <C 700+474_VAN+DE/HET> va<A >n</A>den <C 1_GELD> ghelde <C 309_TIEN> .x. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_17,5> .xvij't!. <C 9_DENARIUS> d. 
+<L 2463:33> <C 1_SOM> So<A >m</A>me <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_PACHTLAND> pachtlande <C 700_IN> in <C 20_AANDIJKE> adendijc <C 309_39> .xxxix. <C 11_GEMET> ghem<A >ete</A>. <C 800_EN> en<A >de</A> <C 309_HALF> .1/2. 
+<L 2463:34> <C 0_GEMET> ghem<A >et</A>. <C 800_EN> en<A >de</A> <C 309_25> .xxv. <C 14_ROEDE> roed<A >en</A>. <C 1_SOM> So<A >m</A>me <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_GELD> ghelde <C 309_25> .xxv. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_12> .xij. 
+<L 2463:35> <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 309_6> .vi. <C 19_DENARIUS> d. 
+<L 2463:36> <C 20_JOHANNES> Jan <C 0_LAUWAARD> lawaert <C 203_HOUDEN> houdt <C 700_TE> te <C 1_PACHT> pachte <C 700_IN> in <C 474_DE/HET> den <C 104_NIEUW> niewen <C 1_POLDER> polre <C 700+21_TE+AKSEL> taxele <C 309_EEN> .i. <C 1_SPADE> spade <C 2_LAND> lants 
+<L 2463:37> <C 700_OM> om <C 309_45> .xlv. <C 19_SOLIDUS> 't3s. 
+<L 2463:38> <C 800_EN> en<A >de</A> <C 700_IN> in <C 474_DE/HET> den <C 1_POLDER> polre <C 704_BEWESTEN> bewesten <C 21_AKSEL> axele <C 21_CATHARINA> cateline <C 22_OLIVIER> oliuiers <C 309_HONDERD> .c. <C 14_ROEDE> roeden. <C 800_EN> en<A >de</A> <C 309_21> .xxi. 
+<L 2463:39> <C 14_ROEDE> roden. <C 800_EN> en<A >de</A> <C 309_HALF> .'t!. <C 1_ROEDE> rode. <C 700_OM> om <C 309_4> .iiij. <C 19_SOLIDUS> 't3s. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

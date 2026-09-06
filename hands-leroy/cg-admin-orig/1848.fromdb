@@ -1,0 +1,51 @@
+<header>
+<docId>1848</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2746:11> <C 700+474_VAN+DE/HET> vanden <q> wissele <C 704_TUSSEN> tussce<A >n</A> <C 450_MIJN> miin <C 1_HEER> h<A >er</A>e <C 20_WILHELM> wille<A >m</A> <C 700_VAN> va<A >n</A> <q> berchem 
+<L 2746:12> <C 800_EN> en<A >de</A> <C 470_HET> tgasthws <C 700_IN> in <C 470_HET> tgoed <C 700_VAN> va<A >n</A> <C 21_ZELDENRODE?> saeldenrode. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2746:18> <C 404_WIJ> Wi <C 20_PAULUS> pauwels <C 21_BORNKOLF-X> bornecolue <C 800_EN> ende <C 20_ARNOUT> arnout <C 1_NEUS> nose <C 14_SCHEPEN> scepenen <C 700_IN> in <C 24_ANTWERPEN> antw<A >er</A>pen, 
+<L 2746:19> <C 204_MAKEN> maken <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 801_OCHTE> ochte <C 250_HOREN> horen 
+<L 2746:20> <C 250_LEZEN> lesen, <C 810_DAT> dat <C 701_VOOR> vore <C 404_WIJ> ons <C 220_KOMEN> quam <C 450_MIJN> mijn <C 0_HEER> her, <C 20_WILHELM> willem <C 700_VAN> van <C 20_BERCHEM> bergheem <C 1_RIDDER> riddre <C 800_EN> ende 
+<L 2746:21> <C 221_VERLIJDEN> verlide <C 701_VOOR> vore <C 404_WIJ> ons. <C 810_DAT> dat <C 403_HIJ> hi <C 274_GEVEN> ghegheuen <C 213_HEBBEN> heuet. <C 414_DIE> dien <C 474+700_DE/HET+VAN> vanden <C 1_GASTHUIS> gasthuse <C 700_VAN> van 
+<L 2746:22> <C 24_ANTWERPEN> antw<A >er</A>pen. <C 450_ZIJN> sijn <C 0_BOS> bosch <C 700+474_MET+DE/HET> metten <C 1_GROND> gronde <C 420_DAT> dat <C 203_STAAN> steet <VN type=1> <C 700_ACHTER> achter <C 475_DE/HET> der <C 1_BEEK> beke <C 700_IN> in <C 471_DE> die 
+<L 2746:23> <C 1_PAROCHIE> prochgie <C 700_VAN> van <C 21_MORTSEL> mortensele. <C 420_WELK> welc <C 0_BOS> bosch <C 203_HOUDEN> hout. <C 300_EEN> een <C 1_BUNDER> buenre. <C 800_EN> ende <C 300_EEN> een 
+<L 2746:24> <C 0_VIERDEDEEL> vierdendeel <C 2_BUNDER> buenres. <C 800_EN> ende <C 300_VIJFTIG> viftech <C 14_ROEDE> rueden <C 500_LUTTEL> luttel <C 320_MIN> min <C 801_OCHTE> ochte <C 325_MEER> meer, <C 700_OM> om <C 301_TWEE> twe 
+<L 2746:25> <C 14_STUK> sticken <C 2_LAND> lands, <C 620*_DAAR-> daer <C 470_HET> dat <C 301_EEN> ene <C 620#_-AF> af <C 203_LIGGEN> leghet <C 700_OP> vp <C 0_WOLFSGATERVELD> wolfscat<A >er</A>e+velt, <C 800_EN> ende <C 470_HET> dat <C 311_ANDER> andre 
+<L 2746:26> <C 700+475_TE+DE> ter <C 0_VARENT> varent. <C 700_AAN> an <C 471_DE> die <C 0_HOFSTEDE> hofstat <C 620*_DAAR-> daer <C 21_WOUTER> woutre <C 0_MUIL> muel <C 620#_-OP> vp <C 203_WONEN> woent, <C 421_WELK> welke <C 301_TWEE> twe <C 14_STUK> sticken 
+<L 2746:27> <C 2_LAND> lands <C 271_HOUDEN> houdende <C 214_ZIJN> sijn. <C 301_TWEE> twe <C 11_BUNDER> buenre <C 500_LUTTEL> luttel <C 320_MIN> min <C 801_OCHTE> ochte <C 325_MEER> meer <C 800_EN> ende <C 700_OM> om <C 300_EEN> een 
+<L 2746:28> <C 0_HALSTER> halster <C 2_ROG> rogx. <C 502_JAARLIJKS> iaerlijx. <C 420_DAT> dat <C 411_DIE> die <C 474+700_DE/HET+VAN> vanden <C 1_GASTHUIS> gasthuse. <C 224_HEBBEN> hadden <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochgie. <C 700_VAN> van 
+<L 2746:29> <C 20_BERCHEM> bergheem <C 271_LIGGEN> ligghende <C 700_IN> in <C 452+0_MIJN+HEER> mijns+ser <C 22_WILHELM> willems <C 2_GOED> guets <C 700_VAN> van <C 20_BERCHEM> bergheem <C 421_DIE> die <C 501_HIERVOOR> hier 
+<L 2746:30> <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 210_ZIJN> es, <C 800_EN> ende <C 700_TE> te <C 414_DEZE> desen <C 1_BOS> bossche. <C 800+474+700_EN+DE+TE> enten <C 104_VOORZEID> vorseiden <C 1_GROND> gronde <VN type=1> <q> . <C 550_ZO> So 
+<L 2746:31> <C 221_GELOVEN> ghelouede <C 450_MIJN> mijn <C 0_HEER> her <C 20_WILHELM> willem <C 700_VAN> van <C 20_BERCHEM> bergheem <C 421_DIE> die <C 501_HIERVOOR> hier <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 210_ZIJN> es. <C 411_DIE> die 
+<L 2746:32> <C 474+700_DE/HET+VAN> vanden <C 1_GASTHUIS> gasthuse <C 100_KOMMERLOOS> co<A >m</A>merloes <C 700_TE> te <C 251_BRENGEN> bringhene, <C 800_EN> ende <C 702_OVERMITS> ouer+mids <C 411_DEZE> dese 
+<L 2746:33> <C 1_VOORWAARDE> vorwarde. <C 550_ZO> so <C 214_ZULLEN> selen <C 411_DIE> die <C 700+474_VAN+DE/HET> vanden <C 1_GASTHUIS> gasthuse. <C 250_GEBRUIKEN> ghebruken <C 472_DE/HET> des <C 2_WEG> weghes <C 700_TE> te 
+<L 2746:34> <C 251_KOMEN> comene <C 800_EN> ende <C 700_TE> te <C 251_VAREN> vaerne. <C 701_TOT> tote <C 414_DEZE> desen <C 104_VOORGENOEMD> voreghenoemden <C 1_BOS> bossche <C 800_EN> ende <C 500_WEER> weder 
+<L 2746:35> <C 611_DAARUIT> daer+vte <C 700_TE> te <C 251_KEREN> keerne. <C 800_EN> ende <C 250_HEBBEN> hebben <C 214_ZULLEN> selen <VN type=1> <C 800_EN> en<A >de</A> <C 250_GEBRUIKEN> ghebruken <C 472_DE/HET> des <C 2_WEG> weghes <C 510_ALZO> also 
+<L 2746:36> <C 821_ALS> alse <C 403_HIJ> hi <C 700+474_MET+DE/HET> metten <C 1_VONNIS> vonnisse <C 273_WIJZEN> ghewijst <C 210_ZIJN> es, <C 700_IN> Jn <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dinghen. <C 800_EN> ende 
+<L 2746:37> <C 700_OM> om <C 1_BEDE> bede <C 800_EN> ende <C 1_BEGEERTE> begherte <C 452+0_MIJN+HEER> mijns+ser <C 22_WILHELM> willems <C 421_DIE> die <C 501_HIERVOOR> hier <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 210_ZIJN> es. 
+<L 2746:38> <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 14_SCHEPEN> scepenen, <C 451_ONS> onse <C 1_ZEGEL> seghele <C 700_MET> met <C 452+0_MIJN+HEER> mij<A >n</A>s+ser <C 22_WILHELM> willems <C 1_ZEGEL> seghele 
+<L 2746:39> <C 274_HANGEN> gehangen <C 700_AAN> an <C 411_DEZE> dese <C 4_LETTER> lettren. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 301_DUIZENTIG-200-NEGENTIGENNEGEN> dusentech.+twe+hondert+neghentech+en<A >de</A>+neghene. 
+<L 2746:40> <C 472_DE/HET> des <C 2_ZONDAG> sondaghes <C 700_NA> na <C 20_DERTIENDAG> dertien+dach 
+<L 2746:41> <q> ---- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

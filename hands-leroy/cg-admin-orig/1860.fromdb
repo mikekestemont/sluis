@@ -1,0 +1,48 @@
+<header>
+<docId>1860</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 2763:27> <C 24_EIKENDUINEN> Eykendunnen.- 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1451' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> De <q> capella <q> & <q> capellania <q> jn <C 24_EIKENDUINEN> eykendu<A >n</A>ne<A >n</A> 
+<L 2763:28> <q> que <q> deseruitur <q> per <q> religiosum <q> nostrum <q> in <C 29_HOLLANDIA> hollandia. 
+<end-datering  jaar_tot='1500' jaar_van='1451' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2763:31> <C 404_WIJ> Wj <C 20_JOHANNES> jan <C 1_GRAAF> Graue <C 700_VAN> van <C 24_HENEGOUWEN> henegouwen, <C 700_VAN> van <C 20_HOLLAND> hollant, <C 700_VAN> van <C 20_ZEELAND> zelant. <C 800_EN> Ende <C 1_HEER> here <C 700_VAN> van 
+<L 2763:32> <C 20_FRIESLAND> vriesl[an]t, <C 204_ONTBIEDEN> Onbieden <C 454_ONS> onsen <C 0_RENTMEESTER> rentemeest<A >er</A> <C 700_VAN> van <C 20_NOORDHOLLAND> northollant <C 421_DIE> die <C 500_NU> nv <C 200_ZIJN> es, <C 800_OF> jof 
+<L 2763:33> <C 610_HIERNA> hier+na <C 250_WEZEN> wesen <C 210_ZULLEN> sal, <C 810_DAT> Dat <C 403_HIJ> hi <C 4_HEER> haren <C 20_STEFANUS> steuen <C 454_ONS> onsen <C 0_KAPELAAN> capellaen <C 700_VAN> van 
+<L 2763:34> <C 24_EIKENDUINEN> hey[k]endunen, <C 800_EN> en<A >de</A> <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 510_DAAR> daer <C 700_NA> na <C 403_HIJ> he<A >m</A> <C 1_KAPELAAN> capellane 
+<L 2763:35> <C 260_WEZEN> wesen <C 214_ZULLEN> sullen, <C 322_ELK> elckes <C 2_JAAR> jaers <C 201_GEVEN> gheue <C 700_VAN> van <C 455_ONS> onser <C 4_WEG> weghen, <C 300_VIJF> vijf <C 10_POND> pont <C 115_HOLLANDS> hollanscher 
+<L 2763:36> <C 11_PENNING> pe<A >n</A>ninghe, <C 800_EN> Ende <C 300_DRIE> drie <C 10_POND> pont <C 111_HOLLANDS> holl<A >ansche</A>. <C 700_TOT> tot <C 304_EEN> ene<A >n</A> <C 0_PAAR> paer <C 10_KLEED> cleder <C 700_UIT> uvt <C 455_ONS> onser 
+<L 2763:37> <C 1_LANDHUUR> lanthure <C 700_VAN> van <C 20_PIJNAKKER> pinaker <C 502_JAARLIJKS> jaerlikes <C 700_TE> te <C 21_VALKENBURG> valkenb<A >ur</A>ghe <C 0_MARKT> marct <C 250*_IN-> in <C 250#+700_-NEMEN+TE> teneme[n]. 
+<L 2763:38> <C 421_WELK> wilke <C 301_ACHT> achte <C 10_POND> pont <C 111_HOLLANDS> holl<A >ansche</A>. <C 110_VOORZEID> vorseit, <C 451_ONS> Onse <C 101_LIEF> lieue <C 0_OOM> oem <C 0_KONING> Coning <C 20_WILHELM> willeem 
+<L 2763:39> <C 220_GEVEN> gaf <C 700_VOOR> vor <C 1_GRAAF> Graue <C 22_FLORENTIUS> Florens <C 1_ZIEL> ziele <C 452_ZIJN> sijns <C 0_VADER> vader, <C 452_ONS> Ons <C 2_OUDERVADER> oudevaders, <C 620*_DAAR-> dar <C 0_GOD> god <VN type=1> <C 471_DE> die <C 1_ZIEL> ziele 
+<L 2763:40> <C 700_VAN> van <C 406_ZIJ> hem <C 304_BEIDE> beiden <C 620#_-AF> of <C 250_HEBBEN> hebben <C 211_MOETEN> moethe, <C 700_MET> met <C 502_ANDERS> anders <C 474_DE/HET> den <C 4_RENTE> renthen, <C 421_DIE> die <C 403_HIJ> hi 
+<L 2763:41> <C 221_ZETTEN> settede <C 700_TOT> toet <C 475_DE/HET> der <C 105_VOORZEID> vorseider <C 4_KAPEL> capellen, <C 810_TOEN> doe <C 403+403_ZIJ+HIJ> hiese <C 250_STICHTEN> stichten <C 231_DOEN> dede, <C 810_OMDAT> Omme+dat <C 404_WIJ> wi 
+<L 2763:42> <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 10_DING> dinc <C 101_GESTADE> gestade <C 800_EN> Ende <C 100_VAST> vast <C 214_BLIJVEN> bliuen, <C 700_VOOR> vor <C 404_WIJ> ons, <C 800_EN> Ende <C 451_ONS> onse 
+<L 2763:43> <C 11_NAKOMELING> nacomelinghe, <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 414_DEZE> des[en] <C 0_BRIEF> [brie]f <C 273_ZEGELEN> gezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen. 
+<L 2763:44> <C 470+700_HET+IN> Jnt <C 0_JAAR> Jaer <C 452_ONS> ons <C 4_HEER> heren. <C 301_1000-200-NEGENTIGENNEGEN> Dusent.+Tvehondert.+Neghentich,+Ende+neghene, <C 700_OP> vp 
+<L 2763:45> <C 101_SINT> sente <C 22_MATTE'S1US> mathy[s] <VN type=1> <C 1_VIGILIE> [vig]hielie. <C 700_IN> jn <C 471_DE> die <C 1_HAAG> haghe, 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

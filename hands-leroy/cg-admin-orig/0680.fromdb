@@ -1,0 +1,39 @@
+<header>
+<docId>0680</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.T.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1133:9> <C 29_JOHANNES> hannekini <q> filii 
+<L 1133:10> <C 22_WILLAARD> willards.- <C 20_OOSTBURG> oestb<A >ur</A>rch 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.T.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1133:16> <C 20_PETRUS> Pieter <C 452_MIJN> mjns <C 1_HEER> here <C 22_HUGO> hughes <C 1_ZOON> zone <C 20_JOHANNES> jan <C 471_DE> de <C 1_ZAND> zande <C 20_JOHANNES> jan <C 0_MOND> mond <C 20_AEGIDIUS> gillis <C 22_DIEDERIK> diedrixs 
+<L 1133:17> <C 1_ZOON> zone <C 20_JOHANNES> jan <C 1_NIEUWMAAR> njemare <C 21_HUGO> hughe <C 700_VAN> van <C 20_BOEIGEM> boyenghem <C 20_DIEDERIK> dirkin <C 22_GIJS> ghiselins <C 1_ZOON> zone <C 404_WIJ> wi 
+<L 1133:18> <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 1133:19> <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 220_KOMEN> quam <C 700_VOOR> vor <C 404_WIJLIEDEN> onslieden <C 26_ADELHEID> adelisa <C 6_WEDUWE> wedua 
+<L 1133:20> <C 22_HENDRIK> heinrics <C 2_KLERK> clercs <C 800_EN> ende <C 220_GEVEN> gaf <C 101_WETTELIJK> wetlike <C 1_GIFT> gifte <C 700_VAN> van <C 300_EEN> een <C 1_GEMET> jmete <C 2_LAND> lants <C 21_HENDRIK> heinekine 
+<L 1133:21> <C 22_WILLAARD> willarts <C 1_ZOON> zone <C 470+421_HET+WELK> tvelke <C 101_VOORZEID> vor+seide <C 0_LAND> lant <C 203_LIGGEN> leghet <C 700_OP> up <C 20_BULGEERWERF> bulgher+werf <C 700_VAN> van <C 474_DE/HET> den 
+<L 1133:22> <C 1_WESTEIND> westende <C 502_INWAARTS> jn+warts <C 700_BEOOSTHALF> boest+half <C 475_DE/HET> der <C 21_HEUL> hoele <C 500_BENOORDHALF> be+northalf <C 700_OP> up <C 700+474_TE+DE/HET> ten <C 0_WATERGANG> waterganc <C 410_DIT> dit 
+<L 1133:23> <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_OP> up <C 474_DE> ten <C 104_NAAST> naesten <C 0_DONDERDAG> donres+dach <C 700_VOOR> vor <C 101_SINT> sente <C 24_MARIA> marien <C 1_DAG> daghe 
+<L 1133:24> <C 24_MAGDALENA> magdalenen <C 470+700_HET+IN> jnt <C 0_JAAR> jar <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrieuet <C 450_ZIJN> sin <C 0_INCARNATIOEN> jn+carnation <q> m'ho <q> cc'ho 
+<L 1133:25> <q> lxxx'ho <q> sexto'ho. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

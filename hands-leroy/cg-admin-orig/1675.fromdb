@@ -1,0 +1,21 @@
+<header>
+<docId>1675</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2511:12> <C 0_LETTER> Let<A >er</A> <C 700_VAN> van <C 472_DE/HET> des. 
+<L 2511:13> <C 4_GRAAF> g<A >ra</A>uen <C 0_ZEGGEN> segghe<A >n</A> <C 700_VAN> van <C 20_BIJLMERBROEK> mi<A >n</A>delberebroch. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

@@ -1,0 +1,37 @@
+<header>
+<docId>0084</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 143:9> <C 700_IN> jn <C 21_HOUTAVE> houtawe <C 20_SIMON> simoen <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_SCHAAK> schake.- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 143:14> <C 20_SIMON> Simon <C 700_VAN> van <C 474_DE/HET> den <C 1_SCHAAK> scake <C 800_EN> en<A >de</A> <C 20_JOHANNES> iohan <C 450_ZIJN> sijn <C 1_ZOON> zone <C 224_GEVEN> ghauen <C 700_IN> in <C 4_AALMOES> alemoesenen 
+<L 143:15> <C 21_ARNOUT> arnoude <C 21_BRANTIJN-X> b<A >ra</A>ntine <C 474_DE/HET> den <C 0_KLERK> clerc <C 700+475_TE+DE> ter <C 4_ABDIS> abbedessen <C 800_EN> en<A >de</A> <C 700+475_TE+DE> ter <C 11_ZUSTER> sust<A >er</A>e <C 0_BEHOEF> boef <C 700_VAN> van 
+<L 143:16> <C 101_SINT> sinte <C 24_CLARA> claren <C 700_BIJ> bi <C 21_BRUGGE> brugge <C 301_9> neghene <C 11_GEMET> ymete <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> een+half <C 0_GEMET> ymet <C 2_LAND> lands 
+<L 143:17> <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> iof <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 421_DIE> die <C 204_LIGGEN> liggen <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> p<A >ro</A>chie <C 700_VAN> van <C 21_HOUTAVE> houtawe 
+<L 143:18> <C 800_EN> en<A >de</A> <C 700_VAN> van <C 21_STALHILLE> stalhille <C 700_IN> in <C 481_EEN> ene <C 1_STAD> stede <C 213_HETEN> heet <C 20_ZEVENDAM> zeuendam. <C 410_DIT> Dit <C 204_KENNEN> kennen <C 14_SCHEPEN> schepenen 
+<L 143:19> <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 624*+403_DAAR-+HET> daert <C 624#_-VOREN> voren <C 274_DOEN> ydaen <C 230_ZIJN> was. <C 20_REINWARD> reinu<A >er</A>d <q> .f. <C 24_GODELINDE> godelinden. <C 20_BOUDEWIJN> bouden 
+<L 143:20> <C 101_IJZEREN> ys<A >er</A>ine. <C 21_HUGO> hug<A >he</A> <C 0_ZOEN> soen <C 700_VAN> van <C 20_CADZAND> cadsand. <C 20_JOHANNES> iohan <C 700_VAN> van <C 20_CADZAND> cadsand. <C 20_NICOLAAS> clais <C 1+472_HEER+DE> s<A >er</A>e <C 22_HUGO> hughes 
+<L 143:21> <C 1_ZOON> soene. <C 20_JOHANNES> iohan <C 0_AKET> aket. <C 800_EN> en<A >de</A> <C 20_AEGIDIUS> gillis <q> f <C 22_DIEDERIK> thiederix. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ydaen <C 700+470_IN+HET> int <C 0_JAAR> iaer. <C 452_ONS> ons 
+<L 143:22> <C 4_HEER> h<A >er</A>en <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 450_ZIJN> sijn <C 0_INCARNATIOEN> incarnation <q> .m'ho. <q> cc'ho. <q> lx'ho. <q> nono. <C 700_IN> in <C 20_LOUWMAAND> loumaent 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

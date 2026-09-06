@@ -1,0 +1,50 @@
+<header>
+<docId>1565a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2352:35> <C 700_VAN> van <C 20_LATEM> Latem.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 21_RIJSBRUGGE> reisbrugghe <q> eerste <q> e <q> onzeker, 
+<L 2352:36> <q> lees <C 21_RIJSBRUGGE> riisbrugghe. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2352:39> <C 403_HET> Het <C 210_ZIJN> si <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 801_OF> ofte <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 2352:40> <C 810_DAT> dat <C 401_IK> jc <C 21_AGATHA> aghte <C 700+475_UIT+DE> vter <C 4_VOLDERSSTRAAT> volrestraten <C 101_GROOT> groete <C 1_MEESTEREGGE> meestrigghe <C 700_VAN> van <C 700+475+20_TE+DE+OOIE> der+hoyen <C 220_OPDRAGEN> vp+droech 
+<L 2352:41> <C 474_DE/HET> den <C 1_HEER> here <C 700_IN> jn <C 14_HAND> handen <C 475+700_DE+TE> ter <C 4_FERMERIE> fermerien <C 0_BEHOEF> boef <C 700_VAN> van <C 700+475+20_TE+DE+OOIE> der+hoyen <C 309_4> .iiij. <C 19_LIBRA> lib. 
+<L 2352:42> <C 800_EN> en<A >de</A> <C 309_12> .xij. <C 19_DENARIUS> d. <C 472+2_HET+JAAR> siars <C 800_EN> En<A >de</A> <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 21_AGATHA> aghte <C 101_GROOT> groete <C 1_MEESTEREGGE> meestrigghe <C 700_VAN> van <C 700+475+20_TE+DE+OOIE> der+hoyen 
+<L 2352:43> <C 220_ONTVANGEN> ontfinc <C 500_WEER> weder <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_4> .iiij. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_12> .xij. <C 19_DENARIUS> d. <C 700+475_TE+DE> ter <C 4_FERMERIE> fermerien 
+<L 2352:44> <C 0_BEHOEF> boef <C 700_VAN> van <C 700+475+20_TE+DE+OOIE> der+hoyen <C 861_ALS> alse <C 100_STERFELIJK> sterfelic <C 0_WIJF> wijf <C 410_DAT> Dat <C 200_ZIJN> es <C 700_TE> te <C 251_VERSTAAN> verstane <C 811_ALS> alse <C 411_DEZE> dese 
+<L 2352:45> <C 101_VOORZEID> vorseide <C 21_AGATHA> aghte <C 203_STERVEN> steruet <C 551_ZO> soe <C 210_MOETEN> moet <C 250_KOMEN> comen <C 480_EEN> een <C 0_PERSOON> p<A >er</A>soen <C 801_OF> ofte <C 481_EEN> ene 
+<L 2352:46> <C 1_PERSONEGGE> p<A >er</A>sonicke. <C 800_EN> Ende <C 250_VERZOEKEN> versoeken <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_4> .iiij. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_12> .xii. <C 19_DENARIUS> d. <C 475+700_DE+TE> Ter 
+<L 2353:1> <C 4_FERMERIE> fermerien <C 0_BEHOEF> boef <C 700_VAN> van <C 700+475+20_TE+DE+OOIE> der+hoyen. <C 800_EN> Ende <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_4> .iiij. <C 19_LIBRA> lib. <C 800_EN> en<A >de</A> <C 309_12> .xij. <C 19_DENARIUS> d. 
+<L 2353:2> <C 214_ZIJN> sijn <C 274_LIGGEN> ghelegen <C 700_ONDER> onder <C 474_DE/HET> den <C 0_ABT> abt <C 700_VAN> van <C 101_SINT> sente <C 22_PETRUS> pieters <C 700_IN> jn <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 20_LATEM> latem 
+<L 2353:3> <C 800_EN> Ende <C 610_DAAROMTRENT> daer+om+trent <C 800_EN> Ende <C 700_OVER> ouer <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 14_STUK> sticken <C 550_ZO> soe <C 220_ZIJN> was <C 20_JOHANNES> jan <C 700_VAN> van <C 475_DE/HET> der 
+<L 2353:4> <C 1_BEEK> beke <C 21_WOUTER> woutre <C 700_VAN> van <C 474_DE/HET> den <C 1_HIL> hulle. <C 20_WILHELM> willem <C 0_BUNDERVOET-X> burevoet <C 800_EN> en<A >de</A> <C 20_HENDRIK> heinric <C 700_VAN> van <C 21_EIK> heke <C 861_ALS> alse 
+<L 2353:5> <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <VN type=1> <C 20_HENDRIK> heinric <C 471_DE> de <C 0_MEIER> meier <C 700_VAN> van <C 21_MAALTE> maelte <C 861_ALS> alse <C 0_MAN> man <C 700_VAN> van <C 14_SCHEPEN> scepenen 
+<L 2353:6> <C 800_EN> Ende <C 20_AEGIDIUS> gillis <C 700_VAN> van <C 475_DE/HET> der <C 1_BEEK> beke <C 861_ALS> alse <C 471_DE> de <C 411_GENE> ghene <C 500+421_ER+DIE> diere <C 220_ZIJN> was <VN type=1> <C 700_VAN> wan <C 4+472_HEER+DE> sheren <C 4_HALF> aluen. 
+<L 2353:7> <C 800_EN> Ende <C 321_AL> alle <C 411_DEZE> dese <C 114_VOORZEID> vorseiden <C 14_STUK> sticken <C 411_DIE> die <C 234_ZIJN> waren <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 2353:8> <C 851_ALS> alse <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 300_DUIZENTIG-296> Dusentech+Tuehondert+Ende+sesse+en<A >de</A>+neghentech 
+<L 2353:9> <C 2_DONDERDAG> Donresdages <C 700_VOOR> voer <C 101_SINT> sente <C 24_MARIA> marien <C 1_LICHTMIS> licht+messe <q> ---- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

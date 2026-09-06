@@ -1,0 +1,23 @@
+<header>
+<docId>1427</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='141' plaats_2='' regio_1='6' regio_2='' regiostatus='2'>
+<statushand  statushandkode='mn'>
+<L 2189:22> <C 401_IK> Jc <C 450_MIJN> miin <C 0_HEER> her <C 20_HENDRIK> heinrec <C 1_RIDDER> riddre <C 700_VAN> van <C 21_WILRE> wilre <C 201_GROETEN> grute <C 474_DE/HET> den <C 0_MEESTER> miest<A >er</A> <C 800_EN> en<A >de</A> <C 471_DE> de 
+<L 2189:23> <C 1_MEESTERSE> miest<A >er</A>se <C 700_VAN> van <C 474_DE/HET> den <C 1_GASTHUIS> gasthuse <C 700_VAN> van <C 24_ANTWERPEN> anduerpen; <C 401_IK> Jc <C 201_ONTBIEDEN> onbiede <VN type=1> <C 405_GIJ> v <C 700_MET> met <C 414_DEZE> desen 
+<L 2189:24> <C 4_LETTER> lett<A >er</A>en <C 810_DAT> dat <C 405_GIJ> ghi <C 203_SLAAN> slaet <C 451_UW> ve <C 11_HAND> hande <C 701_AAN> ane <C 320_AL> al <C 470_HET> dat <C 0_RECHT> reht <C 420_DAT> dat <C 405_GIJ> ghi <C 203_WETEN> weet <C 810_DAT> dat <C 401_IK> ic <C 221_HEBBEN> hadde 
+<L 2189:25> <C 701_AAN> ane <C 471_DE> de <C 1_TIEND> tiende <C 700_VAN> van <C 21_WESEL> wesele <C 800*_BEIDE> beide <C 701_AAN> ane <C 101_NIEUW> newe <C 1_TIEND> tiende <C 800#_EN> en<A >de</A> <C 701_AAN> ane <C 101_OUD> oude 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='141' plaats_2='' regio_1='6' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='mn'>

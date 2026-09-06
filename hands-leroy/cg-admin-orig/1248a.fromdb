@@ -1,0 +1,30 @@
+<header>
+<docId>1248a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1908:28> <C 474+700_DE/HET+VAN> vand<A >en</A> 
+<L 1908:29> <C 14_BEEMD> bempde<A >n</A> <q> tot <C 21_HEIENBEEK> heye<A >n</A>beke.- 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> van <C 0_VROUW> vrauw <q> sopia <C 1_VROUW> vrauwe <C 700_VAN> van <q> mechelen.- 
+<L 1908:30> <C 0_HOF> hof. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<L 1908:33> <C 411_DIT> Ditte <C 210_ZIJN> es <C 471+1_DE+LETTER> delettre <C 4+472_HEER+DE> cheren <C 22_JOHANNES> Jans <C 22_BERTOUD> B<A >er</A>thaus <C 800_EN> En<A >de</A> <C 22_JOHANNES> Jans <C 452_ZIJN> siens <C 2_ZOON> zoens <C 700_VAN> van 
+<L 1908:34> <q> sees <C 11_BUNDER> bonre <C 14_BEEMD> bemde<A >n</A>, <C 800_EN> En<A >de</A> <C 300_DRIE> drie <C 11_BUNDER> bonre <C 2_LAND> lans <C 20+700_NIVERDONK+TE> teniuerdonch. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

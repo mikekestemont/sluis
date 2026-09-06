@@ -1,0 +1,63 @@
+<header>
+<docId>0423</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 653:11> <q> De <C 29_NICOLAAS> nicholao <q> filio <C 29_MATHILDE> magtildis <q> eius <q> vxore.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 653:12> <q> redditus <q> condam <q> domini <C 29_JACOB> jac<A >obi</A> <q> de <C 20_AARDENBURG> ard<A >enburch</A>. <q> videlicet 
+<L 653:13> <q> .xx <q> s <q> redditus <q> in <C 20_VLADSLO> vlardslo. <C 800_EN> & <q> xvij <q> s <q> redditus <q> in <C 20_LOPPEM> lophem. <q> de <q> quibus 
+<L 653:14> <q> communitas <q> sancti <q> saluatoris <q> habet <q> .xxx <q> s. <q> ad <q> Releuium. <q> Jtem <q> ipsi 
+<L 653:15> <q> curati <q> sancti <q> saluatoris <q> iij <q> s <q> redditus. <q> & <q> ipsa <q> fabrica <q> sancti <q> saluatoris 
+<L 653:16> <q> .iiij'ho'hr't! <q> s. <q> annuatim. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 653:22> <C 20_JOHANNES> Jan <C 700_VAN> van <C 1_POEL> poele, <C 20_REINWARD> Reinvard <C 20_PORIJN-X> porin. <C 20_AEGIDIUS> Gielis <q> filius <C 22_WOUTER> wouters <C 20_GERARD> gheraerd <C 471_DE> die <C 0_WEVEL> weuel, 
+<L 653:23> <C 20_BOUDEWIJN> bouden <C 700_VAN> van <C 21_MOERKERKE> morkerke, <C 20_JOHANNES> jan <C 471_DE> die <C 101_BRUIN> brune, <C 21_HUGO> hughe <C 700_VAN> van <C 20_BOEIGEM> boienghem <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan 
+<L 653:24> <C 700_VAN> van <C 21_TARWEDIJK> terrendike, <C 404_WIJ> wie <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 321_AL> alle <C 474_DE/HET> den 
+<L 653:25> <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_EN> en<A >de</A> <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> Dat <C 220_KOMEN> cam <C 700_VOOR> voer <C 404_WIJ> ons 
+<L 653:26> <C 20_NICOLAAS> clais <q> filius <C 24_MATHILDE> machtilden <C 800_EN> en<A >de</A> <C 20_HEILE> heilewijf <C 450_ZIJN> siin <C 0_WIJF> wijf <C 800_EN> ende <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte 
+<L 653:27> <C 0_MEESTER> meester <C 21_JACOB> jacobe <C 700_VAN> van <C 20_AARDENBURG> ardenburgh <C 1_PAROCHIEPAAP> prochipape <C 700_VAN> van <C 101_SINT> sinte <C 22_SALVADOR> saluatoers <C 700_IN> in 
+<L 653:28> <C 21_BRUGGE> brughe <C 700_VAN> van <C 301_ACHT> achte <C 14_LIJN> linen <C 2_LAND> lants <C 271_LIGGEN> lighende <C 700_IN> in <C 20_VLADSLO> vlaerdslo <C 0_AMBACHT> ambocht <C 800_EN> en<A >de</A> <C 700_IN> in 
+<L 653:29> <C 20_VLADSLO> vlaerdslo <C 1_PAROCHIE> prochie, <C 700_MET> met <C 1_HUIZING> husinghe, <C 700_MET> met <C 11_BOOM> bome <C 800_EN> en<A >de</A> <C 700_MET> met <C 320_AL> al <C 420+600_DAT+DAAROP> datre+vp <C 203_STAAN> staet 
+<L 653:30> <C 700_VAN> van <C 414_DIE> dien <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 203+403_LIGGEN+HET> leghets <C 301_VIJF> viue <C 11_VIERENDEEL> virendele <C 2_GEMET> jmets <C 620*_DAAR-> daer <C 450_ZIJN> siin <C 0_HUIS> huus <C 620#_-OP> vp 
+<L 653:31> <C 203_STAAN> staet <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 611_DAARTOE> daer+toe <C 203_BEHOREN> behoret, <C 800_EN> Ende <C 500_ZUIDWAART> zutwaerd <C 700_VAN> van <C 414_DIE> dien <C 1_LAND> lande <C 204+403_LIGGEN+HET> lighens 
+<L 653:32> <C 301_TWEE> tue <C 14_LIJN> linen <C 421_DIE> die <C 204_LIGGEN> lighen <C 700_VOOR> vor <C 20_DIEDERIK> tierin <C 22_ADELHARD> alaerds <C 2_ZOON> zoens <C 800_EN> ende <C 301_TWEE> tue <C 14_LIJN> linen <C 700_OP> vp <C 471_DE> die <C 1_BEEK> beke, 
+<L 653:33> <C 800_EN> en<A >de</A> <C 406_ZIJ> zie <C 224+403_WEDDEN+HET> wedens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> lant, <C 100_VRIJ> vri <C 0_LAND> lant <C 101_KWIJT> quite 
+<L 653:34> <C 0_LAND> lant <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0_SCHULD> scult <C 704_JEGEN> jheghen <C 324_ELK> elken <C 1_MENS> mensche <C 700_TE> te <C 412_DEZE> dis <C 0_MEESTER> mester <C 22_JACOB> jacobs 
+<L 653:35> <C 700_VAN> van <C 20_AARDENBURG> ardenburgh <C 104_RECHT> rechten <C 1_EIGENDOM> eghindomme, <C 500_VOORT> Voert <C 204_DOEN> doen <C 404_WIJ> wie <C 700_TE> te <C 251_WETEN> wetene <C 404_WIJ> wie 
+<L 653:36> <C 111_VOORZEID> vorseide <C 11_SCHEPEN> schepene <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 810_DAT> Dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons <C 0_MEESTER> mester <C 20_JACOB> jacob <C 700_VAN> van 
+<L 653:37> <C 20_AARDENBURG> ardenburgh <C 100_VOORZEID> vorseid <C 800_EN> ende <C 220*_-GEVEN> gaf <C 500_WEER> weder <C 220#_OP-> vp <C 410_DAT> dat <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 474_DE> dien <C 104_VOORZEID> vorseiden 
+<L 653:38> <C 20_NICOLAAS> clais <q> filius <C 24_MATHILDE> machtilden <C 700_TE> te <C 104_ERFELIJK> erueliken <C 1_CIJNS> chense <C 701_OM> omme <C 300_20> tuintich <C 11_SCHELLING> sceleghe <C 2+472_JAAR+HET> tsiaers 
+<L 653:39> <C 115_GOED> ghodere <C 115_VLAAMS> vlamescer <C 11_PENNING> peneghe <C 700_TE> te <C 251_GELDEN> gheldene <C 471_DE> die <C 301_EEN> ene <C 0_HELFT> helt <C 101_SINT> sinte <C 22_BAVO> baues <C 1_MIS> messe 
+<L 653:40> <C 800_EN> En<A >de</A> <C 471_DE> die <C 310_ANDER> hander <C 0_HELFT> helt <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 1_MIS> messe <C 421_DIE> Die <C 613_DAARNAAST> daer+naest <C 203_KOMEN> coemt <C 700_IN> jn <C 320_ELK> elc <C 0_JAAR> jaer 
+<L 653:41> <C 800_EN> En <C 100_VOL> wl <C 0_KOOP> coep <C 800_EN> en<A >de</A> <C 1_VERSTERFENIS> versteruenesse <C 403+810_HET+ALS> alst <C 203_GEVALLEN> gheuallet. <C 800_EN> Ende <C 700_IN> in <C 4_KENNIS> kennessen <C 700_VAN> van 
+<L 653:42> <C 414_DEZE> desen <C 14_STUK> sticken <C 810_DAT> dat <C 406_ZIJ> zie <C 100_VAST> vast <C 214_BLIJVEN> bliuen <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade, <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide 
+<L 653:43> <C 14_SCHEPEN> scepenen, <C 411_DEZE> dese <C 4_LETTER> lettren <C 101_UITHANGEND> huuthanghende <C 700_TE> te <C 4_KENNIS> kennessen <C 273_ZEGELEN> ghezeghelt <C 700_MET> met 
+<L 653:44> <C 454_ONS> onsen <C 14_ZEGEL> zeghelen, <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 472+2_DE+ZATERDAG> tsat<A >er</A>daghes <C 700_VOOR> vor <C 101_UITGANGEND> hutghanghende 
+<L 653:45> <C 21_MEI> meye, <q> anno <q> domini <q> .m'ho. <q> c'hoc'ho <q> lx'hox'hox'ho <q> secundo. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

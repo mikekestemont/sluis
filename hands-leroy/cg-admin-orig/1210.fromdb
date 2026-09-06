@@ -1,0 +1,54 @@
+<header>
+<docId>1210</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1847:9> <C 471_DE> de <C 1_LETTER> lettere 
+<L 1847:10> <C 700_VAN> van <q> xx <C 19_SOLIDUS> 't3s <C 2+472_JAAR+HET> tsaers <q> payments <C 700_OP> op <C 472+2_DE+KREUPELE> scropels <q> erue <C 420_DAT> dat <C 203_LIGGEN> legt <C 700_OP> op <C 20_SCHEISELBERG?> sceiselberch <q> bute<A >n</A> 
+<L 1847:11> <C 475_DE/HET> der <C 4_KOEPOORT> coeporten.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> valet <q> xx <C 14_MIJT> mijtten <C 700_VAN> van <C 470+0_HET+JAAR> diaer <q> xij+xcij. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1847:14> <C 0_HEER> her <C 20_AEGIDIUS> ghiliis <C 470+0_DE+BOK> deboc <C 0+470_KAPELAAN+DE> decaplaen <C 800_EN> en<A >de</A> <C 861_ALS> alse <C 0_RECHTER> recter <C 475_DE/HET> der <C 16_KAPELAAN> caplana <C 700_VAN> va<A >n</A> <C 20_ZELLAAR> zellar <C 800_EN> en<A >de</A> 
+<L 1847:15> <C 411_DEZE> dese <C 16_LAAT> lata. <C 20_ARNOUT> art <C 0_KORBEEL> corbiel <C 800_EN> en<A >de</A> <C 20_WILHELM> villem <C 700+474_MET+DE/HET> mette<A >n</A> <C 0_KINNETJE> ki<A >n</A>neke<A >n</A> <C 800_EN> en<A >de</A> <C 26_HERMAN> herma<A >n</A>na <C 700_VAN> va<A >n</A> 
+<L 1847:16> <C 26_KEULEN> coelna <C 800_EN> en<A >de</A> <C 20_HENDRIK> heinriic <C 450_ZIJN> siin <C 0_BROEDER> broder. <C 404_WIJ> Wi <C 204_MAKEN> make<A >n</A> <C 100_KOND> cont <C 321_AL> alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 411_DEZE> dese <VN type=1> 
+<L 1847:17> <C 0_LETTER> lett<A >er</A> <C 204_ZIEN> siin <C 800_EN> en<A >de</A> <C 204_HOREN> hore<A >n</A>. <C 810_DAT> dat <C 20_BOUDEWIJN> bouden <C 472+2_DE+KREUPELE> scropels <C 6_ZOON> sona <C 220_KOMEN> qua<A >m</A> <C 800_EN> en<A >de</A> <C 221_BEKENNEN> beke<A >n</A>de 
+<L 1847:18> <C 701_VOOR> vore <C 404_WIJ> hons <C 700_BIJ> bi <C 1_MANIS> manesse <C 472_DE/HET> des <C 4_HEER> here<A >n</A> <C 800_EN> en<A >de</A> <C 6_WIJZING> wigi<A >n</A>ga <C 475_DE/HET> der <C 16_LAAT> lata. <C 20_WILHELM> wille<A >m</A> <C 4_VROUW> vore<A >n</A> 
+<L 1847:19> <C 26_BENIGNUS> beni<A >n</A>gna <C 471_DE> de <C 0_BEGAARD> begart <C 472+0+2+700_HET+BEHOEF+CONVENT+TE> chovensboef <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 14_BEGAARD> begarden <C 700_VAN> va<A >n</A> <C 24_MECHELEN> mechelen <C 309_20> xx <C 19_SOLIDUS> 't3s 
+<L 1847:20> <C 300+470_EEN+DE> dien <C 0_HELFT> helft <C 200_ZIJN> es <C 700_TE> te <C 250_GEVEN> gheven <C 101_SINT> sente <C 1+22_MIS+JOHANNES> ia<A >n</A>smessce <C 800_EN> en<A >de</A> <C 310+470_ANDER+DE> da<A >n</A>d<A >er</A> <C 0_HELFT> helf <C 200_ZIJN> es <C 700_TE> te <C 250_GEVEN> geven 
+<L 1847:21> <C 700+0_TE+KERSTAVOND> tekersavont <C 511_ALZO> alse <C 411_ZULK> selke <C 0_GELD> gelt <C 800_EN> en<A >de</A> <C 1_MUNT> mo<A >n</A>te <C 821_ALS> alse <C 700_IN> in <C 6_BEURS> borsa <C 203_GAAN> geet <C 800_EN> en<A >de</A> <C 250_GAAN> gaen <C 210_ZULLEN> sal 
+<L 1847:22> <C 700_IN> in <C 324_AL> alle<A >n</A> <C 14_TIJD> tide<A >n</A> <C 440+850_MEN+ALS> alsme<A >n</A> <C 414_DEZE> desen <C 0_CIJNS> sciis <C 203_NEMEN> nemt <C 700_OP> op <C 321_AL> alle <C 450_ZIJN> siin <C 1_ERF> arve <C 420_DAT> dat <C 274_LIGGEN> geleghe<A >n</A> 
+<L 1847:23> <C 210_ZIJN> es <C 704_BUITEN> bute<A >n</A> <C 475_DE/HET> der <C 4_VEST> vesten <C 701_AAN> ane <C 20_SCHEISELBERG?> sceiscelberch <C 475+700#_DE+TE> t<A >er</A> <C 4_KOESTRAAT> coestrate<A >n</A> <C 700*_WAART> wert. <C 800_EN> en<A >de</A> 
+<L 1847:24> <C 276_HOUDEN> houde<A >n</A>da <C 210_ZIJN> es <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 4_HEER> here<A >n</A> <C 700_VAN> va<A >n</A> <C 20_ZELLAAR> zellar <C 701_UIT> hute <C 414_DEZE> desen <C 6_GOED> goda <C 203#_-GAAN> geet <C 700_TE> te <C 504_VOREN> vore<A >n</A> 
+<L 1847:25> <C 203*_UIT-> vta <C 309_8> viii <C 19_SOLIDUS> 't3s <C 800_EN> en<A >de</A> <C 309_5> v <C 16_KAPOEN> capuna <C 810_DAT> dat <C 410_DIT> dit <C 101_WAAR> vare <C 210_ZIJN> es <C 999_ZZZ> dam<A >en</A> <VN type=1> <C 401_IK> hic <C 0_HEER> her <C 20_AEGIDIUS> giliis <C 470+0_DE+BOK> deboc <C 600#+200_ER-+HANGEN> hanger 
+<L 1847:26> <C 454_MIJN> mine<A >n</A> <C 0_ZEGEL> zegel <C 600*_-AAN> ane <C 861_ALS> alse <C 0_RECHTER> rect<A >er</A> <C 475_DE/HET> der <C 14_HEER> here<A >n</A> <C 700_VAN> va<A >n</A> <C 20_ZELLAAR> zellar. <C 411_DEZE> dese <C 0_LETTER> lett<A >er</A> <C 230_ZIJN> vas 
+<L 1847:27> <C 270_MAKEN> ghemach <C 700_IN> in <C 1_JAAR> iare <C 850_DAT> dat <C 440_MEN> me<A >n</A> <C 203_SCHRIJVEN> scriift <C 700_VAN> va<A >n</A> <C 454_ONS> onsen <C 1_HEER> here <C 309_1292> m'ho.+cc'ho.+xc'hoii <VN type=1> <C 1_JAAR> iare <C 700_IN> in 
+<L 1847:28> <C 20_JAARSAVOND> iarsavont 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 1847:52> <C 619_DANEN-IN> dani<A >n</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

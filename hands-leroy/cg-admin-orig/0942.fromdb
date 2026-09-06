@@ -1,0 +1,48 @@
+<header>
+<docId>0942</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1462:34> <C 20_JOHANNES> Jan <q> turrekin <C 100_ERFELIJK> erff<A >elijc</A> <q> cheyns <q> x <C 19_SOLIDUS> 't3s. <q> iij <C 19_DENARIUS> d. <C 119_PARIJS> p. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1462:37> <C 404_WIJ> Wi <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 21_GERAARDSBERGEN> gheroutsb<A >er</A>ghe <C 20_NICOLAAS> claus <C 20_GAAILING> gailinc <C 20_JOHANNES> ihan <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 14_PLANK> planken 
+<L 1462:38> <C 20_BOUDEWIJN> boidiin <C 700_VAN> va<A >n</A> <C 21_EVERBEEK> euersbeke <C 20_WOUTER> woitiin <C 700_VAN> van <C 475_DE/HET> der <C 4_STRAAT> straten <C 20_AEGIDIUS> gillis <C 20_STULVIJN-X> stuluin <C 21_WOUTER> woutre <C 700_VAN> van 
+<L 1462:39> <C 475_DE/HET> der <C 0_GRACHT> gracht <C 800_EN> & <C 20_JOHANNES> ihan <C 0_GAFFELTJE> gaffelkin <C 204_MAKEN> maken <C 100_KONDIG> kondech <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese 
+<L 1462:40> <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 800_EN> & <C 250_HOREN> hore<A >n</A> <C 810_DAT> dat <C 20_AEGIDIUS> gillis <C 700_VAN> va<A >n</A> <C 20_KEERLEGEM> keerleghem <C 213_HEBBEN> heft <C 273_KOPEN> ghecocht 
+<L 1462:41> <C 700_JEGEN> ieghen <C 21_JOHANNES> ihanne <C 1_TURREKIN-X> turrekine <C 474_DE> dien <C 0_HELFT> helt <C 700_VAN> van <C 484_EEN> ene<A >n</A> <C 1_HUIS> huse <C 800_EN> & <C 700_VAN> van <C 484_EEN> ene<A >n</A> <C 1_ERF> erue <C 620*_DAAR-> daer 
+<L 1462:42> <C 403_HIJ> hi <C 620#_-OP> op <C 203_WONEN> woent <C 700_IN> jn <C 414_ALZULK> alselken <C 1_GELAG> ghelaghe <C 821_ALS> alse <C 403+403_HET+HIJ> hiit <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 701_OM> omme <C 481_EEN> ene 
+<L 1462:43> <C 1_SOM> su<A >m</A>me <C 14_PENNING> pe<A >n</A>ninghen <C 421_DIE> die <C 403_HIJ> hi <C 403_HIJ> hem <C 500_WEL> wel <C 274_VERGELDEN> vergolden <C 213_HEBBEN> heft <C 700_VAN> van <C 424_WELK> welken <C 1_HUIS> huse <C 800_EN> & 
+<L 1462:44> <C 1_ERF> erue <C 20_JOHANNES> ihan <C 0_TURREKIN-X> turrekin <C 463_HEM> he<A >m</A> <C 273_ONTERVEN> onterft <C 213_HEBBEN> heft <C 700_BIJ> bi <C 1_WET> wette <C 800_EN> & <C 210+600*_ZIJN+ER-> esser <C 20_AEGIDIUS> gillis <C 700_VAN> va<A >n</A> 
+<L 1462:45> <C 20_KEERLEGEM> keerleghe<A >m</A> <C 100_VOORGEZEID> voergheseit <C 610#_-IN> in <C 273_ERVEN> gheerft <C 700_BIJ> bi <C 1_WET> wette <C 420_WELK> welc <C 0_HUIS> hus <C 800_EN> & <C 420_WELK> welc <C 1_ERF> erue <C 20_AEGIDIUS> gillis 
+<L 1462:46> <C 700_VAN> van <C 20_KEERLEGEM> keerleghe<A >m</A> <C 274_GEVEN> ghegheue<A >n</A> <C 213_HEBBEN> heft <C 21_JOHANNES> ihanne <C 1_TURREKIN-X> turrekine <C 700+484_TE+EEN> tene<A >n</A> <C 104_EEUWELIJK> euueleken 
+<L 1463:1> <C 1_CIJNS> chense <C 403_HIJ> he<A >m</A> <C 800_EN> & <C 454_ZIJN> sine<A >n</A> <C 1_OOR> hore <C 700_OM> om <C 309_TIEN> .x <C 19_SOLIDUS> 't3s. <C 800_EN> & <C 309_3> .iii. <C 19_DENARIUS> d. <C 115_VLAAMS> vlemscher <C 11_PENNING> peninke <C 500_EEUWELIJK> euuelec 
+<L 1463:2> <C 271_DUREN> durende <C 700_TE> te <C 251_GELDEN> gheldene <C 320_ELK> elc <C 2_JAAR> iars <C 21_AEGIDIUS> gillise <C 700_VAN> van <C 20_KEERLEGEM> kerleghem <C 403_HIJ> he<A >m</A> <C 801_OF> ofte <C 451_ZIJN> sine <C 1_OOR> hore 
+<L 1463:3> <C 700+324_TE+ELK> telken <C 101_SINT> sente <C 22_JOHANNES> ihans <C 1_DAG> daghe <C 700_IN> in <C 1_MIDZOMER> midde<A >n</A>+somere <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake <C 406+810_ZIJ+DAT> datse <C 20_JOHANNES> ihan 
+<L 1463:4> <C 0_TURREKIN-X> turrekin <C 560_NIET> niet <C 560_NE> ne <C 221_GELDEN> goude <C 324+700_ELK+TE> telken <C 101_SINT> sente <C 22_JOHANNES> ihans <C 1_DAG> daghe <C 800_EN> & <C 101_SINT> sente <C 22_BARTOLOMEUS> bartolomeus 
+<L 1463:5> <C 1_DAG> daghe <C 610_DAARNAAST> daer+naest <C 271_VOLGEN> wolghende <C 403_HIJ> hi <C 800_OF> oft <C 450_ZIJN> siin <C 0_OOR> hoer <C 550_ZO> so <C 231_MOGEN> mochte <C 20_AEGIDIUS> gillis <C 700_VAN> va<A >n</A> 
+<L 1463:6> <C 20_KEERLEGEM> keerleghe<A >m</A> <C 800_OF> oft <C 450_ZIJN> siin <C 0_OOR> oer <C 450_ZIJN> siin <C 0_HAND> hant <C 610_DAARAAN> daer+an <C 250_SLAAN> sclan <C 800_EN> & <C 403+250_HET+HOUDEN> houdent <C 700_OVER> ouer <C 450_ZIJN> siin 
+<L 1463:7> <C 100_PROPER> proper <C 0_GOED> goet <C 620_WAARBIJ> waer+bi <C 810_DAT> dat <C 20_JOHANNES> ihan <C 0_TURREKIN-X> turrekin <C 500_NIMMERMEER> ne<A >m</A>mermier <C 610_DAARAAN> der+an <C 250_CLAMEREN> clamere<A >n</A> <C 560_NE> ne 
+<L 1463:8> <C 210_MOGEN> mach <C 800_NO> no <C 440_NIET> niet <C 610_DAARAAN> daer+an <C 250_HEBBEN> hebbe<A >n</A> <C 800_NO> no <C 450_ZIJN> siin <C 0_OOR> oer <C 830_NE> & <C 221_ZIJN> ware <C 700_BIJ> bi <C 22_AEGIDIUS> gillis <C 1_WIL> wille <C 700_VAN> van 
+<L 1463:9> <C 21_KEERLEGEM> keerleghe <C 800_OF> oft <C 700_BIJ> bi <C 452_ZIJN> siins <C 2_OOR> oers <C 1_WIL> wille <C 700_IN> in <C 1_OORKONDSCHAP> orconscepe <C 800_EN> & <C 700_IN> in <C 1_WAARHEID> warinde <C 800_EN> & <C 700_BIJ> bi <C 4_BEDE> beden 
+<L 1463:10> <C 700_VAN> va<A >n</A> <C 304_BEIDE> bieden <C 14_PARTIJ> partien <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen 
+<L 1463:11> <C 1_CONTERZEGEL> contersoiele <C 420_WELK> welc <C 230_ZIJN> was <C 279_GEVEN> gheghem. <C 700_OP> op <C 0_JAAR> iaer <C 850_DAT> dat <C 440_MEN> men <C 203_ZEGGEN> seit <C 319_1280> .m'ho.cc'ho+lxxx'ho <C 0_JAAR> iaer 
+<L 1463:12> <C 800_EN> & <C 319_TIEN> x'ho <C 700_IN> in <C 101_SINT> sente <C 22_PETRUS> pieters <C 1_DAG> daghe <C 800_EN> & <C 101_SINT> sente <C 22_PAULUS> pouels 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

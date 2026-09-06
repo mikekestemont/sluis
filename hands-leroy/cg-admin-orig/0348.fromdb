@@ -1,0 +1,203 @@
+<header>
+<docId>0348</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 566:18> <q> Plegii <q> de <q> pace <C 109_BRUGS> brugensi. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<statushand  statushandkode='an'>
+
+<L 566:22> <q> 't% <C 0_VISAMBACHT> vischa<A >m</A>bocht 
+<L 566:23> <C 20_PETRUS> piet<A >er</A> <C 20_MUNTER> mo<A >n</A>t<A >er</A> 
+<L 566:24> <C 20_SIMON> symo<A >n</A> <C 20_SOOIBAARD-X> soibaerd 
+<L 566:25> <C 20_JOHANNES> ian <C 20_ELIGIUS> loikin 
+<L 566:26> <C 20_WOUTER> wout<A >er</A> <C 20_KOPEREN> coprin 
+<L 566:27> <C 20_JOHANNES> ioh<A >annes</A> <q> de <C 20_ZOETERMELK> zot<A >er</A>melc 
+<L 566:29> <C 12_WEVER> weuers 
+<L 566:30> <C 29_JOHANNES> ioh<A >annes</A> <C 20_DENARD-X> denard 
+<L 566:31> <C 20_LAMBERT> lams<A >in</A> <C 0_WULP> wulp 
+<L 566:32> <C 20_NICOLAAS> clais <C 22_CHRISTIAAN> carstians 
+<L 566:33> <C 20_WILHELM> will<A >em</A> <q> f <C 2_AKET> akets 
+<L 566:34> <C 20_PETRUS> piet<A >er</A> <C 1_HEIGER> hegh<A >er</A>e 
+<L 566:35> <C 20_ANDREAS> andris <C 20_KWAADGEBUUR-X> q<A >ua</A>dibur 
+<L 566:36> <C 22_PAULUS> powels <C 20_KWAADGEBUUR-X> quadibur 
+<L 566:37> <C 29_JOHANNES> ioh<A >annes</A> <C 1_HOON-X> hone 
+<L 566:38> <C 29_JOHANNES> ioh<A >annes</A> <q> de <C 1_MOLENTJE> mole<A >n</A>kine 
+<L 566:39> <C 20_BOUDEWIJN> boid<A >in</A> <C 1_TWIJNER-X> tvi<A >n</A>re 
+<L 566:40> <C 20_LAMBERT> la<A >m</A>sin <C 0_WULP> wulp <C 100_JUNIOR> junior 
+<L 566:41> <C 20_JOHANNES> ian <C 20_BOUDEWIJN> boudsin 
+<L 566:42> <C 20_BOUDEWIJN> boud<A >in</A> <C 0_ROMMEL-X> ro<A >m</A>mel 
+<L 566:43> <C 20_JOHANNES> ian <C 0_VINKAARD-X> wi<A >n</A>kard 
+<L 566:44> <C 29_MATTE'S1US> mathe<A >us</A> <C 6_VALKENAAR-X> valken<A >ar</A>a 
+<L 566:46> <C 12_VOLDER> vulres 
+<L 567:1> <C 20_JACOB> iacob <C 0_BAARD> baerd 
+<L 567:2> <C 29_JOHANNES> ioh<A >annes</A> <C 1_MUITER-X> mut<A >er</A>e 
+<L 567:3> <C 21_BRUNO> brune <VN type=1> <C 22_LAURENTIUS> lours 
+<L 567:4> <C 21_WILHELM> wille <C 1_BOEI-X> boye 
+<L 567:5> <C 20_PETRUS> piet<A >er</A> <C 20_JAGELAM-X> iaghelam 
+<L 567:6> <C 20_JOHANNES> ian <C 0_PAUW> pau 
+<L 567:7> <C 20_MICHAEL> michil <q> de <C 20_WAAS> waest <C 101_JONG> io<A >n</A>ghe 
+<L 567:8> <C 20_JACOB> iacob <C 20_MALIJN> malin 
+<L 567:9> <C 20_AEGIDIUS> gill<A >is</A> <C 0_GAARD-X> gaerd 
+<L 567:10> <C 29_JOHANNES> ioh<A >annes</A> <C 1_KAUW> cauwe 
+<L 567:12> <C 12_KOUSENSCHEPPER> Cousepp<A >er</A>s 
+<L 567:13> <C 20_JOHANNES> ian <q> de <C 20_DAVERLO> dauerlo 
+<L 567:14> <C 21_CORNELIS> nele 
+<L 567:15> <C 20_PETRUS> piet<A >er</A> <C 21_FOLKERT> folke 
+<L 567:16> <C 20_WILHELM> will<A >em</A> <q> de <C 20_OOT-X> oyt 
+<L 567:17> <C 20_NICOLAAS> clais <C 1_LANDSHEER> landsh<A >er</A>e 
+<L 567:18> <C 20_JACOB> iacob <C 1_ONEER> onnere 
+<L 567:19> <C 20_GIJS> ghijs 
+<L 567:21> <C 12_CORDUANIER> cardewaniers 
+<L 567:22> <C 29_JOHANNES> joh<A >annes</A> <q> de <C 24_ESSEN> essen 
+<L 567:23> <C 22_LAURENTIUS> lours <C 0_PRUMBOUT-X> pru<A >m</A>bout 
+<L 567:24> <C 20_DANIEL> danel <C 101_HOOFS> houesche 
+<L 567:25> <C 20_WILHELM> will<A >em</A> <C 0_BLANKAARD> bla<A >n</A>card 
+<L 567:26> <C 20_MICHAEL> michil <C 6_ZOUTER-X> zout<A >ra</A> 
+<L 567:27> <C 20_JACOB> iacob <q> de <C 21_DOORNIK> dorneke 
+<L 567:28> <C 20_LAURENTIUS> lours <q> de <q> vinea 
+<L 567:29> <C 20_JACOB> iacob <C 20_ISAAK> ysaac 
+<L 567:30> <C 20_WOUTER> wout<A >er</A> <q> de <C 1_WAL> walle 
+<L 567:31> <C 20_ANDREAS> andris <C 100_DAPPER> dapp<A >er</A> 
+<L 567:32> <C 20_BOUDEWIJN> boud<A >in</A> <C 101_BRUIN> brune 
+<L 567:33> <C 20_SIMON> symo<A >n</A> <VN type=1> <C 4_OUDBAAR-X> oudbaren 
+<L 567:34> <C 12_VERVER> v<A >er</A>w<A >er</A>s 
+<L 567:35> <C 1_LANDSHEER> landsh<A >er</A>e <C 0_DEKEN> deken 
+<L 567:36> <C 20_LAMBERT> la<A >m</A>mi<A >n</A> <C 700+475_UIT+DE> vt<A >er</A> <C 0_BURG> burch 
+<L 567:37> <C 20_ANDREAS> andris <C 0_LIEBAARD> liebaerd 
+<L 567:38> <C 20_WILHELM> will<A >em</A> <q> de <C 0_MARK> marc 
+<L 567:39> <C 20_PETRUS> piet<A >er</A> <q> de <C 20_ATRECHT> at<A >ra</A>cht 
+<L 567:40> <C 20_BOUDEWIJN> boid<A >in</A> <q> de <C 101+0_LANG+DONK> langhedo<A >n</A>c 
+<L 567:41> <C 20_JACOB> iacob <C 101_BREED> brede 
+<L 567:42> <C 29_JOHANNES> ioh<A >annes</A> <C 101_FRANK> vranke 
+<L 567:43> <C 20_JACOB> iacob <C 20_LIAARD> liejard 
+<L 567:45> <C 12_WILDWERKER> wiltw<A >er</A>k<A >er</A>s 
+<L 568:1> <C 29_JOHANNES> ioh<A >annes</A> <C 474+700_DE/HET+MET> mette<A >n</A> <C 1_GELD> ghelde 
+<L 568:2> <C 20_WILHELM> will<A >em</A> <q> de <C 1_VLAMINGPOORT> flami<A >n</A>cporte 
+<L 568:3> <C 20_ARNOUT> arn<A >out</A> <q> de <C 21_MECHELEN> magheline 
+<L 568:4> <C 20_ANE> anskin 
+<L 568:6> <C 12_LAMMENWERKER> La<A >m</A>mi<A >n</A>w<A >er</A>k<A >er</A>s 
+<L 568:7> <C 20_PETRUS> piet<A >er</A> <C 471_DE> de <C 101_LEEP> lepe 
+<L 568:8> <C 20_PETRUS> piet<A >er</A> <C 6_BAKKER> bak<A >ra</A> 
+<L 568:9> <C 29_JOHANNES> ioh<A >annes</A> <C 101_BRUIN> brune 
+<L 568:10> <C 29_JOHANNES> ioh<A >annes</A> <C 0_VRIEND> vrient 
+<L 568:11> <C 20_BOUDEWIJN> boid<A >in</A> <q> de <C 20_VINCHT> vinct 
+<L 568:12> <C 29_JOHANNES> ioh<A >annes</A> <C 22_SIEGER> zegh<A >er</A>s 
+<L 568:14> <C 12_KULKSTIKKER> culcstick<A >er</A>s 
+<L 568:15> <C 20_NICOLAAS> clais <C 1_ZAND> de+zande 
+<L 568:16> <C 20_LAMBERT> lams<A >in</A> <C 29_AALTER> de+haelt<A >ra</A> 
+<L 568:17> <C 29_JOHANNES> ioh<A >annes</A> <C 0_BAAS> baes 
+<L 568:18> <C 20_GIJS> ghis<A >elin</A> <q> de <C 21_RUISELEDE> ruselede 
+<L 568:20> <C 12_METSENAAR> machenars 
+<L 568:21> <C 20_PETRUS> piet<A >er</A> <C 0_MARKOLF> m<A >ar</A>colf 
+<L 568:22> <C 20_MARTIN> m<A >ar</A>tin <C 2_KOETS-X> coets 
+<L 568:23> <C 20_BOUDEWIJN> boud<A >in</A> <C 1_NEKKER> nick<A >er</A>e 
+<L 568:24> <C 20_ADAM> ada<A >m</A> <q> de <C 21_LISSEWEGE> liss<A >eweghe</A> 
+<L 568:25> <C 20_AEGIDIUS> gill<A >is</A> <VN type=1> <q> ex <C 9_ZAK> sacco 
+<L 568:27> <C 11_SCHUITLIEDEN> Scuteliede 
+<L 568:28> <C 20_DIONYSIUS> denis <C 1_GAAI> gaie 
+<L 568:29> <C 20_WOUTER> wout<A >er</A> <C 22_RUDOLF> rodolfs 
+<L 568:30> <C 20_ARNOUT> arn<A >out</A> <C 20_KAULIJN-X> caulin 
+<L 568:31> <C 29_JOHANNES> joh<A >annes</A> <q> de <C 1_SPUI> spoye 
+<L 568:32> <C 20_WILHELM> will<A >em</A> <C 20_WASSELIJN> wasselin 
+<L 568:33> <C 20_NICOLAAS> clais <C 20_KNUUT> cnuet 
+<L 568:34> <C 20_NICOLAAS> clais <C 0_ZOETAARD-X> zoetard 
+<L 568:36> <C 12_SCHREUDER> scroders 
+<L 568:37> <C 20_EVERDEI> eu<A >er</A>dei 
+<L 568:38> <C 29_JOHANNES> ioh<A >annes</A> <C 0_PAARD> paerd 
+<L 568:40> <C 12_WIJNTAPPER> wi<A >n</A>tapp<A >er</A>s 
+<L 568:41> <C 20_LAMBERT> lams<A >in</A> <C 20_GROOTHOOFD-X> groethoeft 
+<L 568:42> <C 20_JOHANNES> ian <C 0_POOT> poet 
+<L 568:43> <C 20_JOHANNES> ha<A >n</A>kin <C 100_IJZEREN> yserin <C 0_MAN> man 
+<L 568:45> <C 12_MOLENAAR> molnars 
+<L 569:1> <C 20_WILHELM> w<A >illem</A> <VN type=1> <C 29_SCHOONHEIM-X> sconamis 
+<L 569:2> <C 20_RIJKWARD> riq<A >ua</A>rd <q> f <C 24_GUNNAR?> ghu<A >n</A>nen 
+<L 569:3> <C 20_GERARD> ger<A >art</A> <C 1_VISIER> visierre 
+<L 569:4> <C 1_WAAL> wale <q> de <C 21_KATTENVOORDE> cattevorde 
+<L 569:5> <C 20_RIJKWARD> riq<A >ua</A>rd <C 0_STANDAARD> standard 
+<L 569:7> <C 12_APPELKOPER> appelcop<A >er</A>s 
+<L 569:8> <C 20_JACOB> iacob <C 1_WINTER> wint<A >er</A>e 
+<L 569:9> <C 29_JOHANNES> ioh<A >annes</A> <C 20_DULLINTOOR-X> dullint <C 1_DULLINTOOR-X> ore 
+<L 569:11> <C 12_BAARDMAKER> b<A >ar</A>mak<A >er</A>s 
+<L 569:12> <C 20_WILHELM> will<A >em</A> <C 20_BOUDEWIJN> boidin 
+<L 569:13> <C 20_JOHANNES> ian <C 20_BALEWAARD-X> baleward 
+<L 569:14> <C 20_SIEGER> zegh<A >er</A> <C 6_BAARDMAKER> b<A >ar</A>mak<A >ra</A> 
+<L 569:15> <C 20_ROBERT> roibin <C 6_BAARDMAKER> b<A >ar</A>mak<A >ra</A> 
+<L 569:16> <C 20_WOUTER> weitin <C 1_WINNE> winne 
+<L 569:17> <C 20_ARNOUT> arn<A >out</A> <C 6_BAARDMAKER> b<A >ar</A>mak<A >ra</A> 
+<L 569:18> <C 20_WILHELM> will<A >em</A> <C 1_BLIJDSCHAP> bliscepe 
+<L 569:20> <C 12_BOULANGER?> bollenghiers 
+<L 569:21> <C 29_JACOB> iacomes <C 21_LEFFINGE> leffinge 
+<L 569:22> <C 20_EGBERT> egheb<A >ra</A>t <C 1_BAKKER> bakre 
+<L 569:23> <C 20_LAMBERT> lamsin <C 471_DE> die <C 2_METS> maets 
+<L 569:24> <C 20_PETRUS> pieres <q> de <C 1_VLAMINGPOORT> flami<A >n</A>cporte 
+<L 569:25> <C 20_LAMBERT> lamsin <C 101_BALD-X> balde 
+<L 569:26> <C 20_GOSWIJN> gosin <C 20_RASAARD-X> rasscard 
+<L 569:27> <C 20_PETRUS> pieres <C 20_BODEKIJN-X> bodekin 
+<L 569:28> <C 22_ROBERT> robers <C 0_HALS> hals 
+<L 569:30> <C 12_BRASSEUR> brassuers 
+<L 569:31> <C 29_CORNELIS> cornelis <C 471_DE> de <C 1_VAANTJE> vanekine 
+<L 569:32> <C 29_JACOB> iacomes <q> de <C 21_IEPER> ypre 
+<L 569:33> <C 20_WOUTER> waltir <C 471_DE> de <C 1_STRIJKSTOK-X> strijcstocke 
+<L 569:34> <C 20_JOHANNES> jehan <C 471_DE> de <C 1_SCHAAR-X> scare 
+<L 569:35> <C 20_LAMBERT> lambert <C 471_DE> de <C 1_IJZERTJE-X> yserkine 
+<L 569:36> <C 29_JACOB> iacomes <C 6_KEULENAAR> coln<A >ar</A>a 
+<L 569:37> <C 20_WOUTER> waltir <C 471_DE> de <C 1_SPIEGELTJE-X> speghelkine 
+<L 569:38> <C 20_NICOLAAS> clay <C 0_BLOOTJE-X> bloetkin 
+<L 569:40> <C 12_BLANDER> blanders 
+<L 569:41> <C 20_LAMBERT> lamsin <C 26_FOITER-X> foyt<A >ra</A> 
+<L 569:42> <C 20_SIMON> symon <C 6_TOLLENAAR> toln<A >ar</A>a 
+<L 569:43> <C 20_LAMBERT> la<A >m</A>min <C 471_DE> de <C 1_SCHAAR-X> scare 
+<L 569:44> <C 20_LAMBERT> lammin <C 471_DE> die <C 1_NAAIER> naiere 
+<L 569:45> <C 20_SIMON> symon <C 471_DE> de <C 1_POSTERNE> post<A >er</A>ne 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 569:51> <C 20_WOUTER> w<A >outer</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 570:1> <C 20_POLLEIN> pollein <q> de <C 20_AARDENBURG> ardenb<A >ur</A>gh 
+<L 570:2> <C 20_LAMBERT> lamsin <C 0_POTTIN-X> pottin 
+<L 570:4> <C 12_HANDSCHOENWERKER> anscoew<A >er</A>k<A >er</A>s 
+<L 570:5> <C 20_BOUDEWIJN> baldewin <C 0_TOEVERLAAT> toev<A >er</A>laet 
+<L 570:6> <C 21_WILHELM> williame <q> de <C 21_KASSEL> cassele 
+<L 570:7> <C 20_JOHANNES> jehan <C 0_STEKEL> stekel 
+<L 570:8> <C 20_JOHANNES> iehan <C 471_DE> de <C 1_KERSEBOOM> k<A >er</A>sebome 
+<L 570:9> <C 20_JOHANNES> iohan <C 0_TOEVERLAAT> toev<A >er</A>laet 
+<L 570:10> <C 20_ARNOUT> arn<A >out</A> <q> de <C 24_GIJS> ghisen 
+<L 570:12> <C 12_KAARSGIETER> k<A >er</A>sghiet<A >er</A>s 
+<L 570:13> <C 20_BASILIUS> baselis <C 6_KAARSGIETER> k<A >er</A>seghiet<A >ra</A> 
+<L 570:14> <C 20_HENDRIK> heinekin <C 6_KAARSGIETER> k<A >er</A>sghiet<A >ra</A> 
+<L 570:15> <C 20_ADELHARD> alard <C 6_ENSERMAKER-X?> enser+mak<A >ra</A> 
+<L 570:17> <q> fabri 
+<L 570:18> <C 20_ERMBOUD> Eremoud <C 0_SMID> Smit 
+<L 570:19> <C 20_ARNOUT> ernol <q> de <C 20_MALDEGEM> maldenghem 
+<L 570:20> <C 20_WILHELM> will<A >em</A> <q> de <C 21_HANSBEKE> ansbeke 
+<L 570:21> <C 20_NICOLAAS> clais <C 0_GROOTWERK-X> groetwerc 
+<L 570:22> <C 20_ADAM> adam <C 0_ZILVERSMID> zeluersmit 
+<L 570:23> <C 29_JACOB> iacomes <q> dele <C 1_HALE> hale 
+<L 570:24> <C 20_BENJAMIN> benjamin 
+<L 570:25> <C 29_JOHANNES> ioh<A >annes</A> <C 21_KRAAN> crane 
+<L 570:26> <C 20_HENDRIK> heinris <q> de <C 20_KANEGEM> canenghem 
+<L 570:28> <C 29_JOHANNES> ioh<A >annes</A> <q> de <C 20_KO> ko 
+<L 570:29> <C 29_JOHANNES> ioh<A >annes</A> <q> f <q> domine <C 21_UITKERKE> vtk<A >erke</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

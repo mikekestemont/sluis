@@ -1,0 +1,45 @@
+<header>
+<docId>0484</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 723:14> <C 22_DIEDERIK> dierkins <C 1_WEDUWE> wedewe <C 700_VAN> van <C 475_DE/HET> der <C 4_WAAI-X> waeyen.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_TE> te <q> ecloe <q> xx <C 19_SOLIDUS> s. 
+<L 723:15> <q> rente. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 723:18> <C 404_WIJ> Wi, <C 20_JOHANNES> ian <C 22_NICOLAAS> clais <C 1_ZOON> sone, <C 20_HENDRIK> henric <C 20_SLEIHOUT-X> sleihout, <C 20_WILHELM> willem <C 0_KALUWAARD> caluart, <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 20_EEKLO-WEST> ecloe+west 
+<L 723:19> <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien, <C 810_DAT> Dat 
+<L 723:20> <C 21_ADELHEID> adelise <C 22_DIEDERIK> dirkins <C 1_WEDUWE> wedewe <C 700_VAN> van <C 475_DE/HET> der <C 4_WAAI-X> wayen <C 213_HEBBEN> heuet <C 273_BEKENNEN> bekennet <C 700_VOOR> vor <C 404_WIJ> ons <C 810_DAT> dat <C 403_ZIJ> soe 
+<L 723:21> <C 210_ZIJN> es <C 100_SCHULDIG> sculdich <C 24_GEILE> gheilen <C 22_ARNOUT> arn<A >outs</A> <C 22_BANNIJN-X> ba<A >n</A>nins <C 0_DOCHTER> docht<A >er</A> <C 300_20> tuintech <C 11_SCHELLING> scelleghe <C 4_RENTE> renten 
+<L 723:22> <C 322_ELK> elx <C 2_JAAR> iars <C 700_TE> te <C 251_GELDEN> gheldene <C 700_TE> te <C 101_SINT> sente <C 22_JOHANNES> ians <C 1_MIS> messe <C 700_TE> te <C 1_MIDZOMER> midden+zom<A >er</A>e, <C 800_EN> ende <C 421_DIE> die <C 214_ZIJN> siin 
+<L 723:23> <C 273_BEZETTEN> beset <C 700_OP> up <C 301_VIER> viere <C 11_GEMET> ghemete <C 2_LAND> lants <C 704_BEOOSTEN> beoesten <C 455_HAAR> harre <C 4_HOFSTEDE> hofsteden, <C 800_EN> ende <C 810_OMDAT> omme+dat 
+<L 723:24> <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 1_RENTE> rente, <C 800_EN> & <C 411_DEZE> dese <C 1_KENNIS> ke<A >n</A>nesse <C 214_BLIJVEN> bliuen <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade, 
+<L 723:25> <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 111_VOORZEID> uorseide <C 14_SCHEPEN> scepenen <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen 
+<L 723:26> <C 14_ZEGEL> seghelen, <C 410_DIT> Dit <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 800_EN> en<A >de</A> <C 274_GEVEN> ghegheuen <q> anno <q> Domini <q> m'ho <q> cc'ho 
+<L 723:27> <q> lxxx'hmo <q> tercio <C 472+2_DE+DONDERDAG> sdonredaghes <C 701_VOOR> vore <C 101_SINT> sente <C 22_JOHANNES> ians <C 1_MIS> messe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

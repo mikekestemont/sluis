@@ -1,0 +1,52 @@
+<header>
+<docId>0075</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='21' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 136:10> <q> voer <C 471_DE> de 
+<L 136:11> <q> borcht. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='21' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 136:24> <C 401_IK> Jc <C 21_ISABELLA> yzenbele <C 1_VROUW> vrouwe <C 700_VAN> van <C 20_BREDA> Breda. <C 101_WETACHTIG> wittechdeghe <C 0_DOCHTER> doihcter <C 452_MIJN> mins <C 0_HEER> her <C 22_HENDRIK> Henrics 
+<L 136:25> <C 472+4_DE+HEER> sheren <C 700_VAN> van <C 20_BREDA> Breda. <C 800_EN> ende <C 451_MIJN> mine <C 0_HEER> heer <C 20_ARNOUT> Arnout <C 700_VAN> van <C 21_LEUVEN> Louene. <C 450_MIJN> min <C 101_WETTIG> witteghe 
+<L 136:26> <C 0_MAN> man. <C 1_HEER> here <C 700_VAN> van <C 20_BREDA> Breda. <C 800_EN> ende <C 450_MIJN> min <C 1_MOMBER> monbore. <C 404_WIJ> wi <C 204_MAKEN> maken <C 100_KOND> cont <C 324_AL> allen <C 421_DIE> die <C 500_NU> nu 
+<L 136:27> <C 204_ZIJN> sien. <C 800_EN> ende <C 421_DIE> die <C 500_NOG> noich <C 250_WEZEN> wesen <C 214_ZULLEN> zolen. <C 810_DAT> dat <C 404_WIJ> wi. <C 800_EN> ende <C 471_DE> die <C 11_POORTER> portere <C 700_VAN> van <C 20_BREDA> Breda. 
+<L 136:28> <C 412_DIE> dies <C 274#_OVEREEN-> oueren <C 214_HEBBEN> hebben <C 274*_-DRAGEN> ghedraghen. <C 810_DAT> dat <C 404_WIJ> wi <C 214_HEBBEN> hebben <C 273_VERKOPEN> vercoicht. <C 700+471_DOOR+DE> dorde <C 0_NOOD> nohit. 
+<L 136:29> <C 800_EN> ende <C 700_DOOR> dor <C 1+470_OORBAAR+DE/HET> dorbere <C 475_DE/HET> der <C 4_KERK> kerken <C 700_VAN> van <C 20_BREDA> Breda. <C 700+415+0_TE+DIE+TIJD> tirthiet <C 810_TOEN> doen <C 440_MEN> men <C 221_MAKEN> makede <C 474_DE/HET> den 
+<L 136:30> <C 101_STENEN> stenne <C 0_MONSTER> moinster <C 700_TE> the <C 20_BREDA> Breda. <C 484_EEN> enen <C 0_CIJNS> sins <C 300_30> dertech <C 11_SCHELLING> scellenghe. <C 800_EN> ende <C 300_4> vier 
+<L 136:31> <C 11_PENNING> pennenghe. <C 424_DIE> dien <C 440_MEN> men <C 203_GELDEN> gheilt. <C 701_OP> oppe <C 101_SINT> sente <C 22_MARTIN> mertins <C 0_DAG> dach. <C 800_EN> ende <C 421_DIE> die <C 451_ONS> onse 
+<L 136:32> <C 14_VOORDER> vorderen <C 700+475_TE+DE> ter <C 4_KERK> kerken <C 224_GEVEN> gauen <C 700_IN> in <C 105_GERECHT> gherechter <C 1_AALMOES> almossene. <C 800_EN> ende <C 414_DIE> dien <C 213_HEBBEN> heuet 
+<L 136:33> <C 273_KOPEN> ghecohct <C 0_MEESTER> meister <C 20_ARNOUT> Arnout. <C 424_DIE> dien <C 440_MEN> men <C 203_HETEN> heet <C 700+24_VAN+COEVORDEN> van+couorden. <C 700_IN> in <C 415_ALZUSDAAN> alsuster 
+<L 136:34> <C 4_VOORWAARDE> vorwerden. <C 810_DAT> dat <C 403+403_HIJ+HIJ> hien <C 210_ZULLEN> sal <C 250_HOUDEN> houden <C 700_VAN> van <C 404_WIJ> oins <VN type=1> <C 700_TE> the <C 104_GERECHT> gherechten <C 1_ERF> erue. <C 701_OM> omme 
+<L 136:35> <C 301_TWEE> twe <C 11_PENNING> penninghe <C 111_LEUVENS> louensche. <C 700_TE> the <C 101_SINT> sente <C 1_BAAFSMIS> bamisse <C 700_TE> the <C 251_GELDEN> gheldene. <C 700_TE> the <C 251_LATEN> latene 
+<L 136:36> <C 454_ZIJN> sinen <C 114_WETTIG> wittegen <C 14_ERF> eruen. <C 700_TE> the <C 2_MAN> mans <C 1_LEVEN> leuene <C 800_EN> ende <C 700_TE> the <C 2_LAND> lans <C 1_LEGER> leghere. <C 414_DEZE> desen 
+<L 136:37> <C 414_ZELF> zeluen <C 0_CIJNS> sins <C 300_30> dertech <C 11_SCHELLING> scellenghe <C 800_EN> ende <C 300_4> vier <C 11_PENNING> penninghe <C 111_LEUVENS> Louensche. <C 414_DIE> dien <C 210_ZULLEN> sal 
+<L 136:38> <C 403_HIJ> hi <C 250_NEMEN> nemen <C 700_IN> en <C 101_SINT> zonte <C 22_MARTIN> mertins <C 1_DAG> daghe. <C 701_UIT> vthe <C 454_ONS> onsen <C 1_CIJNS> scinze <C 700_VAN> van <C 20_BREDA> Breda. <C 403+810_HET+BIJ-DIEN-DAT> bidien+dat 
+<L 136:39> <C 1_AALMOES> almossene <C 230_ZIJN> was. <C 800_EN> ende <C 404+403_WIJ+HIJ> wien <C 273_VERKOPEN> vercohict <C 214_HEBBEN> hebben <C 501_ERFELIJK> erfleke; <C 550_ZO> zoe <C 201_ZETTEN> zette <C 403+404_HIJ+WIJ> wine 
+<L 136:40> <C 700_TE> the <C 1_VONNIS> vonnesse. <C 800_EN> ende <C 700_TE> the <C 1_SCHEPENDOM> scependome. <C 800_EN> ende <C 474+700_DE/HET+TE> ten <C 414_ZULK> zoilken <C 1_RECHT> rechte. <C 820_ALS> alse <C 110_ANDER> ander 
+<L 136:41> <C 10_POORTER> porter. <C 450_HAAR> hoer <C 101_WETTELIJK> witteleke <C 1_ERF> erue <C 204_HOUDEN> houden. <C 701_OM> Omme <C 411_DEZE> dese <C 14_VOORWAARDE> vorwerden <C 700_TE> the <C 251_HOUDEN> houdene 
+<L 136:42> <C 501_WETTELIJK> witteleke <C 800_EN> ende <C 501_REDELIJK> redeleke; <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421+604_DIE+ERJEGEN> dier+geghen <C 250_SPREKEN> spreken 
+<L 136:43> <C 234_MOGEN> moichten. <C 550_ZO> zo <C 211_HEBBEN> hebbe <C 601+404_ERAAN+WIJ> wier+ane <C 274_HANGEN> gheanghen <C 454_ONS> onsen <C 0_ZEGEL> zeghel. <C 401_IK> ic <C 1_VROUW> vrouwe <C 700_VAN> van 
+<L 136:44> <C 20_BREDA> Breda. <C 800_EN> ende <C 401_IK> ic <C 450_MIJN> min <C 1_HEER> here <C 20_ARNOUT> Arnout <C 1_HEER> here <C 700_VAN> van <C 20_BREDA> Breda. <C 421_DIE> die <C 475_DE/HET> der <C 4_VROUW> vrouwen 
+<L 136:45> <C 101_WETTELIJK> wittheleke <C 0_MAN> man <C 210_ZIJN> been. <C 800_EN> ende <C 404_WIJ> wi <C 0+471_POORT+DE> deporit <C 700_VAN> van <C 20_BREDA> Breda <C 454_ONS> onzen <C 0_ZEGEL> zeghel. <C 411_DEZE> dese 
+<L 137:1> <C 1_VOORWAARDE> vorworde <C 230_ZIJN> was <C 273_MAKEN> ghemaket. <C 800_EN> ende <C 274_BESCHRIJVEN> bescreuen. <C 810+440_TOEN+MEN> domen <C 220_SCHRIJVEN> screif <VN type=1> <C 700_VAN> van <C 4+452_HEER+ONS> onsheren 
+<L 137:2> <C 14_JAAR> iaren. <C 300_DUIZEND> dusent <C 0_JAAR> iaer. <C 300_200> twehondert <C 0_JAAR> iaer. <C 800_EN> ende <C 300_69> neghenensestech <C 0_JAAR> iaer. 
+<L 137:3> <C 101+700_INGAAND+TE> thingaende <C 21_MEI> meie. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='21' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='21' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

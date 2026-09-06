@@ -1,0 +1,55 @@
+<header>
+<docId>0158</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 278:28> <C 20_NICOLAAS> clais <q> .f. <C 472+0_DE+HEER> ser <C 22_HUGO> hughes, <C 20_BOUDEWIJN> boudin <q> .f. 
+<L 278:29> <C 22_ADELHARD> alards, <C 20_THOMAS> domaes <C 471+0_DE+HOND> dehont. 
+<end-datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> jn <C 471_DE> de <C 1_PAROCHIE> prochie <C 700_VAN> va<A >n</A> 
+<L 278:30> <C 21_NIEUWMUNSTER> niemonstere <C 20_WOUTER> w<A >ou</A>t<A >er</A> <C 100_DAPPER> dapper <C 800_EN> & <C 21_CHRISTINA> kerstine <C 450_ZIJN> sin <C 0_WIJF> wif.- <C 309_4> iiii <C 11_GEMET> ymete <C 309_38> xxxviii 
+<L 278:31> <C 11_ROEDE> roede.- <C 273_KOPEN> icoght. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 278:34> <C 451_MIJN> Mine <C 1_HEER> here <C 20_RUTGER> roeger <C 700_VAN> van <C 21_GISTEL> ghistele. <C 451_MIJN> mine <C 1_HEER> here <C 20_RIJKWARD> riquart <C 700_VAN> van <C 4_STRATEN> straten. <C 451_MIJN> mine <C 1_HEER> here 
+<L 278:35> <C 20_BOUDEWIJN> boudin <C 20_REIFIN-X> reinfin. <C 451_MIJN> mine <C 1_HEER> here <C 20_BOUDEWIJN> boudin <C 1+471_BROEKER+DE> debroekere. <C 20_NICOLAAS> clais <C 0+472_HEER+DE> ser <C 22_HUGO> hughes <C 1_ZOON> zone 
+<L 278:36> <C 20_REINWARD> reinvert <C 0_VROUW> ver <C 24_GODLIEF> godelieven <C 1_ZOON> zone. <C 20_BOUDEWIJN> boudin <C 22_ADELHARD> alards <C 1_ZOON> zone. <C 20_THOMAS> domaes <C 471+0_DE+HOND> dehoent. <C 404_WIJ> wi 
+<L 278:37> <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghonen <C 421_DIE> die <C 411_DEZE> dese 
+<L 278:38> <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> dat <C 224_KOMEN> quamen <C 700_VOOR> voer <C 404_WIJ> ons <C 21_WOUTER> woutre <C 100_DAPPER> dapper 
+<L 278:39> <C 800_EN> ende <C 21_CHRISTINA> kerstine <C 450_ZIJN> sien <C 0_WIJF> wief <C 800_EN> ende <C 224_GEVEN> gauen <C 1_HALM> halme <C 800_EN> ende <C 1_GIFT> ghifte <C 1_BROEDER> broedre <C 21_ANSELM> anselme 
+<L 278:40> <C 0_BROEDER> broeder <C 700_VAN> van <C 101_SINT> sente <C 24_CLARA> claren. <C 475+700_DE+TE> ter <C 1_KERK> kerke <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sente <C 24_CLARA> claren <C 700_VAN> van <C 304_VIER> vieren 
+<L 278:41> <C 14_GEMET> jmeten <C 2_LAND> lans <C 800_EN> ende <C 309_38> xxxviii. <C 11_ROEDE> roede <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 500_LUTTEL> lettel <C 325_MEER> meer <C 800_EN> ende <C 403+224_HET+WEDDEN> weddens 
+<L 278:42> <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <C 700_TE> te <C 0_GEMET> jmet <C 700_MET> met <C 309_3,5> .iii't!. <C 9_DENARIUS> d. <C 700_TE> te <C 1_SCHULD> sculde <C 271_LIGGEN> legghende <C 700+471_IN+DE> jnde <C 1_PAROCHIE> prochie 
+<L 278:43> <C 700_VAN> van <C 21_NIEUWMUNSTER> nieumonstre. <C 700_VAN> van <C 474_DE/HET> den <C 424_WELK> welken <C 1_LAND> lande <C 300_EEN> een <C 0_STUK> stic <C 213_HETEN> heet <C 20_SMOOTJE> smoetkin <C 800_EN> ende <C 410_DAT> dat 
+<L 278:44> <C 203_HOUDEN> haudet <C 309_3,5> .iii't!. <C 14_LIJN> linen <C 800_EN> ende <C 309_ANDERHALF> .i't!. <C 1_ROEDE> roede <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 500_LUTTEL> lettel <C 325_MEER> meer. <C 310+470_ANDER+DE> dander <C 0_STUK> stic 
+<L 278:45> <C 213_HETEN> heet <C 22_BONNAARD-X> bonnards <C 0_STUK> stic <C 410_DAT> dat <C 203_HOUDEN> haudet <C 309_3> .iii. <C 11_GEMET> jmete <C 309_3,5> .iii't!. <C 14_ROEDE> roeden <C 320_MIN> min. <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of 
+<L 278:46> <C 500_LUTTEL> lettel <C 325_MEER> meer. <C 800_EN> ende <C 810_OMDAT> ombe+dat <C 404_WIJ> wi <C 111_VOORZEID> voerseide <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_WILLEN> willen 
+<L 279:1> <C 810_DAT> dat <C 411_DEZE> dese <C 101_VOORZEID> voerseide <C 1_VOORWAARDE> voerwarde <C 210_ZIJN> si <C 101_VAST> vaste <C 800_EN> ende <C 101_GESTADE> ghestade <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 279:2> <C 101_UITHANGEND> vethanghede <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer 
+<L 279:3> <C 452_ONS> ons <C 4_HEER> heren <C 851_ALS> alse <C 440_MEN> men <C 203_SCHRIJVEN> scrift <C 450_ZIJN> sien <C 0_INCARNATIOEN> jncarnation <C 319_1274> .m'ho.+cc'ho.+lxxiiii'ho. <C 700+471_IN+DE> jnde <C 4_VIERSCHAAR> vierscaren 
+<L 279:4> <C 471+700_DE+IN> jnde <C 0_BURG> borch <C 472+2_DE+ZATERDAG> saterdaghes <C 700_VOOR> voer <C 455_ONS> onser <C 4_VROUW> vrouwen <C 0_DAG> dach <C 700_TE> te <C 454_HAAR> haren 
+<L 279:5> <C 4_GEBOORNIS> gheboernessen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

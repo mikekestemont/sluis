@@ -1,0 +1,67 @@
+<header>
+<docId>0603</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.T.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='99' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1022:9> <q> Conuentio <q> inter <q> ecclesiam 
+<L 1022:10> <q> nostram <q> & <q> villam <q> de <C 29_LOMBARDSIJDE> lombardia <q> de <q> aqueductu <q> eorum <q> per <q> nouam <q> terram 
+<L 1022:11> <q> nostram. 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+
+<L 1022:9> <q> Conuentio <q> inter <q> ecclesiam 
+<L 1022:10> <q> nostram <q> & <q> villam <q> de <q> lombardia <q> de <q> aqueductu <q> eorum <q> per <q> nouam <q> terram 
+<L 1022:11> <q> nostram. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.T.'>
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1022:19> <C 404_WIJ> Wij <C 11_SCHEPEN> scepene <C 700_VAN> van <C 21_LOMBARDSIJDE> lombardie, <C 204_DOEN> Doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE> dien <C 414_GENE> ghoene<A >n</A> <C 420_DIE> di <C 700_NA> na 
+<L 1022:20> <C 404_WIJ> ons <C 250_KOMEN> comen <C 214_ZULLEN> sullen, <C 800_EN> ende <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zijn, <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat 
+<L 1022:21> <C 404_WIJ> wij <C 700_OVER> ou<A >er</A> <C 464_ONS> hons, <C 800_EN> ende <C 700_OVER> ou<A >er</A> <C 451_ONS> honse <C 0_MEENTOCHT> meentucht, <C 800_EN> ende <C 701_OM> omme <C 101_GEMEEN> ghemene 
+<L 1022:22> <C 0_NUTSCHAP> nutscap, <C 700_VAN> van <C 455_ONS> onser <C 0_POORT> port <C 700_VAN> van <C 21_LOMBARDSIJDE> Lombardie, <C 224_MAKEN> makeden <C 800_EN> ende <C 224_BESPREKEN> bespraken, <C 481_EEN> ene 
+<L 1022:23> <C 1_VOORWAARDE> vorwarde, <C 800_EN> ende <C 700_BIJ> bi <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 700_IN> jn <C 474_DE> dien <C 4_TIJD> tiden <C 472+700_DE+IN> jnts <C 4_HEER> heren <C 1_STAD> stede <C 230_ZIJN> was <C 700_VAN> van 
+<L 1022:24> <C 474_DE/HET> den <C 1_LAND> lande. <C 704_JEGEN> jeghen <C 474_DE/HET> den <C 1_HEER> here <C 21_JOHANNES> janne <C 700_BIJ> bi <C 475_DE/HET> der <C 4_GRATIE> gratien <C 452_ONS> ons <C 4_HEER> heren, <C 0_ABT> abt <C 700_VAN> van 
+<L 1022:25> <C 20_OUDENBURG> Oude<A >n</A>b<A >ur</A>gh, <C 800_EN> ende <C 704_JEGEN> jeghen <C 450_ZIJN> zijn <C 0_CONVENT> conuent, <C 701_OM> omme <C 101_GROOT> grote <C 1_NOODZAAK> noet+sake, <C 700_BIJ> bi 
+<L 1022:26> <C 4_NAAM> nam<A >en</A>, <C 840_ALS> als <C 810_DAT> dat <C 404_WIJ> wij <C 100_ONGEWATERD> onghewatert <C 224_LIGGEN> laghen, <C 700_VAN> van <C 320_AL> al <C 474_DE/HET> den <C 1_LAND> lande <C 800_EN> ende <C 700_VAN> van <C 474_DE/HET> den 
+<L 1022:27> <C 14_HOFSTEDE> hofsteden, <C 421_DIE> die <C 404_WIJ> ons <C 224_TOEBEHOREN> toe+beorden, <C 800_EN> Ende <C 200_ZIJN> es <C 451_ONS> onse <C 1_VOORWAARDE> vorwarde <C 510_ALDUS> al+dus <C 820_ALS> als <C 610_HIERNA> hijr+na 
+<L 1022:28> <C 274_BESCHRIJVEN> bescreuen <C 213_STAAN> staet. <C 410_DAT> Dat <C 200_ZIJN> es <C 810_DAT> dat <C 404_WIJ> wij <C 700_VAN> van <C 21_LOMBARDSIJDE> Lombardie <C 214_ZULLEN> zullen <C 250_BRENGEN> bringhen <C 451_ONS> onse 
+<L 1022:29> <C 0_WATERGELEIDE> wat<A >er</A>+gheleet <C 700_OP> vp <C 454_ONS> onsen <C 0_KOST> cost, <C 700_VAN> van <C 320_AL> al <C 454_ONS> onsen <C 1_LAND> lande, <C 800_EN> ende <C 700_VAN> van <C 320_AL> al <C 454_ONS> onsen 
+<L 1022:30> <C 14_HOFSTEDE> hofstede<A >n</A>, <C 700_IN> jn <C 471_DE> de <C 0_GRACHT> gracht, <C 420_DIE> di <C 702_NEFFENS> neffens <C 474_DE/HET> den <C 104_KLEIN> clenen <C 1_ZIJDELINGSIJN> zidelincsine <C 203_LIGGEN> leghet. <C 800_EN> ende 
+<L 1022:31> <C 420_DIE> di <C 412_DIE> dies <C 102_VOORZEID> vorseits <C 2_ABT> abts, <C 800_EN> ende <C 2_CONVENT> conue<A >n</A>ts <C 210_ZIJN> es. <C 500_AL> al <C 704_TOT> toten <C 474_DE> dien <C 1_DIJK> dike, <C 620*_DAAR-> daer <C 2_KAMERLING> cam<A >er</A>lincs 
+<L 1022:32> <C 0_SLUIS> slus <C 500_NU> nu <C 620#_-IN> jn <C 203_LIGGEN> leghet. <C 800_EN> Ende <C 510_DAAR> daer <C 700*+414_TE+DIE> tien <C 1_EIND> hende, <C 700#_DOOR> dore <C 470_HET> dat <C 0_ZIJDELINGSIJN> zidelincsin <C 211_MOETEN> moete <C 404_WIJ> wij 
+<L 1022:33> <C 250_LEGGEN> ligghen, <C 800_EN> ende <C 250_MAKEN> maken <C 481_EEN> ene <C 1_GOOT> ghote, <C 800_EN> ende <C 250+403_HOUDEN+ZIJ> houdense <C 271_LIGGEN> ligghende <C 700_IN> jn <C 471_DE> de <C 411_ZELF> selue 
+<L 1022:34> <C 1_STAD> stede, <C 800_EN> ende <C 440_AL> al <C 700_MET> met <C 454_ONS> onsen <C 1_KOST> coste, <C 271_VALLEN> vallende <C 800_EN> ende <C 101_LOPEND> lope<A >n</A>de, <C 700_IN> jn <C 474_DE/HET> den <C 1_POLDER> polre, <C 420_DIE> di 
+<L 1022:35> <C 412_DIE> dies <C 2_ABT> abts <C 472+800_HET+EN> ents <C 2_CONVENT> c<A >on</A>ue<A >n</A>ts <C 700_VAN> van <C 20_OUDENBURG> Oude<A >n</A>b<A >ur</A>gh <C 210_ZIJN> es. <C 800_EN> en<A >de</A> <C 500_VOORT> vort <C 210_ZIJN> es <C 451_ONS> onse <C 1_VOORWAARDE> vorwarde, 
+<L 1022:36> <C 810_DAT> dat <C 404_WIJ> wij <C 700_MET> met <C 104_GEMEEN> ghemene<A >n</A> <C 1_KOST> coste <C 214_ZULLEN> sulle<A >n</A> <C 250_WATEREN> watre<A >n</A> <C 475+700*_DE+TE> ter <C 1_HAVEN> hauene <C 700#_UIT> vt, <C 840_ALS> als <C 700_IN> jn <C 470_DE> di <C 0_GRACHT> gracht 
+<L 1022:37> <C 420_DIE> di <C 203_LIGGEN> leghet <C 702_NEFFENS> neffe<A >n</A>s <C 474_DE> dien <C 1_DIJK> dike, <C 620*_DAAR-> daer <C 500_NU> nu <C 472_DE/HET> des <C 2_KAMERLING> cam<A >er</A>lincs <C 0_SLUIS> slus <C 620#_-IN> jn <C 203_LIGGEN> leghet. <C 500_AL> al 
+<L 1022:38> <C 700_DOOR> duer <C 470_DE> di <C 1_GOOT> ghote <C 420_DIE> di <C 404_WIJ> wij <C 700_MET> met <C 104_GEMEEN> ghemene<A >n</A> <C 1_KOST> coste <C 234_DOEN> dade<A >n</A> <C 250_MAKEN> make<A >n</A>. <C 800_EN> En<A >de</A> <C 410_DAT> dat <C 210_ZIJN> es 
+<L 1022:39> <C 1_VOORWAARDE> vorwarde <C 704_TUSSEN> tuske<A >n</A> <C 404_WIJ> ons. <C 810_DAT> dat <C 470_DE> di <C 0_ABT> abt <C 250_GELDEN> ghelde<A >n</A> <C 210_ZULLEN> sal <C 700_VAN> van <C 454_ONS> onse<A >n</A> <C 104_GEMEEN> ghemene<A >n</A> <C 1_KOST> coste 
+<L 1022:40> <C 471_DE> die <C 0_TWEEDEEL> tuedeel. <C 800_EN> en<A >de</A> <C 404_WIJ> wij <C 470_HET> dat <C 0_DERDEDEEL> darde<A >n</A>deel. <C 800_EN> en<A >de</A> <C 204_BEKENNEN> beke<A >n</A>ne<A >n</A> <C 464_ONS> ons, <C 800_EN> en<A >de</A> <C 204_WILLEN> wille<A >n</A> 
+<L 1022:41> <C 500_WEL> wel. <C 810_DAT> dat <C 470_DE> di <C 411_GENE> ghene <C 421_DIE> die <C 1_BEREKKER> bereck<A >er</A>e <C 210_ZULLEN> sal <C 260_ZIJN> sijn <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 20_BOONBURG> boemb<A >ur</A>gh <C 810_DAT> dat <C 403_HIJ> hi <C 414_DEZE> dese<A >n</A> 
+<L 1022:42> <C 0_KOST> cost <C 210_ZULLEN> sal <C 260_DOEN> doen <C 250_DOEN> doen, <C 810+403_ALS+HET> alts <C 403_HIJ> he<A >m</A> <C 0_TIJD> tijd <C 210_ZULLEN> sal <C 260_DUNKEN> dinke<A >n</A>. <C 810_BIJ-ALZO-DAT> bi+al+soe+dat <C 403+403_HIJ+HET> hijt <C 404_WIJ> ons <C 210_ZULLEN> sal 
+<L 1022:43> <C 260_LATEN> late<A >n</A> <C 250_WETEN> wete<A >n</A>, <C 810_EER> heer <C 403_HIJ> hi <C 213_DOEN> doet <C 250_WERKEN> werken. <C 800_EN> en<A >de</A> <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake, <C 810_DAT> dat <C 403_HIJ> hi <C 11_DAM> da<A >m</A>me <C 700_IN> jn 
+<L 1022:44> <C 471_DE> die <C 0_GRACHT> gracht <C 800_OF> jof <C 440_ENIG> henech <C 0_WERK> werc <C 701_OM> omme <C 451_ZIJN> sine <C 0_NUTSCHAP> nutsceep <C 231_DOEN> dade <C 250_MAKEN> make<A >n</A>. <C 410_DAT> dat <C 231_ZULLEN> soude 
+<L 1022:45> <C 403_HIJ> hi <C 700_ZONDER> sonder <C 454_ONS> honse<A >n</A> <C 0_KOST> cost <C 250_BETEREN> betre<A >n</A>. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 204_WILLEN> wille<A >n</A> <C 810_DAT> dat <C 410_DIT> dit 
+<L 1022:46> <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 501_EEUWELIJK> heuwelike. <C 550_ZO> soe <C 210+403+404_HEBBEN+HET+WIJ> hebwijt <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 104_GROOT> grote<A >n</A> 
+<L 1023:1> <C 1_ZEGEL> seghele <C 700_VAN> va<A >n</A> <C 455_ONS> onser <C 1_STAD> stede. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men 
+<L 1023:2> <C 203_SCHRIJVEN> scriuet <q> .m'ho.cc'ho. <q> lxxx'hm'ho <q> quinto. <C 472_DE/HET> des <C 2_WOENSDAG> woensdachs <C 700_IN> jn <C 471_DE> de <C 1_SINKSENDAG> sincce<A >n</A>daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='99' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

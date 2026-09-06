@@ -1,0 +1,30 @@
+<header>
+<docId>1507</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2292:39> <C 20_FLORENTIUS> Florens, <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> Hollant <C 411_DIE> die <C 203_GROETEN> groet <C 451_ZIJN> sine <C 111_GETROUW> ghetrouwe <C 11_LIEDEN> lude <C 471_DE> d[ie] <C 11_SCHEPEN> [scepene] 
+<L 2292:40> <C 800_EN> [ende] <C 11_RAADSMAN> raetsmanne <C 800_EN> ende <C 321_AL> alle <C 471_DE> [die] <C 1_GEMEENTE> ghemeente <C 700_VAN> van <C 455_ZIJN> siire <C 1_POORT> porte <C 700_VAN> van 
+<L 2292:41> <C 20_DORDRECHT> dordrecht. <C 701_OM> Omme <C 324_MENIG> men[ighen] <C 104_TROUW> trouwen <C 0_DIENST> dienst <C 424_DIE> dien <C 405_GIJ> ghi <C 404_WIJ> ons 
+<L 2292:42> <q> [...] <C 999_ZZZ> llelike <C 274_DOEN> ghedaen <C 213_HEBBEN> hebbet. <C 550_ZO> so <C 294_LATEN> laten <C 404_WIJ> wi <C 405_GIJ> v <C 501_EEUWELIJK> ewelike <C 100_KWIJT> quiit 
+<L 2292:43> <C 999_ZZZ> [...]de <C 700_VAN> van <C 999_ZZZ> d[.] <C 999_ZZZ> [..]se <C 700_VAN> van <C 24_HENEGOUWEN> henegou[wen] <q> [...] <C 4_MOEI> moien <C 290_ZIJN> was 
+<L 2292:44> <C 475_DE/HET> der <C 4_VROUW> vrouwen <C 700_VAN> van <C 24_HENEGOUWEN> henegouw[en] <q> [...] <C 999_ZZZ> [...]den 
+<L 2292:45> <C 451_ONS> onse <q> [...] <C 233_DOEN> dadet <C 250_BIDDEN> bidden <C 999_ZZZ> va[] 
+<L 2292:46> <q> [...] <C 700_IN> Jn <q> [...] 
+<L 2293:1> <C 1_BRIEF> brieve. <C 274_GEVEN> Ghegheven <q> [...] <q> [...] <C 399_ZZZ> [du]sent+t[+...]ich 
+<L 2293:2> <C 10_JAAR> iaer <q> [...] 
+<L 2293:3> <C 1_DAG> [d]aghe <C 700_TE> te <C 20_ZIERIKZEE> Zyrixe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

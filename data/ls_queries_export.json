@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1889,
+    "data": {
+      "image": "/data/upload/8/f33d32f1-Budingen1r.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 1696,
+            "original_height": 1110,
+            "image_rotation": 0,
+            "value": {
+              "x": 6.151138459355936,
+              "y": 0.7518796992481203,
+              "width": 93.66133494112636,
+              "height": 96.49122807017545,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "7EShSnQLuE",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1890,
+    "data": {
+      "image": "/data/upload/8/b83bd9aa-Budingen1v.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 1675,
+            "original_height": 1095,
+            "image_rotation": 0,
+            "value": {
+              "x": 3.9322186062170346,
+              "y": 0.12531328320802004,
+              "width": 96.06778139378297,
+              "height": 96.99248120300751,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "T28_x1By-4",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1891,
+    "data": {
+      "image": "/data/upload/8/b569d35d-Genois-1327a.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 3546,
+            "original_height": 2019,
+            "image_rotation": 0,
+            "value": {
+              "x": 7.8485129914464675,
+              "y": 7.894736842105263,
+              "width": 91.18545093698712,
+              "height": 80.07518796992481,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "ZNO3bl2d15",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1892,
+    "data": {
+      "image": "/data/upload/8/2a5c6b73-Genois-1327b.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 4336,
+            "original_height": 2413,
+            "image_rotation": 0,
+            "value": {
+              "x": 6.694781233526621,
+              "y": 5.012531328320801,
+              "width": 89.61243630293414,
+              "height": 87.59398496240587,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "48yJwL28tM",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1893,
+    "data": {
+      "image": "/data/upload/8/a20b1aef-Genois-1327c.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 2483,
+            "original_height": 2468,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.8718937900530623,
+              "y": 1.7543859649122793,
+              "width": 98.39944202027421,
+              "height": 96.36591478696734,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "l7GQlaiDq4",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1894,
+    "data": {
+      "image": "/data/upload/8/6c9c15d7-RA-800r.jpg"
+    },
+    "annotations": [
+      {
+        "was_cancelled": false,
+        "result": [
+          {
+            "original_width": 2573,
+            "original_height": 3231,
+            "image_rotation": 0,
+            "value": {
+              "x": 2.0456796869749185,
+              "y": 1.7543859649122806,
+              "width": 97.72054504703274,
+              "height": 93.48370927318292,
+              "rotation": 0,
+              "rectanglelabels": [
+                "MainZone"
+              ]
+            },
+            "id": "VrFOteGD8q",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+<header>
+<docId>0419</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1282' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 649:12> <C 410_DIT> Dit <C 210_ZIJN> es <C 470+311_HET+EERST> teerste <C 0_PUNT> point <C 420_DAT> dat <C 471_DE> die <C 11_KOOPMAN> coopmanne <C 204_EISEN> heesschen. <C 810_DAT> Dat <C 406_ZIJ> sie <C 214_WILLEN> willen 
+<L 649:13> <C 250_WEGEN> weghen <C 474+700_DE/HET+MET> metten <C 14_SCHAAL> scalen. <C 800_EN> ende <C 810_DAT> dat <C 471_DE> die <C 1_WEGER> weighere <C 201_WEGEN> weghe: <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die 
+<L 649:14> <C 1_WEGER> weighere <C 200_DOEN> doe <C 451_ZIJN> sine <C 11_HAND> hande <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 4_SCHAAL> scalen. <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die <C 1_VERKOPER> vercopere <C 800_OF> iof <C 0_MAN> man 
+<L 649:15> <C 700_VAN> va<A >n</A> <C 4+453_HALF+ZIJN> sinen+taluen <C 210_MOGEN> mach <C 451_ZIJN> sine <C 0_HAND> hand <C 250_DOEN> doen <C 700_IN> in <C 471_DE> de <C 1_MIDDEWAART> middewarde <C 700_VAN> va<A >n</A> <C 474_DE/HET> den 
+<L 649:16> <C 4_SCHAAL> scalen: <C 810_OMDAT> o<A >m</A>me+dat <C 1+470_GEWICHT+HET> tghewichte <VN type=1> <C 560_NIET> niet <C 560_NE> ne <C 200_GAAN> ga: <C 325_MEER> meer <C 700_OVER> ouer <C 470+301_DE+EEN> dene <C 1_ZIJDE> zide <C 821_DANEN> dane <C 700_OVER> ouer 
+<L 649:17> <C 471_DE> die <C 311_ANDER> andere: <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die <C 0_KOOPMAN> coopman <C 210_MOGEN> mach <C 250_WEDERZEGGEN> wedersegghen <C 474_DE/HET> den <C 1_WEGER> weighere 
+<L 649:18> <C 700_ZONDER> sonder <C 0_MISDAAD> mesdaet. <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die <C 14_SCHAAL> scalen <C 214_ZULLEN> sullen <C 250_GAAN> gaen <C 320_AL> al <C 500_OVERAL> ouer+al: <C 520_DAAR> daer <C 470+0_HET+GOED> tgoed 
+<L 649:19> <C 210_ZULLEN> sal <C 250_ZIJN> sijn: <C 700_IN> in <C 471_DE> die <C 411_ZELF> selue <C 1_MANIER> maniere: <C 850_DAT> dat <C 404_WIJ> ons <C 471_DE> die <C 1_HEER> here <C 700_VAN> va<A >n</A> <C 21_BEL> belle <C 221_BETOGEN> betoghede <C 700_OP> up 
+<L 649:20> <C 510+420_ER+DAT> datter <C 274*_OVEREEN-> ouer+een <C 210_ZIJN> es <C 274#_-DRAGEN> ghedraghen. <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die <C 0_EINSER?> Einser <C 421_DIE> die <C 440_MEN> me<A >n</A> <C 203_HETEN> heet <C 471_DE> de 
+<L 649:21> <C 0_PONDER> ponder <C 210_ZULLEN> sal <C 260_ZIJN> sijn <C 274_AFDOEN> of+ghedaen <C 501_EEUWELIJK> ewelike <C 500_VOORTAAN> vort+an. <C 800_EN> Ende <C 810_DAT> dat <C 321_AL> alle <C 471_DE> die <C 411_GENE> goene <C 421_DIE> die 
+<L 649:22> <C 214_ZULLEN> sullen <C 250_WEGEN> weghen <C 700_BIJ> bi <C 474_DE/HET> den <C 14_SCHAAL> scalen: <C 214_ZULLEN> sullen <C 250_HELPEN> helpen <C 250_GELDEN> ghelden <C 474_DE/HET> den <C 0_KOST> cost <C 421_DIE> die <C 611_ERTOE> re+toe 
+<L 649:23> <C 274_DOEN> ghedaen <C 210_ZIJN> es: <C 701_OM> o<A >m</A>me <C 700_TE> te <C 251_BEZOEKEN> besoekene: <C 700_ZONDER> sonder <C 501_NAMELIJK> namelike <C 471_DE> die <C 12_POORTER> porters <C 700_VAN> van <C 475_DE/HET> der 
+<L 649:24> <C 1_STAD> stede. 
+<L 649:25> <C 410_DIT> Dit <C 210_ZIJN> es <C 310+470_ANDER+HET> tander <C 0_PUNT> point: <C 470_HET> dat <C 0_WEERSCHRIFT> wederscrijft <C 700_VAN> van <C 420_DAT> dat <C 471_DE> die <C 1_HEER> here <C 700_VAN> van <C 21_GISTEL> ghistele <C 210_ZULLEN> sal 
+<L 649:26> <C 260_HEBBEN> hebben <C 274_BESCHRIJVEN> bescreuen: <C 420_WAT> wat <C 403_HIJ> hi <C 100_SCHULDIG> sculdich <C 210_ZIJN> es <C 700_TE> te <C 251_HEBBEN> hebbene <C 700_OP> up <C 320_ELK> elc <C 0_GOED> goed <C 700_TE> te 
+<L 649:27> <C 4_TOL> toolnen: <C 800_EN> Ende <C 470_HET> dat <C 0_WEERSCHRIFT> wederscrijft <C 210_ZULLEN> sal <C 440_MEN> me <C 250_DOEN> doen <C 700_IN> in <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_KERK> kerke: <C 800_EN> Ende <C 810_OF> iof 
+<L 649:28> <C 471_DE> die <C 411_GENE> goene <C 421_DIE> die <C 471_DE> de <C 1_TOL> toolne <C 203_ONTVANGEN> ontfanghet. <C 221_DOEN> dade <C 0_ONRECHT> onrecht <C 444_ENIG> enighen <C 0_KOOPMAN> coopman: 
+<L 649:29> <C 841_ALS> alse <C 810_DAT> dat <C 403_HIJ> hi <C 325_MEER> meer <C 221_NEMEN> name <C 700_VAN> va<A >n</A> <C 4_TOL> toolnen: <C 821_DANEN> dane <C 403_HIJ> hi <C 100_SCHULDIG> sculdich <C 231_ZIJN> ware <C 251+700_NEMEN+TE> tenemene: <C 440_MEN> me 
+<L 649:30> <C 403+210_HET+ZIJN> eist <C 100_SCHULDIG> sculdich <C 700_TE> te <C 251_BETOGEN> betoghene <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 1_TOL> toolne <C 810_DAT> dat <C 403+403_HET+HIJ> hiet <C 201_BETEREN> betere: <C 800_EN> Ende 
+<L 649:31> <C 560_NE> ne <C 211_WILLEN> wille <C 403+403_HET+HIJ> hiet <C 560_NIET> niet <C 250_BETEREN> betren: <C 810_DAT> dat <C 471_DE> die <C 1_HEER> here <C 700_VAN> van <C 474_DE> dien <C 1_LAND> lande <C 210_ZIJN> es <C 100_SCHULDIG> sculdich <C 700_TE> te <C 260_DOEN> doen 
+<L 649:32> <C 250_BETEREN> betren <C 700_BIJ> bi <C 474_DE/HET> den <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 21_BRUGGE> brugghe 
+<L 649:33> <C 470_HET> Dat <C 311_DERDE> darde <C 0_PUNT> point <C 210_ZIJN> es: <C 810_DAT> dat <C 440_NEGEEN> negheen <C 101_VREEMD> vreemde <C 0_KOOPMAN> coopman <C 560_NE> ne <C 231_WORDEN> warde 
+<L 649:34> <C 273_ARRESTEREN> ghearresteerd <C 800_NOCH> ne <C 274_DOEN> ghedaen <C 700_IN> in <C 4_GEVANGENIS> ghevanghenessen: <C 800_NOCH> ne <C 500_OOK> oec <C 450_ZIJN> sijn <C 0_GOED> goed: <C 701_OM> o<A >m</A>me 
+<L 649:35> <C 441_GEEN> ghene <C 14_STUK> sticken <C 701_BINNEN> bi<A >n</A>ne <C 474_DE/HET> den <C 1_SCHEPENDOM> scependoeme <C 700_VAN> va<A >n</A> <C 21_BRUGGE> brugghe: <C 800_OF> iof <C 403_HET> het <C 830_NE> ne <C 221_ZIJN> ware 
+<L 649:36> <C 701_OM> o<A >m</A>me <C 463_HEM> sijns <C 412_ZELF> selues <C 0_SCHULD> sculd: <C 800_OF> iof <C 701_OM> o<A >m</A>me <C 0_BORGTOCHT> borechtucht: <C 620*_DAAR-> daer <C 403_HIJ> hi <C 411_ZELF> selue <C 620#_-AF> of <C 1_BORG> borghe 
+<L 649:37> <C 231_ZIJN> ware: <C 800_OF> iof <C 701_OM> o<A >m</A>me <C 101_ANDER> andere <C 0_DING> ding <C 420_DAT> dat <C 403_HIJ> hi <C 231_HEBBEN> hadde <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_LAND> land <C 700_VAN> va<A >n</A> 
+<L 649:38> <C 24_VLAANDEREN> vlaendren. <C 800_OF> jof <C 403_HET> het <C 830_NE> ne <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake: <C 810_DAT> dat <C 440_MEN> men <C 700_IN> in <C 441_ENIG> enighe <C 0_POORT> port <C 231_HEBBEN> hadde 
+<L 649:39> <C 504_TEVOREN> tevoren <C 273_ARRESTEREN> ghearresteerd <C 700_OP> up <C 474_DE/HET> den <C 1_GRAAF> graue <C 700_VAN> van <C 24_VLAANDEREN> vlaendren <C 800_OF> iof <C 700_OP> up <C 451_ZIJN> sine <C 14_LIEDEN> lieden: <C 800_OF> iof 
+<L 649:40> <C 700_IN> in <C 440_ENIG> enich <C 0_LANDSCHAP> landsceep: <C 800_OF> iof <C 810_DAT> dat <C 440_MEN> me<A >n</A> <C 231_HEBBEN> hadde <C 273_WEDERZEGGEN> wederseghet <C 0_WET> wet <C 700_TE> te <C 251_DOEN> doene: <C 800_OF> iof 
+<L 649:41> <C 273_FAILLEREN> ghefaelgierd <C 0_WET> wet <C 700_TE> te <C 251_DOEN> doene: <C 520_DAAR> daer <C 411_DIE> die <C 411_GENE> goene <C 271_WONEN> woenende <C 234_ZIJN> waren: <C 700_OP> up <C 424_WIE> wien <C 810_DAT> dat 
+<L 649:42> <C 440_MEN> me<A >n</A> <C 231_WILLEN> wilde <C 250_ARRESTEREN> arresteren. 
+<L 649:43> <C 470_HET> Dat <C 311_VIERDE> vierde <C 0_PUNT> point <C 210_ZIJN> es: <C 810_DAT> dat <C 440_NEGEEN> negheen <C 100_VREEMD> vreemd <C 0_KOOPMAN> coopman <C 560_NE> ne <C 210_ZIJN> si <C 274_VANGEN> ghevanghen 
+<L 649:44> <C 800_NO> no <C 273_ARRESTEREN> ghearresteerd <C 701_BINNEN> bi<A >n</A>ne <C 474_DE/HET> de<A >n</A> <C 1_SCHEPENDOM> scependoeme <C 700_VAN> van <C 21_BRUGGE> brugghe: <C 210+403_ZIJN+HET> eist <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat 
+<L 649:45> <C 403_HIJ> hi <C 0_BORGTOCHT> borechtucht <C 210_MOGEN> mach <C 250_DOEN> doen: <C 800_OF> iof <C 1_PAND> pande <C 250_GEVEN> gheuen <C 700_TE> te <C 1_RECHT> rechte <C 700_TE> te <C 251_STAAN> stane: <C 800_OF> iof <C 403_HET> het 
+<L 650:1> <C 830_NE> ne <C 221_ZIJN> ware <C 700_VAN> van <C 114_DORPERLIJK> dorperliken <C 14_STUK> sticken 
+<L 650:2> <C 470_HET> Dat <C 311_VIJFTE> vichte <C 0_PUNT> point <C 210_ZIJN> es: <C 810_OF> iof <C 440_ENIG> enich <C 1_POORTER> portre <C 800_OF> iof <C 440_ENIG> enich <C 100_ANDER> ander <C 0_MAN> man <C 221_KOPEN> cochte <C 0_GOED> goed 
+<L 650:3> <C 704_JEGEN> ieghen <C 444_ENIG> enighen <C 0_KOOPMAN> coopman: <C 800_EN> en<A >de</A> <C 610+403_EROP+HIJ> hire+up <C 221_GEVEN> gaue <C 0_GODSPENNING> godspe<A >n</A>ni<A >n</A>g: <C 810_DAT> dat <C 403_HIJ> hi <C 410_DAT> dat 
+<L 650:4> <C 0_GOED> goed <C 250_ONTVANGEN> ontfanghen <C 231_MOETEN> moeste <C 420_DAT> dat <C 403_HIJ> hi <C 273_KOPEN> ghecocht <C 231_HEBBEN> hadde. <C 701_BINNEN> bi<A >n</A>ne <C 474_DE/HET> de<A >n</A> <C 314_DERDE> darden <C 1_DAG> daghe 
+<L 650:5> <C 850_DAT> dat <C 403+403_HIJ+HET> hiet <C 273_KOPEN> ghecocht <C 231_HEBBEN> hadde: <C 800_OF> iof <C 810_DAT> dat <C 403_HIJ> hi <C 221_GEVEN> gaue <C 0_BORGTOCHT> borechtucht <C 0+470_GOED+HET> tgoed <C 700_TE> te 
+<L 650:6> <C 251_ONTVANGEN> ontfanghene: <C 800_EN> Ende <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 403_HIJ> hi <C 410_DIT> dit <C 560_NIET> niet <C 560_NE> ne <C 221_DOEN> dade: <C 810_DAT> dat <C 471_DE> die 
+<L 650:7> <C 0_KOOPMAN> coopman <C 560_NIET> niet <C 560_NE> ne <C 231_ZIJN> ware <C 100_SCHULDIG> sculdich <C 700_TE> te <C 251_HOUDEN> houdene <C 474_DE/HET> de<A >n</A> <C 0_KOOP> coop: <C 810_OF> iof <C 403_HET> het <C 560_NE> ne <C 221_VOEGEN> voeghede 
+<L 650:8> <C 474_DE/HET> de<A >n</A> <C 0_KOOPMAN> coopman <C 421_DIE> die <C 470+0_HET+GOED> tgoed <C 273_VERKOPEN> vercocht <C 231_HEBBEN> hadde. 
+<L 650:9> <C 470_HET> Dat <C 311_ZESTE> zeste <C 0_PUNT> point <C 210_ZIJN> es. <C 810_OF> jof <C 440_ENIG> enich <C 0_KOOPMAN> coopman <C 800_OF> iof <C 1_KNAAP> knape <C 221_VERBEUREN> verbuerde <C 441_ENIG> enighe 
+<L 650:10> <C 14_STUK> sticken: <C 620_WAARBIJ> waer+bi <C 810_DAT> dat <C 463_HEM> sijns <C 412_ZELF> selues <C 1_LICHAAM> lechame: <C 800_OF> iof <C 450_ZIJN> sijn <C 0_GOED> goed <C 231_ZIJN> ware <C 274_VALLEN> gheuallen 
+<L 650:11> <C 700_IN> in <C 4_BOETE> boeten: <C 810_DAT> dat <C 440_MEN> me<A >n</A> <C 452_ZIJN> sijns <C 4_HEER> heren <C 0_GOED> goed: <C 800_NO> no <C 442_NIEMAND> niemens <C 502_ANDERS> anders <C 0_GOED> goed: <C 821_DANEN> dane <C 463_HEM> sijns 
+<L 650:12> <C 412_ZELF> selues: <C 560_NE> ne <C 231_ZULLEN> soude <C 250_ARRESTEREN> arresteren <C 800_NO> no <C 250_NEMEN> nemen. <C 800_EN> Ende <C 810_DAT> dat <C 471_DE> die <C 1_HEER> here <C 700_VAN> va<A >n</A> <C 414_DIE> dien <C 1_GOED> goede 
+<L 650:13> <C 800_OF> iof <C 440_IEMAND> hiemen <C 700_VAN> va<A >n</A> <C 453+4_ZIJN+HALF> sine<A >n</A>+taluen <C 211_MOGEN> moghe <C 410_DAT> dat <C 0_GOED> goed <C 250_DELIVEREREN> deliureren: <C 700_BIJ> bi <C 105_GOED> goeder 
+<L 650:14> <C 4_OORKONDSCHAP> orcondscepen: <C 421_DIE> die <C 403_HIJ> hi <C 250_DOEN> doen <C 210_ZULLEN> sal <C 700_VOOR> vor <C 14_SCHEPEN> scepenen: <C 800_OF> iof <C 700_BIJ> bi <C 105_GOED> goeder <C 4_OORKONDSCHAP> orcondscepen 
+<L 650:15> <C 700_VAN> van <C 415_DIE> dier <C 1_STAD> stede <C 520_DAAR> daer <C 471_DE> die <C 414_GENE> goene<A >n</A> <C 250_WONEN> woene<A >n</A> <C 231_ZULLEN> soude <C 421_DIE> die <C 0+470_GOED+HET> tgoed <C 250_EISEN> heesschen <C 210_ZULLEN> sal. 
+<L 650:16> <C 800_OF> jof <C 700_BIJ> bi <C 1_OORKONDSCHAP> orcondscepe <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 1_STAD> stede: <C 520_DAAR> daer <C 403_HIJ> hi <C 403_HIJ> hem <C 0+470_GOED+HET> tgoed <C 210_ZULLEN> sal <C 260_HEBBEN> hebben 
+<L 650:17> <C 274_GEVEN> ghegheuen <C 700_IN> in <C 14_HAND> handen. 
+<L 650:18> <C 470_HET> Dat <C 311_ZEVENDE> zeuende <C 0_PUNT> point <C 210_ZIJN> es: <C 810_DAT> dat <C 440_MEN> men <C 201_TOGEN> toghe <C 700_IN> in <C 471_DE> die <C 111_VRIJ> vrie <VN type=1> <C 14_FEEST> feesten: <C 309_3> iij <C 11_DAG> daghe <C 500_ALUIT> al+huut. 
+<L 650:20> <C 470_HET> Dat <C 311_ACHTDE> achtende <C 0_PUNT> point <C 210_ZIJN> es: <C 810_DAT> dat <C 440_GEEN> gheen <C 101_VREEMD> vreemde <C 0_KOOPMAN> coopman: <C 800_NO> no <C 440_NIEMAND> niemen 
+<L 650:21> <C 115_VREEMD> vreemder: <C 560_NE> ne <C 200_ZIJN> si <C 700_IN> in <C 441_GEEN> ghene <C 1_BOETE> boete: <C 700_DOOR> dor <C 442_NEGEEN> negheens <C 2_WIJF> wiues <C 1_WIL> wille: <C 403_HET> het <C 830_NE> ne <C 200_ZIJN> si <C 810_DAT> dat 
+<L 650:22> <C 403_HIJ> hi <C 403_ZIJ> hare <C 0_KRACHT> cracht <C 221_DOEN> dade: <C 800_OF> iof <C 810_DAT> dat <C 403_HIJ> hi <C 403_ZIJ> se <C 221_SLAAN> sloeghe: <C 800_EN> Ende <C 610_DAARAF> daer+of <C 700_IN> in <C 415_ZULK> swilker <C 1_BOETE> boete 
+<L 650:23> <C 821_ALS> alse <C 471_DE> die <C 12_POORTER> porters <C 234_ZULLEN> souden <C 250_ZIJN> sijn <C 700_BIJ> bi <C 1_WET> wette: <C 403+220_HET+ZIJN> waerd <C 510_ZO> so <C 403+810_HET+DAT> dat <C 403_HIJ> hem <C 221_GEVALLEN> gheviele. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.T.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

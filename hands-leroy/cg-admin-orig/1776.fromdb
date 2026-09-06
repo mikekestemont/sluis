@@ -1,0 +1,46 @@
+<header>
+<docId>1776</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2640:35> <C 700_IN> jn <q> jabbeke.- <C 700_VAN> van <C 309_EEN> .j. 
+<L 2640:36> <C 1_LIJN> line <q> proost+land <C 700_IN> jn <q> jabbeke.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> N. <C 0_PLUKVOGEL> plucvoghel. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2640:41> <C 404_WIJ> Wje <C 20_JOHANNES> jan <q> .f. <C 22_ARNOUT> arnouds <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 20_GEIPAARD-X> gheipard <C 12_REDENAAR> redenars <C 700_OP> vp <C 1+472_PROOST+HET> sprouesche. <C 204_DOEN> doen 
+<L 2640:42> <C 251+700_WETEN+TE> tewetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. 
+<L 2640:43> <C 810_DAT> Dat <C 224_KOMEN> came<A >n</A> <C 700_VOOR> vor <C 404_WIJ> ons <C 0_VROUW> v<A >er</A> <C 21_MABELIA> mabe <C 20_GIJS> ghiselin <C 22_TREVIN> trevins <C 1_WEDUWE> wedewe. <C 20_AKET> aket <C 450_HAAR> haer <C 1_ZOON> zoene 
+<L 2640:44> <C 800_EN> en<A >de</A> <C 21_MARGARETA> magriete <C 450_ZIJN> sin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gaue<A >n</A> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 21_JOHANNES> janne <C 474_DE/HET> den <C 0_VOS> vos <C 700_VAN> van <C 305_EEN> ere 
+<L 2640:45> <C 4_LIJN> line<A >n</A> <C 2_LAND> lands <C 500_LICHTELIJK> lichteliic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer. <C 271_LIGGEN> ligghende <C 700+475_BINNEN+DE> bind<A >er</A> <C 4_PAROCHIE> prochien <C 700_VAN> van 
+<L 2640:46> <C 21_JABBEKE> jabbeke <C 700_OP> vp <C 1+472_PROOST+HET> sprovesche <C 700_IN> in <C 471_DE> die <C 411_ZELF> selue <C 1_HOFSTEDE> hofstede <C 620*_DAAR-> daer <C 20_JOHANNES> jan <C 471_DE> die <C 0_VOS> vos <C 100_VOORZEID> vorseit <C 620#_-OP> vp 
+<L 2641:1> <C 203_WONEN> woend. <C 800_EN> en<A >de</A> <C 406_ZIJ> sie <C 224+403_WEDDEN+HET> weddens <C 403_HIJ> hem <C 700+4_TE+WET> tewetten <C 700+251_TE+WAREN> tewarne <C 700+474_MET+DE/HET> metten <C 14_BOOM> bome<A >n</A> <C 421+600_DIE+EROP> diere+vp 
+<L 2641:2> <C 204_STAAN> staen <C 101_KWIJT> quite <C 0_LAND> land <C 0_PROOSTLAND> provesch+land <C 0_WEG> wech <C 800_EN> & <C 0_LAND> land <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> recht<A >er</A> <C 0_SCHULD> scult <C 601+421_ERUIT+DIE> diere+vte 
+<L 2641:3> <C 203_GAAN> gaet <C 700_TE> te <C 454_ZIJN> sine<A >n</A> <C 104_VRIJ> vrien <C 1_EIGENDOM> eghendoeme <C 704_TEGEN> tjeghen <C 324_ELK> elken <C 1_MENS> mensche. <C 700_IN> Jn 
+<L 2641:4> <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 810_DAT> dat <C 403_ZIJ> soe <C 100_VAST> vast <C 211_BLIJVEN> bliue <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben 
+<L 2641:5> <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 101_UITHANGEND> vthanghende <C 273_BEZEGELEN> bezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 410_DIT> dit <C 230_ZIJN> was 
+<L 2641:6> <C 274_DOEN> ghedaen <C 2+472_ZATERDAG+DE> sat<A >er</A>daghes <C 700_VOOR> vor <C 101_SINT> sinte <C 24_MARIA> marien <C 24_MAGDALENA> magdalene<A >n</A> <C 1_DAG> daghe. <q> anno. <q> domini 
+<L 2641:7> <q> .m'ho. <q> cc'ho. <q> nonagesimo. <q> nono <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

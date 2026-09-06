@@ -1,0 +1,58 @@
+<header>
+<docId>0021</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 76:16> <C 29_JOHANNES> joh<A >ann</A>es <C 21_SCHRODE> scrode.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> i<A >n</A> <C 21_SCHOONDIJKE> scoend<A >ike</A> <C 309_TIEN> x <C 19_SOLIDUS> 't3s. <q> cum <q> 't! <q> libra <q> cere 
+<L 76:17> <q> pro <q> releuio. <q> dum <q> contingit. <q> de <q> .'t!. <q> mensura. <q> terre <C 22_JOHANNES> joh<A >ann</A>is <C 21_SCHRODE> scrode.- 
+<L 76:18> <C 20_JOHANNES> jan <C 21_SCHRODE> scrode.- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 76:21> <C 21_HUGO> Hug<A >he</A> <C 0_STORM> storem <q> filius <q> domini <C 29_ADELHARD> alardi <C 800_EN> & <C 20_DIEDERIK> Diederic <q> f <C 22_STORM> storems <C 411_DEZE> dese <C 204_DOEN> doen <C 700_TE> te 
+<L 76:22> <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> Lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_LEZEN> Lesen. <C 810_DAT> Dat <C 20_JOHANNES> jan 
+<L 76:23> <C 21_SCHRODE> scrode <C 800_EN> & <C 21_GEILE> gheile <q> vxor <q> eius <C 224_VERKOPEN> vercochten <C 475_DE/HET> der <C 1_KERK> kerke <C 700_VAN> van <C 101_SINT> sinte <C 22_SALVADOR> saluators <C 309_TIEN> .x. <C 19_SOLIDUS> sol. 
+<L 76:24> <C 4_RENTE> renten <C 2_JAAR> jaers. <C 700_OP> vp <C 480_EEN> een <C 1_STUK> sticke <C 2_LAND> lands <C 420_DAT> dat <C 210_ZIJN> es <q> .'t!. <C 9_MENSURA> m<A >ensur</A>a <C 800_EN> en<A >de</A> <C 203_LIGGEN> Leghet <C 700_IN> in 
+<L 76:25> <C 454_ZIJN> sinen 
+<end-datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1344' jaar_van='1344' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> [bongar]t <VN type=1> 
+<end-datering  jaar_tot='1344' jaar_van='1344' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 800_EN> en<A >de</A> <C 700_IN> in <C 451_ZIJN> sine <C 1_HOFSTEDE> hofstede <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 309_TIEN> .x. <C 19_SOLIDUS> 't3s <VN type=1> <C 403+210_HIJ+ZULLEN> salhi <C 250_GELDEN> gelden 
+<L 76:26> <C 700+474_TE+DE/HET> ten <C 304_2> tueen <VN type=1> <C 14_TIJD> tiden <C 474+700_DE/HET+BINNEN> binden <C 1_JAAR> jare <C 309_5> .v. <C 19_SOLIDUS> 't3s <C 700_TE> te <C 101_SINT> sinte <C 1+22_MIS+JOHANNES> Jansmesse. <C 800_EN> & <C 309_5> v. <C 19_SOLIDUS> 't3s <C 700_TE> te <C 101_SINT> sinte 
+<L 76:27> <C 1_BAAFSMIS> bauesmesse <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 204_KENNEN> kennen <C 10_SCHEPEN> scepen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 21_HUGO> hug<A >he</A> <C 0_STORM> storem <q> f 
+<L 76:28> <q> domini <C 29_ADELHARD> alardi <C 800_EN> & <C 20_DIEDERIK> diederic <q> f. <C 22_STORM> storems <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 1_WEDDING> weddinghe <C 230_ZIJN> was <C 274_DOEN> ghedaen. 
+<L 76:29> <C 2_DINSDAG> Diinsendaghes <C 700_VOOR> vor <C 101_SINT> sinte <C 1+22_MIS+MARTIN> martinsmesse <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 850+440_ALS+MEN> olsmen <C 203_SCHRIJVEN> scriuet 
+<L 76:30> <q> jncarnationem <q> domini <VN type=1> <q> m'ho <q> cc'ho <q> Lx'ho. <q> ij'ho. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1262' jaar_van='1262' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

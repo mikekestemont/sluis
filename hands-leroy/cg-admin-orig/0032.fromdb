@@ -1,0 +1,33 @@
+<header>
+<docId>0032</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 86:14> <C 700_IN> i<A >n</A> 
+<L 86:15> <q> dudzele <C 700_VAN> va<A >n</A> <C 305_EEN> ere <C 1_LIJN> line <C 800_EN> en<A >de</A> <q> xv <C 14_ROEDE> roede<A >n</A>.- <q> duds<A >ele</A>. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1264' jaar_van='1264' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 86:23> <C 450_MIJN> min <C 1_HEER> here <C 21_WOUTER> woutre <C 700_VAN> van <C 20_CADZAND> catsant. <C 800_EN> ende <C 20_SIMON> moen <C 0_ZOT> sot <C 10_SCHEPEN> scepen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien 
+<L 86:24> <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 324_AL> ollen <C 474_DE/HET> den <C 414_GENE> gonen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> sullen <C 250_HOREN> horen <C 800_EN> ende 
+<L 86:25> <C 250_ZIEN> sien <C 810_DAT> dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJLIEDEN> ons+leden. <C 20_LAMBERT> lammekin <q> .f. <C 22_KAANS-X> caens <C 800_EN> ende <C 220_OPGEVEN> gaf+vp <C 24_MARIA> marien <q> .f. 
+<L 86:26> <C 22_WOUTER> weitins <C 22_TOUWER> touwers <C 301_EEN> ene <C 1_LIJN> line <C 2_LAND> lants <C 700_TE> te <C 105_WETTELIJK> wetteliker <C 1_GIFT> ghifte <C 421_DIE> die <C 203_LIGGEN> leghet <C 470+700_HET+IN> int <C 0_AMBACHT> ambocht 
+<L 86:27> <C 700_VAN> van <C 21_DUDZELE> dudsele <C 800_EN> ende <C 309_15> xv. <C 14_ROEDE> roeden <C 411_DEZE> dese <C 1_GIFT> ghifte <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700_IN> in <C 101_SINT> sinte <C 22_ANDREAS> andris 
+<L 86:28> <C 1_AVOND> awnde <C 700+470_IN+HET> jnt <C 0_JAAR> jar <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> ols <C 440_MEN> men <C 203_SCHRIJVEN> scrift <C 450_ZIJN> sin <C 0_INCARNATIOEN> incarnasion <q> .m'ho. <q> cc'ho.lx'ho. <q> quarto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1264' jaar_van='1264' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

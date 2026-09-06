@@ -1,0 +1,38 @@
+<header>
+<docId>0290</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 467:9> <C 21_SPERMALIE> sp<A >ar</A>maelge.- <C 20_BOUDEWIJN> bouden <q> .f. <C 22_RIJKWARD> riq<A >ua</A>rds.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> De <q> ii 
+<L 467:10> <q> mensuris <q> & <q> xxv <C 14_ROEDE> r<A >oeden</A> <q> terre <q> quas <q> emimus <q> erga <q> quosdam <C 700_IN> jn <q> laepscure <C 700_OP> vp 
+<L 467:11> <C 0_MIDDELZAND> middelzand.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+<q> Laepscure <q> dit <q> woord <q> is <q> doorgestreept <q> anno 
+<L 467:12> <q> .m'ho.cc'ho.lxxix'ho.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> ij <C 11_GEMET> ym<A >ete</A> <q> xxv <C 14_ROEDE> r<A >oeden</A> <C 700_IN> jn <q> ardemb<A >urch</A> <C 0_AMBACHT> amb<A >ocht</A> <C 471+700_DE+IN> jnde 
+<L 467:13> <C 1_PAROCHIE> p<A >ro</A>chie <C 700_VAN> van <C 21_HEILE> heyle <C 470+700_HET+OP> vpt <C 0_MIDDELZAND> middel <C 0_MIDDELZAND> zant. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

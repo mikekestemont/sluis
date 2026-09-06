@@ -1,0 +1,43 @@
+<header>
+<docId>1508</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='70' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2293:15> <q> monster. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2293:23> <C 404_WIJ> Wi <C 10_SCHEPEN> scepen <C 700_VAN> van <C 1_MONSTER> monstre <C 204_DOEN> doen <C 100_KOND> cont <C 320+474_AL+DE/HET> alden <C 414_GENE> ghenen <C 421_DIE> de <C 414_DEZE> desen <C 0_BRIEF> brief <C 214_ZULLEN> sulen 
+<L 2293:24> <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 810_DAT> dat <C 20_JOHANNES> jan <C 20_SPLINTER> splint<A >er</A> <C 213_HEBBEN> heft <C 274_GEVEN> ghegheuen <C 475_DE/HET> der <C 4_ABDIS> abdessen <C 800_EN> ende <C 474_DE/HET> den 
+<L 2293:25> <C 1_CONVENT> co<A >n</A>ue<A >n</A>te <C 700_VAN> van <C 475_DE/HET> der <C 0_LEEUW> lee <C 300_11> elf <C 10_MORGEN> morghen <C 2_LAND> lants <C 421_DIE> de <C 204_LIGGEN> leggen <C 700_IN> in <C 474_DE/HET> den <C 1_DIJK> dike <C 800_EN> ende <C 451_ZIJN> sine 
+<L 2293:26> <C 1_WONING> woninge <C 700_TE> te <C 104_RECHT> rechten <C 0_EIGEN> eighen <C 421_DIE> de <C 403_HIJ> hi <C 700_VAN> van <C 474_DE/HET> den <C 1_GRAAF> graue <C 220_HOUDEN> helt <C 700_OM> om <C 300_11> elf <C 10_MORGEN> morghen 
+<L 2293:27> <C 2_LAND> lants <C 421_DIE> de <C 204_LIGGEN> leggen <C 700_VOOR> voer <C 474_DE/HET> den <C 1_MEET> made <C 421_DIE> de <C 475_DE/HET> der <C 4_ABDIS> abdessen <C 234_ZIJN> waren <C 800_EN> ende <C 472_DE/HET> des 
+<L 2293:28> <C 2_CONVENT> co<A >n</A>ue<A >n</A>ts <C 700_VAN> van <C 475_DE/HET> der <C 0_LEEUW> lee <C 610*_DAAR-> daer <C 213_HEBBEN> heft <C 403_HIJ> hi <C 301_TWEE> tve <C 10_MORGEN> morghen <C 610#_-TOE> toe <C 274_DOEN> ghedaen <C 700_VAN> van <C 24_HUGO> hughen 
+<L 2293:29> <C 1_LAND> lande <C 700_VAN> van <C 474_DE/HET> den <C 1_KAMP> campe <C 421_DIE> de <C 204_LIGGEN> leggen <C 475+700_DE+TE> ter <C 105_NAAST> naester <C 1_VOER> vure. <C 411_DEZE> dese <C 111_VOORGENOEMD> voer+ghenoemede 
+<L 2293:30> <C 300_13> dertien <C 10_MORGEN> morghen <C 213_HEBBEN> heft <C 403_HIJ> hi <C 474_DE/HET> den <C 1_GRAAF> graue <C 274_OPGEVEN> op+ghegheuen <C 700_TE> te <C 104_RECHT> rechten <C 0_EIGEN> eighen 
+<L 2293:31> <C 700_VOOR> voer <C 471_DE> de <C 300_11> elf <C 10_MORGEN> morghen <C 421_DIE> de <C 204_LIGGEN> leggen <C 700_IN> in <C 474_DE/HET> den <C 1_DIJK> dike. <C 810_DAT> dat <C 410_DIT> dit <C 101_STAD> stade <C 800_EN> ende <C 100_VAST> vast <C 210_ZIJN> si 
+<L 2293:32> <C 550_ZO> so <C 201_OORKONDEN> oerconde <C 404_WIJ> wi <C 410_DIT> dit <C 700_MET> met <C 454_ONS> onsen <C 0_ZEGEL> seghel <C 700_IN> in <C 474_DE/HET> den <C 1_JAAR> iare <C 452_ONS> ons <C 4_HEER> heren <C 810_TOEN> doe <C 440_MEN> men 
+<L 2293:33> <C 220_SCHRIJVEN> screef <C 300_1000-296> dusent+tve+hondert+ende+ses+ende+neghentich <VN type=1> <C 700_OP> op <C 101_SINT> sente <C 22_PETRUS> peters 
+<L 2293:34> <C 800_EN> ende <C 101_SINT> sente <C 22_PAULUS> pauwels <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2293:51> <C 300_60> sestich 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='70' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,36 @@
+<header>
+<docId>0117A</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<datering  jaar_tot='1272' jaar_van='1271' tijdsoort='6' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+<L 206:39> <C 401_IK> Jc <C 20_DIEDERIK> diederic <C 1_HEER> here <C 700_VAN> van <C 21_WASSENAAR> wassenare <C 1_RIDDER> riddre <C 201_MAKEN> make <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die 
+<L 206:40> <C 411_DEZE> dese <C 4_LETTER> lettren <C 250_ZIEN> sien <C 801_OF> ofte <C 250_HOREN> hoeren <C 214_ZULLEN> sullen <C 810_DAT> dat <C 401_IK> jc <C 211_HEBBEN> hebbe <C 273_VERKOPEN> vorkoecht <C 455_MIJN> mire <C 4_VROUW> vrouen 
+<L 206:41> <C 0_VROUW> vor <C 24_ADELHEID> aleyden <C 700_VAN> van <C 24_HENEGOUWEN> henegouen <C 421_DIE> die <C 452_MIJN> miens <C 0_HEER> har <C 22_JOHANNES> jans <C 0_WIJF> wief <C 230_ZIJN> was <C 700_VAN> uan <C 20_AVESNES> auennis 
+<L 206:42> <C 701_OM> ombe <C 300_HONDERD> hundert <C 10_POND> pont <C 115_HOLLANDS> hollanser <C 11_PENNING> penninghe <C 320_AL> al <C 450_MIJN> mien <C 0_AMBACHT> ambuecht <C 800_EN> en<A >de</A> <C 450_MIJN> mien 
+<L 206:43> <C 1_GERECHT> gherechte <C 420_DAT> dat <C 401_IK> jc <C 201_HEBBEN> hebbe <C 700+474_TE+DE/HET> ten <C 21_NIEUWENDAM> Niewendamme <C 700_VAN> van <C 475_DE/HET> der <C 4_WESTZIJDE> west+ziden <C 474_DE/HET> den 
+<L 206:44> <C 1_MOLENWERF> moelenwerue <C 421_DIE> die <C 700_BEWESTEN> be+west <C 474_DE/HET> den <C 21_NIEUWENDAM> niewendamme <C 203_STAAN> staet <C 700_AAN> an <C 471_DE> die <C 1_NOORDZIJDE> nort+side <C 700_VAN> van 
+<L 206:45> <C 475_DE/HET> der <C 21_SCHIE> schie <C 500_OOSTWAART> Oestwart <C 700_TOT> tot <C 700_AAN> an <C 4+472_GRAAF+DE> sgrauen <C 0_AMBACHT> ambucht. <C 800_EN> en<A >de</A> <C 500_ZUIDWAART> zuetwart <C 700_TOT> tot <C 475_DE/HET> der <C 105_HALF> haluer 
+<L 206:46> <C 21_SCHIE> schie. <C 800_EN> en<A >de</A> <C 500_NOORDWAART> nortwart <C 700_TOT> tot <C 700_AAN> an <C 414_DIE> dien <C 1_DIJKSLOOT> diec+scloete <C 421_DIE> die <C 700_BENOORDEN> bi+norden <C 474_DE/HET> den <C 1_DIJK> dike <C 203_GAAN> gaet. 
+<L 207:1> <C 800_EN> en<A >de</A> <C 401_IK> jc <C 210_ZULLEN> sal <C 250_BEHOUDEN> behouden <C 471_DE> die <C 1_SCHOUWING> scouinghe <C 700_VAN> van <C 472_DE/HET> des <C 4_DROSSAAT> drussaten <C 1_LAND> lande. <C 500_VOORT> vort <C 210+401_HEBBEN+IK> hebbic 
+<L 207:2> <C 403_ZIJ> hore <C 273_VERKOPEN> vorkoecht <C 701_OM> omme <C 471_DE> die <C 111_VOORGENOEMD> vorghenomede <C 11_PENNING> penninghe <C 320_AL> al <C 471_DE> die <C 1_VISSERIJ> visscerie <C 421_DIE> die 
+<L 207:3> <C 401_IK> jc <C 221_HEBBEN> hadde <C 700_VAN> uan <C 474_DE> den <C 104_OUD> Ouden <C 1_DAM> damme <C 700_TOT> tot. <C 700_UIT> vet. <C 700_IN> in <C 471_DE> die <C 21_MAAS> maze. <C 510_ALZO> al+soe <C 501_VER> verre <C 820_ALS> als 
+<L 207:4> <C 403_ZIJ> zoe <C 450_MIJN> mien <C 230_ZIJN> was. <C 500_VOORT> vort <C 210_ZULLEN> sal <C 450_MIJN> mien <C 1_VROUW> vroue <C 250_HEBBEN> hebben <C 470_HET> dat <C 0_AMBACHT> ambucht <C 510_ALZO> al+soe <C 501_VER> verre <VN type=1> 
+<L 207:5> <C 700_BUITEN> buten <C 474_DE/HET> den <C 1_DIJK> dike <C 820_ALS> als <C 403+403_HET+ZIJ> siet <C 203_HEBBEN> heuet <C 700_OP> up <C 474_DE/HET> den <C 1_DIJK> dike. <C 800_EN> en<A >de</A> <C 403_HET> het <C 450_MIJN> mien <C 210_ZIJN> es. <C 810_OMDAT> omme+dat 
+<L 207:6> <C 411_DEZE> dese <C 0_KOOP> koep <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 1_VOORWAARDE> vorworde <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 800+406_EN+ZIJ> en<A >de</A>se <C 440_NIEMAND> niement 
+<L 207:7> <C 250_WEDERZEGGEN> wedersegghen <C 560_NE> ene <C 211_MOGEN> moghe <C 610_HIERNA> hier+na <C 550_ZO> soe <C 210+401_HEBBEN+IK> hebbic <C 455_MIJN> mienre <C 4_VROUW> vrouen <C 414_DEZE> desen <C 0_BRIEF> brief 
+<L 207:8> <C 274_GEVEN> ghegheuen <C 273_VESTEN> gheuest <C 700_MET> met <C 454_MIJN> minen <C 0_ZEGEL> seghel. <C 411_DEZE> Dese <C 0_BRIEF> brief <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700_IN> jn <C 452_ONS> ons 
+<L 207:9> <C 4_HEER> heren <C 4_JAAR> jaren <C 319_1271> .m'ho.+cc'ho.+lxxi'ho. <C 472_DE> des <C 104_NAAST> naesten <C 2_DAG> daghes <C 700_NA> na <C 101_SINT> sinte <C 24_GEERTRUIDA> ghertruden <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-datering  jaar_tot='1272' jaar_van='1271' tijdsoort='6' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

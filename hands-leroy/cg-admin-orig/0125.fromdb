@@ -1,0 +1,21 @@
+<header>
+<docId>0125</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1272' jaar_van='1272' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 245:20> <q> octo <q> mensuras <q> terre <q> iacentis <q> infra <q> parrochiam <q> de <C 26_KAPELLE> capella <C 700_IN> in <C 0+470_OOSTAMBACHT+HET> toest+aembocht 
+<L 245:21> <C 700_IN> in <C 22_ARNOUT> arnouds <C 1_MEET> mede <C 700_IN> in <C 471_DE> die <C 300+11_VIER+GEMET> vierghemete <C 800_EN> & <C 700_IN> in <C 4_POPPE> poppen <C 1_MEET> mede 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1272' jaar_van='1272' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='15' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

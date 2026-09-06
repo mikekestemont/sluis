@@ -1,0 +1,47 @@
+<header>
+<docId>1851a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2750:9> <C 101_SINT> S<A >en</A>te <q> Geertruijs <q> gasthuijs.- 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2750:13> <C 700_MET> met <C 1_CONSENT> concente <C 475_DE/HET> der <C 4_KAPITTEL> Capittelen <VN type=1> 
+<L 2750:14> <C 410_DAT> Dat <C 210_ZIJN> si <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> letteren <C 214_ZULLEN> seelen <C 250_ZIEN> sien <C 801_OCHTE> ochte <C 250_HOREN> horen 
+<L 2750:15> <C 810_DAT> dat <C 471_DE> de <C 1_MEESTERSE> meestersse <C 800_EN> ende <C 470+0_HET+CONVENT> dcouent <C 700_VAN> van <C 474_DE/HET> den <C 1_GASTHUIS> gasthuse <C 700_VAN> van <C 101_SINT> sente <C 24_GOEDELE> gudilen <C 700_MET> met 
+<L 2750:16> <C 1_CONSENT> concente <C 475_DE/HET> der <C 14_KAPITTEL> capittelen <C 700_VAN> van <C 101_SINT> sente <C 24_GOEDELE> gudilen <C 421+601*_DIE+ER-> diere <C 11_PROVISEERDER> prouiseere <C 800_EN> ende <C 11_HOEDER> hoedere 
+<L 2750:17> <C 601#_-AF> aue <C 214_ZIJN> sijn <C 214_HEBBEN> hebben <C 274_GEVEN> ghegeuen <C 24_FRANK> vranken <C 421_DIE> die <C 440_MEN> men <C 203_HETEN> heet <C 20_RODING-X> rodinc <C 481_EEN> eene <C 0_HOFSTEDE> hofstat 
+<L 2750:18> <C 474+700_DE/HET+MET> metten <C 1_HUIS> huse <C 421_DIE> die <C 274_LIGGEN> gheleghen <C 700+474_OP+DE/HET> opten <C 0_HORNIK> hoerrec <C 700_NAAST> naast <C 472+0+700_DE+HEER+TE> tser <C 22_ANEKOOI?> anecoys <C 421_DIE> die <C 440_MEN> men <C 203_HETEN> heet 
+<L 2750:19> <C 700_VAN> van <C 700_ACHTER> achter <C 0_GASTHUIS> gasthus <C 700_OP> op <C 484_EEN> eenen <C 104_JAARLIJK> jaerliken <C 0_CIJNS> tseens <C 700_VAN> van <C 309_6> .vj. <C 19_LIBRA> lb <C 700_TE> te <C 251_GEVEN> gheuene <C 500_ALTOOS> altoes 
+<L 2750:20> <C 700_TE> te <C 1_KERSTAVOND> kerssauonde <C 500_IMMERMEER> embermeer <C 800_EN> ende <C 500_ERFELIJK> erflec <C 800_EN> ende <C 500_EEUWELIJK> euwelec <C 410_ALZULK> alse+sulc <C 0_GELD> gelt <C 821_ALS> alse <C 700_IN> in 
+<L 2750:21> <C 4_BEURS> borsen <C 203_GAAN> geet <C 800_EN> ende <C 250_GAAN> gaen <C 210_ZULLEN> sal <C 811_TE-DIE-TIJD-ALS> te+dien+tijde+alse <C 403+440_HET+MEN> ment <C 250_GELDEN> gelden <C 210_MOETEN> moet. <C 800_EN> Ende 
+<L 2750:22> <C 810+403_OMDAT+HET> ombe+dat <C 100_VAST> vast <C 800_EN> ende <C 100_GESTADIG> ghestaedech <C 210_ZIJN> si <C 800_EN> ende <C 211_BLIJVEN> bliue <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wij <C 410_DIT> dit <C 273_ZEGELEN> geseegelt 
+<L 2750:23> <C 700_MET> met <C 452_ONS> ons <C 2_CONVENT> couents <C 1_ZEGEL> seeghele. <C 800_EN> Ende <C 204_BIDDEN> bidden <C 0_HEER> her <C 21_JOHANNES> janne. <C 1_CANTOR> Cantere. <C 800_EN> ende <C 0_HEER> her. 
+<L 2750:24> <C 21_ARNOUT> arnoude. <C 0_TRESORIER> Tresorijr. <C 800_EN> ende <C 0_HEER> her. <C 21_JOHANNES> janne <C 700_VAN> van <C 21_BIERBEEK> bijrbeke. <C 800_EN> ende <C 0_HEER> her. <C 21_WILHELM> willeme <C 700_VAN> van 
+<L 2750:25> <C 21_ZELLIK> selleke. <C 11_KANUNNIK> Canoneke <C 700_VAN> van <C 101_SINT> sente <C 24_GOEDELE> gudilen <C 810_DAT> dat <C 406_ZIJ> si <C 451_HAAR> hare <C 1_ZEGEL> seeghele <C 474+700_DE/HET+MET> metten <C 454_ONS> onsen 
+<L 2750:26> <C 204_HANGEN> hanghen <C 701_AAN> aene <C 414_DEZE> desen <C 0_BRIEF> Brief <C 700_IN> in <C 0_OORKONDSCHAP> orkenscap <C 475_DE/HET> der <C 0_WAARHEID> warheit, <C 861_ALS> alse <C 12_PROVISEUR> prouisores <C 600+421_EROVER+DIE> diere+ouer 
+<L 2750:27> <C 224_ZIJN> waren. <C 800_EN> Ende <C 404_WIJ> wij. <C 20_JOHANNES> jan <C 1_CANTOR> Cantere. <C 800_EN> Ende <C 20_ARNOUT> arnout. <C 0_TRESORIER> Tresorijr. <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 700_VAN> van 
+<L 2750:28> <C 21_BIERBEEK> bijrbeke. <C 800_EN> en<A >de</A> <C 20_WILHELM> willem <C 700_VAN> van <C 21_ZELLIK> selleke <C 11_KANUNNIK> Canoneke <C 700_VAN> van <C 101_SINT> sente <C 24_GOEDELE> gudilen <C 810_WANT> want <C 404_WIJ> wij 
+<L 2750:29> <C 700_OVER> ouer <C 411_DEZE> dese <C 111_VOORGENOEMD> voregenuempde <C 11_VOORWAARDE> vorewarde <C 224_ZIJN> waren <C 403+800_HET+EN> endet <C 700_MET> met <C 404_WIJ> ons <C 274_DOEN> ghedaen <C 230_ZIJN> was 
+<L 2750:30> <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wij <C 451_ONS> onse <C 1_ZEGEL> seeghele <C 700_MET> met <C 472_DE/HET> des <C 102_VOORGENOEMD> voreghenuemps <C 2_CONVENT> conuents <C 1_ZEGEL> seeghele 
+<L 2750:31> <C 274_HANGEN> ghehanghen <C 700_IN> in <C 0_OORKONDSCHAP> orkenscap <C 475_DE/HET> der <C 0_WAARHEID> warheit <C 701_AAN> ane <C 414_DEZE> desen <C 0_BRIEF> Brief. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 2750:32> <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 821_ALS> alse <C 440_MEN> men <C 220_SCHRIJVEN> Screef. <C 309_1299> .M.+CC.+xcix. <C 472+0_DE+ZATERDAG> tsaeterdaegh <C 700_NA> na <C 101_SINT> sente 
+<L 2750:33> <C 22_PAULUS> pauwels <C 0_DAG> dach <q> ... 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='20' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

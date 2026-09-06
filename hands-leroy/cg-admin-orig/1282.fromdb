@@ -1,0 +1,28 @@
+<header>
+<docId>1282</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1950:11> <C 410_DIT> Dit 
+<L 1950:12> <C 200_ZIJN> es <C 700_VAN> van <C 474_DE/HET> den <C 0_HEER> her <q> philipse <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe.- <C 700_IN> In <q> huulst <C 101_ERFELIJK> erueleke <q> rente. 
+<end-statushand  statushandkode='md'>
+
+<statushand  statushandkode='ad'>
+
+<L 1950:14> <q> Binnen 
+<L 1950:15> <C 475_DE/HET> der <C 1_STAD> stede <C 700_VAN> van <q> hulst <C 700_IN> in <q> diuersen <C 14_PERCEEL> parcheelen.- <C 0_VIDIMUS> Vidimus <C 700_IN> in <q> hulst <q> O.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<L 1950:16> <q> v <C 19_SOLIDUS> 't3s. <C 119_PARIJS> 't3p. <C 472+9_HET+JAAR> tsr. <C 700_IN> jn <q> hulst. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

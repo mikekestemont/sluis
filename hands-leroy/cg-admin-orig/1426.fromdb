@@ -1,0 +1,51 @@
+<header>
+<docId>1426</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2188:27> <C 471_DE> de 
+<L 2188:28> <C 1_CONFORMATIE> conformatie <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <q> h<A >er</A>thoghe <C 700_VAN> va<A >n</A> <C 20_BRABANT> brabant <C 700_VAN> van <C 474_DE/HET> den <q> p<A >er</A>sonate <C 800_EN> ende <C 700_VAN> van 
+<L 2188:29> <C 475_DE/HET> d<A >er</A> <q> tienden <C 700_VAN> va<A >n</A> <q> wesele.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> nota <C 1_CONFIRMATIE> c<A >on</A>firmatie <C 700+474_VAN+DE/HET> vanden 
+<L 2188:30> <q> herthoghe <C 474+700_DE/HET+VAN> vanden <q> p<A >er</A>sonate <C 800_EN> en<A >de</A> <C 700+474_VAN+DE/HET> vanden <q> tienden <C 700_VAN> van <q> wesele. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2188:35> <C 404_WIJ> Wi <C 20_JOHANNES> Jan <C 700_BIJ> bi <C 475_DE/HET> der <C 4_GRATIE> gratien <C 700_VAN> van <C 1_GOD> gode; <C 1_HERTOG> hertoge <C 700_VAN> van <C 21_LOTRIJK> lottrike. <C 700_VAN> van <C 20_BRABANT> brabant. <C 800_EN> ende 
+<L 2188:36> <C 700_VAN> van <C 20_LIMBURG> lymborch. <C 204_DOEN> doen <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien 
+<L 2188:37> <C 801_OCHTE> ochte <C 250_HOREN> horen <C 250_LEZEN> lesen, <C 810_DAT> dat <C 404_WIJ> wi <C 471_DE> die <C 1_GIFT> gijchte. <C 421_DIE> die <C 20_HENDRIK> henric <C 700_VAN> van <C 21_WILRE> wilre <C 1_RIDDER> riddre <C 1_HEER> here 
+<L 2188:38> <C 700_VAN> van <C 21_WESEL> wesele, <C 451_ONS> onse <C 1_NEEF> neve, <C 700_OM> om <C 1_GOD> gode <C 700_OM> om <C 1_OORBAAR> orbore <C 455_ZIJN> sire <C 4_ZIEL> zielen <C 800_EN> ende <C 455_ZIJN> sire <C 4_VOORVAAR> vorvaren, 
+<L 2188:39> <C 274_GEVEN> gegheuen <C 213_HEBBEN> heuet, <C 474_DE/HET> den <C 0_MEESTER> Meester <C 800_EN> en<A >de</A> <VN type=1> <C 475_DE/HET> der <C 4_MEESTERSE> meesterssen <C 474+700_DE/HET+VAN> vanden <C 1_GASTHUIS> gasthuse <C 700_VAN> van 
+<L 2188:40> <C 24_ANTWERPEN> antw<A >er</A>pen <C 701_TOT> tote <C 472_DE/HET> des <C 2_GASTHUIS> gasthuus <C 0_BEHOEF> buef <C 841_ALS> alse <C 474+700_DE/HET+VAN> vanden <C 1_PERSONAAT> p<A >er</A>sonate <C 475+700_DE+VAN> vander <C 4_KERK> kerken 
+<L 2188:41> <C 700_VAN> van <C 21_WESEL> wesele, <C 800_EN> ende <C 610_DAARTOE> daer+toe <C 700_AAN> an <C 320_AL> al <C 470_HET> dat <C 0_RECHT> recht <C 420_DAT> dat <C 403_HIJ> hi <C 221_HEBBEN> hadde <C 801_OCHTE> ochte <C 250_HEBBEN> hebben 
+<L 2188:42> <C 231_MOGEN> mochte, <C 700_AAN> an <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_GIFT> gijchte <C 800_EN> ende <C 700_AAN> an <C 470_HET> dat <C 0_PERSONAAT> p<A >er</A>sonaet <C 800_EN> ende <C 700_AAN> an <C 471_DE> die 
+<L 2188:43> <C 1_TIEND> tiende <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochgie <C 700_VAN> van <C 21_WESEL> wesele <C 800*_BEIDE> bede <C 700_AAN> an <C 471_DE> die <C 101_OUD> houde <C 800#_EN> ende <C 700_AAN> an <C 471_DE> die <C 101_NIEUW> niewe, 
+<L 2188:44> <C 204_CONFIRMEREN> confirmeren <C 800_EN> Ende <C 204_GESTADIGEN> ghestadeghen. <C 800_EN> Ende <C 810_OMDAT> om+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> dit <C 474_DE/HET> den 
+<L 2188:45> <C 0_MEESTER> meester <C 800_EN> ende <C 475_DE/HET> der <C 4_MEESTERSE> meesterssen <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORGENOEMD> vorghenoemden <C 1_GASTHUIS> gasthuse <C 700_VAN> van 
+<L 2189:1> <C 24_ANTWERPEN> antw<A >er</A>pen <C 701_TOT> tote <C 472_DE/HET> des <C 2_GASTHUIS> gasthuus <C 0_BEHOEF> buef, <C 100_VAST> vast <C 274_HOUDEN> gehouden <C 210_ZIJN> si <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 700_VAN> van 
+<L 2189:2> <C 404_WIJ> ons <C 800_EN> ende <C 700_VAN> van <C 454_ONS> onsen <C 14_NAKOMELING> nacomelinghen, <C 550_ZO> Soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 454_ONS> onsen <C 0_ZEGEL> Segel 
+<L 2189:3> <C 274_HANGEN> gehangen <C 700_AAN> an <C 411_DEZE> dese <C 101_JEGENWOORDIG> ieghewardeghe <C 4_LETTER> lettren, <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 800_EN> ende 
+<L 2189:4> <C 273_MAKEN> ghemaect <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 301_DUIZENTIG-200-NEGENTIGENVIJF> dusentech,+twe+hondert,+neghentech+ende+viue 
+<L 2189:5> <C 472_DE/HET> des <C 2_VRIJDAG> vridaghes <C 700_NA> na <C 21_SINKSEN> sinxene <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

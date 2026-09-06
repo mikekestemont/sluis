@@ -1,0 +1,45 @@
+<header>
+<docId>0712</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='97' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='97' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1195:11> <C 410_DIT> dit <C 1_WEERSCHRIFT> weder+scrijfte 
+<L 1195:12> <C 700_VAN> van <C 415_DEZE> deser <C 4_LETTER> lettren <C 203_HEBBEN> heft <C 470+0_DE+HEER> der <C 20_DIETBOUD> dibbout <C 700_VAN> van <C 474_DE/HET> den <C 1_NOKERE> nokere. 
+<L 1195:18> <q> .. <C 204_WETEN> Weten <C 321_AL> alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 204_ZIJN> sijn <C 800_EN> ende <C 421_DIE> die <C 204_ZULLEN> selen <C 250_ZIJN> sijn, <C 810_DAT> dat <C 471_DE> de <C 1_PRIEUZE> Prieuse <C 471_DE> de 
+<L 1195:19> <C 11_BROEDER> broedere <C 800_EN> ende <C 471_DE> de <C 11_ZUSTER> Sustere <C 700_VAN> van <C 474_DE/HET> den <C 1_HOSPITAAL> hospitale <C 700_VAN> van <C 21_OUDENAARDE> audenarde <C 214_HEBBEN> hebben 
+<L 1195:20> <C 273_KOPEN> ghecocht <C 500_WEL> wel <C 800_EN> en<A >de</A> <C 501_WETTELIJK> weetteleke <C 700_NA> na <C 471_DE> de <C 1_USAGE> vsage <C 800_EN> en<A >de</A> <C 700_NA> na <C 471_DE> de <C 1_COSTUME> costume <C 700_VAN> van <C 474_DE/HET> den 
+<L 1195:21> <C 1_LAND> lande. <C 700_JEGEN> jeghe<A >n</A> <C 24_WOUTER> woutren <C 472+0_DE+HEER> ser <VN type=1> <C 22_HENDRIK> heinrics <C 1_ZOON> sone <C 230_ZIJN> was <C 700_VAN> va<A >n</A> <C 20_PILKEM> peelkem, <C 300_7> zeuen 
+<L 1195:22> <C 11_VIERENDEEL> vierendele <C 2_LAND> lands, <C 421_DIE> die <C 204_LIGGEN> ligghen <C 700_ONDER> ond<A >er</A> <C 101_SINT> sente <C 24_MARIA> marien <C 1_BRON> borne <C 700_AAN> an <C 20_MALIJNVELD> malijn+velt, 
+<L 1195:23> <C 700_IN> in <C 471_DE> de <C 1_PAROCHIE> prochie <C 700_VAN> va<A >n</A> <C 21_ETIKHOVEN> Eticoue <C 800_EN> en<A >de</A> <C 470+700_HET+IN> int <C 1_VONNIS> vonnesse <C 700_VAN> va<A >n</A> <C 21_NIEUWKERKE> nieukerke. <C 700_IN> jn <C 471_DE> de <C 421_WELK> welke 
+<L 1195:24> <C 300_7> zeuen <C 11_VIERENDEEL> vierendele <C 2_LAND> lands, <C 471_DE> de <C 1_PRIEUZE> Prieuse <C 471_DE> de <C 11_BROEDER> broedere <C 800_EN> ende <C 471_DE> de <C 11_ZUSTER> zustere <C 111_VOORZEID> vorseide, 
+<L 1195:25> <C 214_ZIJN> Sijn <C 500_WEL> wel <C 800_EN> en<A >de</A> <C 501_WETTELIJK> weetteleke <C 273_ERVEN> gheervet, <C 800_EN> ende <C 700_BIJ> bi <C 472+4_DE+HEER> sheren <C 1_WIL> wille <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_LAND> lande, 
+<L 1195:26> <C 800_EN> ende <C 421+470_WELK+DE/HET> dwelke <C 0_LAND> landt <C 406_ZIJ> si <C 214_HEBBEN> hebben <C 274_VERGELDEN> v<A >er</A>golden, <C 474_DE> dien <C 104_VOORGEZEID> vorgheseiden <C 24_WOUTER> woutren <C 320_AL> al 
+<L 1195:27> <C 500_TEGADER> te+gader <C 700_IN> in <C 114_GEREED> gherede<A >n</A> <C 114_GETELD> ghetelde<A >n</A> <C 14_PENNING> peninghen; <C 800_EN> ende <C 471+421_DE+WELK> dewelke <C 111_VOORGEZEID> vorgheseide 
+<L 1195:28> <C 300_7> zeuen <C 11_VIERENDEEL> vierendele <C 2_LAND> lands <C 214_HEBBEN> hebben <C 274_GEVEN> ghegheuen <C 471_DE> de <C 111_VOORGEZEID> vorgheseide; <C 1_PRIEUZE> Prieuse <C 471_DE> de 
+<L 1195:29> <C 11_BROEDER> broedere <C 800_EN> ende <C 471_DE> de <C 11_ZUSTER> zustere, <C 474_DE/HET> den <C 104_VOORGEZEID> vorgheseiden <C 24_WOUTER> woutren <C 700_TE> te <C 484_EEN> enen <C 104_ERFELIJK> erfeleken 
+<L 1195:30> <C 1_CIJNS> chense, <C 701_OM> omme <C 309_25> .xxv. <C 19_SOLIDUS> 't3s. <C 111_PARIJS> parizise, <C 322_ELK> elcs <C 2_JAAR> iaers <C 700_TE> te <C 251_GELDEN> gheldene <C 704_BINNEN> binnen <C 474_DE/HET> den <C 309_4> .iiij. 
+<L 1195:31> <C 14_KERSTDAG> kerstdaghen, <C 230_ZIJN> waer <C 500_OOK> oec <C 470_HET> dat <C 1_ZAAK> zake <C 810_DAT> dat <C 440_MEN> men <C 560_NIET> niet <C 560_NE> en <C 221_GELDEN> golde <C 471_DE> de <C 101_VOORZEID> vorseide <C 1_RENTE> rente 
+<L 1195:32> <C 820+403_ALZO+HET> alsoet <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es, <C 704_BINNEN> binnen <C 474_DE/HET> den <C 309_4> .iiij. <C 114_VOORGEZEID> vorgheseiden <C 14_KERSTDAG> kerstdaghen. <C 550_ZO> Soe <C 231_ZULLEN> soude 
+<L 1195:33> <C 471_DE> de <C 1_PRIEUZE> Prieuse <C 471_DE> de <C 11_BROEDER> broedere <C 800_EN> ende <C 471_DE> de <C 11_ZUSTER> zustere <C 421_DIE> die <C 273_VOORZEGGEN> vorseit <C 214_ZIJN> sijn, <C 204_DOEN> doen <C 450_HAAR> haer <C 0_HAND> hant 
+<L 1195:34> <C 700_AAN> an <C 470_HET> dat <C 101_VOORGEZEID> vorgheseide <C 0_LAND> landt <C 821_ALS> alse <C 700_AAN> an <C 450_HAAR> har <C 1_ERF> erue. <C 520_DAAR> Daer <C 410_DIT> dit <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 230_ZIJN> was <C 861_ALS> alse 
+<L 1195:35> <C 1_RECHTER> rechtere <C 21_WOUTER> woutre <C 700_VAN> van <C 20_KONINGSBROEK> coningbrouc <C 700_VAN> van <C 452_MIJN> mijns <C 4_HEER> heren <C 4_HALF> haluen <C 700_VAN> van 
+<L 1195:36> <C 21_OUDENAARDE> audenarde. <C 800_EN> ende <C 510_DAAR> daer <C 224_ZIJN> waren <C 861_ALS> alse <C 14_SCHEPEN> scepenen.,, <C 20_GOSWIJN> Goesijn <C 700_VAN> van <C 20_PILKEM> peelkem,, 
+<L 1195:37> <C 20_PETRUS> Pieter <C 0_SMOUT> smout,, <C 470+0_DE+HEER> Der <C 20_DIETBOUD> Dibbout <C 700_VAN> van <C 474_DE/HET> den <C 1_NOKERE> nokere,, <C 20_BOUDEWIJN> boidijn <C 700_VAN> van <C 475_DE/HET> der <C 0_ELST> elst,, 
+<L 1195:38> <C 20_FRANCISCUS> Soykin <C 700_VAN> van <C 475_DE/HET> der <C 4_HAAG> haghen,, <C 20_AEGIDIUS> Gillis <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_SCHATPUT> scatputte,, <C 800_EN> ende <C 20_JOHANNES> Jan <C 700_VAN> van <C 475_DE/HET> der 
+<L 1195:39> <C 4_STEENBRUG> steenbrugghen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_DAT> dat <C 440_MEN> men <C 220_SCHRIJVEN> screef. 
+<L 1195:40> <C 301_DUIZENTIG-200-VIERWERFTWINTIGENZES> Dusentech.+Tuehondert.+vierwaerventvijntech+ende+zeesse <C 2_ZONDAG> Sondaeghes 
+<L 1195:41> <C 700_NA> na <C 0_HALF> haelf <C 21_MAART> marte <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='97' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='97' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

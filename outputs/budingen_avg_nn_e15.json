@@ -1,0 +1,161 @@
+{
+  "model_id": "vit_small@c3429da4+step32016",
+  "checkpoint": "runs/sluis_leroy_ssl_sauvola/checkpoint_epoch0015.pth",
+  "gallery_npy": "/home/ubuntu/mole/outputs/sluis/leroy.sauvola.ssl.e15.npy",
+  "query_npy": "/home/ubuntu/mole/outputs/sluis/leroy.queries.sauvola.ssl.e15.npy",
+  "gallery_n": 1304,
+  "query_stems": [
+    "Büdingen1r",
+    "Büdingen1v"
+  ],
+  "aggregate": "l2_mean_centroid",
+  "metric": "cosine",
+  "target": "332o",
+  "target_rank": 1,
+  "target_score": 0.478036961074601,
+  "nn_stem": "332o",
+  "nn_score": 0.478036961074601,
+  "budingen_rv_cosine": 0.7605259310383984,
+  "per_side": {
+    "Büdingen1r": {
+      "target_rank": 1,
+      "target_score": 0.44782639742131686,
+      "nn_stem": "332o",
+      "nn_score": 0.44782639742131686
+    },
+    "Büdingen1v": {
+      "target_rank": 1,
+      "target_score": 0.4491844353358032,
+      "nn_stem": "332o",
+      "nn_score": 0.4491844353358032
+    }
+  },
+  "max_aggregate": {
+    "target_rank": 1,
+    "target_score": 0.4491844353358032,
+    "nn_stem": "332o",
+    "nn_score": 0.4491844353358032
+  },
+  "top": [
+    {
+      "rank": 1,
+      "stem": "332o",
+      "score": 0.478036961074601,
+      "is_target": true
+    },
+    {
+      "rank": 2,
+      "stem": "1358o",
+      "score": 0.36348628691418466,
+      "is_target": false
+    },
+    {
+      "rank": 3,
+      "stem": "198o",
+      "score": 0.3583528855769296,
+      "is_target": false
+    },
+    {
+      "rank": 4,
+      "stem": "659o",
+      "score": 0.3528284521290836,
+      "is_target": false
+    },
+    {
+      "rank": 5,
+      "stem": "355o",
+      "score": 0.35209036731367144,
+      "is_target": false
+    },
+    {
+      "rank": 6,
+      "stem": "24o",
+      "score": 0.3295128682505342,
+      "is_target": false
+    },
+    {
+      "rank": 7,
+      "stem": "560o",
+      "score": 0.31843097706800866,
+      "is_target": false
+    },
+    {
+      "rank": 8,
+      "stem": "802o",
+      "score": 0.31391242020841903,
+      "is_target": false
+    },
+    {
+      "rank": 9,
+      "stem": "34o",
+      "score": 0.3098002823012753,
+      "is_target": false
+    },
+    {
+      "rank": 10,
+      "stem": "650o",
+      "score": 0.3082676420427182,
+      "is_target": false
+    },
+    {
+      "rank": 11,
+      "stem": "404o",
+      "score": 0.30180505833559473,
+      "is_target": false
+    },
+    {
+      "rank": 12,
+      "stem": "222o",
+      "score": 0.30076940742207664,
+      "is_target": false
+    },
+    {
+      "rank": 13,
+      "stem": "1089o",
+      "score": 0.2897222322664607,
+      "is_target": false
+    },
+    {
+      "rank": 14,
+      "stem": "209o",
+      "score": 0.2895716428237027,
+      "is_target": false
+    },
+    {
+      "rank": 15,
+      "stem": "104o",
+      "score": 0.28430796574549727,
+      "is_target": false
+    },
+    {
+      "rank": 16,
+      "stem": "1178o",
+      "score": 0.2842796949123733,
+      "is_target": false
+    },
+    {
+      "rank": 17,
+      "stem": "93o",
+      "score": 0.28379441378268894,
+      "is_target": false
+    },
+    {
+      "rank": 18,
+      "stem": "23o",
+      "score": 0.2809152407506745,
+      "is_target": false
+    },
+    {
+      "rank": 19,
+      "stem": "1179o",
+      "score": 0.28088054070334284,
+      "is_target": false
+    },
+    {
+      "rank": 20,
+      "stem": "775o",
+      "score": 0.2779097801784913,
+      "is_target": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<header>
+<docId>1565</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2352:9> <C 700_IN> in <C 20_EEKLO> eclo <C 700_VAN> van <C 20_DIEDERIK> dierkin <C 474_DE/HET> den <C 1_PAAP> pape.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> j't! <C 1_GEMET> ym<A >ete</A> <C 2_LAND> lands <q> Actum 
+<L 2352:10> <q> m'ho <q> ij'hc <q> xcvj'ho. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2352:17> <C 20_DIEDERIK> dirkin <C 471_DE> de <C 1_PAAP> pape <C 800_EN> ende <C 21_MABELIA> mabelie <C 450_ZIJN> siin <C 101_WETTELIJK> wettelike <C 0_WIJF> wiif <C 224_GEVEN> ghauen <C 101_WETTELIJK> wettelike 
+<L 2352:18> <C 1_GIFT> ghifte <C 21_DIEDERIK> dirkine <C 21_MABELIA> mabe <C 2_MAN> mans <C 1_ZOON> zone <C 700_VAN> van <C 300+480_HALF+EEN> enen+haluen <C 1_BUNDER> buenre <C 2_LAND> lants <C 271_LIGGEN> ligghende 
+<L 2352:19> <C 700_VOOR> voer <C 474_DE/HET> den <C 4_KERK> kerken <C 700+470_IN+HET> int <C 0_HABARSLEEN> habars+leen <C 800_EN> ende <C 406_ZIJ> si <C 220+403_GELOVEN+HET> ghelouets <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> warne 
+<L 2352:20> <C 700_MET> met <C 4+472_GRAAF+DE> scrauen <C 1_SCHULD> sculde, <C 410_DIT> dit <C 204_KENNEN> kennen <C 404_WIJ> wi <C 14_SCHEPEN> scepenen <C 700_IN> in <C 20_EEKLO> eclo <C 20_HILDEBRAND> hildebrant <C 22_WOUTER> weits 
+<L 2352:21> <C 1_ZOON> zone <C 20_JOHANNES> ian <C 700_VAN> van <C 21_ZUIENKERKE> zuenkerke <C 800_EN> ende <C 20_GIJS> ghiselin <C 0_BOOMGAARD> boenghard <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> int 
+<L 2352:22> <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 851_ALS> alse <C 440_MEN> men <C 203_SCHRIJVEN> scriuet <C 450_ZIJN> siin <C 0_INCARNATIOEN> incarnation <C 301_DUIZENTIG-200-NEGENTIGENZES> duse<A >n</A>tech+tue+hondert+neghentech+ende+sesse 
+<L 2352:23> <C 2_DONDERDAG> donresdaghes <C 700_VOOR> voer <C 101_SINT> sente <C 24_MARIA> marien <C 1_LICHTMIS> lecth+messe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

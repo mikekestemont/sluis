@@ -1,0 +1,294 @@
+<header>
+<docId>1230</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1883:24> <C 0_PLAN> plan <q> anno <q> xciij. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1883:31> <q> .. <q> Conputatio <q> magistrorum <q> de <C 0_SLUIS> sluis <q> inter <C 21_GENTELLES> ghentele <q> & <C 1_ZIJDELING> sidelinghe <q> .. 
+<L 1883:32> <C 29_RIJKWARD> riq<A >ua</A>rdi <C 2_STANDAARD> standarts.. <C 29_ARNOLF> arnulphi <q> filij. <C 22_HENDRIK> heinemans.. <C 29_JOHANNES> joh<A >ann</A>is <q> filij <C 24_SCHONE> sconen.. <q> & 
+<L 1883:33> <C 29_REINWARD> reinvardi <q> filij <C 29_WOUTER> walt<A >er</A>i, <q> receptoris <q> facta <q> feria <q> quarta <q> in <C 29_PASCHA> paschalibus.. <q> anno 
+<L 1883:34> <q> domini <q> m'hm'ho <q> cc'hm'ho <q> nonagesimo <q> tercio <q> -- 
+<L 1883:36> <q> Receptum 
+<L 1883:37> <q> ..Officio <q> remansit <q> vltra <q> anno <q> preterito <q> in <q> computatione <q> .c <q> xii <q> lb <q> xii <q> s 
+<L 1883:38> <q> xi't! <q> d 
+<L 1883:39> <q> Ex <q> redditibus <q> .. <q> officij <q> xxxvi <q> s 
+<L 1883:40> <q> De <q> heredibus <C 20_REINWARD> reinv<A >ar</A>t <C 22_PORIJN-X> porins <q> .. <q> xx <q> lb <q> de 
+<L 1883:41> <q> De <q> heredibus <q> domini <C 29_JOHANNES> ioh<A >ann</A>is <q> .. <q> xxx <q> s <q> de 
+<L 1883:42> <C 2_HAMER> ham<A >er</A>s <q> testamento 
+<L 1883:43> <q> De <C 20_AEGIDIUS> Gillis <q> f <C 22_REINAARD> reinars <q> .. <q> iij <q> lb <q> iij <q> s <q> de 
+<L 1883:44> <q> De <C 29_PAULUS> paulo <q> dicto <C 1_KALKER> calkere <q> .. <q> xl <q> lb <q> de 
+<L 1883:45> <q> De <C 29_WOUTER> waltero <q> dicto <C 21_RIJKBOUD/RIJKBODE> Ribode <q> .. <q> c <q> xxii <q> lb <q> ix <q> d 
+<L 1883:46> <q> De <C 29_WILHELM> will<A >elm</A>o <q> dicto <C 0_BLOK> bloc <q> .. <q> lix <q> lb <q> xviij <q> s 
+<L 1884:1> <q> Summa <q> .. <q> recepti <q> ccc <q> lxi <q> lb <q> xx't! <q> d 
+<L 1884:3> <q> Solutum 
+<L 1884:4> <q> De <C 0_SLUIS> sluis <C 700_TE> te <C 251_VERSLAAN> v<A >er</A>slane <q> in <q> septimana <q> ante <q> maium <q> & <C 0_ZAND> sant <C 700_TE> te <C 251_DRAGEN> draghene <C 700+470_IN+HET> int 
+<L 1884:5> <C 0_ADEMGAT> ademgat <q> .. <q> liij <q> s 
+<L 1884:6> <C 474_DE/HET> Den <C 1_CHARTER> chartre <C 700_TE> te <C 251_MAKEN> makene <q> de <C 1_KEUR> coere <q> de <C 12_SLUISMEESTER> sluismeest<A >er</A>s <q> .. <q> xx <q> s 
+<L 1884:7> <C 471_DE> De <C 1_AARDE> aerde <C 700_TE> te <C 251_SPREIDEN> spredene <q> de <C 0_SLUIS> sluis <q> vsque <q> pontem <C 22_LAND?> lantins <C 10_KIND> kinder <q> .. <q> viij <q> s 
+<L 1884:8> <q> De <q> via <q> apud <C 1_POEL> poele <q> .. <q> emendanda <q> iij <q> lb 
+<L 1884:9> <q> De <q> citationibus <q> super <q> eos <q> qui <q> debebant <q> .. <q> testamentum <q> xvij <q> s 
+<L 1884:10> <q> De <q> ponte <q> reficiendo <q> apud <C 20_SNELLEGEM> snelleng<A >em</A>.. <C 29_WILHELM> willek<A >ino</A> <q> de <C 1_BULLING> Bullinghe <q> .ii't! <q> s 
+<L 1884:11> <q> De <C 20_COLP?> colps <C 1_HEULBRUG> huelbrucghe. <C 309_4> iiij <C 10_STUK> stic <C 2_HOUT> houts <C 0_STUK> stic <q> .ii't! <q> 't3s <q> .. <q> summa <q> x <q> 't3s <C 274_NEMEN> jnome<A >n</A> 
+<L 1884:12> <C 701_TOT> tote <C 20_WILSIN> wilsin 
+<L 1884:13> <q> Jtem <C 701_TOT> tote <C 20_WILSIN> wilsin <C 309_7> .vii. <C 14_PLANK> planken <C 0_STUK> stic <q> .ii't! <q> 't3s.. <q> summa <q> xvii <q> s 
+<L 1884:14> <q> Jtem <q> de <C 1_VOEREN> voerne <q> de <q> .ii. <C 10_VOEDER> voeder <C 320_ELK> elc <q> iiij <q> 't3s <q> .. <q> summa <q> viij <q> s 
+<L 1884:15> <C 20_ARNOUT> arnoud <q> f <C 22_ARNOUT> noids <q> de <q> .ii. <q> diebus <q> pro <q> die <q> .ii <q> 't3s <q> .. <q> summa <q> iiij <q> s 
+<L 1884:16> <C 20_WOUTER> wout<A >er</A> <q> f <C 22_ARNOUT> noids <q> de <q> .ii. <q> diebus <q> pro <q> die <q> ii <q> 't3s <q> .. <q> summa <q> iiij <q> s 
+<L 1884:17> <q> Operarij <q> .. <q> xxv <q> d 
+<L 1884:18> <q> De <q> quodam <C 1_GAT> gate <C 700_IN> in <C 471_DE> die <C 0_SLUIS> sluis <C 700_VOOR> vor <C 21_LAMBERT> lamsoete <C 22_TOBEKIN> tobekins <C 700_TE> te <C 251_VERMAKEN> v<A >er</A>makene <q> xii 
+<L 1884:19> <q> s 
+<L 1884:20> <q> De <q> ponte <q> iuxta <C 20_BOUDEWIJN> boidin <C 2_BROEKER> broek<A >er</A>s <C 309_5> .v. <C 14_PLANK> planken <q> contra <C 20_WILSIN> wilsin <C 0_STUK> stic <q> .iii't! <q> 't3s <q> .. 
+<L 1884:21> <q> summa <q> xvii't! <q> s 
+<L 1884:22> <q> De <q> pontibus <q> apud <C 21_ZUIENKERKE> suenk<A >erke</A> <q> & <q> apud <C 21_MEETKERKE> metk<A >erke</A>. <q> contra <C 20_JOHANNES> jan <q> de 
+<L 1884:23> <C 20_DORDRECHT> durdrecht <C 309_TIEN> .x <C 10_STIJL> stijl. <C 0_STUK> stic <q> xiiij <q> .. <q> 't3s <q> summa <q> vij <q> lb 
+<L 1884:24> <q> Jtem <q> de <q> .iiij. <q> l <C 11_VOET> voete <C 0_SPAR> spar <C 0_STUK> stic <q> xv <q> .. <q> 't3s <q> summa <q> .iij <q> lb 
+<L 1884:25> <q> Jtem <q> de <q> .iii. <q> xl <C 11_VOET> voete <C 0_SPAR> spar <C 0_STUK> stic <q> ix <q> .. <q> 't3s <q> summa <q> xxvij <q> s 
+<L 1884:26> <q> Jtem <C 309_6> .vi <C 14_BALK> balken <C 0_STUK> stic <q> xxiiij <q> s <C 309_4> .iiij. <C 273_ZAGEN> isag<A >e</A>t <C 800_EN> & <C 309_2> ii <C 700_TE> te <C 4_WELF> weluen <q> .. <q> summa <q> vij <q> lb 
+<L 1884:27> <q> iiij <q> s 
+<L 1884:28> <q> Jtem <q> de <C 309_4> .iiij. <C 14_BALK> balken <C 700_TE> te <C 251_ZAGEN> saghene <C 0_STUK> stic <q> xxviii <q> .. <q> 't3d <q> summa <q> ix <q> 't3s <q> iiij <q> d 
+<L 1884:29> <q> Jtem <q> de <q> predictis <q> lignis <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> .. <q> xxviii <q> d 
+<L 1884:30> <q> Jtem <q> de <C 1_VOEREN> voerne <q> de <q> xviii't! <q> lb <q> pro <q> lb <q> xvi <q> .. <q> 't3d <q> summa <q> xxiiij <q> 't3s <q> viii <q> d 
+<L 1884:31> <q> Jtem <q> de <q> ferro <q> ad <q> pontes <q> predictos. <q> . <q> de <q> c <q> xlviii <q> lb <q> ferri <q> pro <q> lb <q> iii <q> d <q> .. 
+<L 1884:32> <q> summa <q> xxxvii <q> s 
+<L 1884:33> <q> Carpentarii <q> ad <q> pontes <q> .. <q> predictos <C 20_WOUTER> wout<A >er</A> <q> f <C 22_ARNOUT> noids <q> .viii <q> dies <q> pro <q> die <q> .ii 
+<L 1884:34> <q> .. <q> s <q> summa <q> xvi <q> s 
+<L 1884:35> <C 20_LAMBERT> lammin <C 21_ROBAILLE-X> robaille <q> .vi. <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> x <q> s 
+<L 1884:36> <C 20_WILHELM> willem <q> f <C 22_WILHELM> willekins <q> .iiij <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> vi <q> 't3s <q> viii <q> d 
+<L 1884:37> <C 20_LAURENTIUS> lourin <C 20_SCHADELIJN-X> scadelin <q> .vii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> xi <q> 't3s <q> viii <q> d 
+<L 1884:38> <C 20_LAMBERT> lammek<A >in</A> <q> f <C 24_GEILE> gheilen <q> .viii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> xiii <q> 't3s <q> iiij <q> d 
+<L 1884:39> <q> Operarij <q> ad <q> pontes <q> .. <q> predictos <C 309_32> xxxii <C 10_MAN> man <C 0_DAGWERK> dachw<A >er</A>c <q> pro <q> die <q> vii't! <q> d <q> .. 
+<L 1884:40> <q> summa <q> xx <q> s 
+<L 1884:41> <q> De <q> predictis <q> pontibus <C 700_TE> te <C 251_AARDEN> aerdene <q> .. <q> ix <q> s 
+<L 1884:43> <q> .. <q> De <C 14_ZELFSCHOT> seilscoten <C 701_TOT> tote <C 21_JOHANNES> ha<A >n</A>ne <q> de <C 21_BEKKEN> beckine <C 309_66> .lxvi <C 10_STUK> stic <q> pro <C 0_STUK> stic <q> ii <q> s 
+<L 1884:44> <q> .. <q> sterlingorum <q> summa <q> xxij <q> lb 
+<L 1884:45> <q> De <q> .iii't!'hm. <C 2_GESCHUT> jscoets <q> pro <C 0_DUIZEND> dusent <q> xxx <q> .. <q> 't3s <q> summa <q> v <q> lb <q> v <q> s 
+<L 1884:46> <q> Jtem <C 701_TOT> tote <C 20_JACOB> jacob <C 1_BOOGMAKER> boghemak<A >er</A>e <C 309_25> .xxv. <C 14_ZELFSCHOT> seilscote<A >n</A> <C 0_STUK> stic <q> .ii <q> 't3s <q> sterlingorum <q> .. 
+<L 1885:1> <q> summa <q> viii <q> lb <q> vi <q> 't3s <q> viii <q> d 
+<L 1885:2> <q> Jtem <q> de <q> vi'hm. <C 2_GESCHUT> jscoets <q> pro <C 0_DUIZEND> dusent <q> xxx <q> .. <q> 't3s <q> summa <q> ix <q> lb 
+<L 1885:3> <q> De <q> predictis <C 14_ZELFSCHOT> seilscoten <C 999_ZZZ> s <VN type=1> <C 0_GESCHUT> iscot <C 700_TE> te <C 251_DRAGEN> draghene <q> .. <q> xviij <q> d 
+<L 1885:4> <q> Jtem <q> de <C 309_91> .xci. <C 12_KOKER> cok<A >er</A>s <C 0_STUK> stic <q> .ii <q> d <q> .. <q> sterlingorum <q> summa <q> l <q> 't3s <q> vi <q> d 
+<L 1885:6> <q> .. <q> Jtem <q> de <C 1_ZAND> sande <C 251#_OP-> vp <C 700_TE> te <C 251*_-SCHIETEN> scietene <C 309_23> .xxiii. <C 10_MAN> man <C 700_TE> te <q> .ii <q> d <q> sterlingorum <q> .. 
+<L 1885:7> <q> summa <q> xii <q> 't3s <q> ix't! <q> d 
+<L 1885:8> <q> Jtem <q> de <C 0_SLUIS> sluis <C 700_TE> te <C 251_RUIMEN> rumene <q> feria <q> quarta <q> ante <q> festum <q> .. <q> nicholai <q> iij <q> lb <q> v <q> s 
+<L 1885:9> <q> Jtem <q> de <C 0_SLUIS> sluis <C 700_TE> te <C 251_VERSLAAN> v<A >er</A>slane <q> feria <q> quinta <q> post <q> .. <q> purificationem <q> xxxv <q> s 
+<L 1885:11> <q> .. <q> Jtem <C 0_KOST> cost <C 274_DOEN> ghedaen <C 475+700_DE+TE> t<A >er</A> <C 0_SLUIS> sluis <C 700_IN> in <C 474_DE/HET> den <C 104_GROOT> groten <C 0_STORM> storem 
+<L 1885:12> <q> supra <C 0_SLUIS> sluis <C 309_63> lxiij. <C 10_MAN> man <C 700_TE> te <q> .ii <q> d <q> .. <q> sterlingorum <q> summa <q> xxxv <q> s 
+<L 1885:13> <q> apud <C 21_TARWEDIJK> t<A >er</A>rendike <C 309_50> .l <C 10_MAN> man <C 700_TE> te <q> .ii <q> d <q> .. <q> sterlingorum <q> summa <q> xxvii <q> 't3s <q> ix <q> d 
+<L 1885:14> <C 14_KNAAP> knapen <C 421_DIE> die <C 224_LOPEN> liepen <C 14_BOODSCHAP> boetscepen <C 700_IN> in <C 471_DE> die <C 0_NOOD> noet <q> .. <q> ix <q> s 
+<L 1885:15> <q> pro <q> .x'hc <C 11_BOUT> boute <C 700_IN> in <C 471_DE> die <C 11_GAT> gate <C 274_WERPEN> ghew<A >or</A>pen <VN type=1> <q> .. <q> centum <q> .iii. <q> .. <q> 't3s <q> summa 
+<L 1885:16> <q> Jtem <q> de <C 14_BOUT> bouten <C 700_TE> te <C 251_POTEN> potene <C 800_EN> & <C 251_VOEREN> voerne <C 701_BEWESTEN> beweste <C 21_TARWEDIJK> t<A >er</A>rendike <q> .viii't!'hc. <q> centum 
+<L 1885:17> <q> iiij <q> .. <q> 't3s <q> summa <q> xxxiiij <q> s 
+<L 1885:18> <q> Jtem <C 309_TIEN> .x. <C 14_MAN> mannen <C 421_DIE> die <C 224_POTEN> poten <C 324_ELK> elken <q> x <q> .. <q> d <q> summa <q> viii <q> 't3s <q> iiij <q> d 
+<L 1885:19> <q> Jtem <q> de <C 309_300> .ccc. <C 14_TEGEL> teglen <C 700_IN> in <C 471_DE> die <C 11_GAT> gate <C 700_TE> te <C 251_WERPEN> worpene <q> .ii't! <q> s 
+<L 1885:20> <q> Jtem <q> de <q> straminibus <C 274_WERPEN> iw<A >or</A>pen <C 700_IN> in <C 489_EEN> .i. <C 0_GAT> gat <q> contra <q> villam <C 20_JACOB> jacob <C 20_HEERMAAR-X> h<A >er</A>emar 
+<L 1885:21> <q> .iiii't! <q> s 
+<L 1885:22> <q> Jtem <q> pro <C 1_ARGING> arghinghe <C 471_DE> de <C 14_REEP> repen <C 700_IN> in <C 474_DE/HET> den <C 104_GROOT> groten <C 0_STORM> storem <q> .. <q> xxx <q> s 
+<L 1885:23> <q> Jtem <C 20_JOHANNES> jan <C 0_PRIESTER> priest<A >er</A> <q> & <q> socio <q> .. <q> suo <q> x <q> s 
+<L 1885:24> <q> Jtem <q> pro <q> expensis <q> factis <C 700_IN> in <C 474_DE/HET> den <C 104_GROOT> groten 
+<L 1885:25> <C 0_STORM> storem <q> ad <q> domum <C 22_PETRUS> piet<A >er</A>s <C 2+472_SMID+DE> smets <q> ix't! <q> lb 
+<L 1885:26> <q> Jtem <q> pro <q> expensis <q> factis <C 700_OM> om <C 311+470_EERST+HET> teerste <C 0_WERK> w<A >er</A>c 
+<L 1885:27> <C 700_TE> te <C 251_BESTEDEN> bestedene <q> ad <q> domum <q> eiusdem 
+<L 1885:28> <q> Jtem <q> pro <C 14_MAND> manden <C 800_EN> & <C 14_HOOSVAT> aesvaten <q> .v <q> 't3s <q> iiij <q> d 
+<L 1885:29> <C 29_BOUDEWIJN> Boudek<A >ino</A> <q> f <C 29_GERARD> gher<A >ardi</A> <q> de <C 1_HOUT> houte <C 700_TE> te <C 251_GADEREN> gaderne <q> .. <q> v <q> 't3s <q> x <q> d 
+<L 1885:30> <C 20_PETRUS> piet<A >er</A> <C 0_SMID> smit <q> de <C 309_8> .viii. <C 10_VOEDER> voeder <C 2_HOUT> houts <C 700_TE> te <C 251_GADEREN> gaderne <q> de <C 0_VOEDER> voeder <q> x <q> .. <q> d <q> summa <q> vi 
+<L 1885:31> <q> 't3s <q> viii <q> d 
+<L 1885:32> <q> De <C 11_HEI> heye <C 800_EN> & <C 11_WINDAS> windase <C 500_WESTWAART> west+w<A >ar</A>t <C 700_TE> te <C 251_VOEREN> voerne <q> .. <q> v <q> s 
+<L 1885:34> <q> .. <q> Jtem <C 701_TOT> tote <C 20_WILSIN> wilsin <C 309_4> .iiij. <C 14_PLANK> planken <C 475+700_DE+TE> t<A >er</A> <C 1_BRUG> brucghe <C 700_TE> te <C 21_JABBEKE> jabbeke <C 0_STUK> stic <q> .iii't! <q> 't3s <q> .. 
+<L 1885:35> <q> summa <q> xiiij <q> s 
+<L 1885:36> <q> Jtem <q> de <C 1_VOEREN> voerne <q> .xii <q> d 
+<L 1885:37> <q> Jtem <C 701_TOT> tote <C 20_JACOB> jacob <C 20_HEERMAAR-X> h<A >er</A>emar <C 489_EEN> .i. <C 0_HOUTJE> houtkin <q> pro <q> xviii <q> d 
+<L 1885:38> <q> Jtem <q> de <C 0_SLUIS> sluis <C 700_TE> te <C 251_RUIMEN> rumene <q> feria <q> quinta <q> post <q> .. <q> mathie <q> xxxvii't! <q> s 
+<L 1885:39> <q> De <C 11_HEI> heye <C 800_EN> & <C 11_WINDAS> windase <C 800_EN> & <C 110_ANDER> ander <C 11_HOUT> houte <C 700_TE> te <C 251_HALEN> haelne <C 700_VAN> van <C 100_SINT> sent <C 22_THOMAS> domaes <C 1_KRUIS> cruce <C 700+475_TE+DE> t<A >er</A> 
+<L 1885:40> <C 0_SLUIS> sluis <q> xiiij <q> s 
+<L 1885:41> <q> Jtem <q> pro <C 14_TEGEL> teglen <C 474_DE/HET> Den <C 0_VOET> voet <C 700_VAN> van <C 474_DE/HET> den <C 0_HUIS> huis <C 651_MEDE> mede <C 700_TE> te <C 251_MAKEN> makene <q> .. <q> xx <q> d 
+<L 1885:42> <q> Jtem <q> pro <C 0_SLUIS> sluis <C 700_TE> te <C 251_VERSLAAN> v<A >er</A>slane <q> feria <q> sexta <q> ante <q> ramos <q> .. <q> palmarum <q> xxx <q> s 
+<L 1885:43> <q> Jtem <q> pro <q> expensis <q> factis <C 700_TE> te <C 20_PETRUS> piet<A >er</A> <C 2_SMID> smets <C 810_ALS> als <C 440_MEN> me <C 474_DE/HET> den <C 104_GROOT> groten <C 0_WATERGANG> wat<A >er</A>ganc 
+<L 1885:44> <C 221_SCHOUWEN> scouwede <q> .xxxvi <q> s 
+<L 1886:1> <q> .. <q> .. <q> summa <q> c <q> xviij <q> lb <q> ii <q> 't3s <q> vii't! <q> d 
+<L 1886:3> <q> contra <C 20_JOHANNES> jan <q> de <C 20_DORDRECHT> durdrecht <C 309_33> xxxiij <C 14_BALK> balken <C 0_WESELHOUT> weselhout <C 0_STUK> stic <q> xxiiij <q> .. <q> 't3s <q> summa 
+<L 1886:4> <q> xxxix <q> lb <q> xii <q> s 
+<L 1886:5> <q> Jtem <C 309_4> .iiij. <C 14_40-VOET-BALK> xl+voete+balken <C 0_STUK> stic <q> xxx <q> .. <q> 't3s <q> summa <q> vi <q> lb <C 700_TE> te <C 12_ANKER> ank<A >er</A>s <C 800_EN> & <C 700_TE> te <C 14_PIJL> pilen <VN type=1> 
+<L 1886:6> <q> Jtem <C 309_5> .v. <C 111_VUREN> voerine <C 14_PLANK> planken <C 700_TE> te <C 1_GANG> ganghe <C 0_STUK> stic <q> x <q> .. <q> 't3s <q> summa <q> l <q> s 
+<L 1886:7> <q> Jtem <C 309_2> .ii. <C 10_40-VOET-SPAR> xl+voete+spar <C 0_STUK> stic <q> viii <q> .. <q> 't3s <q> summa <q> xvi <q> s 
+<L 1886:8> <q> De <q> predictis <q> lignis <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> .. <q> viii't! <q> s 
+<L 1886:9> <q> De <C 1_VOEREN> voerne <q> de <q> lb <q> xii <q> .. <q> d <q> summa <q> xlviii <q> s 
+<L 1886:10> <q> De <C 251#_OP-> vp <C 700_TE> te <C 251*_-VOEREN> voerne <C 700+475_TE+DE> t<A >er</A> <C 0_SLUIS> sluis <q> de <C 309_37> xxxvii <C 10_STUK> stic <q> pro <C 0_STUK> stic <q> v <q> .. <q> d <q> summa <q> xv <q> 't3s <q> v <q> d 
+<L 1886:11> <q> .. <q> Jtem <q> contra <C 20_JOHANNES> jan <q> de <C 20_DORDRECHT> durdrecht <C 309_7> .vii. <C 111_WESELS> weselsce <C 14_BALK> balken <q> de <C 300+10_VEERTIG+VOET> xl+voeten <C 0_STUK> stic 
+<L 1886:12> <q> xxviij <q> .. <q> 't3s <q> summa <q> ix <q> lb <q> xvi <q> s 
+<L 1886:13> <q> Jtem <q> contra <q> eundem <C 309_30> .xxx. <C 14_BALK> balken <C 0_WESELHOUT> weselhout <C 0_STUK> stic <q> xxvi <q> 't3s <q> viij <q> .. <q> d <q> summa 
+<L 1886:14> <q> xl <q> lb 
+<L 1886:15> <q> Jtem <C 309_12> xii <C 14_BALK> balken <C 0_STUK> stic <q> xv <q> .. <q> 't3s <q> summa <q> ix <q> lb 
+<L 1886:16> <q> De <q> predictis <q> lignis <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> .. <q> xvii't! <q> s 
+<L 1886:17> <q> De <C 1_VOEREN> voerne <q> de <q> lb <q> xviii <q> .. <q> d <q> summa <q> .iiii't! <q> lb 
+<L 1886:18> <q> De <C 251#_OP-> vp <C 700_TE> te <C 251*_-VOEREN> voerne <C 475+700_DE+TE> t<A >er</A> <C 0_SLUIS> sluis <q> de <C 0_STUK> stic <q> xv <q> .. <q> d <q> summa <q> iij <q> lb <q> xv <q> d 
+<L 1886:19> <q> .. <q> Jtem <q> contra <C 20_JOHANNES> jan <q> de <C 20_DORDRECHT> durdrecht <C 309_32> .xxxii <C 14_BALK> balken <C 0_STUK> stic <q> xx <q> .. <q> 't3s <q> summa <q> xxxij 
+<L 1886:20> <q> lb 
+<L 1886:21> <q> Jtem <C 309_20> xx <C 14_PLANK> planken <C 0_STUK> stic <q> .ii <q> .. <q> 't3s <q> summa <q> xl <q> s 
+<L 1886:22> <q> Jtem <C 309_6> .vi. <C 10_VIJFTIGVOETSPAR> L+voete+spar <C 0_STUK> stic <q> xiiij <q> .. <q> 't3s <q> summa <q> iiij <q> lb <q> iiij <q> s 
+<L 1886:23> <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> xii <q> s 
+<L 1886:24> <q> De <C 1_VOEREN> voerne <q> de <q> lb <q> xx <q> .. <q> d <q> de <q> xxxvij <q> .. <q> lb <q> summa <q> iij <q> lb <q> xx <q> d 
+<L 1886:25> <q> De <C 251#_OP-> vp <C 700_TE> te <C 251*_-DOEN> doene <C 0_STUK> stic <q> xii <q> .. <q> d <q> de <q> xxxii <C 12_STUK> stix <q> .. <q> summa <q> xxxij <q> s 
+<L 1886:26> <q> .. <q> Jtem <q> contra <C 20_GABRIËL> Gabriel <q> de <C 1_GROENENDIJK-X> groenendike <C 309_30> .xxx <C 14_WRANG> wranghen <C 0_STUK> stic <q> .ii <q> .. <q> 't3s <q> summa 
+<L 1886:27> <q> iij <q> lb 
+<L 1886:28> <q> Jtem <C 309_20> .xx. <C 14_WRANG> wranghen <C 0_STUK> stic <q> xii <q> .. <q> d <q> summa <q> xx <q> s <C 700_VOOR> vor <C 12_ANKER> ank<A >er</A>s <C 700_TE> te <C 251_LEGGEN> lecghene <VN type=1> 
+<L 1886:29> <q> De <C 1_VOEREN> voerne <q> .. <q> xiiij <q> s 
+<L 1886:30> <q> .. <q> Jtem <q> contra <C 20_WILSIN> wilsin <C 309_18> .xviii. <C 11_SLUISPOST> sluisposte <C 0_STUK> stic <q> .iii <q> .. <q> 't3s <q> summa <q> liiij <q> s 
+<L 1886:31> <q> Jtem <C 309_29> xxix <C 10_VUREN> voerin <C 0_SPAR> spar <C 0_STUK> stic <q> xvi <q> .. <q> d <q> summa <q> xxxviii <q> 't3s <q> viii <q> d 
+<L 1886:32> <q> Jtem <C 309_22> .xxii. <C 11_MIDDELHOUT> middelhoute <C 0_STUK> stic <q> ii <q> .. <q> 't3s <q> summa <q> xliiij <q> s 
+<L 1886:33> <q> Jtem <C 309_TIEN> x <C 10_STIJL> stijl <C 0_STUK> stic <q> ix <q> .. <q> 't3s <q> summa <q> iiii't! <q> lb 
+<L 1886:34> <q> Jtem <C 309_28> xxviii <C 14_BALK> balken <C 700_TE> te <C 14_PIJL> pilen <C 0_STUK> stic <q> xiiij <q> .. <q> 't3s <q> summa <q> xix <q> lb <q> xii <q> s 
+<L 1886:35> <q> Jtem <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <C 320_AL> al <C 410_DIT> dit <C 0_HOUT> hout <q> .. 
+<L 1886:36> <q> Jtem <C 700_TE> te <C 251_VOEREN> voerne <q> .xxxii <q> s 
+<L 1886:37> <q> Jtem <C 251#_OP-> vp <C 700_TE> te <C 251*_-DOEN> doene <q> .ix <q> 't3s <q> iiij <q> d 
+<L 1886:38> <q> .. <q> Jtem <q> contra <C 20_WILSIN> wilsin <C 309_89> .ix'hc <C 11_BORD> barde <q> centum <q> pro <q> iij <q> .. <q> lb <q> summa <q> xxvij <q> lb 
+<L 1886:39> <q> Jtem <q> de <C 1_VOEREN> voerne <q> .. <q> xxvij <q> s 
+<L 1886:40> <q> Jtem <C 701_TOT> tote <C 20_DIEDERIK> th<A >iederi</A>c <C 1_BRABANDER> brabandere <C 309_12> .xii <C 111_ELZEN> elsine <C 11_HOUT> houte <C 0_STUK> stic <q> xii <q> .. <q> d <q> summa <q> xii 
+<L 1886:41> <q> s 
+<L 1886:42> <q> .. <q> Jtem <C 701_TOT> tote <C 20_WOUTER> w<A >outer</A> <C 1_KUIPER> cup<A >er</A>e <C 309_2500> .xxv'hc <C 14_DUIG> dughen <q> centum <q> xiiij <q> .. <q> 't3s <q> summa <q> xvii't! 
+<L 1886:43> <q> lb 
+<L 1886:44> <q> Jtem <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> .. <q> v <q> s 
+<L 1887:1> <q> Jtem <C 700_TE> te <C 251_VOEREN> voerne <q> centum <q> xii <q> .. <q> d <q> summa <q> xxv <q> s 
+<L 1887:2> <q> .. <q> Jtem <C 701_TOT> tote <C 20_REINGEER> Reing<A >er</A> <C 1_KUIPER> cup<A >er</A>e <C 309_89> .ix'hc. <C 14_DUIG> dughen <q> centum <q> xiiij <q> .. <q> 't3s <q> summa <q> vi <q> lb 
+<L 1887:3> <q> vi <q> s 
+<L 1887:4> <C 700_TE> te <C 1_WATER> watre <C 700_TE> te <C 251_DOEN> doene <q> .iii. <q> s 
+<L 1887:5> <C 700_TE> te <C 251_VOEREN> voerne <q> .ix <q> s 
+<L 1887:6> <q> .. <q> Jtem <C 20_WILHELM> willem <C 104_VROED> vroeden <q> de <C 309_2> .ii. <C 114_GROOT> groten <C 14_REEP> repen <C 800_EN> & <q> de <C 114_ANDER> andren <C 14_REEP> repen <q> .viii <q> lb 
+<L 1887:7> <q> vij <q> s 
+<L 1887:8> <q> Jtem <C 701_TOT> tote <C 20_JOHANNES> hannin <C 20_WOUTER> wout<A >er</A>man <q> centum <C 14_DUIG> dughen <q> pro <q> .xiiii't! <q> s 
+<L 1887:10> <q> .. <q> summa <q> .cc <q> lxv <q> lb <q> iiij <q> 't3s <q> x <q> d 
+<L 1887:12> <q> .. <q> Carpentarii <q> ad <C 14_STADBOOM> statbomen 
+<L 1887:13> <C 20_ARNOUT> arnoud <q> f <C 22_ARNOUT> noids <q> .. <q> lxxv <q> dies <q> pro <q> die <q> ii <q> .. <q> 't3s <q> summa <q> vii't! <q> lb 
+<L 1887:14> <C 20_WOUTER> wout<A >er</A> <q> f <C 22_ARNOUT> noids <q> .. <q> lxiiij <q> dies <q> pro <q> die <q> ii <q> .. <q> 't3s <q> summa <q> vi <q> lb <q> viii <q> s 
+<L 1887:15> <C 20_JOHANNES> ha<A >n</A>nin <q> .. <q> de <q> lxvi <q> dies <q> pro <q> die <q> xx <q> .. <q> 't3d <q> summa <q> v <q> lb <q> x <q> s 
+<L 1887:16> <C 21_UITKERKE> vtk<A >er</A>ke 
+<L 1887:17> <C 20_PETRUS> piet<A >er</A> <q> de <C 21_UITKERKE> vtk<A >er</A>ke <q> .. <q> lxii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> v <q> lb <q> iii <q> 't3s <q> iiij <q> d 
+<L 1887:18> <C 20_AEGIDIUS> gillis <q> de <C 4_STEGEL> steglen <q> .. <q> l <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> iii <q> 't3s <q> iiij <q> d 
+<L 1887:19> <C 20_WILHELM> willin <C 1_WAGENMAKER> waghen+mak<A >er</A>e <q> .. <q> lv <q> dies <q> pro <q> die <q> xx <q> .. <q> 't3d <q> summa <q> iiij <q> lb <q> xi <q> s <q> viij <q> d 
+<L 1887:21> <C 21_JOHANNES> hanne <C 20_HUBIJN-X> hubin <q> .. <q> lxii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> v <q> lb <q> iii <q> 't3s <q> iiij <q> d 
+<L 1887:22> <C 29_WOUTER> w'he <C 20_PARIDAAN> p<A >ar</A>idaen <q> .. <q> xxxii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> liij <q> 't3s <q> iiij <q> d 
+<L 1887:23> <C 20_WILHELM> willek<A >in</A> <C 20_PARIDAAN> p<A >ar</A>idaen <q> .. <q> xlvii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iij <q> lb <q> xviii <q> 't3s <q> iiij 
+<L 1887:24> <q> d 
+<L 1887:25> <C 20_LAMBERT> lammin <q> f <C 24_GEILE> gheilen <q> .. <q> xl <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iij <q> lb <q> vi <q> 't3s <q> viij <q> d 
+<L 1887:26> <C 20_BRUNO> bruneman <q> .. <q> lxviii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> v <q> lb <q> xiii <q> 't3s <q> iiij <q> d 
+<L 1887:27> <C 20_JOHANNES> hannek<A >in</A> <q> f <q> .. <q> lxii <q> dies <q> pro <q> die <q> xx <q> .. <q> 't3d <q> summa <q> v <q> lb <q> iii <q> s <q> iiij <q> d 
+<L 1887:28> <C 22_RIJKWARD> riq<A >ua</A>rds 
+<L 1887:29> <C 20_LAMBERT> lammin <C 21_ROBAILLE-X> robaille <q> .. <q> liij <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> viii <q> 't3s <q> iiij <q> d 
+<L 1887:30> <C 20_WILHELM> willem <q> f <C 22_WILHELM> willekins <q> .. <q> li <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> v <q> s 
+<L 1887:31> <C 20_JOHANNES> hannek<A >in</A> <q> f <q> .. <q> lxvii <q> dies <q> pro <q> die <q> xx <q> .. <q> 't3d <q> summa <q> v <q> lb <q> xi <q> s <q> viij <q> d 
+<L 1887:32> <C 22_LAMBERT> lamb<A >er</A>ts 
+<L 1887:33> <C 20_JACOB> jacob <C 20_HEERMAAR-X> heremar <q> .. <q> liii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> viii <q> 't3s <q> iiij <q> d 
+<L 1887:34> <C 20_NICOLAAS> clais <C 20_HEERMAAR-X> h<A >er</A>emaer <q> .. <q> xlviii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb 
+<L 1887:35> <C 20_MICHAEL> michiel <C 20_HEERMAAR-X> h<A >er</A>emaer <q> .. <q> xlvi <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iij <q> lb <q> xvi <q> 't3s <q> viij <q> d 
+<L 1887:36> <C 21_WOUTER> weite <C 20_HAZELIJN> haselin <q> .. <q> lvi <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> xiii <q> 't3s <q> iiij <q> d 
+<L 1887:37> <C 20_JOHANNES> hannin <q> de <C 21_AARSELE> arsele <q> .. <q> xxxii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> liii <q> 't3s <q> iiij <q> d 
+<L 1887:38> <C 20_RIJK> rixin <C 20_LIEVEN> liefin <q> .. <q> lvii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iiij <q> lb <q> xv <q> s 
+<L 1887:39> <C 20_LAURENTIUS> lourin <C 20_SCHADELIJN-X> scadelin <q> .. <q> xliii <q> dies <q> pro <q> die <q> xx <q> .. <q> d <q> summa <q> iij <q> lb <q> xi <q> 't3s <q> viij <q> d 
+<L 1887:40> <C 20_PETRUS> piet<A >er</A> <q> de <q> .. <q> l <q> dies <q> pro <q> die <q> xx <q> .. <q> 't3d <q> summa <q> iiij <q> lb <q> iii <q> s <q> iiij <q> d 
+<L 1887:41> <C 21_MOERKERKE> mourk<A >er</A>ke 
+<L 1887:42> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <q> f <q> .. <q> lxiiij <q> dies <q> pro <q> die <q> xvi <q> .. <q> 't3d <q> summa <q> iiij <q> lb <q> v <q> s <q> iiij <q> d 
+<L 1887:43> <C 24_IME> imsoeten 
+<L 1887:44> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <q> f <q> .. <q> lxvii <q> dies <q> pro <q> die <q> xvi <q> .. <q> 't3d <q> summa <q> iiij <q> lb <q> ix <q> s <q> iiij 
+<L 1887:45> <C 22_JOHANNES> ha<A >n</A>nekins <q> d 
+<L 1888:1> <q> .. <q> Operarij <q> de <q> festo <q> beati <q> thome <q> vsque <C 101_VERZWOREN> v<A >er</A>suorne <C 0_MAANDAG> maendach <C 309_386> .ccc+lxxxvi 
+<L 1888:2> <C 10_MAN> man <C 0_DAGWERK> dachw<A >er</A>c <q> pro <q> die <q> .vii't! <q> .. <q> d <q> summa <q> xv <q> lb <q> iii <q> 't3s <q> ix <q> d 
+<L 1888:3> <q> .. <q> Jtem <q> Operarij <q> de <C 101_VERZWOREN> v<A >er</A>suorne <C 0_MAANDAG> maendach <q> vsque <q> festum <q> beati <q> pauli <C 309_177> .c+lxxvii. 
+<L 1888:4> <C 10_MAN> man <C 0_DAGWERK> dachw<A >er</A>c <q> pro <q> die <q> .vii't! <q> .. <q> d <q> summa <q> v <q> lb <q> xi <q> s 
+<L 1888:5> <q> .. <q> Jtem <q> Operarij <q> de <q> festo <q> pauli <q> usque <q> diem <q> cinerum. <q> de <C 309_20> xx <C 10_MAN> man 
+<L 1888:6> <C 0_DAGWERK> dachw<A >er</A>c <q> pro <q> die <q> .vii't! <q> d <q> summa <q> xix <q> lb <q> vii <q> s 
+<L 1888:7> <q> .. <q> Jtem <q> Operarij <q> de <q> die <q> cinerum <q> vsque <q> Reminiscere <C 309_460> .cccc+lx <C 10_MAN> man 
+<L 1888:8> <C 0_DAGWERK> dachwerc <q> pro <q> die <q> vii't! <q> d <q> summa <q> xiiij <q> lb <q> vii <q> s 
+<L 1888:9> <q> .. <q> Jtem <q> operarij <q> de <q> reminiscere <q> vsque <q> . <q> letare <C 309_420> cccc+xx <C 10_MAN> man <C 0_DAGWERK> dachwerc 
+<L 1888:10> <q> pro <q> die <q> .vii't! <q> d <q> summa <q> xiii <q> lb <q> ii <q> s 
+<L 1888:11> <q> .. <q> Jtem <q> Operarij <q> de <q> letare <q> vsque <q> pascha <C 309_412> .cccc+xii <C 10_MAN> man <C 0_DAGWERK> dachwerc <q> pro <q> die 
+<L 1888:12> <q> vii't! <q> d <q> summa <q> xii <q> lb <q> xvii <q> s 
+<L 1888:13> <q> .. <q> Jtem <C 474_DE/HET> den <C 14_BODDRAGER> butdraghers <C 700_VOOR> vor <C 20_BOUDEWIJN> boudek<A >in</A> <C 2_ABT> abbes <C 810+470_EER+HET> eert <C 0_WERK> werc <C 273_BESTEDEN> besteet <C 230_ZIJN> was <C 309_430> .cccc+xxx. 
+<L 1888:14> <C 10_MAN> man <C 0_DAGWERK> dachwerc <q> pro <q> die <q> viii <q> .. <q> d <q> summa <q> xiiij <q> lb <q> vi <q> 't3s <q> viij <q> d 
+<L 1888:15> <q> .. <C 29_JOHANNES> Joh<A >ann</A>i <C 1_FACHELAAR-X> facelare <q> de <C 251_BEDRIJVEN> bedriuene <C 12_DIJKER> dik<A >er</A>s <q> & <q> .. <q> operarios <q> lxii <q> dies <q> pro <q> die 
+<L 1888:16> <q> .xii <q> .. <q> d <q> summa <q> iij <q> lb <q> ii <q> s 
+<L 1888:17> <C 20_BOUDEWIJN> ..Bouden <C 0_MUIL> muil <q> de <C 251_BEDRIJVEN> bedriuene <q> de <q> .x. <q> diebus <q> pro <q> die <q> xviii <q> .. <q> d <q> summa <q> xv 
+<L 1888:18> <q> s 
+<L 1888:19> <q> .. <q> Jtem <C 474_DE/HET> den <C 12_ZAGER> sagh<A >er</A>s <q> xvii <q> dies <q> pro <q> die <q> .ii't! <q> .. <q> 't3s <q> summa <q> xlii <q> s 
+<L 1888:20> <q> .. <q> Jtem <q> eisdem <q> .xiiij <q> dies <q> pro <q> die <q> iij <q> .. <q> 't3s <q> summa <q> xlii <q> s 
+<L 1888:21> <q> .. <q> Jtem <C 20_ARNOUT> arn<A >oud</A> <q> f <C 22_ARNOUT> noids <C 274_GEVEN> jgheuen <C 700_IN> in <C 4_DEUGD> doegheden <q> .xl <q> s 
+<L 1888:22> <q> .. <q> Jtem <C 20_PETRUS> piet<A >er</A> <C 0_SMID> smit <q> de <q> ferro <q> .xciiij'hc <q> xxxvii <q> lb <q> ferri <q> centum <q> xxv <q> .. <q> 't3s <q> summa 
+<L 1888:23> <q> .c <q> xvij <q> lb <q> xix <q> 't3s <q> iij <q> d 
+<L 1888:25> <q> .. <q> Summa <q> .ccc <q> xxxvij <q> lb <q> iii <q> 't3s <q> ii <q> d 
+<L 1888:27> <q> .. <C 20_BOUDEWIJN> Boud<A >en</A> <C 0_MUIL> muil <C 800_EN> & <C 20_RIJKWARD> riq<A >ua</A>rd <C 0_MIRAAL-X> mirael <C 700_VAN> van <C 474_DE/HET> den <C 309_2> .ij. <C 314_EERST> eersten <C 14_GAT> gaten <C 475+700_DE+BEWESTEN> bewest<A >er</A> 
+<L 1888:28> <C 0_SLUIS> sluis <C 100_LANG> lanc <C 309_43,5> .xliii't! <C 14_ROEDE> r<A >oeden</A> <q> pro <C 1_ROEDE> r<A >oede</A> <q> xxxii <q> .. <q> 't3s <q> summa <q> lxix <q> lb <q> xii <q> s 
+<L 1888:29> <q> .. <q> Jtem <C 471_DE> Die <C 0_DIJK> dijc <C 700_VOOR> vor <C 20_BOUDEWIJN> boudek<A >in</A> <C 2_ABT> abbes <C 100_LANG> lanc <C 309_53> liii <C 14_ROEDE> r<A >oeden</A> <q> pro <C 1_ROEDE> r<A >oede</A> <q> xxx 
+<L 1888:30> <q> summa <q> ..lxxix't! <q> lb 
+<L 1888:31> <q> .. <q> Jtem <C 500_WESTWAART> westwart <C 610_DAARAAN> daer+an <C 271_LIGGEN> licghende <C 100_LANG> lanc <C 309_15> xv <C 14_ROEDE> r<A >oeden</A> <q> pro <C 1_ROEDE> r<A >oede</A> <q> x <q> 't3s <q> .. 
+<L 1888:32> <q> summa <q> vii't! <q> lb <C 471_DE> die <C 11_GAT> gate <C 614_DAARBINNEN> d<A >er</A>+binnen 
+<L 1888:33> <q> .. <q> Jtem <q> supra <C 0_SLUIS> sluis <C 700_VAN> van <C 474_DE/HET> den <C 104_OOSTER> oest<A >er</A>sten <C 1_KANT> cante <C 500_WESTWAART> westw<A >ar</A>t <C 100_LANG> lanc <C 309_55> .lv. <C 14_ROEDE> r<A >oeden</A> 
+<L 1888:34> <q> pro <C 1_ROEDE> r<A >oede</A> <q> vij <q> .. <q> 't3s <q> summa <q> xix <q> lb <q> v <q> s 
+<L 1888:35> <q> .. <q> Jtem <C 810_DAT> dat <C 406_ZIJ> sie <C 471_DE> die <C 11_GAT> gate <C 224_MAKEN> makeden <C 700_OP> vp <C 471_DE> die <C 0_SLUIS> sluis <C 614_DAARBINNEN> der+binnen <q> .. <q> xl <q> s 
+<L 1888:36> <q> .. <q> Jtem <C 700_VAN> van <C 474_DE/HET> den <C 309_2> .ij. <C 114_WEST> westersten <C 14_GAT> gaten <C 100_LANG> lanc <C 309_23> xxiii <C 14_ROEDE> r<A >oeden</A> <q> pro <C 1_ROEDE> r<A >oede</A> <q> xx <q> 't3s <q> .. 
+<L 1888:37> <q> summa <q> xxiij <q> lb 
+<L 1888:38> <q> .. <q> Jtem <C 700_VAN> van <C 474_DE/HET> den <C 114_WEST> westersten <C 11_GAT> gate <C 701_TOT> tote <C 100_SINT> sent <C 22_THOMAS> domaes <C 1_KAPEL> capelle <C 100_LANG> lanc <C 309_41> xli <C 14_ROEDE> r<A >oeden</A> 
+<L 1888:39> <C 800_EN> & <C 309_EEN> i <C 0_DERDEDEEL> dardendeel <q> pro <C 1_ROEDE> r<A >oede</A> <q> iii <q> .. <q> 't3s <q> summa <q> vi <q> lb <q> iiij <q> s 
+<L 1888:40> <q> .. <q> Jtem <C 700_VAN> van <C 100_SINT> sent <C 22_THOMAS> domaes <C 1_KAPEL> capelle <C 700+474_TOT+DE> toten <C 1_WESTEIND> westende <C 100_LANG> lanc <C 309_65> lxv <C 14_ROEDE> r<A >oeden</A> <q> pro 
+<L 1888:41> <C 1_ROEDE> r<A >oede</A> <q> x <q> .. <q> 't3s <q> summa <q> xxxii't! <q> lb 
+<L 1888:42> <q> .. <q> Jtem <C 273_BATEN> jbaet <C 20_BOUDEWIJN> boud<A >en</A> <C 0_MUIL> muil <C 700_VAN> van <C 474_DE/HET> den <C 1_WERK> werke <C 700_VOOR> vor <C 20_BOUDEWIJN> boudek<A >in</A> <C 2_ABT> abbes <C 420_DAT> dat <C 403+403_HIJ+HET> hiet 
+<L 1888:43> <C 221_BREIDEN> brede <C 701_BOVEN> boue <C 4_VOORWAARDE> vorew<A >ar</A>den <q> iij <q> lb 
+<L 1888:44> <q> .. <q> Jtem <C 20_WILHELM> willem <C 474_DE/HET> den <C 1_PAAP> pape <q> de <q> mensuratione <q> ..xxxi't! <q> d 
+<L 1888:45> <q> Jtem <q> die <q> cinerum <q> pro <q> expensis <q> factis <C 700_OM> om <C 470+0_HET+WERK> tw<A >er</A>c <C 700_TE> te <C 251_BESTEDEN> bestedene <C 700_VOOR> vor 
+<L 1888:46> <C 20_BOUDEWIJN> boudek<A >in</A> <C 2_ABT> abbes <q> .. <q> xliij <q> s 
+<L 1889:1> <q> Jtem <q> pro <q> expensis <q> factis <C 810_ALS> als <C 440_MEN> me <C 474_DE/HET> den <C 104_LAATST> laedsten <C 0_DIJK> dijc <C 221_BESTEDEN> bestede <q> feria 
+<L 1889:2> <q> secunda <q> post <q> .. <q> letare <q> xl <q> s 
+<L 1889:4> <q> Summa <q> .cc <q> xlvi <q> lb <q> xvi <q> 't3s <q> vii't! <q> d 
+<L 1889:6> <q> .. <C 410_DIT> Dit <C 210_ZIJN> es <C 700_TE> te <C 1_KOST> coste <C 274_DOEN> ghedaen <C 700_OM> om <C 471_DE> die <C 11_BRIEF> brieue 
+<L 1889:7> <C 20_BOUDEWIJN> Boud<A >en</A> <C 101_RIJKELIJK> rikelike <C 309_8> .viij <C 19_LIBRA> lb <C 421_DIE> die <C 403_HIJ> hem <C 471_DE> die <C 0_MEENTOCHT> meentucht <C 220_GEVEN> gaf 
+<L 1889:8> <q> De <q> nouo <q> libro <q> faciendo <q> .xxx <q> s 
+<L 1889:9> <q> pro <q> expensis <q> factis <C 700_TE> te <C 101_SINT> sente <C 22_JOHANNES> ians <C 0_HUIS> huis <q> feria <q> secunda <q> & <q> quarta <q> post <q> luce 
+<L 1889:10> <C 700_OM> om <C 20_WOUTER> w<A >outer</A> <C 21_RIJKBOUD/RIJKBODE> ribode <C 0_EIS> heesch <C 700_TE> te <C 251_GEVEN> gheuene <q> iiij <q> lb 
+<L 1889:11> <q> pro <q> expensis <q> factis <q> in <q> Ebdomade <q> ante <q> omnium <q> sanctorum <C 700_OM> om <C 474_DE/HET> den 
+<L 1889:12> <C 104_OUD> ouden <C 0_BRIEF> brief <C 700_TE> te <C 251_WERPEN> w<A >er</A>pene <q> .iiij <q> lb <q> ii <q> s 
+<L 1889:13> <q> Jtem <q> pro <q> expensis <q> factis <C 810_ALS> als <C 20_WOUTER> wout<A >er</A> <C 21_RIJKBOUD/RIJKBODE> ribode <C 250_ANTWOORDEN> anduorden <C 231_ZULLEN> soude <C 700_OP> vp <C 474_DE/HET> den 
+<L 1889:14> <C 0_BOEK> boech <q> .. <q> xxxv <q> s 
+<L 1889:15> <q> Jtem <q> pro <q> expensis <q> factis <C 810_ALS> als <C 20_WOUTER> wout<A >er</A> <C 22_RIJKBOUD/RIJKBODE> riboets <C 1_VONNIS> vonnesse <C 273_WIJZEN> iwijst <C 230_ZIJN> was <q> .. <q> iij <q> lb 
+<L 1889:16> <q> xv <q> s 
+<L 1889:17> <q> Jtem <q> pro <q> frocheno <q> .xii <q> s 
+<L 1889:19> <q> summa <q> xxiii <q> lb <q> xiiij <q> s 
+<L 1889:21> <q> .. <C 410_DIT> Dit <C 210_ZIJN> es <C 274_DOEN> ghedaen <C 700_TE> te <C 1_KOST> coste <C 700_OM> om <C 0_GELD> ghelt <C 700_TE> te <C 251_BEJAGEN> beiaghene 
+<L 1889:22> <C 309_24> xxiiij <C 19_LIBRA> lb <C 421_DIE> die <C 20_JOHANNES> jan <C 0_PAK-X> pac <C 221_ONTREKENEN> ontrekende 
+<L 1889:23> <q> Jtem <q> .viij <q> lb <q> de <C 1_KOST> coste <C 610_DANEN-AF> danof <q> & <q> de <C 104_ANDER> andren <C 1_GELD> ghelde <C 420_DAT> dat <C 403_HIJ> hie <C 560_NIET> niet <C 250_NEMEN> nem<A >en</A> 
+<L 1889:24> <C 231_WILLEN> wilde <C 810_EER> eer <C 273_INNEN> ient <C 230_ZIJN> was 
+<L 1889:25> <q> .. <q> Jtem <C 20_GERARD> gher<A >ard</A> <C 1_BAARD> baerde <q> .. <C 309_20> xx <C 19_LIBRA> lb <C 309_5> v <C 19_SOLIDUS> 't3s <q> de <C 1_VERLIES> v<A >er</A>liese <q> de <q> .vi'hx'hx <q> lb <C 273_BEJAGEN> beiaghet <C 701_TOT> tote 
+<L 1889:26> <C 21_MEI> meye 
+<L 1889:27> <q> Jtem <q> de <C 1_CHARTER> chartre <q> .. <q> xi <q> s 
+<L 1889:28> <q> Jtem <q> de <C 1_MAKELAARDIJ> makelardie <q> .. <q> xvi <q> s 
+<L 1889:29> <q> .. <q> Jtem <C 20_SIMON> symon <C 20_VALLENJOUR-X> vallenjour <q> .xiii <q> lb <q> de <q> lucro <q> de <q> .c <q> lb <C 273_BEJAGEN> beiag<A >e</A>t <C 700+474_TE+DE/HET> ten <C 104_HALF> haluen 
+<L 1889:30> <C 1_JAAR> iare <C 274_NEMEN> jnome<A >n</A> <C 0_VEERTIENNACHT> xiiij+nacht <C 700_NA> na <C 20_MIDWINTER> medewint<A >er</A> 
+<L 1889:31> <q> Jtem <q> de <C 1_CHARTER> chartre <q> .. <q> xi <q> s 
+<L 1889:32> <q> Jtem <q> de <C 1_MAKELAARDIJ> makelardie <q> .. <q> xvi <q> s 
+<L 1889:33> <q> .. <q> Jtem <C 20_WOUTER> wout<A >er</A> <C 0_HOOFD> houet <q> .. <q> xxiiij <q> lb <q> de <q> lucro <q> de <q> .cc <q> lb <C 273_BEJAGEN> beiag<A >e</A>t <C 474+700_DE/HET+TE> ten <C 104_HALF> haluen 
+<L 1889:34> <C 1_JAAR> iare <C 274_NEMEN> jnome<A >n</A> <q> circa <q> purificationem 
+<L 1889:35> <q> Jtem <q> de <C 1_CHARTER> chartre <q> .. <q> xii <q> s 
+<L 1889:36> <q> Jtem <q> de <C 1_MAKELAARDIJ> makelardie <q> .. <q> xxxij <q> s 
+<L 1889:37> <q> .. <q> Jtem <C 20_WOUTER> wout<A >er</A> <C 0_HOOFD> houet <q> .. <q> xviii <q> lb <q> de <q> lucro <q> de <q> .c <q> l <q> lb <C 273_BEJAGEN> beiag<A >e</A>t <C 474+700_DE/HET+TE> ten <C 104_HALF> haluen 
+<L 1889:38> <C 1_JAAR> iare <C 274_NEMEN> jnom<A >en</A> <q> sabbato <q> post <q> inicium 
+<L 1889:39> <q> Jtem <q> de <C 1_CHARTER> chartre <q> .. <q> xi <q> s 
+<L 1889:40> <q> Jtem <q> de <C 1_MAKELAARDIJ> makelardie <q> .. <q> xxiiij <q> s 
+<L 1889:42> <q> Summa <q> .c <q> xiii <q> lb <q> xviii <q> s 
+<L 1889:44> <q> Summa <q> tocius <q> .xi'hc <q> iiij <q> lb <q> xix <q> 't3s <q> iij <q> d 
+<L 1889:46> <q> Sic <q> .. <q> remanet <q> dcc <q> xliij <q> lb <q> xvii <q> 't3s <q> vi't! <q> d 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

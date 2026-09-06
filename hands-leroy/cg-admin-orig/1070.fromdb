@@ -1,0 +1,47 @@
+<header>
+<docId>1070</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.I.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1662:30> <q> .. <C 404_WIJ> Wij <C 20_TIELE> thieleman <C 471_DE> die <C 1_FRIES> vriese, <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 20_PUTOK> putoch <C 14_SCHEPEN> scepene<A >n</A> <C 700+20_IN+DORDRECHT> jndordrecht 
+<L 1662:31> <C 204_OORKONDEN> orcunden <C 800_EN> en<A >de</A> <C 204_KENNEN> kenne<A >n</A> <C 810_DAT> Dat <C 404_WIJ> wij <C 274_ZIEN> gesien <C 214_HEBBEN> hebben <C 484_EEN> ene<A >n</A> <C 0_BRIEF> brief <C 100_GOED> goet <C 800_EN> en<A >de</A> 
+<L 1662:32> <C 101_GAAF> ghave <C 800_EN> en<A >de</A> <C 502_BINNENJAARS> binne<A >n</A>+jaers <C 271_SPREKEN> sprekende <C 700_VAN> van <C 1_WOORD> worde <C 700_TE> te <C 1_WOORD> worde <C 821_ALS> alse <C 610_HIERNA> hier+na 
+<L 1662:33> <C 203_VOLGEN> volghet, 
+<end-atlas_kenmerk  atlas_kenmerkkode='.I.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<statushand  statushandkode='an'>
+<C 404_WIJ> Wij <C 20_HENDRIK> heinric <C 471_DE> die <C 0_SNIJDER> snider, <C 800_EN> en<A >de</A> <C 20_GIJSBERT> ghisebrecht <C 0_VROUW> ver <C 24_WIJFGOED> wjifgoeden <C 1_ZOON> sone 
+<L 1662:34> <C 14_SCHEPEN> Scepene<A >n</A> <C 20+700_DORDRECHT+IN> indordrecht <C 204_OORKONDEN> orcunden <C 800_EN> en<A >de</A> <C 204_KENNEN> kenne<A >n</A> <C 810_DAT> Dat <C 0_HEER> haer <C 21_GIJS> ghise <C 421+440_DIE+MEN> diemen 
+<L 1662:35> <C 203_HETEN> heet <C 0_DUKING-X> dukinc <C 100_SCHULDIG> sculdich <C 210_ZIJN> is <C 4_HEER> haren <C 21_WILHELM> willame <C 454_ZIJN> sine<A >n</A> <C 0_BROEDER> broeder <C 421_DIE> die <C 0_HOUDER> houder <C 210_ZIJN> is <C 700_VAN> van 
+<L 1662:36> <C 414_DEZE> desen <C 1_BRIEF> brieue. <C 300_200> tve.+hondert. <C 10_POND> pont. <C 112_HOLLANDS> hollands <C 800+470+0_OF+HET+PAAIMENT> oft+tpayment <C 700_VAN> van <C 114_GROOT> groten 
+<L 1662:37> <C 114_TOURNOOIS> tornoysen, <C 304_EEN> ene<A >n</A> <C 104_GROOT> groten <C 104_TOURNOOIS> tornoysen <C 700_VOOR> voer <C 309_TIEN> .x. <C 11_PENNING> penni<A >n</A>ghe <C 112_HOLLANDS> hollands, <C 700_TE> the 
+<L 1662:38> <C 251_GELDEN> gheldene <C 700_TOT> tot <C 24_PASEN> paeschen <C 421_DIE> die <C 503_NAAST> naest <C 271_TOEKOMEN> thoe+comende <C 210_ZIJN> is <C 700_IN> Jn <C 1_OORKONDE> orcunde <C 414_DEZE> desen 
+<L 1662:39> <C 1_BRIEF> brieue <C 421_DIE> Die <C 274_GEVEN> gegheven <C 230_ZIJN> was <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 300_1288> .m'ho.cc'ho.+achte+en<A >de</A>+tachtich 
+<L 1662:40> <C 10_JAAR> jaer <C 472_DE/HET> des <C 2_DINSDAG> dinxcendaghes <C 700_VOOR> voer <C 101_SINT> sinte <C 22_GREGORIUS> gregorijs <C 1_DAG> daghe, 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.I.P.'>
+<C 800_EN> Ende <C 411_DEZE> dese <C 0_BRIEF> brief <C 230_ZIJN> was 
+<L 1662:41> <C 274_GEVEN> ghegheue<A >n</A> <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 300_1291> .m'ho.cc'ho.+een+ende+Neghentich, <C 472_DE/HET> des 
+<L 1662:42> <C 104_HEILIG> heilichen <VN type=1> <C 4_KRUIS> crucen <C 0_AVOND> avont <C 810+403_ALS+HET> alst <C 273_HOGEN> gehoghet <C 230_ZIJN> was 
+<end-atlas_kenmerk  atlas_kenmerkkode='.I.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.I.P.R.'>
+
+<L 1662:51> <C 104_HEILIG> heilechen 
+<end-atlas_kenmerk  atlas_kenmerkkode='.I.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

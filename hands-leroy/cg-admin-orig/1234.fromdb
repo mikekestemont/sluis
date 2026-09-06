@@ -1,0 +1,50 @@
+<header>
+<docId>1234</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='116' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1893:18> <q> apud <C 21_LINKEBEEK> linke<A >n</A>beke <q> de <q> .v't!. <q> bonariis <q> terre. <q> et <q> vnum <q> domistadium. <q> et <q> vnum 
+<L 1893:19> <q> bonarium <q> prati <q> apud <C 20_VORST> vorst. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1893:27> <C 410_DAT> Dat <C 210_ZIJN> si <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 801_OCHTE> ochte <C 250_HOREN> horen 
+<L 1893:28> <C 250_LEZEN> lesen, <C 810_DAT> dat <C 1_JONKVROUW> joncvrowe <C 26_ANE/ANNA> anskina <C 0+472_HEER+DE> ser <C 22_STEFANUS> stevens <C 0_DOCHTER> docht<A >er</A> <C 230_ZIJN> was <C 700_VAN> van <C 21_HELBEKE> helbeke <C 220_KOMEN> quam 
+<L 1893:29> <C 701_TOT> tote <C 701_VOOR> vore <C 450_MIJN> min <C 0_HEER> her <C 21_APOLLONIUS?> lonijse <C 700_VAN> van <C 20_AA> aa. <C 800_EN> en<A >de</A> <C 701_VOOR> vore <C 451_ZIJN> sine <C 11_MAN> manne <C 800_EN> en<A >de</A> <C 451_ZIJN> sine 
+<L 1893:30> <C 14_SCHEPEN> scepenen. <C 800_EN> ende <C 220_OPDRAGEN> droegh+op <C 700_IN> in <C 0+452_HEER+MIJN> mins+ser <C 22_APOLLONIUS?> lonijs <C 1_HAND> hande, <C 300_5> vif <C 11_BUNDER> bonre <C 2_LAND> lans <C 800_EN> en<A >de</A> 
+<L 1893:31> <C 480+300_EEN+HALF> en+half <C 1_BUNDER> bonre <C 1_HOFSTEDE> hofstade <C 500_LUTTEL> lettel <C 0_GOED> goet <C 325_MEER> meer <C 801_OCHTE> ochte <C 320_MIN> min <C 510_ALZO> alsoe <C 820+406_ALS+ZIJ> alse <C 274_LIGGEN> ghelegen 
+<L 1893:32> <C 214_ZIJN> sin <C 704_TUSSEN> tuschen <C 21_LINKEBEEK> linkenbeke <C 800_EN> en<A >de</A> <C 21_RODE> rode. <C 800_EN> en<A >de</A> <C 300_EEN> een <C 1_BUNDER> bonre <C 2_BEEMD> beemps. <C 500_LUTTEL> lettel <C 325_MEER> meer 
+<L 1893:33> <C 801_OCHTE> ochte <C 320_MIN> min <C 510_ALZO> alsoe <C 403+820_HET+ALS> alst <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 700_ACHTER> achter <C 22_JOHANNES> jans <C 2_KLERK> clercs <C 1_WONING> wonninghe <C 700_VAN> van 
+<L 1893:34> <C 20_ANDERLECHT> anderlecht, <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 0_GOED> goet <C 220+403_HOUDEN+ZIJ> hilse <C 700_TE> te <C 1_LEEN> leene <C 700_VAN> van <C 450_MIJN> min <C 1_HEER> here <C 700_VAN> van <C 20_AA> aa, <C 800_EN> en<A >de</A> <C 403_ZIJ> sie 
+<L 1893:35> <C 403+220_HET+WERPEN> warpt <C 800_EN> en<A >de</A> <C 220_VERTIEN> vertheegh <C 320_AL> al <C 412_DIE> dijs <C 0_RECHT> recht <C 420_DAT> dat <C 403_ZIJ> se <C 221_HEBBEN> hadde <C 700_IN> in <C 471_DE> die <C 300_5> vif <C 11_BUNDER> bonre <C 2_LAND> lans <C 800_EN> en<A >de</A> 
+<L 1893:36> <C 700+471_IN+DE> inde <C 0_HOFSTEDE> hofstat. <C 800_EN> en<A >de</A> <C 700_IN> in <C 470_HET> dat <C 1_BUNDER> bonre <C 2_BEEMD> bemps <C 700_BIJ> bi <C 4_MANING> mani<A >n</A>ghen <C 0+452_HEER+MIJN> mins+ser <C 22_APOLLONIUS?> lonijs <C 700_VAN> van 
+<L 1893:37> <C 20_AA> aa <C 800_EN> en<A >de</A> <C 0_WIJSDOM> wijsdoem <VN type=1> <C 455_ZIJN> sire <C 11_MAN> manne <C 700+472+2_TE+HET+GODSHUIS> sgoedhus <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_GASTHUIS> gasthuse 
+<L 1893:38> <C 700_IN> in <C 21_BRUSSEL> brussele. <C 800_EN> En<A >de</A> <C 811_ALS> alse <C 410_DIT> dit <C 273_GESCHIEDEN> ghescijt <C 230_ZIJN> was, <C 403_ZIJ> soe <C 220_OPDRAGEN> droegh+op <C 450_MIJN> min <C 0_HEER> her <C 20_APOLLONIUS?> lonijs <C 700_VAN> van 
+<L 1893:39> <C 20_AA> aa <C 421_DIE> die <C 501_HIERVOOR> hir <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 210_ZIJN> es <C 471_DE> die <C 300_5> vif <C 11_BUNDER> bonre <C 2_LAND> lans <C 700+475_MET+DE> mett<A >er</A> <C 0_HOFSTEDE> hofstat <C 800_EN> en<A >de</A> <C 470_HET> dat 
+<L 1893:40> <C 1_BUNDER> bonre <C 2_BEEMD> bemps <C 421_DIE> die <C 501_HIERVOOR> hir <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 214_ZIJN> sien <C 800_EN> en<A >de</A> <C 221_ERVEN> erfde <C 611_DAARIN> dar+inne <C 0_BROEDER> bruder 
+<L 1893:41> <C 24_WOUTER> woutren <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_GASTHUIS> gasthuse <C 700_IN> in <C 21_BRUSSEL> brussele, <C 540_IMMER> emmer <C 1_BUNDER> bonre, <C 700_OP> op <C 301_4> vire 
+<L 1893:42> <C 11_PENNING> penni<A >n</A>ghe <C 2_CIJNS> chens, <C 800_EN> En<A >de</A> <C 610_HIERTOE> hir+toe <C 550_ZO> soe <C 221_DOEN> dede <C 403_HIJ> hi <C 510_ALZO> al+soe <C 321_VEEL> vele <C 821_ALS> alse <C 403_HIJ> hi <C 100_SCHULDIG> sculdech 
+<L 1893:43> <C 230_ZIJN> was <C 700_TE> te <C 251_DOEN> doene <C 700_BIJ> bi <C 463_HEM> sins <C 412_ZELF> selfs <C 4_MANING> maninghen <C 800_EN> en<A >de</A> <C 1_VONNIS> wonnesse <C 455_ZIJN> sire <C 11_SCHEPEN> scepene. <C 410_DIT> Dit 
+<L 1893:44> <C 210_ZIJN> es <C 440_AL> al <C 273_GESCHIEDEN> ghesciet <C 701_VOOR> vore <C 452+0_MIJN+HEER> mins+ser <C 22_APOLLONIUS?> lonijs <C 11_MAN> manne <C 700_VAN> van <C 20_AA> aa <C 800_EN> en<A >de</A> <C 455_ZIJN> sire <C 14_SCHEPEN> scepenen <C 421_DIE> die 
+<L 1893:45> <C 610#_DAAR-> dar <C 100_SCHULDIG> sculdech <C 234_ZIJN> waren <C 610*_-OVER> over <C 700_TE> te <C 251_ZIJN> sine <q> - <C 800_EN> En<A >de</A> <C 810_OMDAT> ombe+dat <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> si <C 550_ZO> soe <C 214_HEBBEN> hebben 
+<L 1894:1> <C 0+452_HEER+MIJN> min+ser <C 22_APOLLONIUS?> lonijs <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 20_AA> aa <C 421_DIE> die <C 501_HIERVOOR> hir <C 501+273_HIERVOOR+NOEMEN> voreghenoemt <C 210_ZIJN> es <C 454_HAAR> haren 
+<L 1894:2> <C 104_GEMEEN> ghemeinen <C 0_ZEGEL> zegel <C 701_AAN> ane <C 411_DEZE> dese <C 4_LETTER> lettren <C 274_HANGEN> gehanghen. <C 410_DIT> Dit <C 210_ZIJN> es <C 273_GESCHIEDEN> ghesciet <C 700_IN> in <C 471_DE> de <C 1_JAAR> jare 
+<L 1894:3> <C 452_ONS> ons <C 4_HEER> heren <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scrift. <C 300_DUIZENTIG-293> dusentach.+tuehondert.+drie+en+negentach. 
+<L 1894:4> <C 472+2_DE+ZONDAG> sondaghes <C 700_NA> nae <C 24_BELOKEN-PASEN> beloken+paschen <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='116' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,30 @@
+<header>
+<docId>0044</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 100:30> <C 1_COPIE> Coppie <C 700_VAN> van 
+<L 100:31> <C 484_EEN> eene<A >n</A> <q> tsaert<A >er</A>e <C 700_VAN> van <C 474_DE/HET> den <q> xl. <q> 't3s. <C 119_PARIJS> par. <C 271_LIGGEN> ligghen<A >de</A> <C 700_OP> up <C 471_DE> de <C 1_MUDE> mude <C 700_OP> up <C 474_DE/HET> den <q> houc 
+<L 100:32> <C 700_VAN> van <C 472_DE> tspapen <q> strate. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 100:35> <C 20_JOHANNES> ian <q> sloue.- <C 700_VAN> van <q> .xl. <q> 't3s. <C 700+470_OP+HET> vpt <q> niewelant.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+
+<L 100:36> <C 700_OP> vp <q> tnieuwelant <C 700_OP> up <C 474_DE/HET> den <q> houc <C 700_VAN> van <C 475_DE/HET> der <C 1_PAPENSTRAAT> papenstrate <q> .xl. <q> 't3s. <C 119_PARIJS> par. 
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

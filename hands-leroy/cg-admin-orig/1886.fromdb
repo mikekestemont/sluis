@@ -1,0 +1,50 @@
+<header>
+<docId>1886</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2793:21> <C 410_DIT> dit <C 200_ZIJN> es <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_HUIS> huse <C 474+700_DE/HET+VAN> v<A >an</A>de<A >n</A> <q> heleghe<A >n</A> <q> gheest <q> bine<A >n</A> <C 474_DE/HET> de<A >n</A> 
+<L 2793:22> <C 1_HOEVE> hoeue <C 440_MEN> daerme<A >n</A> <C 471_DE> de <q> aelmoesene <C 700+474_TE+DE/HET> ten <q> hoeghen <C 1_TIJD> tide <q> in <q> deelt.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> van 
+<L 2793:23> <C 470_HET> t'H <q> Geest <q> huijs. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2793:30> <C 403_HET> Het <C 210_ZIJN> si <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 204_ZIEN> zien <C 800_EN> en<A >de</A> <C 204_HOREN> horen <C 250_LEZEN> lesen 
+<L 2793:31> <C 810_DAT> Dat <C 1_JONKVROUW> ioncw<A >roue</A> <C 20_GEERTRUIDA> gertrud <C 471_DE> die <C 1_BAKKIN> bakinne <C 101_GROOT> groete <C 1_MEESTEREGGE> meesterigge <C 700_VAN> va<A >n</A> <C 101_SINT> sente 
+<L 2793:32> <C 24_ELISABETH> lysebetten <C 1_HOF> houe <C 700_BIJ> bi <C 20_GENT> ghent <C 213_HEBBEN> heft <C 270_GEOORLOVEN> ghe+orloef <VN type=1> <C 800_EN> en<A >de</A> <C 273_CONSENTEREN> ghe+consentert 
+<L 2793:33> <C 24_MARGARETA> margriete<A >n</A> <C 700_VAN> va<A >n</A> <C 21_DENDERMONDE> dendermonde <C 800_EN> en<A >de</A> <C 24_ELISABETH> lysebette<A >n</A> <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_NIEUWLAND> nieuenlande <C 810_DAT> Dat 
+<L 2793:34> <C 470+0_HET+HUIS> thus <C 620*_DAAR-> daer <C 406_ZIJ> sii <C 620#_-IN> i<A >n</A> <C 204_WONEN> woene<A >n</A> <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 403_ZIJ> soe <C 234_DOEN> dade<A >n</A> <C 250_MAKEN> maken <C 700_NA> na <C 451_HAAR> hare <C 305_BEIDE> beeder <VN type=1> <C 1_LIJF> liue 
+<L 2793:35> <C 210_ZULLEN> sal <C 260_BLIJVEN> bliuen <C 474_DE/HET> den <C 104_HEILIG> heylege<A >n</A> <C 0_GEEST> gheest <C 700_VAN> va<A >n</A> <C 104_SINT> sente<A >n</A> <C 24_ELISABETH> lizebetten <C 1_HOF> houe <C 800_EN> en<A >de</A> <C 474_DE/HET> den 
+<L 2793:36> <C 14_JONKVROUW> joncwrouen <C 421_DIE> die <C 474_DE/HET> den <C 0*_HEILIGE-> heylegen <C 0#_-GEEST> gheest <C 250_HOUDEN> houden <C 214_ZULLEN> selen <C 650_IN> i<A >n</A> <C 700_TE> te <C 251_WEZEN> wesene <C 800_EN> en<A >de</A> 
+<L 2793:37> <C 700_TE> te <C 251_DELEN> deelne <C 471_DE> de <C 11_AALMOES> halmosene <C 474_DE/HET> den <C 114_ARM> armen <C 14_BEGIJN> beghinen <C 474+700_DE/HET+BINNEN> binnen <C 1_HOF> houe. <C 500_VOORT> wort <C 551_ZO> soe 
+<L 2793:38> <C 204_WILLEN> willen <C 411_DEZE> dese <C 111_VOORZEID> worseide <C 14_JONKVROUW> joncw<A >rou</A>en <C 21_MARGARETA> m<A >ar</A>griete <C 800_EN> en<A >de</A> <C 21_ELISABETH> lyzebette <C 320_AL> al <C 420_DAT> dat <C 474+700_DE/HET+TE> ten 
+<L 2793:39> <C 104_VOORZEID> worseiden <C 0_HUIS> huus <C 203_BEHOREN> boert <C 201_BLIJVEN> bliue <C 700_IN> i<A >n</A> <C 470+0_HET+HUIS> thus <C 474_DE/HET> den <C 114_ARM> armen <C 14_BEGIJN> beghinen <C 800_EN> en<A >de</A> <C 489_EEN> .i. <C 1_BED> bedde 
+<L 2793:40> <C 474_DE/HET> den <C 114_VREEMD> vremden <C 114_ARM> armen <C 14_BEGIJN> beghinen <C 650_OP> op <C 700_TE> te <C 251_RUSTEN> rustene. <C 800_EN> en<A >de</A> <C 500_VOORT> woert <C 550_ZO> so <C 204_WILLEN> willen <C 411_DEZE> dese 
+<L 2793:41> <C 300_2> tue <C 14_JONKVROUW> joncw<A >rou</A>en <C 810_DAT> dat <C 471_DE> die <C 0*_HEILIGE-> heyleghe <C 0#_-GEEST> gheest <C 470+0_HET+HUIS> thus <C 101_STAAND> stande <C 201_HOUDEN> houde <C 800_EN> ende <C 560_NIET> niet <C 560_NE> en 
+<L 2793:42> <C 201_VERKOPEN> vercoepe <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 410_DIT> dit <C 100_VAST> vast <C 211_BLIJVEN> bliue <C 800_EN> ende <C 101_GESTADE> ghestade <C 551_ZO> soe <C 210+403_ZIJN+HET> eest 
+<L 2793:43> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 474_DE/HET> den <C 1_ZEGEL> zeghele <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedan <C 700_IN> jn <C 0_JAAR> jar <C 452_ONS> ons 
+<L 2793:44> <C 4_HEER> heren <C 810_TOEN> doe <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 319_1300> .m'ho.+c.c.c.'ho <C 474_DE/HET> Den <C 314_ZESTE> seesten <C 0_DAG> dach <C 700_NA> na <C 101_SINT> sente <C 22_PETRUS> pieters <C 0_DAG> dach 
+<L 2793:45> <C 800_EN> ende <C 101_SINT> sente <C 22_PAULUS> pauels <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

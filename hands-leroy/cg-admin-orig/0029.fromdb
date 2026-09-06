@@ -1,0 +1,45 @@
+<header>
+<docId>0029</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 83:11> <C 700_IN> Jn <q> saemsclachte. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1264' jaar_van='1263' tijdsoort='6' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 83:16> <C 404_WIJ> Wi <C 421_DIE> die <C 12_BERICHTER> berechters <C 214_ZIJN> sin <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_HUIS> huse <C 700_VAN> van <C 20_GENT> Ghent <C 404_WIJ> wi <C 204_DOEN> doen <C 700_TE> te 
+<L 83:17> <C 251_VERSTAAN> verstane <C 800_EN> & <C 100_KENLIJK> kenlijc <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sin <C 800_EN> & <C 610_HIERNA> hier+na <C 250_WEZEN> wesen <C 214_ZULLEN> sullen <C 810_DAT> dat 
+<L 83:18> <C 21_EVERDEI> Euerdei <C 0_DULLAARD-X> dullart <C 800_EN> & <C 21_AVE> aue <C 450_ZIJN> sin <C 0_WIJF> wif <C 224_VERKOPEN> uercochten <C 501_WETTELIJK> wettenleke <C 454_ONS> onsen <C 1_GODSHUIS> gotshuse <C 489_EEN> .i. 
+<L 83:19> <C 0_STUK> stic <C 2_LAND> lants <C 271_LIGGEN> liggende <C 700_IN> jn <C 20_ZAAMSLAG> zaemslacht <C 309_16> .xvi. <C 11_GEMET> gemete <C 309_EEN> .i. <C 0_VIERENDEEL> vierendeel <C 320_MIN> min. <C 800_EN> & <C 20_JOHANNES> jan 
+<L 83:20> <C 700_VAN> van <C 474_DE/HET> den <C 1_BOOMGAARD> boengarde <C 800_EN> & <C 21_AVE> aue <C 450_ZIJN> sin <C 0_WIJF> wif <C 224_VERKOPEN> uercochten <C 500_OOK> oec <C 501_WETTELIJK> wetteleke <C 414_DEZE> desen <C 414_ZELF> seluen 
+<L 83:21> <C 1_GODSHUIS> gotshuse <C 309_3> .iij. <C 11_GEMET> gemete <C 800_EN> & <C 309_EEN> .i. <C 0_VIERENDEEL> vierendeel <C 271_LIGGEN> liggende <C 700_AAN> an <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_16> .xvi. 
+<L 83:22> <C 11_GEMET> gemete. <C 800_EN> & <C 700_OM> oem <C 1_WAARSCHAP> waerscepe <C 700_TE> te <C 251_DOEN> doene <C 700_VAN> van <C 414_DEZE> desen <C 309_3> .iij. <C 14_GEMET> gemeten <C 810_DAT> dat <C 471_DE> de <C 0_KOOP> coep 
+<L 83:23> <C 100_VAST> vast <C 800_EN> & <C 101_GESTADE> gestade <C 210_ZULLEN> sal <C 260_BLIJVEN> bliuen <C 550_ZO> so <C 221_ZETTEN> sette <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 20_JOHANNES> jan <C 700_TE> te <C 1_PAND> pande <C 309_4,5> .iiii't!. <C 11_GEMET> gemete 
+<L 83:24> <C 2_LAND> lants <C 421_DIE> die <C 403_HIJ> hi <C 231_HEBBEN> hadde <C 271_LIGGEN> liggende <C 700_IN> jn <C 21_OTENE> Otene <C 701_AAN> ane <C 472+4_DE+PAAP> spapen <C 22_FRANCISCUS> Sois <C 0_GRACHT> gracht <C 800_EN> & <C 500_OOK> oec <C 610_DAARTOE> daer+toe 
+<L 83:25> <C 810_DAT> dat <C 403_HIJ> hi <C 0_VROUW> vrou <C 24_AVE> auen <C 10_KIND> kinder <C 455_ZIJN> sire <C 0_ZWEGER> Sueger <C 231_ZULLEN> soude <C 250_ERVEN> eruen <C 700_IN> jn <C 511_ALZO> alse <C 111_GOED> goede <C 309_3> .iij. 
+<L 83:26> <C 11_GEMET> gemete <C 2_LAND> lants <C 821_ALS> als[e] <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_3> .iij. <C 11_GEMET> gemete <C 204_ZIJN> sin. <C 420+0+810_WELK+TIJD+DAT> welken+tijt+dat <C 0_VROUW> vro <C 21_AVE> aue 
+<L 83:27> <C 450_ZIJN> sin <C 0_ZWEGER> Sueger <C 100_DOOD> dot <C 231_ZIJN> ware. <C 800_EN> & <C 410_DIT> dit <C 101_VOORZEID> uorseide <C 0_GODSHUIS> gotshus <C 560_NE> en <C 221_HEBBEN> hadde <C 700_JEGEN> jegen <C 0_VROUW> vrou <C 24_AVE> auen 
+<L 83:28> <C 480_GEEN> geen <C 0_LAND> lant <C 273_KOPEN> gecocht <C 620#_DAAR-> daer <C 20_JOHANNES> jan <C 620*_-OP> up <C 230_ZIJN> was <C 274_DOEN> gedaen <C 700_IN> jn <C 104_WETTELIJK> wetteleken <C 1_HUWELIJK> huweleke <C 403_HIJ> hi <C 830_NE> ne 
+<L 83:29> <C 231_HEBBEN> hadde <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 0_PAND> pant <C 273_ZETTEN> geset <C 700_TE> te <C 1_PAND> pande <C 510_ALZO> also <C 821_ALS> alse <C 510_HIER> hier <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es. <C 700_OVER> Ouer 
+<L 83:30> <C 411_DEZE> dese <C 14_VOORWAARDE> uorworden <C 224_ZIJN> waren <C 14_SCHOUTHEET> Scouteten <C 800_EN> & <C 14_MEIER> meieren <C 800_EN> & <C 14_SCHEPEN> Scepenen <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande. 
+<L 83:31> <C 800_EN> & <C 410_DIT> dit <C 0_GODSHUIS> gots+hus <C 203+403_HEBBEN+HET> heuets <C 101_GOED> goede <C 4_LETTER> lettren <C 800_EN> & <C 403+210_ZIJ+MOGEN> machse <C 500_WEL> wel <C 250_BETOGEN> betogen <C 403+540+550_HET+WAAR+ZO> waer+soes <C 700_TE> te 
+<L 83:32> <C 251_DOEN> doene <C 200_ZIJN> es. <C 800_EN> & <C 700_IN> jn <C 1_OORKONDE> orconde <C 700_VAN> van <C 320_AL> al <C 414_DEZE> desen <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 410_DIT> dit <C 1_GESCHRIFT> gescrifte <C 273_BEZEGELEN> besegelt 
+<L 83:33> <C 700_MET> met <C 474_DE> ten <C 1_ZEGEL> segele <C 472_DE/HET> des <C 2_GODSHUIS> gotshus. <C 800_EN> & <C 214+403_HEBBEN+HET> hebbent <C 273_BEZEGELEN> besegelt <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 700_VAN> van <C 474_DE/HET> den 
+<L 83:34> <C 1_CARNATIOEN> carnatione <C 309_1263> .m.+cc.+&+Lxiij. <C 700_IN> jn <C 474_DE/HET> den <C 20_APRIL> april <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1264' jaar_van='1263' tijdsoort='6' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

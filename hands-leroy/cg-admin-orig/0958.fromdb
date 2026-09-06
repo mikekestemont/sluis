@@ -1,0 +1,84 @@
+<header>
+<docId>0958</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='122' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1478:12> <C 700_IN> JN <C 20_DAMME> Dam.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> .f.j. <q> de <q> domo 
+<L 1478:13> <q> & <q> fundo <q> cum <q> [eius] <q> [?] <q> adiacente <q> jtem <q> i't! <q> mensura <q> xxxv <q> virgis <C 29_ARNOLF> arn<A >ulphi</A> 
+<L 1478:14> <q> clercs <q> & <q> uxoris <q> eius <q> in <q> da<A >m</A> <q> m <q> cc <q> xc <q> assumptione <q> beate <q> marie.- 
+<L 1478:15> <q> Donatio <C 29_ARNOLF> arnulphi <q> & <C 21_IME> ymsote <q> vxoris <q> eius <q> de <q> lissueghe. <q> lonte <q> ?. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1478:23> <C 404_WIJ> Wje <C 20_WILHELM> Willem <C 475+700_DE+VAN> vander <C 1_SPUI> Spoye, <C 20_LAMBERT> Lammin <C 0+24_VROUW+BADE> Verbaten <C 1_ZOON> sone, <C 20_MARTIN> martin <C 471_DE> die 
+<L 1478:24> <C 1_SCHEPPER> Sceppere, <C 20_NICOLAAS> Clais <C 20_BONIJN-X> Bonin, <C 20_WILHELM> Willem <C 101_WIT> witte, <C 14_SCHEPEN> Scepenen <C 474+700_DE/HET+IN> inden <C 0_DAM> Dam <C 204_DOEN> doen 
+<L 1478:25> <C 700+251_TE+WETEN> tewetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat 
+<L 1478:26> <C 224_KOMEN> quamen <C 700_VOOR> vor <C 404_WIJ> ons <C 20_ARNOUT> arnoud <C 700_VAN> van <C 21_LISSEWEGE> lisseweghe <C 800_EN> en<A >de</A> <C 21_IME> hymmesoete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 800_EN> en<A >de</A> 
+<L 1478:27> <C 224_GEVEN> ghauen <C 700_IN> in <C 105_PUUR> pure <C 800_EN> en<A >de</A> <C 105_EEUWELIJK> eweliker <C 4_AALMOES> alemoesenen <C 474_DE/HET> Den <C 0_ABT> abt <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 1_CONVENT> couente 
+<L 1478:28> <C 700+475_VAN+DE> vander <C 20_DOEST> does <C 451_HAAR> hare <C 1_HUIZING> husinghe, <C 800_EN> en<A >de</A> <C 470_HET> dat <C 0_LAND> lant <C 620*_DAAR-> daer <C 471_DE> die <C 1_HUIZING> husinghe <C 620#_-OP> vp <C 203_STAAN> staet, 
+<L 1478:29> <C 800_EN> ende <C 470_HET> dat <C 0_LAND> lant <C 420_DAT> dat <C 610*_DAAR-> der <C 504_BACHTEN> bachten <C 203+610#_LIGGEN+-AAN> anleghet <C 271_STREKKEN> streckende <C 500_OOSTWAART> oestward <C 271_LIGGEN> legghende 
+<L 1478:30> <C 700_OFZUIDHALF> of+zuthalf <C 474_DE/HET> den <C 1_WATERGANG> wat<A >er</A>ghanghe <C 421_DIE> die <C 203_BEHOREN> behort <C 700+475_TE+DE> ter <C 1_WATERING> wat<A >er</A>inghe <C 700_VAN> van 
+<L 1478:31> <C 21_ROMBOUDSWERF> ramboudsw<A >er</A>ue <C 271_LIGGEN> legghende <C 700_ONDER> onder <C 471_DE> die <C 1_WONING> woninghe <C 500_OFNOORDHALF> of+northalf <C 500_AL> al <C 100_VAST> vast <C 610_DAARAAN> der+an. 
+<L 1478:32> <C 700+475_VAN+DE> Vander <C 425_WELK> welker <C 1_ERFACHTIGHEID> aruachtichede <C 406_ZIJ> sie <C 100_SCHULDIG> schuldich <C 234_ZIJN> waren <C 301_12> tweleue <C 11_SCHELLING> scheleghe 
+<L 1478:33> <C 2+472_JAAR+HET> tsiaers <C 475_DE/HET> der <C 4_KERK> kerken <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 20_DOEST> Does, <C 800_EN> en<A >de</A> <C 301_VIJFTIEN> vichtiene <C 11_SCHELLING> scheleghe <C 111_VLAAMS> vlaemsche 
+<L 1478:34> <C 472+2_HET+JAAR> tsiaers <C 474_DE/HET> den <C 1_HEER> here <C 21_JACOB> jacoppe <C 1_VIN> vinne <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 1_OOR> hore <C 501_ERFELIJK> aruelike <C 421_DIE> die <C 440_MEN> men <C 700_IN> in 
+<L 1478:35> <C 445_GEEN> ghere <C 1_MANIER> maniere <C 560_NIET> niet <C 250_VERDUURZEN> v<A >er</A>diersen <C 560_NE> ne <C 210_MOGEN> mach. <C 471_DE> Die <C 421_WELK> welke <C 1_HUIZING> husinghe <C 800_EN> en<A >de</A> <C 471_DE> die 
+<L 1478:36> <C 1_ERFACHTIGHEID> aruachtichede <C 421_DIE> die <C 614_HIERVOREN> hir+voren <C 273_NOEMEN> ghenoment <C 214_ZIJN> sijn <C 471_DE> die <C 0_ABT> abt <C 800_EN> en<A >de</A> <C 470+0_HET+CONVENT> tcouent <C 700+475_VAN+DE> vander 
+<L 1478:37> <C 20_DOEST> does <C 101_VOORZEID> vorseide <C 214_HEBBEN> hebben <C 274*_WEDER-> weder <C 274#_-GEVEN> ghegheuen <C 21_ARNOUT> arnoude <C 800_EN> en<A >de</A> <C 24_IME> hymmesoeten 
+<L 1478:38> <C 104_VOORZEID> vorseiden <C 650_IN> in <C 700_TE> te <C 251_WONEN> woenne <C 700_TE> te <C 406_ZIJ> haerre <C 305_BEIDE> beder <C 1_LIJF> liue, <C 700_IN> Jn <C 415_DIE> derre <C 1_MANIER> maniere <C 810_DAT> dat <C 406_ZIJ> sie 
+<L 1478:39> <C 471_DE> die <C 111_VOORZEID> vorseide <C 301_VIJFTIEN> vichtiene <C 11_SCHELLING> scheleghe <C 2+472_JAAR+HET> tsiaers <C 204_GELDEN> ghelden, <C 800_EN> En<A >de</A> <C 810_DAT> dat <C 406_ZIJ> sie <C 471_DE> die 
+<L 1478:40> <C 1_WONING> woninghe <C 204_HOUDEN> houde<A >n</A> <C 271_STAAN> staende <C 700_OP> vp <C 454_HAAR> haren <C 0_KOST> cost <C 510_ALZO> also <C 501_LANG> langhe <C 820_ALS> als <C 406_ZIJ> sie <C 204_LEVEN> leuen <C 800_EN> en<A >de</A> 
+<L 1478:41> <C 510_DAAR> daer <C 271_WONEN> wonende <C 214_ZIJN> sijn, <C 800_EN> Ende <C 500+810_ER+DAT> datter <C 471_DE> die <C 0_ABT> abt <C 800_EN> en<A >de</A> <C 0+470_CONVENT+HET> tcouent <C 475+700_DE+VAN> vander <C 20_DOEST> does 
+<L 1478:42> <C 101_VOORZEID> vorseide <C 214_MOGEN> moghen <C 250_KOMEN> comen <C 800_EN> en<A >de</A> <C 250_BETEN> beten <C 810_ALS> als <C 406_ZIJ> sie <C 204_WILLEN> willen. <C 800_EN> Ende <C 441_NIEMAND> niemene <C 560_NE> ne 
+<L 1478:43> <C 214_MOGEN> moghen <C 406_ZIJ> sie <C 610_DAARIN> daer+in <C 250_BRENGEN> bringhen <C 700_MET> met <C 406_ZIJ> hem <C 700+251_TE+WONEN> tewoenne <C 700_ZONDER> sonder <C 472_DE/HET> des <C 2_ABT> abts <C 800_EN> en<A >de</A> 
+<L 1478:44> <C 472_DE/HET> des <C 2_CONVENT> couents <C 1_WIL> wille <C 800_EN> en<A >de</A> <C 0_CONSENT> co<A >n</A>sent <C 475+700_DE+VAN> vander <C 20_DOEST> does <C 105_VOORZEID> vorseid<A >er</A>e, <C 403_HET> het <C 830_NE> ne <C 221_ZIJN> ware <C 700_BIJ> bi 
+<L 1478:45> <C 1_HUWELIJK> huwelike. <C 500_VOORT> Vort <C 471_DE> die <C 411_ZELF> zelue <C 20_ARNOUT> arnoud <C 800_EN> en<A >de</A> <C 21_IME> hymmesoete <C 101_VOORZEID> vorseide <C 224_GEVEN> ghauen <C 480_EEN> een 
+<L 1478:46> <C 0_STUK> stic <C 2_LAND> lants <C 422_DIE> dies <C 210_ZIJN> es <C 300_ANDERHALF> anderalf <C 0_GEMET> ghemet <C 800_EN> en<A >de</A> <C 300_VIJFENDERTIG> viuendartich <C 14_ROEDE> roeden <C 800_OF> of <C 325_MEER> meer 
+<L 1479:1> <C 271_LIGGEN> legghende <C 500_OFNOORDHALF> of+northalf <C 474+700_DE/HET+AAN> anden <C 104_VOORZEID> vorseiden <C 0_WATERGANG> wat<A >er</A>ghanc <C 700_VAN> van <C 21_ROMBOUDSWERF> Ramboudsw<A >er</A>ue 
+<L 1479:2> <C 700_JEGEN> jeghe<A >n</A> <C 470_HET> dat <C 101_VOORZEID> vorseide <C 0_LANDJE> landekin <C 420_DAT> dat <C 203_LIGGEN> leghet <C 704_BACHTEN> bachten <C 475_DE/HET> der <C 105_VOORZEID> vorseider <C 1_WONING> woninghe. 
+<L 1479:3> <C 470+421_HET+WELK> Twelke <C 0_LAND> lant <C 220_GELDEN> ghalt <C 800_EN> en<A >de</A> <C 203_GELDEN> ghelt <C 475+700_DE+TE> ter <C 0_TIJD> tijt <C 850_DAT> dat <C 411_DEZE> dese <C 11_DING> dinghe <C 274_DOEN> ghedaen <C 234_ZIJN> waren <C 301_VIER> viere 
+<L 1479:4> <C 10_POND> pont <C 472+2_HET+JAAR> tsiaers <C 700_TE> te <C 1_JAARSCHAAR> jaerscare, <C 700_IN> jn <C 4_AALMOES> alemoesenen <C 700_TE> te <C 4_PITANTIE> petantien <C 474_DE/HET> den <C 1_CONVENT> couente 
+<L 1479:5> <C 475+700_DE+VAN> vander <C 20_DOEST> Does <C 700_OP> vp <C 474_DE/HET> den <C 0_DAG> dach <C 850_DAT> dat <C 440_MEN> men <C 210_ZULLEN> sal <C 250_DOEN> doen <C 406_ZIJLIEDEN> haerlede <C 1_JAARGETIJDE> jaerghetide. <C 800_EN> Ende 
+<L 1479:6> <C 700_BIJ> bi <C 474_DE/HET> den <C 1_CONSENT> consente <C 474+700_DE/HET+VAN> vanden <C 0_ABT> abt <C 800_EN> en<A >de</A> <C 474+700_DE/HET+VAN> vanden <C 1_CONVENT> couente <C 700+475_VAN+DE> vander <C 20_DOEST> Does <C 550_ZO> so <C 214_ZULLEN> zullen 
+<L 1479:7> <C 406_ZIJ> sie <C 250_HEFFEN> heffen <C 471_DE> die <C 1_VROOM> vrome <C 501_GEHEELLIJK> gheelike <C 474+700_DE/HET+VAN> vanden <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 510_ALZO> also <C 501_LANG> langhe <C 820_ALS> als <C 406_ZIJ> sie 
+<L 1479:8> <C 301_BEIDE> bede <C 204_LEVEN> leuen <C 700_ZONDER> sonder <C 440_ENIG> enich <C 0_TOETALEN> toe+talen <C 800_OF> of <C 0_BELETTEN> beletten. <C 800_NEWAAR> Ne+ware <C 810_ZO-WELK-TIJD-DAT> so+welc+tijt+dat 
+<L 1479:9> <C 471_DE> die <C 300_EEN> een <C 700_VAN> van <C 406_ZIJ> hem <C 304_2> tween <C 203_STERVEN> steruet <C 550_ZO> so <C 210_ZULLEN> sal <C 471_DE> die <C 0_HELFT> helt <C 700+475_VAN+DE> vander <C 1_VROOM> vrome <C 700+474_VAN+DE/HET> vanden 
+<L 1479:10> <C 104_VOORZEID> vorseiden <C 1_STUK> sticke <C 2_LAND> lants <C 250*_-KOMEN> comen <C 250#_TOE-> toe <C 474_DE/HET> den <C 1_CONVENT> couente <C 700+475_VAN+DE> vander <C 20_DOEST> Does, <C 800_EN> Ende <C 810_ALS> als <C 406_ZIJ> sie 
+<L 1479:11> <C 301_BEIDE> bede <C 100_DOOD> doet <C 214_ZIJN> sijn <C 550_ZO> so <C 210_ZULLEN> sal <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_VROOM> vrome <C 700+474_MET+DE/HET> metten <C 1_LAND> lande <C 501_GEHEELLIJK> gheelike <C 500_ALTEGADER> alteghader 
+<L 1479:12> <C 250*_-KOMEN> comen <C 250#_TOE-> toe <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_CONVENT> couente <C 700+475_VAN+DE> vander <C 20_DOEST> Does, <C 4_PITANTIE> petantien <C 651_MEDE> mede <C 700_TE> te 
+<L 1479:13> <C 251_GEVEN> gheuene <C 474_DE/HET> den <C 1_CONVENT> couente <C 700_ZONDER> sonder <C 0_AFBREKEN> of+breken <C 700_OP> vp <C 471_DE> die <C 1_DAG> daghe <C 850_ALS> als <C 440_MEN> men <C 210_ZULLEN> sal <C 250_DOEN> doen 
+<L 1479:14> <C 451_HAARLIEDEN> aerlede <C 1_JAARGETIJDE> jaerghetide <C 510_ALZO> also <C 820_ALS> als <C 614_HIERVOREN> hir+voren <C 210_ZIJN> es <C 273_ZEGGEN> gheseid. <C 800_EN> Ende <C 700_TE> te <C 251_WETEN> wetene <C 810_DAT> dat <C 411_DEZE> dese 
+<L 1479:15> <C 101_VOORZEID> vorseide <C 300_ANDERHALF> anderalf <C 1_GEMET> ghemete <C 2_LAND> lants <C 800_EN> en<A >de</A> <C 300_VIJFENDERTIG> viuendartich <C 14_ROEDE> roeden <C 810_OF> of <C 325_MEER> meer 
+<L 1479:16> <C 204_HEBBEN> hebben <C 454_HAAR> haren <C 0_WEG> wech <C 700_TE> te <C 251_GAAN> gaenne <C 700_TE> te <C 251_VAREN> vaerne <C 700_TE> te <C 251_KOMEN> comene <C 800_EN> en<A >de</A> <C 700_TE> te <C 251_KEREN> keerne <C 474+700_DE/HET+OP> vpten 
+<L 1479:17> <C 104_VOORZEID> vorseiden <C 0_WATERGANG> wat<A >er</A>ghanc <C 501_ALTOE> altoe <C 700+474_TOT+DE> toten <C 104_GROOT> groten <C 1_WEG> weghe. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 411_DEZE> dese 
+<L 1479:18> <C 111_VOORZEID> vorseide <C 14_STUK> sticken <C 500_ALTEGADER> alleteghader <C 501_EEUWELIJK> ewelike <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 501_FRAAILIJK> vraielike <C 101_GESTADE> ghestade 
+<L 1479:19> <C 214_MOGEN> moghen <C 260_ZIJN> sijn <C 800_EN> en<A >de</A> <C 260_BLIJVEN> bliuen, <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 14_SCHEPEN> scepenen <C 474+700_DE/HET+IN> inden <C 0_DAM> Dam 
+<L 1479:20> <C 700_IN> in <C 4_OORKONDE> horkonde<A >n</A> <C 700_VAN> van <C 320_AL> al <C 414_DEZE> desen <C 114_VOORZEID> vorseiden <C 14_DING> dinghen <C 411_DEZE> Dese <C 101_JEGENWOORDIG> jeghewordighe 
+<L 1479:21> <C 4_LETTER> lettren <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seghelen <C 101_UITHANGEND> huthanghende. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 1479:22> <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 309_DUIZENTIG-200-EN-90> Duzentich,+twehondert,+en<A >de</A>+neghentich, <VN type=1> 
+<L 1479:23> <C 700_IN> in <C 471_DE> die <C 0_OOGSTMAAND> hoeghest+maent, <C 700_ACHTER> hachter <C 455_ONS> onser <C 4_VROUW> wrouwen <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='122' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

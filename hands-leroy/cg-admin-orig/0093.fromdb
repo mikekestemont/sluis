@@ -1,0 +1,935 @@
+<header>
+<docId>0093</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 165:25> <q> Jn <q> nomine <q> patris <q> & <q> filij <q> & <q> spiritus <q> sancti. <q> amen. <VN type=1> <C 700_IN> In 
+<L 165:26> <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <C 1_GILDE> gulde <C 210_ZIJN> es <C 481_EEN> ene <C 0_BROEDERSCHAP> broederscep <C 273_MAKEN> ghemaact <C 700+471_IN+DE> inde <C 1_HEER> here <C 452_ONS> ons <C 1_HEER> here 
+<L 165:27> <C 700_VAN> van <C 1_HEMELRIJK> hemelrike <C 800_EN> en<A >de</A> <C 455_ONS> onser <C 4_VROUW> vrouen <C 101_SINT> s<A >an</A>c<A >t</A>e <C 24_MARIA> marien <C 800_EN> en<A >de</A> <C 102+472_GROOT+DE/HET> sgroots <C 101_SINT> s<A >an</A>c<A >t</A>e 
+<L 165:28> <C 22_JACOB> Jacobs. <C 410_DIT> Dit <C 1_GILDE> gulde <C 210_ZIJN> es <C 273_MAKEN> ghemaact <C 700_BIJ> bi <C 11+115_LIEDEN+GOED> goederliede <C 1_RAAD> rade. <C 421_DIE> die <C 454_HAAR> haren <C 0_WEG> wech <C 214_HEBBEN> ebben 
+<L 165:29> <C 274_DOEN> ghedan <C 700_TE> te <C 452_MIJN> mijns <C 4_HEER> heren <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <C 700_IN> in <C 24_GALICIE> galissien. <C 800_EN> en<A >de</A> <C 406_ZIJ> si <C 214_HEBBEN> ebben <C 274_OVEREENDRAGEN> ouer+een+ghedreghen. 
+<L 165:30> <C 810_DAT> dat <C 440_MEN> men <C 410_DIT> dit <C 1_GILDE> gulde <C 250_ZITTEN> sitten <C 210_ZULLEN> sal <C 322_ELK> elcs <C 2_JAAR> jars <C 700_OP> vp <C 474_DE/HET> den <C 0_ZONDAG> sondach 
+<L 165:31> <C 700_NA> na <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <C 0_DAG> dach <C 800_EN> en<A >de</A> <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_CHRISTOFORUS> kerstoffels. <C 421_DIE> die <C 700_OP> up <C 414_DIE> dien <C 0_DAG> dach <C 700+474_TE+DE/HET> ten 
+<L 165:32> <C 1_HETEN> hetene <C 560_NIET> niet <C 560_NE> nen <C 203_KOMEN> comt <C 474+700_DE/HET+VAN> va<A >n</A>den <C 12_GILDEBROEDER> guldebroeders <C 403_HIJ> hi <C 210+100_ZIJN+SCHULDIG> es<A >sculdech</A> <C 309_6> .vi. <C 19_DENARIUS> 't3d. <C 700+475_TE+DE> ter 
+<L 165:33> <C 4_AALMOES> almoesnen <C 470+700_HET+IN> int <C 1_GILDE> gulde. <VN type=1> <C 700_UIT> Hut <C 325_ELK> elker <C 4_PAROCHIE> prochien <C 700_VAN> van <C 414_DEZE> desen <C 1_GILDE> gulde <C 214_ZIJN> sin 
+<L 165:34> <C 274_KIEZEN> ghecoren <C 309_4> .iiii. <C 11+111_LIEDEN+GOED> goedeliede <C 800_ZONDER> sonder <C 102+472_HEILIG+DE/HET> shelechs <C 22_CHRISTUS> kers <C 500_WAAR> war <C 309_2> .ij. <C 810_OMDAT> om+dat <C 403_ZIJ> soe 
+<L 165:35> <C 100_MINST> mints <C 210_ZIJN> es. <C 411_DEZE> dese <C 111+11_GOED+LIEDEN> goedeliede <C 421_DIE> die <C 510_HIER> hir <C 274_KIEZEN> ghecoren <C 214_ZIJN> sijn; <C 214_HEBBEN> ebben <C 274_ZWEREN> ghesuoren <C 700_BIJ> bi 
+<L 165:36> <C 454_HAAR> haren <C 1_WEG> weghe <C 421_DIE> die <C 406_ZIJ> si <C 101+700_SINT+TE> s<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <C 224_DOEN> daden <C 700_IN> in <C 24_GALICIE> galissien; <C 810_DAT> dat <C 406_ZIJ> si <C 410_DIT> dit <C 1_GILDE> gulde 
+<L 165:37> <C 501_REDELIJK> redenlike <VN type=1> <C 800_EN> en<A >de</A> <C 501_WETTELIJK> wettelike <C 214_ZULLEN> sullen <C 250_HOUDEN> oude<A >n</A> <C 309_EEN> i. <C 0_JAAR> jar; <C 800_EN> en<A >de</A> <C 250_DIENEN> dienen <C 700_OP> vp <C 474_DE/HET> den <C 0_DAG> dach 
+<L 165:38> <C 850_DAT> dat <C 440+470_MEN+HET> ment <C 1_GILDE> gulde <C 203_ZITTEN> sijtd; <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 111_GOED> goede <C 11_LIEDEN> liede <C 214_ZULLEN> sullen <C 500_VOORT> vort <C 250_KIEZEN> kiesen <C 320_ELK> elc <C 700_UIT> vt <VN type=1> 
+<L 165:39> <C 451_HAAR> hare <C 14_PAROCHIE> prochien <C 309_4> .iiii. <C 110_ANDER> ander <C 111_GOED> goede <C 11_LIEDEN> liede; <C 800_EN> en<A >de</A> <C 411_DIE> die <C 214_ZULLEN> sullen <C 250_HOUDEN> ouden <C 470+100_DE/HET+ANDER> dander 
+<L 165:40> <C 0_JAAR> jar <C 820_GELIJK-DAT> ghelijc+dat <C 110+470_ANDER+DE> dander <C 111_GOED> goede <C 11_LIEDEN> liede <C 224_HOUDEN> hilden. <C 411_DEZE> dese <C 1_KIEZING> kiesinghe <C 210+440_ZULLEN+MEN> salmen 
+<L 165:41> <C 250_VERKIEZEN> verkiesen <C 322_ELK> elcs <C 2_JAAR> jars; <C 800_EN> en<A >de</A> <C 440+550_ZO-WAT+ZO> so+wat+so <C 411_DEZE> dese <C 111_GEKOREN> ghecorne <C 12_GILDEBROEDER> guldebroeders <C 204_DOEN> doen 
+<L 165:42> <C 410_DAT> dat <C 214_ZULLEN> sullen <C 500_AL> al <C 501_GEMEENLIJK> ghemeenlike <C 111+470_ANDER+DE> dandere <C 250_LOVEN> louen <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 250_HOUDEN> ouden <C 800_EN> en<A >de</A> 
+<L 165:43> <C 203+500_STERVEN+ER> sterfter <C 309_EEN> .i. <C 700_VAN> van <C 474_DE/HET> den <C 304_VIER> vieren <C 110+470_ANDER+DE> dander <C 300_DRIE> drie <C 214_MOETEN> moeten <C 489_EEN> .i. <C 104_ANDER> andren <C 250_KIEZEN> kiesen <C 700_IN> in <C 450_HAAR> har 
+<L 165:44> <C 1_PAROCHIE> prochie <C 800_EN> en<A >de</A> <C 440+421_MEN+DIE> diemen <C 203_KIEZEN> kiest <C 403_HIJ> hi <C 560_NE> ne <C 210+403_MOGEN+HET> maacht <C 560_NIET> niet <C 250_WEDERZEGGEN> weder+seghen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.R.'>
+<datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 165:51> <C 101_SINT> Sente <C 22_JACOB> iacobs <C 1_PAROCHIE> prochie 
+<end-datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 165:53> <C 509_REDELIJK> redenlile 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<L 166:1> <q> 't% <C 220_ZIJN> War <C 440_ENIG> enech <C 0_MAN> man <C 421_DIE> die <C 700+470_IN+HET> int <C 1_GILDE> gulde <C 231_WILLEN> wilde <C 250_GAAN> gaan <VN type=1> <C 810_EER> her <C 403_HIJ> hi <C 101+700_SINT+TE> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <C 213_HEBBEN> heft 
+<L 166:2> <C 273_ZIJN> ghewest <C 403_HIJ> hi <C 210_MOETEN> moet <C 250_GEVEN> gheuen <C 309_12> .xij. <C 19_DENARIUS> 't3d. <C 800_EN> en<A >de</A> <C 210_MOETEN> moet <C 250_GELOVEN> ghelouen <C 700+101_TE+SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <VN type=1> 
+<L 166:3> <C 700_TE> te <C 251_VAREN> varne <C 704_BINNEN> binnen <C 309_EEN> i <C 1_JAAR> jare <C 203+403_STERVEN+HIJ> sterfthi <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> Jare <C 403_HIJ> hi <C 210_ZIJN> es <C 100_SCHULDIG> sculdech <C 700_TE> te <C 251_GEVEN> gheuene 
+<L 166:4> <C 510_ALZO> als <C 321_VEEL> uele 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 821_ALS> alse <VN type=1> 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 110_ANDER> ander <C 12_GILDEBROEDER> guldebroeders <C 421_DIE> die <C 101+700_SINT+TE> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <C 273_ZIJN> ghewest <C 214_HEBBEN> ebben. 
+<L 166:5> <C 403+203_HIJ+BLIJVEN> blijfthi <C 700_TE> te <C 1_LIJF> liue <C 800_EN> en<A >de</A> <C 100_GEZOND> ghesont <C 560+800_NE+EN> nen <C 203_VAREN> vart <C 403_HIJ> hi <C 700+101_TE+SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <C 560_NIET> niet <C 403+231_HIJ+ZULLEN> soudehi <C 700_TE> te 
+<L 166:6> <C 0_HORS> hurs <C 250_VAREN> varen <C 403_HIJ> hi <C 210_ZIJN> es <C 100_SCHULDIG> sculdech <C 475+700_DE+TE> ter <C 4_AALMOES> almoesnen <C 700+470_IN+HET> int <C 1_GILDE> gulde <C 309_HONDERD> c. <C 19_SOLIDUS> 't3s. <C 700_VAN> van <C 105_GERECHT> gherechter 
+<L 166:7> <C 0_SCHULD> scult <C 203_GAAN> gaat <C 403_HIJ> hi <C 700_TE> te <C 0_VOET> voet <C 309_50> l. <C 19_SOLIDUS> 't3s. <C 510_ALZO> also <C 501_GELIJK> ghelike <C 221+830_DOEN+NE> endade <C 403_HIJ> he<A >m</A> <C 1_NOODZAAK> notsake <C 621#_DAAR-> dar <C 403_HIJ> hi <C 463_HEM> hem 
+<L 166:8> <C 500_WEL> wel <C 621*_-MEDE> mede <C 250_ONTSCHULDIGEN> onsculdeghen <C 210_MOGEN> mach. 
+<L 166:9> <q> 't% <C 221_ZIJN> Ware <C 441_ENIG> eneghe <C 1_VROUW> vrouhe <C 421_DIE> die <C 700+470_IN+HET> int <C 1_GILDE> gulde <C 231_WILLEN> wilde <C 250_GAAN> gaan <C 403_ZIJ> soe <C 210_MOETEN> moet <C 250_GEVEN> gheuen <C 309_12> xij 
+<L 166:10> <C 19_DENARIUS> 't3d <C 800_EN> en<A >de</A> <C 403_ZIJ> soe <C 210_MOETEN> moet <C 250_VAREN> varen <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> jare <C 101+700_SINT+TE> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <C 700_IN> in <C 24_GALICIE> galissien <C 800_OF> of 
+<L 166:11> <C 250_ZENDEN> senden <C 489_EEN> .i. <C 1_BODE> bode <C 700_OVER> ouer <C 463_HAAR> hare <C 800_OF> of <C 403_ZIJ> soe <C 210_MOETEN> moet <C 250_GEVEN> gheuen 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 470_HET> tghelt <VN type=1> 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 700+475_TE+DE> ter <C 4_AALMOES> almoesnen 
+<L 166:12> <C 470+700_HET+IN> int <C 1_GILDE> gulde <C 420_DAT> dat <C 403_ZIJ> hare <C 471_DE> de <C 1_BODE> bode <C 250_KOSTEN> coste<A >n</A> <C 231_ZULLEN> soude. 
+<L 166:13> <q> 't% <C 471_DE> De. <C 301_VIER> viere <C 111_GEKOREN> ghecorne <C 12_GILDEBROEDER> guldebroeders <C 421_DIE> die <C 471_DE> de <C 11_BOEK> boeke <C 250_HOUDEN> houden <VN type=1> <C 406_ZIJ> si <C 214_MOGEN> moghen 
+<L 166:14> <C 320_ELK> elc <C 454_HAAR> haren <C 0_PAROCHIAAN> prochian <C 250_ONTVANGEN> ontfaan <C 510_ALZO> also <C 820_ALS> als <C 510_HIER> hir <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es <C 210#+403_ZIJN+HET> heist <C 0_MAN> man <C 403+210*_HET+ZIJN> heist <C 0_WIJF> wijf. 
+<L 166:15> <C 411_DEZE> Dese <C 111_GEKOREN> ghecorne <C 14_GEZEL> ghesellen <C 406_ZIJ> si <C 214_MOGEN> moghen <C 320_ELK> elc <C 0_PUNT> point <C 250_VERBETEREN> verbetren <C 520_DAAR> dar <C 406_ZIJ> si 
+<L 166:16> <C 204_MOGEN> moghen <C 322_ELK> elcs <C 2_JAAR> jars <VN type=1> 
+<L 166:17> <C 471_DE> De <C 12_GILDEBROEDER> guldebroeders <C 214_HEBBEN> ebben <C 284_DOEN> dan <C 250_MAKEN> maken <C 489_EEN> .i. <C 1_BEL> belle <C 421_DIE> die <C 203_BEHOREN> bort <C 700+474_TE+DE/HET> ten <C 1_GILDE> gulde <C 452_MIJN> mins 
+<L 166:18> <C 4_HEER> heren <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs <C 471_DE> die <C 1_BEL> belle <C 210+440_ZULLEN+MEN> salm<A >en</A> <C 250_DRAGEN> draghen <C 700_IN> in <C 324_AL> allen <C 14_PAROCHIE> prochien <C 700_VAN> van 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 166:19> <C 20_GENT> ghent <VN type=1> 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 500+540+550_ER+ZO-WELK-TIJD+ZO> so+weltijt+sore <C 203_STERVEN> sterft <C 0_BROEDER> broeder <C 800_OF> of <C 0_ZUSTER> suster <VN type=1> <C 700_OM> om <C 700_TE> te <C 251_GEDENKEN> ghedinkene <C 475_DE/HET> der 
+<L 166:20> <C 4_ZIEL> zielen <C 440+550_ZO-WIE+ZO> so+wie+so <C 203_BIDDEN> bidt <C 700_OVER> ouer <C 471_DE> die <C 1_ZIEL> siele <C 210+403_ZIJN+HIJ> hijs <C 100_DEELACHTIG> deelachtech <C 700_AAN> an <C 320_AL> al <C 471_DE> de <C 11_WELDAAD> weldane 
+<L 166:21> <C 421_DIE> die <C 320_AL> al <C 411_DIE> die <C 12_BROEDER> broeders <C 214_HEBBEN> ebben <C 274_DOEN> ghedan <C 700_IN> in <C 474_DE/HET> den <C 1_WEG> weghe <C 101+700_SINT+TE> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs. <C 800_EN> en<A >de</A> 
+<L 166:22> <C 500_IMMERMEE> emm<A >er</A>me <C 214_DOEN> doen <C 234_ZULLEN> sullen. 
+<L 166:23> <q> 't% <C 321_AL> Alle <C 471_DE> de <C 12_GILDEBROEDER> guldebroeders <C 421_DIE> die <C 204_WETEN> weten <C 0_BROEDER> broed<A >er</A> <C 800_OF> of <C 0_ZUSTER> suster <C 274_VERSCHEIDEN> versceden <C 403_HIJ> hi <C 210_ZIJN> es 
+<L 166:24> <C 100_SCHULDIG> sculdech <C 700_OVER> ouer <C 411_DIE> die <C 1_ZIEL> ziele <C 700_TE> te <C 251_LEZEN> lezene <C 309_HONDERD> .c. <C 20_PATER-NOSTER> pater+n<A >oste</A>r <C 800_EN> & <C 309_HONDERD> c. <C 4_AVE-MARIA> aue+marien. 
+<L 166:25> <C 704_BINNEN> binnen <C 309_30> xxx <C 14_DAG> daghen <C 610_DAARNA> dar+na <C 560_NE> en <C 221_DOEN> dade <C 403+403_HET+HIJ> his <C 560_NIET> niet <C 403_HIJ> hi <C 100+210_SCHULDIG+ZIJN> es<A >sculdech</A> 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> iiii <C 19_DENARIUS> d <VN type=1> 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 700+475_TE+DE> ter 
+<L 166:26> <C 4_AALMOES> almoesnen <C 700+470_IN+HET> int <C 1_GILDE> gulde. <C 550_ZO> so 
+<L 166:27> <q> 't% <C 321_AL> Alle <C 471_DE> de <C 12_GILDEBROEDER> guldebroeders <C 421_DIE> die <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 204_WONEN> wonen <C 520_DAAR> dar <C 309_EEN> .i. <C 0_BROEDER> broeder <C 800_OF> of 
+<L 166:28> <C 0_ZUSTER> sust<A >er</A> <C 100_DOOD> doot <C 210_ZIJN> es <C 406_ZIJ> si <C 214_ZIJN> sin <C 100_SCHULDIG> sculdech <C 414_DIE> dien <C 1_DODE> dode <C 700_TE> te <C 251_DRAGEN> draghene <C 700+474_TE+DE/HET> te<A >n</A> <VN type=1> <C 4_KERK> kerken <C 800_EN> en<A >de</A> 
+<L 166:29> <C 700+403_MET+HIJ> methem <C 700_TE> te <C 251_BLIJVEN> bliuene <C 800_EN> en<A >de</A> <C 470+0+700_HET+GRAF+IN> intgraf <C 700_TE> te <C 251_LEGGEN> legne <C 500+221_ER+GEBREKEN> ghebraker <C 440_ENIG> enech <C 700+475_UIT+DE> hut<A >er</A> 
+<L 166:30> <C 4_PAROCHIE> prochien <C 403_HIJ> hi <C 210+100_ZIJN+SCHULDIG> es<A >sculdech</A> <C 309_4> .iiij. <C 19_DENARIUS> 't3d <C 700+475_TE+DE> ter <C 4_AALMOES> almoesne<A >n</A> <C 700+470_IN+HET> int <C 1_GILDE> gulde. <VN type=1> <C 700_VAN> Van <C 474_DE/HET> den <C 114_ANDER> andren 
+<L 166:31> <C 14_PAROCHIE> prochien <C 421+500_DIE+ER> diere <C 250_KOMEN> comen <C 210_MOGEN> mach <C 403_HIJ> hi <C 201_KOMEN> come <C 510_ALZO> also <C 403+820_HIJ+ALS> alshi <C 221_WILLEN> wilde <C 810_DAT> dat <C 440_MEN> men <C 700_TOT> toet 
+<L 166:32> <C 403_HIJ> hem <C 221_KOMEN> quame. 
+<L 166:33> <q> 't% <C 411_DIE> Die <C 1_DODE> dode <C 100+210_SCHULDIG+ZIJN> es<A >sculdech</A> <C 475+700_DE+TE> ter <C 4_AALMOES> almoesnen <C 470+700_HET+IN> int <C 1_GILDE> gulde <C 450_ZIJN> sin <C 101_BEST> beste <C 0_KLEED> cleet 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 800_EN> en<A >de</A> 
+<L 166:34> <C 474_DE/HET> den <C 0_KAPROEN> cap<A >ro</A>en <VN type=1> 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 800_EN> en<A >de</A> <q> xx <q> gro<A >te</A> <VN type=1> 
+<end-datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<C 510_ALZO> also <C 214_ZIJN> sin <C 321_AL> alle <C 12_BROEDER> broeders <C 800_EN> & <C 10_ZUSTER> sust<A >er</A> <C 810+406_ALS+ZIJ> alsi 
+<L 166:35> <C 204_STERVEN> steruen. 
+<L 166:36> <q> 't% <C 221_ZIJN> Ware <C 440_ENIG> enech <C 0_BROEDER> broeder <C 800_OF> of <C 0_ZUSTER> sust<A >er</A> <C 421_DIE> die <C 463_HEM> hem <C 414_ZELF> seluen <C 560_NIET> niet <C 250_UITEN> huten <C 560_NE> nen <C 210_MOGEN> mach 
+<L 166:37> <C 471_DE> de <C 12_GILDEBROEDER> gulde+broeders <C 421_DIE> die <C 274_KIEZEN> ghecoren <C 214_ZIJN> sin <C 406+234_ZIJ+ZULLEN> soudense <C 250_UITEN> huten <C 700_VAN> van <C 475_DE/HET> der <C 4_AALMOES> almoesnen 
+<L 166:38> <C 474+700_DE/HET+UIT> uten <C 1_GILDE> gulde <C 700_MET> met <C 414+320_DIE+AL> aldien <C 420_DAT> dat <C 484+700_EEN+TE> tenen <C 1_LIJK> like <C 203_BEHOREN> bort. 
+<L 166:39> <q> 't% <C 220_ZIJN> War <C 440_IEMAND> hiem<A >en</A> <C 421_DIE> die <C 474+700_DE/HET+TE> ten <C 1_GILDE> gulde <C 560_NIET> niet <C 560_NE> nen <C 221_BEHOREN> borde. <C 421_DIE> die <C 273_VERARMEN> ver+armt <C 231_ZIJN> ware <C 230#+403_ZIJN+HET> wart 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.R.'>
+
+<L 166:57> <C 1_GILDE> gulde 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 166:58> <q> sterve<A >n</A> 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 166:60> <C 1_GRAAF> graue 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+
+<L 167:1> <C 0_MAN> man <C 403+230*_HET+ZIJN> wart <C 0_WIJF> wijf <C 421_DIE> die <C 11+111_LIEDEN+GOED> goedeliede <VN type=1> <C 283_ZIJN> ghewest <C 234_HEBBEN> adden <C 201+406+403_BEGEREN+ZIJ+HET> begheresis <C 471_DE> de 
+<L 167:2> <C 12_GILDEBROEDER> guldebroeders <C 234_ZULLEN> souden <C 403_HIJ> hem <C 250_LENEN> lenen <C 489_EEN> .i. <C 0_KLEED> cleet <C 800_EN> en<A >de</A> <C 309_4> .iiij. <C 14_KAARS> kersen <C 700+474_UIT+DE/HET> huten <C 1_GILDE> gulde 
+<L 167:3> <C 700_IN> in <C 1+1_EER+EER> here <C 472+100_DE/HET+GROOT> sgroot <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> jacobs. 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 221_ZIJN> Ware <VN type=1> 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 167:4> <q> 't% <C 321_AL> Alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 410_DIT> dit <C 1_GILDE> gulde <C 214_ZULLEN> sullen <C 250_HELPEN> elpe<A >n</A> <C 250_STERKEN> sterken <C 800_EN> en<A >de</A> <C 250_HELPEN> elpen <C 250_BETEREN> betren 
+<L 167:5> <C 451_ONS> onse <C 1_HEER> here <C 700_VAN> van <C 1_HEMELRIJK> hemelrike <C 800_EN> en<A >de</A> <C 451_ONS> onse <C 1_VROUW> vroue <C 101_SINT> s<A >an</A>c<A >t</A>e <C 21_MARIA> marie <C 406+210_ZIJ+MOETEN> moetse 
+<L 167:6> <C 250_GESTERKEN> ghesterken <C 700_IN> in <C 324_AL> allen <C 14_DEUGD> dogheden <C 800_EN> en<A >de</A> <C 471_DE> de <C 101_GROOT> grote <C 101_SINT> s<A >an</A>c<A >t</A>e <C 20_JACOB> jacob. <C 910_AMEN> ameN. 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 167:7> <q> [hand] <q> [E:] <C 700+471_IN+DE> Jnde <VN type=1> <C 0_BROEDERSCHAP> broederscep <C 700_VAN> uan <C 101_SINT> sinte <C 22_JACOB> iacobs <C 1_GILDE> gulde <C 560_NE> ne <C 210_MOETEN> moet <C 440_NIEMAND> niemen 
+<L 167:8> <C 325_MEER> mer <C 250_GEVEN> gheuen <C 700+475_TE+DE> ter <C 1_MAALTIJD> maltide <C 820_DAN> dan 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<q> v <q> 't3s <VN type=1> 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<C 111_PARIJS> parisise <VN type=1> 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<C 700+475_TE+DE> ter <C 4_AALMOES> almoesnen 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<C 420_DAT> dat <C 403_HIJ> hi 
+<L 167:9> <C 201_WILLEN> wille <VN type=1> <q> . 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<C 510_DAAR> Daer <VN type=1> <C 560_NE> ne <C 210_MOETEN> moet <C 440_NEGEEN> neghen <C 1_PAAP> pape <C 250_KOMEN> comen <C 475+700_DE+TE> ter <C 0_MAALTIJD> maltijt <C 800_NO> no <C 0_KLERK> clerc <C 800_ZONDER> sonder 
+<L 167:10> <C 471_DE> die <C 14_PAROCHIEPAAP> prochipapen <C 520_DAAR> daer <C 440+470_MEN+HET> ment <C 1_GILDE> gulde <C 203_HOUDEN> hout <C 800_EN> en<A >de</A> <C 471_DE> die <C 0_KAPELAAN> capellaen <C 421_DIE> die <C 101_SINT> sinte 
+<L 167:11> <C 22_JACOB> iacobs <C 1_MIS> messe <C 203_ZINGEN> singhet. <C 403_HET> het <C 830_NE> ne <C 210_ZIJN> si <C 810_DAT> dat <C 403_HIJ> hi <C 201_BETALEN> betale <C 500_GELIJK> ghelijc <C 484_EEN> ene<A >n</A> <C 0_BROEDER> broed<A >er</A>. 
+<L 167:12> <q> 't% <C 203_HEBBEN> Heft <C 480_EEN> een <C 0_GILDEBROEDER> gulde+broeder <C 11_GAST> gaste <C 403_HIJ> hi <C 210+406_MOGEN+ZIJ> machse <C 250_BRENGEN> bringhen <C 700_MET> met <C 463_HEM> hem <C 700+475_TE+DE> ter 
+<L 167:13> <C 0_MAALTIJD> maltijt. <C 801_NEWAAR> neware <C 406_ZIJ> si <C 214_MOETEN> moeten <C 250_BETALEN> betalen <C 500_GELIJK> ghelijc <C 474_DE/HET> den <C 12_BROEDER> broeders <VN type=1> <q> . 
+<L 167:14> <q> [hand] <q> [F:] <C 421_DIE> Die <C 471_DE> die <C 1_BEL> belle <C 800_EN> ende <C 414_DIE> dien <C 1_VAAN> vane <C 250_HEBBEN> hebbe<A >n</A> <C 211_WILLEN> wille <C 403_HIJ> hie <C 201_BRENGEN> bringhe <C 500_HET-EERST> terst 
+<L 167:15> <C 450_ZIJN> sin <C 101_BEST> beste <C 0_KLEED> cleet 
+<L 167:16> <q> [hand] <q> [G:] <C 321_AL> Alle <C 471_DE> die <C 411_GENE> ghene <C 421_DIE> die <C 214_HEBBEN> hebben <C 274_ZIJN> ghewesen <C 700_TE> te <C 452_MIJN> mines <C 4_HEER> heren <C 101_SINT> sente 
+<L 167:17> <C 22_JACOB> iacobs <C 309_2> .ii. <C 14_WERF> waruen, <C 406_ZIJ> si <C 214_MOGEN> moeghen <C 451_HAAR> hare <C 14_VROUW> vrouen <C 451_HAAR> hare <C 11_WIJF> wiue <C 260_DOEN> doen <C 250_KOMEN> coemmen 
+<L 167:18> <C 470+700_HET+IN> int <C 1_GILDE> gulde <C 701_OM> omme <C 471_DE> die <C 411_ZELF> selue <C 14_STUK> sticken <C 421_DIE> die <C 471_DE> de <VN type=1> <C 411_GENE> ghene <C 100_SCHULDIG> sculdech <C 214_ZIJN> sijn <C 421_DIE> die 
+<L 167:19> <C 273_ZIJN> gheuueset <C 214_HEBBEN> hebben <C 700_TE> te <C 101_SINT> sente <C 22_JACOB> iacobs <C 800_EN> en<A >de</A> <C 700+470_IN+HET> int <C 1_GILDE> gulde <C 214_WILLEN> willen <C 250_GAAN> gaen. <C 800_EN> en<A >de</A> <C 811_ALS> alse 
+<L 167:20> <C 406_ZIJ> si <VN type=1> <C 204_STERVEN> steruen <VN type=1> <C 214_ZIJN> sijn <C 406_ZIJ> si <C 100_SCHULDIG> sculdech <C 451_HAAR> hare <C 101_BEST> beste <C 0_KLEED> cleet <C 474+700_DE/HET+TE> ten <C 1_GILDE> gulde <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 700_VAN> van 
+<L 167:21> <C 474_DE/HET> den <C 114_SCHOON> scoensten <C 14_KAARS> kersen 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 167:23> <C 101_SINT> S<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <C 1_PAROCHIE> prochie <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 167:24> <q> [hand] <q> [Ab:] <q> Anno <q> domini <q> m'ho <q> cc'ho <q> lxxxx'ho <q> primo <q> est <q> facta <q> ordinatio 
+<L 167:25> <q> [hand] <q> [Aa:] <C 440_WAT> Wat <C 10_MAN> man <C 800_OF> of <C 10_WIJF> wiif <C 421_DIE> die <C 470+700_HET+IN> int <C 1_GILDE> Gulde <C 231_WILLEN> wilde <C 250_GAAN> Gaen <C 810_EER> her <C 403_HIJ> hi <C 101+700_SINT+TE> tsente 
+<L 167:26> <C 22_JACOB> jacobs <C 231_HEBBEN> adde <C 274_ZIJN> Gesiin <C 403_HIJ> hi <C 210_MOETEN> moet <C 250_GEVEN> geuen <C 309_14> .xiiii. <C 19_DENARIUS> 't3d. <C 800_EN> en<A >de</A> <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> jare <C 850_DAT> dat 
+<L 167:27> <C 403_HIJ> hi <C 203_INGAAN> in+Gaet, <C 550_ZO> soe <C 210_MOETEN> moet <C 403_HIJ> hi <C 250_VERZOEKEN> versoeken <C 101_SINT> sente <C 21_JACOB> jacoppe <C 700_IN> i<A >n</A> <C 24_GALICIE> Galissien. <C 800_OF> of 
+<L 167:28> <C 250_ZENDEN> Senden <C 104_SUFFICIENT> sufficianten <C 1_BODE> bode <C 700+0_TE+HORS> thors <C 800_OF> of <C 700_TE> te <C 10_VOET> voet <C 700_IN> in <C 4_MANIER> maniren <C 500+820_ER+ALS> alser <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es, <C 210_ZIJN> es 
+<L 167:29> <C 1+412_ZAAK+DAT> dessake <C 810_DAT> dat <C 403_HIJ> hi <C 1_BODE> bode <C 203_ZENDEN> sent <C 210_ZIJN> si <C 700+0_TE+HORS> thors <C 800_OF> of <C 700_TE> te <C 10_VOET> voet <C 510_ALZO> alsoe <C 321_VEEL> vele <C 820_ALS> als <C 403_HIJ> hi <C 474_DE/HET> den <C 1_BODE> bode 
+<L 167:30> <C 203_GEVEN> Geeft <C 421_DIE> die <C 414_DIE> die<A >n</A> <C 0_WEG> wech <C 250_DOEN> doen <C 210_ZULLEN> sal, <C 501_ALZO> alsoe <C 321_VEEL> vele <C 210_MOETEN> moet <C 403_HIJ> hi <C 250_GEVEN> Geuen <C 700+474_TE+DE/HET> ten <C 1_GILDE> Gulde <C 210_ZULLEN> sal 
+<L 167:31> <C 403_HIJ> hi <C 0_BROEDER> broeder <C 250_WORDEN> werden. <C 440_WAT> wat <C 10_MAN> man <C 800_OF> of <C 10_WIJF> wiif <C 421_DIE> die <C 203_LETTEN> let <C 251#_IN-> in <C 251*+700_-GAAN+TE> tegane <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_JAAR> jare 
+<L 167:32> <C 850_ALS> als <C 403_HIJ> hi <C 700+101_TE+SINT> tsente <C 22_JACOB> jacobs <C 213_HEBBEN> heeft <C 274_ZIJN> gesiin. <C 520_DAAR> daer <C 403_HIJ> hi <C 700_MET> met <C 309_14> .xiiii. <C 19_DENARIUS> 't3d <C 250#_IN-> in <C 221_MOGEN> mochte <C 250*_-GAAN> Gaen 
+<L 167:33> <C 203_LIJDEN> lidet <C 0+470_JAAR+HET> tjaer, <C 403_HIJ> hi <C 210_MOETEN> moet <C 250_GEVEN> geue<A >n</A> <C 309_5> .v. <C 19_SOLIDUS> sol. <C 210_ZULLEN> sal <C 403_HIJ> hi <C 0_BROEDER> broeder <C 250_WORDEN> werden. <C 800_EN> ende <C 510_ALZO> alsoe 
+<L 167:34> <C 320_MENIG> menech <C 0_JAAR> jaer <C 820_ALS> als <C 403_HIJ> hi <C 203_LETTEN> let <C 251#_IN-> in <C 700_TE> te <C 251*_-GAAN> Gane, <C 510_ALZO> alsoe <C 320_MENIG> menech <C 309_5> .v. <C 19_SOLIDUS> sol, <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 210_MOETEN> moet 
+<L 167:35> <C 403_HIJ> hi <C 411_ZELF> selue <C 250_LIJDEN> lien <C 700_BIJ> bi <C 454_ZIJN> sinen <C 1_WEG> wege <C 424_DIE> dien <C 403_HIJ> hi <C 221_DOEN> dede, <C 800_OF> of <C 700_OP> vp <C 454_ZIJN> sinen <C 0_EED> heet, <C 500_VOORT> vort <C 560+550_NE+ZO> soen 
+<L 167:36> <C 210_MOGEN> mach <C 440_GEEN> Ghee<A >n</A> <C 0_MAN> man <C 0_BROEDER> broder <C 250_WORDEN> werden <C 830_NE> en <C 200_ZIJN> si <C 810_DAT> dat <C 403_HIJ> hi <C 201_VERZOEKEN> versoeke <C 101_SINT> sente <C 21_JACOB> jacoppe 
+<L 167:37> <C 700_MET> met <C 403_HIJ> siins <C 412_ZELF> selfs <C 1_GOED> Gode, <C 203_GAAN> Gaet <C 403_HIJ> hi <C 700_BIJ> bi <C 1_HUUR> hure, <C 800_OF> of <C 700_VAN> van <C 2_MAN> mans <C 1_DOOD> doede, <C 800_OF> of <C 700_BIJ> bi 
+<L 167:38> <C 1_PENITENTIE> penitentie <C 421_DIE> die <C 440_MEN> men <C 403_HIJ> hem <C 250_GEVEN> geuen <C 210_MOGEN> mach <C 840_ALS> als <C 700_IN> in <C 1_VORM> vorme <C 700_VAN> van <C 1_PAIS> payse, <C 800_EN> en<A >de</A> <C 700_IN> in 
+<L 167:39> <C 440_ZO-WAT> soe+wat <C 14_MANIER> maniren <C 850_DAT> dat <C 403_HIJ> hi <C 474_DE/HET> den <C 0_WEG> wech <C 203_DOEN> doet, <C 830_NE> en <C 231_ZIJN> ware <C 501_PUURLIJK> puurlike, <C 700_IN> i<A >n</A> <C 471_DE> die <C 1_MIN> mi<A >n</A>ne 
+<L 168:1> <C 700_VAN> van <C 101_SINT> sente <C 21_JACOB> jacoppe <C 800_EN> en<A >de</A> <C 700_MET> met <C 455_ZIJN> sire <C 101_PROPER> p<A >ro</A>pre <C 1_KATEEL> cateyle, <C 440_MEN> men <C 403+210_HIJ+ZIJN> esne <C 560_NIET> niet 
+<L 168:2> <C 100_SCHULDIG> sculdech <C 700+251_TE+ONTVANGEN> thontfane. <C 500_VOORT> vort <C 420+0+810_WELK+TIJD+DAT> weltiit+dat <C 471_DE> die <C 14_DEKEN> dekenen <C 0_MAN> man <C 800_OF> ofte <C 0_WIJF> wiif <C 214_WILLEN> willen 
+<L 168:3> <C 250_ONTVANGEN> ontfaen <C 700_OM> om <C 471_DE> die <C 1_PROVENDE> p<A >ro</A>uende <C 700+251_TE+HEBBEN> thebbene <C 700_VAN> van <C 474_DE/HET> den <C 0_HUIS> huis, <C 406_ZIJ> si <C 214+403_MOETEN+HET> moetent <C 260_LATEN> laten 
+<L 168:4> <C 250_WETEN> weten <C 474_DE/HET> den <C 114_OUD> ouden <C 14_DEKEN> dekene<A >n</A> <C 800_EN> en<A >de</A> <C 406+250_ZIJ+ONTBIEDEN> ombiedense <C 700_OP> vp <C 484_EEN> enen <C 104_ZEKER> sekeren <C 0_DAG> dach, 
+<L 168:5> <C 200+406_KOMEN+ZIJ> coemsi, <C 210+410_ZIJN+DAT> dats <C 470+1_HET+GOED> tgoede <C 406+200_ZIJ+KOMEN> coemsi <C 560_NIET> niet, <C 411_DIE> die <C 411_GENE> gene <C 420+500_DIE+ER> dire <C 204_KOMEN> comen <C 440_WAT> wat <C 406+420_ZIJ+DAT> dassi 
+<L 168:6> <C 204_ORDINEREN> ordineren <C 410_DAT> dat <C 214_MOETEN> moete<A >n</A> <C 411_DIE> die <C 111_ANDER> andre <C 250_HOUDEN> ouden <C 101_GESTADE> Gestade, <C 800_EN> en<A >de</A> <C 530_OOK> hoec <C 214_ZIJN> siin <C 406_ZIJ> si <C 560_NIET> niet 
+<L 168:7> <C 100_SCHULDIG> sculdech <C 251+700_ONTVANGEN+TE> thontfane <C 441_IEMAND> hiemene <C 403_HIJ> hi <C 830_NE> ne <C 231_ZIJN> ware <C 100_BEDZIEK> bedde+siic, <C 801_OF> ofte <C 511_ZO> soe <C 100_ARM> harm <C 810_DAT> dat 
+<L 168:8> <C 403_HIJ> hi <C 450_ZIJN> siin <C 0_BROOD> broed <C 250_BIDDEN> bidden <C 231_MOETEN> moeste, <C 800_OF> ofte <C 0+470_LAND+HET> tlant <C 250_RUIMEN> rumen <C 700_VAN> van <C 4_ARMOEDE> armoeden <C 620_WAARBIJ> war+bi 
+<L 168:9> <C 810_DAT> dat <C 470+0_HET+HUIS> thuis <C 0_LASTER> lachter <C 700_VAN> van <C 403_HIJ> hem <C 250_HEBBEN> hebbe<A >n</A> <C 231_MOGEN> mochte <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 210_MOETEN> moet <C 511_ZO> soe <C 100_KLAAR> claer <C 260_WEZEN> wesen 
+<L 168:10> <C 403+810_HET+DAT> dat <C 320_AL> al <C 474_DE/HET> den <C 14_DEKEN> dekenen <C 100_KOND> cont <C 210_ZIJN> es, <C 403+200_HET+ZIJN> eist <C 700_BIJ> bi <C 14_OORKONDE> orconden <C 800_OF> of <C 1_OGELING> hoegelinge <C 700_TE> te <C 251_ZIEN> siene. 
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<L 168:11> <q> tote <q> xx <q> personen <VN type=1> 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:12> <q> [diverse] <q> [handen:] <C 20_JOHANNES> Jan <C 471_DE> de <C 1_JOOD> jude. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:13> <C 20_WILHELM> willem <C 471_DE> de <C 1_JOOD> iude. <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:14> <C 470+0_DE+HEER> Der. <C 20_WILHELM> W<A >illem</A> <C 471_DE> de <C 1_BAKE> bake <C 800_EN> en<A >de</A> <q> [hand] <q> [A] 
+<L 168:15> <C 20_ROBERT> Robbrecht <C 700_VAN> van <C 21_VALENCIENNES> valencine. <q> [hand] <q> [A] 
+<L 168:16> <C 20_AEGIDIUS> Gilis <C 700_VAN> van <C 20_MUSSENBROEK> musschebroec. <q> [hand] <q> [A] 
+<L 168:17> <C 20_JOHANNES> Jan <C 0_MINNEMAN> minneman. <q> [hand] <q> [A] 
+<L 168:18> <C 21_WOUTER> W<A >outre</A> <C 0_VROUW> ver <C 24_EVA> juen <C 1_ZOON> sone <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:19> <C 0+470_HEER+DE> Der <C 20_WILHELM> willem <C 471_DE> de <C 1_JOOD> joede <VN type=1> 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:20> <C 20_GODFRIED> Godeuert <C 20_HUNRUT-X> hunrut <q> [hand] <q> [A] 
+<L 168:21> <C 20_WILHELM> W<A >illem</A> <C 20_HERLEWIJN-X> herlewin <q> [hand] <q> [A] 
+<L 168:22> <C 20_JOHANNES> Jan <C 700_VAN> van <C 100+24_SINT+SINT-TRUIDEN> sentruden. <q> [hand] <q> [A] 
+<L 168:23> <C 20_JOHANNES> Jan <C 700_VAN> van <C 20_LEENS> lens <q> [hand] <q> [A] 
+<L 168:24> <C 20_GODFRIED> Godeuert <C 471_DE> de <C 1_RIDDER> riddre. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='2'>
+
+<L 168:25> <C 20_FILIPPUS> Lippin <C 471_DE> de <C 1_KUIPER> cupre <q> [hand] <q> [A?] 
+<L 168:26> <C 21_HUGO> hughe <C 20_KORTHALS> curthals <q> [hand] <q> [A?] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='2'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<L 168:27> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_KAARSMAKER> kersmacre. <q> [hand] <q> [A] 
+<L 168:28> <C 20_WILHELM> W<A >illem</A> <C 0+472_HEER+DE> ser <C 22_NICOLAAS> Niclaus <C 1_ZOON> sone. <q> [hand] <q> [A] 
+<L 168:29> <C 20_NICOLAAS> Clais <C 700_VAN> van <C 21_LEBBEKE> lebbeke <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:30> <C 0_VROUW> ver <C 21_TRAME> trame <C 22_DIEDERIK> dederix <C 2_NAALDENMAKER> naeldemakers <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:31> <C 20_ARNOUT> Arnout <C 700_VAN> van <C 24_LEDE> leden. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:32> <C 20_WILHELM> willem <C 1_SLOOF-X> sloeue <q> [hand] <q> [?] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1301' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<C 800_EN> en<A >de</A> <C 21+0_MARGARETA+VROUW> v<A >er</A>mag<A >ri</A>ete <C 450_ZIJN> siin <C 0_WIJF> wiif <q> [[hand] <q> [Ab] 
+<end-datering  jaar_tot='1301' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:33> <C 21_WOUTER> W<A >outre</A> <C 21_WUHE?> wuhe <q> [hand] <q> [A] 
+<L 168:34> <C 20_SIMON> Symon <C 700_VAN> van <C 20_RAVESCHOOT> rauenscot. <q> [hand] <q> [A] 
+<L 168:35> <C 20_WILHELM> W<A >illem</A> <C 0_VROUW> ver <C 24_ELISABETH> lisbetten <C 1_ZOON> sone. <q> [hand] <q> [A] 
+<L 168:36> <C 20_HENDRIK> Heinric <C 471_DE> de <C 0_MEERSMAN> mersman <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> de <C 24_LEMBERGE> le<A >m</A>b<A >er</A>ghe<A >n</A> 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:37> <C 20_BOUDEWIJN> Boidin <C 700_DOOR> dur <C 474_DE/HET> den <C 0_TUIN> tuun <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:38> <C 470+0_DE+HEER> Der <C 21_WOUTER> Woutere <C 700_VAN> van <C 14_BERG> b<A >er</A>ghen <C 471_DE> de <C 1_BAKKER> backere <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:39> <C 20_LIEVEN> Lieuin <C 700_VAN> van <C 20_ZOMERGEM> zomerghem. <q> [hand] <q> [A] 
+<L 168:40> <C 20_RAAS> Raes <C 700_VAN> van <C 475_DE/HET> der <C 14_HEERSTAD> heresteden. <VN type=1> <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:41> <C 20_GERARD> gherrart <C 0_KLERK> clerc <q> [hand] <q> [W] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:42> <C 20_BOUDEWIJN> Boidin <C 0_SMID> smet <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 168:43> <C 20_HENDRIK> heinric <C 700_VAN> van <C 20_SURS> surs <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 168:44> <C 20_SIMON> Symon <C 0_KLINKAARD-X> clinkart. <q> [hand] <q> [A] 
+<L 169:1> <C 20_GOSWIJN> Gosin <C 700_VAN> van <C 21_WETTEREN> wettre. <q> [hand] <q> [A] 
+<L 169:2> <C 21_SIEGER> Seghere <C 471_DE> de <C 0_SMID> smet. <q> [hand] <q> [A] 
+<L 169:3> <C 20_WILHELM> W<A >illem</A> <C 20_KRAAIMAN> craiman. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:4> <C 20_WILHELM> Willem <C 20_RALOOS-X> raloes <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:5> <C 20_NICOLAAS> Niclaus <C 471_DE> de <C 1_GRAUWWERKER> grauwerkere. <q> [hand] <q> [A] 
+<L 169:6> <C 20_FRANCISCUS> Soi <C 700_VAN> van <C 21_DEINZE> doinse. <q> [hand] <q> [A] 
+<L 169:7> <C 20_BOUDEWIJN> Boidin <C 20_SMIK-X> smiec <q> [hand] <q> [A] 
+<L 169:8> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_BAARDMAKER> bartmacre. <q> [hand] <q> [A] 
+<L 169:9> <C 20_MICHAEL> Miechiel <q> de <C 21_AKSEL> Axle <q> pistor <q> [hand] <q> [A] 
+<L 169:10> <C 20_THOMAS> doemaas <C 471_DE> de <C 0_HOUTMAN> houtman <q> [hand] <q> [A] 
+<L 169:11> <C 20_FRANCISCUS> Soi <C 471_DE> de <C 0_SMID> smet <q> [hand] <q> [A] 
+<L 169:12> <C 20_WILHELM> W<A >illem</A> <C 20_RIJM> rijm <q> [hand] <q> [A] 
+<L 169:13> <C 20_HENDRIK> Heinric <C 0_DRELING-X> drelinc <q> [hand] <q> [A] 
+<L 169:14> <C 20_JOHANNES> Jan <C 700_VAN> van <C 21_VIJVE> viue. <q> [hand] <q> [A] 
+<L 169:15> <C 20_IWEIN> Wein <C 474+700_DE/HET+UIT> vten <C 1_HOEK> hoeke. <q> [hand] <q> [A] 
+<L 169:16> <C 21_SIEGER> Segre <C 471_DE> de <C 101_WIT> witte <C 1_BAKKER> bacre. <q> [hand] <q> [A] 
+<L 169:17> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_KETELBOETER> ketelboetre <q> [hand] <q> [A] 
+<L 169:18> <C 20_MICHAEL> michiel <C 471_DE> de <C 0_BOK> buc <C 700_VAN> van <C 21_IEPER> ipre <VN type=1> <q> [hand] <q> [A] 
+<L 169:19> <C 20_GODFRIED> Godeuert <C 471_DE> de <C 0_HOOIMAN> hoiman. <q> [hand] <q> [A] 
+<L 169:20> <C 20_BOUDEWIJN> Boidin <C 700_VAN> van <C 21_DESTELBERGEN> desle. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 800_EN> en<A >de</A> <C 450_ZIJN> sijn <C 0_WIJF> wijf 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1301' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+
+<L 169:21> <C 22_BOUDEWIJN> Boidijns <C 0_WIJF> wijf <C 700_VAN> van <C 21_DESTELBERGEN> desle <q> [hand] <q> [Aa] 
+<end-datering  jaar_tot='1301' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:22> <C 20_WILHELM> W<A >illem</A> <C 471_DE> de <C 21_BEER> berre. <q> [hand] <q> [A] 
+<L 169:23> <C 20_BOUDEWIJN> Boidin <C 700_VAN> van <C 20_LOVENDEGHEM> louendenghem <q> [hand] <q> [A] 
+<L 169:24> <C 20_DIEDERIK> Diederic <C 0_MEERSMAN> mersman. <q> [hand] <q> [A] 
+<L 169:25> <C 21_RAAS> Race <C 471_DE> de <C 0_HOUTMAN> houtman <q> [hand] <q> [A] 
+<L 169:26> <C 21_WOUTER> W<A >outre</A> <C 20_KALLAARD> callart <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:27> <C 20_JOHANNES> Jan <C 700_VAN> van <C 21_VELZEKE> velseke <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:28> <C 20_PASCHALIS> Passelin <C 700_VAN> van <C 21_BRUGGE> brughe. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:29> <C 20_JACOB> Jacob <C 0_ASMAN-X> ascheman. 
+<L 169:30> <C 0_VROUW> ver <C 21_MARGARETA> meregriete <C 20_EL> els 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:31> <C 20_JOHANNES> Jan <C 0+472_HEER+DE> ser <C 22_LAURENTIUS> lourens <C 1_ZOON> sone. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 800_EN> en<A >de</A> <C 450_ZIJN> sin <C 0_WIJF> wif <C 309_20> xx <C 19_SOLIDUS> sol <C 700+454_TE+HAAR> taren <C 104_BEST> besten 
+<L 169:32> <C 1_KLEED> clede. <q> [hand] <q> [?] <C 800_EN> en<A >de</A> <C 403_ZIJ> soe <C 210_ZIJN> es <C 100_DOOD> doet <q> [[hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:33> <C 20_JOHANNES> Jan <C 700_VAN> uan <C 21_MEERHOUT> merhoute. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:34> <C 29_KOENRAAD> Coenradus <C 471_DE> de <C 0_OOSTERLING> hoesterlinc <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:35> <C 20_WEDERIK> Wederic <C 471_DE> de <C 0_KLEEDKUTS> cleder+cuts. <q> [hand] <q> [A] 
+<L 169:36> <C 20_JORDAAN> Jordaan <C 471_DE> de <C 0_KLEEDKUTS> cledercuts. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:37> <C 470+0_DE+HEER> Daer <C 20_JOHANNES> ian <C 20_SCHOREEL-X> scoreel <C 1_GRAUWWERKER> graeuw<A >er</A>k<A >er</A>e 
+<L 169:38> <C 20_BOUDEWIJN> boydijn <C 20_SMIK-X> smiec <q> [hand] <q> [Y] 
+<L 169:39> <C 800_EN> En<A >de</A> <C 0+21_VROUW+CATHARINA> v<A >er</A>kateline <C 20_BOUDEWIJN> boydijn <C 22_SMIK-X> smiecs <C 0_WIJF> wijf <q> [hand] <q> [Y] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:40> <C 20_LAMBERT> Lambrecht <C 471_DE> de <C 1_MOLENAAR> molnerre <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 169:41> <C 0+21_VROUW+ELISABETH> verlisebette <C 472+0_DE+HEER> ser <C 20_WOUTER> woytijn <C 22_STOKMAN-X> stoc+ma<A >n</A>s 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 169:42> <C 20_WILHELM> W<A >illem</A> <C 21_SPERMALIE> sparmalge. <q> [hand] <q> [A] 
+<L 169:43> <C 20_GOSWIJN> Gosin <C 700_VAN> van <C 1_HUISE> huse <q> [hand] <q> [A] 
+<L 169:44> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_BRABANDER> brabantre <q> [hand] <q> [A] 
+<L 169:45> <C 20_JOHANNES> Jan <C 471_DE> de <C 0_RAAD> raat. <q> [hand] <q> [A] 
+<L 170:1> <C 20_BOUDEWIJN> Boidin <C 700_VAN> van <C 24_OUDENHOVE> oudenhouen. <q> [hand] <q> [A] 
+<L 170:2> <C 20_GERARD> Gherart <C 700_VAN> van <C 21_KEULEN> colne. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:3> <C 21_ELISABETH> lizebette <C 22_JACOB> iacobs <C 0_JONKWIJF> ioncwiif <C 472+0_DE+HEER> ser <C 22_LAMBERT> lammerechts <C 1_ZOON> sone <q> [hand] <q> [Z] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:4> <C 21_RAAS> Race <C 700_VAN> van <C 21_HANSBEKE> ansbeke. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:5> <C 20_WILHELM> Willem <C 20_DOEDE> doedekin <q> [hand] <q> [Z] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:6> <C 21_WOUTER> W<A >outre</A> <C 700_VAN> van <C 474_DE/HET> den <C 1_DAM> damme. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:7> <C 21_ELISABETH> Lizebette <C 472+0_DE+HEER> ser <C 22_JACOB> iacobs <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:8> <C 21_HUGO> Hughe <C 20_KORTHALS> curthals <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:9> <C 0+470_HEER+DE> Der <C 20_PETRUS> pieter <C 700_VAN> van <C 21_WACHIN> wachkine <q> [hand] <q> [Z] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:10> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_LIJNMAKER> linemacre. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:11> <C 20_JOHANNES> Jan <C 472+0_DE+HEER> ser <C 22_HENDRIK> heinrix <C 1_ZOON> sone <C 700_VAN> van <C 21_LEMBERGE> lemberghe <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:12> <C 20_LEONHARD> Lennoot <VN type=1> <C 471_DE> de <C 1_TOLLENAAR> tolnerre. <q> [handA] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:13> <C 20_ARNOUT> Arnout <C 471_DE> de <C 0_HEEKT> heect <q> [hand] <q> [G?] 
+<L 170:14> <C 20_BOUDEWIJN> Boidin <C 471_DE> de <C 1_MEDEBLANDER> medeblandre <q> [hand] <q> [a] 
+<L 170:15> <C 0_VROUW> Ver <C 21_ADELHEID> alise <q> de <C 21_ELSENE> elsine <q> [hand] <q> [H] 
+<L 170:16> <C 20_BOUDEWIJN> Boidin <C 0_AAK-X> aec <q> [hand] <q> [a] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1301' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 170:17> <C 21+0_ELISABETH+VROUW> verlisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf <q> [hand] <q> [Aa] 
+<end-datering  jaar_tot='1301' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 170:18> <C 20_FRANCISCUS> Soi <C 700_VAN> van <C 21_MECHELEN> maechline <q> [hand] <q> [a] 
+<L 170:19> <C 0+470_HEER+DE> Der <C 20_JACOB> jacob <C 0_STRAAL> strael <q> [hand] <q> [Y] 
+<L 170:20> <C 800_EN> En<A >de</A> <C 21+0_ELISABETH+VROUW> verlisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf <q> [hand] <q> [Y] 
+<L 170:21> <C 20_GIJSBERT> ghiselbrecht. <C 700_VAN> va<A >n</A>. <C 21_DIKKELVENNE> dickeluene <q> [hand] <q> [a] 
+<L 170:22> <C 470+0_DE+HEER> der <C 20_WILHELM> willem <C 471_DE> de <C 1_KAARDENMAKER> cardemakere <q> [hand] <q> [a] 
+<L 170:23> <C 20_WILHELM> willem <C 700_VAN> van <C 1_MELSEN> melzele <q> [hand] <q> [a] 
+<L 170:24> <C 20_JOHANNES> Jan <C 471_DE> de <C 0_MOL> mol <q> [hand] <q> [a] <q> et <q> vxor <C 403_ZIJ> soe <C 210_HEBBEN> haef <C 273_VERDINGEN> v<A >er</A>dincht <C 451_HAAR> are <C 0_DOOD> doet <C 701_OM> omme <C 309_20> xx 
+<L 170:25> <C 19_SOLIDUS> sol 
+<L 170:26> <C 20_FRANCISCUS> Soi <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_BAVO> baues <q> [hand] <q> [a] 
+<L 170:27> <C 20_WOUTER> wout<A >er</A> <C 0_BIER> bier <q> [hand] <q> [a] 
+<L 170:28> <C 20_WOUTER> weityn <C 1_BOON> bone <q> [hand] <q> [a] 
+<L 170:29> <C 20_WILHELM> willem <C 20_HUNRUT-X> hunrut. <q> [hand] <q> [b] 
+<L 170:30> <C 20_RUDOLF> Rolf <C 700_VAN> van <C 20_BALIGANT> baligant <q> [hand] <q> [b] 
+<L 170:31> <C 20_WILHELM> willem <C 22_SIMON> simo<A >n</A>s <C 104_RIJK> riken <C 1_KNAAP> cnape <q> [hand] <q> [b?] 
+<L 170:32> <C 20_PAULUS> pauwels <C 471_DE> de <C 1_VILTER> viltre. <q> [hand] <q> [b] 
+<L 170:33> <C 20_DIEDERIK> diederjc <C 20_MULOK> muloc <q> [hand] <q> [c] 
+<L 170:34> <C 20_BOUDEWIJN> boidin <C 700_VAN> van <C 20_RONSELE> ronslo <q> [hand] <q> [c] 
+<L 170:35> <C 20_HEINHOK> heinhoc <q> [hand] <q> [c] 
+<L 170:36> <C 20_WILHELM> willem <C 1_BRABANDER> brabantre <q> [hand] <q> [b] 
+<L 170:37> <C 21_JUDITH> jute <C 22_RAAS> raas <C 0_WIJF> wif <C 700_VAN> van <C 21_HANSBEKE> ansbeke <q> [hand] <q> [b] 
+<L 170:38> <C 20_JOHANNES> jan <C 20_LANGROK-X> langheroc <q> [hand] <q> [b] 
+<L 170:39> <C 20_WILHELM> willem <C 700_VAN> van <C 21_BOECHOUTE> bouchoute <q> [hand] <q> [b] 
+<L 170:40> <C 20_JACOB> jacob <C 20_KRAAIMAN> craiman <q> [hand] <q> [b] 
+<L 170:41> <C 0_VROUW> ver <C 21_HEILE> heille <C 20_WILHELM> willem <C 22_KRAAIMAN> craimans <C 0_WIJF> vif <q> [hand] <q> [b] 
+<L 170:42> <C 20_GOSWIJN> gosin <q> de <C 20_ZEVERGEM> sewergem <q> [hand] <q> [G?] 
+<L 170:43> <C 20_JOHANNES> jan <C 471_DE> de <C 1_MESMAKER> mesmakere <q> [hand] <q> [G?] 
+<L 170:44> <C 20_JOHANNES> jan <C 21_GOOL> gole <C 800_EN> en<A >de</A> <C 450_ZIJN> siin <C 0_WIJF> wiif <q> [hand] <q> [G?] 
+<L 170:45> <C 20_PETRUS> pieter <C 471_DE> de <C 1_SCHREUDER> scrodere <q> [hand] <q> [G?] 
+<L 171:1> <C 20_SIMON> Symon <C 20_RIJNVIS-X> rinvisch <q> [hand] <q> [d] 
+<L 171:2> <C 29_WASSELIJN> wasselinus <q> de <q> atrio <q> [hand] <q> [d] 
+<L 171:3> <C 20_GERARD> Gherard <C 20_BLESSAARD-X> blessard <q> [hand] <q> [G?] 
+<L 171:4> <C 20_GOSWIJN> gosin <C 20_SAMA-X> sama 
+<L 171:5> <C 20_WILHELM> willem <C 471_DE> de <C 1_KAARDENMAKER> kardemakere 
+<L 171:6> <C 20_NICOLAAS> clais <C 474+700_DE/HET+UIT> ute<A >n</A> <C 1_BERG> berghe <C 800_EN> en<A >de</A> <C 0+21_VROUW+MARGARETA> v<A >er</A>mergriete <C 450_ZIJN> sin <C 0_WIJF> wiif <VN type=1> <q> [hand] <q> [e] 
+<L 171:7> <C 0_VROUW> v<A >er</A> <C 21_MARGARETA> mergriete <C 700+474_UIT+DE/HET> vte<A >n</A> <C 1_BERG> berghe <C 309_20> xx <C 19_SOLIDUS> 't3s <C 700+475_TE+DE> t<A >er</A> <C 0_DOOD> doet <q> [hand] <q> [e] 
+<L 171:8> <C 29_ADELHEID> Adelisa <q> de <q> sancto <q> trudone <q> [hand] <q> [f] 
+<L 171:9> <C 20_DANIEL> danel <C 471_DE> de <C 101_WIT> witte <q> [hand] <q> [f] 
+<L 171:10> <C 20_WILHELM> willem <C 0_WOESTLAND> woestelant <C 700_VAN> van <C 21_BASSEVELDE> basseuelde <q> [hand] <q> [f] 
+<L 171:11> <C 20_AEGIDIUS> gielkin <C 24_STRIJPEN> stripen <q> [hand] <q> [f] 
+<L 171:12> <C 20_GOSWIJN> gosin <C 700_VAN> van <C 475_DE/HET> der <C 4_STEENBRUG> steenbrugghe<A >n</A> <C 471_DE> de <C 1_BAKER> bakere <q> mortuus <q> [hand] <q> [f] 
+<L 171:13> <C 20_CHRISTIAAN> Cerstian <C 471_DE> de <C 1_WOLSLAGER> wlslagre 
+<L 171:14> <C 0+470_HEER+DE> der <C 20_HENDRIK> heinric <C 21_TRUISER-X> trusere 
+<L 171:15> <C 20_JACOB> iacob <C 470+0_DE+AMMAN> damman. <q> [hand] <q> [d] 
+<L 171:16> <C 20_JOHANNES> ian <C 700_VAN> van <C 21_ZWIJNAARDE> zuinarde. <q> [hand] <q> [d] 
+<L 171:17> <C 20_JOHANNES> ian <C 700_VAN> van <C 21_BASSEVELDE> basseuelde. <q> [hand] <q> [d] 
+<L 171:18> <C 20_JACOB> iacob <C 471_DE> de <C 1_KUIPER> cupere. <q> [hand] <q> [d] 
+<L 171:19> <C 470+0_DE+HEER> der <C 20_FILIPPUS> philips <C 20_BRUIS-X> brusch <q> mortuus 
+<L 171:20> <C 20_BOUDEWIJN> boidin <C 700_VAN> van <C 475_DE/HET> der <C 1_HAAG> aghe <q> [hand] <q> [g] 
+<L 171:21> <C 20_LAURENTIUS> laurin <C 20_MARTIN> martin <q> [hand] <q> [g] 
+<L 171:22> <C 20_NICOLAAS> clais <C 0+472_HEER+DE> ser <C 22_FRANCISCUS> sois <C 1_ZOON> sone <q> [hand] <q> [g] 
+<L 171:23> <C 20_HENDRIK> heinric <C 0_ASMAN-X> ascman <VN type=1> <q> [hand] <q> [g] 
+<L 171:24> <C 20_NICOLAAS> clais <C 700_VAN> van <C 21_VEURNE> vurne <q> [hand] <q> [g] 
+<L 171:25> <C 20_BOUDEWIJN> boidin <C 20_PINCEHALLING> pintsallinc <VN type=1> <q> [hand] <q> [g] 
+<L 171:26> <C 20_NICOLAAS> clais <C 700_VAN> van <C 20_MENDONK> mendonc <q> [hand] <q> [g] 
+<L 171:27> <C 20_DANIEL> danel <C 471_DE> de <C 1_KOUSENMAKER> cousmakre <C 800_EN> en<A >de</A> <C 450_ZIJN> sijn <C 0_WIJF> wijf <q> [hand] <q> [g] 
+<L 171:28> <C 20_DIEDERIK> diederic <C 22_HERMAN> hermans <C 1_ZOON> sone <VN type=1> <q> [hand] <q> [g] 
+<L 171:29> <C 20_ARNOUT> arnout <C 471_DE> de <C 1_PAAP> pape <q> [hand] <q> [g] 
+<L 171:30> <C 20_JOHANNES> jan <C 20_APOLLONIUS?> lonis. <q> [hand] <q> [g] 
+<L 171:31> <C 21_PETRUS> pietre <C 471_DE> de <C 1_BRABANDER> brabantere <q> [hand] <q> [h] 
+<L 171:32> <C 20_JOHANNES> Jan <C 1_MUIL> mule <q> [hand] <q> [h] 
+<L 171:33> <C 20_WILHELM> willem <C 700_VAN> van <C 21_PITVELD-X> pittevelde <q> [hand] <q> [h] 
+<L 171:34> <C 21_WOUTER> Woutre <C 700_VAN> van <C 21_ZWIJNAARDE> zuinaerde <q> [hand] <q> [h] 
+<L 171:35> <C 20_WOUTER> Woitin <C 471_DE> de <C 1_KAARDENMAKER> cardemacre <q> [hand] <q> [h] 
+<L 171:36> <C 20_GERARD> gheraert <C 700_VAN> van <C 21_LOKEREN> lokerne <q> [hand] <q> [h] 
+<L 171:37> <C 20_WILHELM> Willem <C 700_VAN> van <C 474_DE/HET> den <C 1_TOREN> torre <q> [hand] <q> [h] 
+<L 171:38> <C 20_PETRUS> pieter <C 471_DE> de <C 0_MOOR> moer <q> [hand] <q> [h] 
+<L 171:39> <C 21_HUGO> hughe <C 471_DE> de <C 1_KAARSMAKER> kersemacre <q> [hand] <q> [h] 
+<L 171:40> <C 20_WILHELM> willem <C 0_STRAAL> strael <C 800_EN> en<A >de</A> <C 20_GEERTRUIDA> ghetrud <C 450_ZIJN> sin <C 0_WIJF> wif <C 800_EN> en<A >de</A> <C 20_JACOB> iacob <C 450_ZIJN> sin <C 1_ZOON> sone <q> [hand] <q> [h] 
+<L 171:41> <C 20_FILIPPUS> philips <C 20_SAMU'S1EL> samuel. <q> [hand] <q> [h] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 171:43> <C 410_DIT> Dit <C 214_ZIJN> sin <C 471_DE> de <C 11_DODE> dode <C 700+475_UIT+DE> hut<A >er</A> <C 4_PAROCHIE> prohien <C 101_SINT> s<A >an</A>c<A >t</A>e <C 22_JACOB> Jacobs <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:1> <C 20_JOHANNES> Jan <C 471_DE> de <C 21_JOOD> ieude <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:2> <C 20_JOHANNES> Jan <C 471_DE> de <C 21_BAKE> bake <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:3> <C 20_SIMON> Simoen <C 700_VAN> van <C 0_RAVESCHOOT> rauenscoet <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:4> <C 20_JACOB> Jacomin <C 0+472_HEER+DE> ser <C 22_DIEDERIK> diederics <C 2_MEERSMAN> mersmans <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:5> <C 20_BOUDEWIJN> boidijn <C 700_DOOR> deur <C 474_DE/HET> den <C 0_TUIN> tuun <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:6> <C 20_WILHELM> W<A >illem</A> <C 1_BLOEM> bloeme <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:7> <C 20_LIEVEN> liewijn <C 700_VAN> van <C 20_ZOMERGEM> zomergem <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:8> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_GRAUWWERKER> grauwerkere. <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:9> <C 470+0_DE+HEER> der <C 20_WOUTER> Wouter <C 471_DE> de <C 0_WAARD> wart <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:10> <C 20_HENDRIK> Heinric <C 20_VOLKAARD-X> folkart <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:11> <C 20_VOLKOUT> wolcout <C 471_DE> de <C 0_WAARD> wart <q> [hand] <q> [H] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:12> <C 21_ADELHEID> Adelice <C 700_VAN> van <C 20_POT> pots <q> [hand] <q> [A] 
+<L 172:13> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_KETELBOETER> ketelboetre <q> [hand] <q> [A] 
+<L 172:14> <C 20_EVERHARD> Euerart <C 0_MOND> mont <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:15> <C 0_VROUW> v<A >er</A> <C 21_MARGARETA> mergriete <C 22_WETSTEEN> vetsteens 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 172:16> <C 20_JOHANNES> Jan <C 0_VROUW> ver <C 24_EVA> Juen <C 1_ZOON> sone <q> [hand] <q> [A] 
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 172:17> <C 20_RUDOLF> Roolf <C 471_DE> de <C 1_KASSEIE> kelchide <q> [hand] <q> [i] 
+<L 172:18> <C 20_SIMON> Symeon <C 1_HUIDENVETTER> hudeuettre <q> [hand] <q> [i] 
+<L 172:19> <C 21_MARGARETA> Margareta <C 24_RAAS> rasen <C 2_GRAUWWERKER> grauwerkers <q> [hand] <q> [i] 
+<L 172:20> <C 20_JACOB> Jacop. <C 22_NICOLAAS> clais <C 2_GRAUWWERKER> Grauuerkers <C 1_ZOON> soene 
+<L 172:21> <C 20_MICHAEL> mhieil <VN type=1> <C 1_GRAUWWERKER> grauuerk<A >re</A> 
+<L 172:22> <C 20_JOHANNES> Johan <C 700_VAN> van <C 101_SINT> sinte <C 24_GEERTRUIDA> truden <q> [hand] <q> [G] 
+<L 172:23> <C 20_WILHELM> vvillem <C 471_DE> de <C 1_BAKE> bake <q> [hand] <q> [G] 
+<L 172:24> <C 0+21_VROUW+AGNES> vernete <C 472+0_DE+HEER> sar <C 22_FRANCISCUS> sois <C 0_WIJF> wif <C 700_VAN> van <C 21_MECHELEN> macheline <q> [hand] <q> [J] 
+<L 172:25> <C 20_THOMAS> domas <C 471_DE> de <C 20_HOUTMAN> houtemain 
+<L 172:26> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_BRABANDER> brabantre. <q> [hand] <q> [d?] 
+<L 172:27> <C 20_JOHANNES> Jan <C 471_DE> de <C 1_KAARSMAKER> kers+makere. <q> [hand] <q> [d?] 
+<L 172:28> <C 470+0_DE+HEER> der <C 20_FILIPPUS> philips <C 20_BRUIS-X> brusch 
+<L 172:29> <C 0+21_VROUW+HEILE> vreile <C 472+0_DE+HEER> ser <C 22_WOUTER> woutersoets <q> [hand] <q> [j] 
+<L 172:30> <C 0_VROUW> ver <C 21_ELISABETH> lisbette <C 472+0_DE+HEER> ser <C 22_HENDRIK> heinrichs <C 2_DRELING-X> drelinx <q> [hand] <q> [j] 
+<L 172:31> <C 470+0_DE+HEER> der <C 20_JOHANNES> Jan <C 0_VROUW> ver <C 24_SARA> sarren <C 1_ZOON> sone <q> [hand] <q> [j] 
+<L 172:32> <C 20_PETRUS> pieter <C 472+0_DE+HEER> ser <C 20_DIEDERIK> diederich <C 2_MEERSMAN> mersmans <C 1_ZOON> sone <q> [hand] <q> [j] 
+<L 172:33> <C 470+0_DE+HEER> der <C 20_HENDRIK> heinric <C 471_DE> de <C 1_TRUISER-X> trusere <q> [hand] <q> [j] 
+<L 172:34> <C 20_JOHANNES> ian <C 1_MUIL> mule <q> [hand] <q> [G] 
+<L 172:35> <C 20_DIEDERIK> diederic <C 20_BEVELAND> beuelant <q> [hand] <q> [G] 
+<L 172:36> <C 20_DIEDERIK> diederic <C 20_MULOK> muloec <q> [hand] <q> [G] 
+<L 172:37> <C 20_WILHELM> willem <C 700_VAN> van <C 21_MAALTE> maelte <q> [hand] <q> [G] 
+<L 172:38> <C 20_DIEDERIK> diederic <C 471_DE> de <C 1_NAALDENMAKER> naeldemakere <q> [hand] <q> [G] 
+<L 172:39> <C 0+470_HEER+DE> der <C 20_HENDRIK> heinric <C 0_HAARKIND-X> heurkint <q> [hand] <q> [G] 
+<L 172:40> <C 0+470_HEER+DE> der <C 20_HENDRIK> heinric <C 471_DE> de <C 1_PAAP> pape <C 471_DE> de <C 1_WEVER> weuere <q> [hand] <q> [G] 
+<L 172:41> <C 20_JACOB> iacob <C 700_VAN> van <C 21_DIKSMUIDE> dixmude <q> [hand] <q> [G] 
+<L 172:42> <C 0+470_HEER+DE> der <C 20_SIMON> simoen <C 20_RIJNVIS-X> rijnvisch <q> [hand] <q> [G] 
+<L 172:43> <C 0+470_HEER+DE> der <C 20_WASSELIJN> wasselijn <C 700_VAN> van <C 474_DE/HET> den <C 1_KERKHOF> kercoue <q> [hand] <q> [G] 
+<L 172:44> <C 20_PETRUS> pieter <C 471_DE> de <C 1_SCHREUDER> scroedere <q> [hand] <q> [G] 
+<L 172:45> <C 0+470_HEER+DE> der <C 21_WOUTER> woutere <C 0_VROUW> ver <C 24_EVA> ieuen <C 1_ZOON> soene <q> [hand] <q> [G] 
+<L 173:1> <C 0+470_HEER+DE> der <C 20_GODFRIED> godeuert <C 20_HUNRUT-X> hunrut <q> [hand] <q> [G] 
+<L 173:2> <C 470+0_DE+HEER> der <C 20_WILHELM> willem <C 20_HERLEWIJN-X> herlewijn <q> [hand] <q> [G] 
+<L 173:3> <C 20_JOHANNES> ian <C 700_VAN> van <C 100_SINT> sent <C 24_GEERTRUIDA> truden <q> [hand] <q> [G] 
+<L 173:4> <C 0+470_HEER+DE> der <C 20_GODFRIED> goedeuert <C 471_DE> de <C 1_RIDDER> riddere <q> [hand] <q> [G] 
+<L 173:5> <C 20_FILIPPUS> lippin <C 471_DE> de <C 1_KUIPER> cupre <q> [hand] <q> [G] 
+<L 173:6> <C 0+470_HEER+DE> der <C 20_WILHELM> willem <C 472+0_DE+HEER> ser <C 22_NICOLAAS> niclaus <C 1_ZOON> soene <q> [hand] <q> [G] 
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+
+<L 173:8> <q> [hand] <q> ['t%] <q> [Ab:] <q> Anno <q> domini <q> millesimo <q> ducentesimo <q> nonog'hm'ho <q> septimo 
+<L 173:9> <q> intrauerunt <q> confraternitatem <q> isti 
+<L 173:10> <C 450_MIJN> miin <C 1_HEER> here <C 21_RAAS> rase <C 700_VAN> van <C 21_LIEDEKERKE> liedekerke <C 1_RIDDER> riddere 
+<L 173:11> <C 450_MIJN> miin <C 1_HEER> here <C 20_GERARD> Geraerd <C 700_VAN> van <C 20_AA> ha. <C 1_RIDDER> riddere 
+<L 173:12> <C 20_HENDRIK> heinric <C 20_TUIN> thuin 
+<L 173:13> <C 450_MIJN> miin <C 1_HEER> here <C 20_SIMON> symoen <C 700_VAN> van <C 20_DESTELDONK> desseldonc <C 1_RIDDER> riddere 
+<L 173:14> <C 800_EN> en<A >de</A> <C 450_MIJN> mijn <C 1_VROUW> vrouwe <C 0_VROUW> ver <C 21_ADELHEID> alise <C 450_ZIJN> siin <C 0_WIJF> wijf <C 1_VROUW> vrouwe <C 700_VAN> van <C 21_TEMSE> teemseke <C 800_EN> en<A >de</A> <C 700_VAN> van 
+<L 173:15> <C 101_SINT> sente <C 22_JOHANNES> jans <C 700_TE> te <C 1_STEEN> steene 
+<L 173:16> <C 20_HENDRIK> heinric <C 0_HAAK> haec <C 471_DE> die <C 0_KLERK> clerc 
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+
+<L 173:17> <q> 't% <q> nonag'hm'ho <q> octauo 
+<L 173:18> <C 20_AEGIDIUS> Gillis <C 20_BOUDEWIJN> boud <C 471_DE> die <C 0_KLERK> clerc 
+<L 173:19> <C 20_BOUDEWIJN> boidiin <C 471_DE> die <C 100_IJZEREN> hyseriin 
+<L 173:20> <C 20_JACOB> jacob <C 471_DE> die <C 1_KOUSENMAKER> cousemak<A >er</A>e 
+<L 173:21> <C 20_EVERHARD> Eueraerd <C 20_LIEVEKIND-X> lieuekint 
+<L 173:22> <C 0+470_HEER+DE> der <C 20_WILHELM> willem <C 471_DE> die <C 1_JOOD> jode 
+<L 173:23> <C 21_RAAS> Rase <C 700_VAN> van <C 20_HOUTEM> houtheem 
+<L 173:24> <q> in <q> eodem <q> anno <q> feria <q> quarta <q> ante <q> natiuitatem <q> beate <q> marie 
+<L 173:25> <C 20_DIEDERIK> diederic <C 0_BAARS> baers <C 471_DE> die <C 1_GRAUWWERKER> g<A >ra</A>werk<A >er</A>e <q> promisit <q> visitare <C 29_COMPOSTELLA> compostellam 
+<L 173:26> <q> infra <q> annum <q> prout <q> decet <q> & <q> est <q> consuetum. 
+<L 173:27> <q> & <C 26_MARGARETA> marg<A >areta</A> <q> eius <q> vxor <q> eodem <q> anno <q> decessit 
+<L 173:28> <C 0+470_HEER+DE> der <C 21_HUGO> huge <C 0+472_HEER+DE> ser <C 22_APOLLONIUS> lonis <C 1_ZOON> sone <q> decessit <q> in <q> via <C 109_ROMEINS> Romana <q> vnus <q> de <q> xxxix 
+<L 173:29> <q> scabinorum 
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+
+<L 173:30> <q> Anno <q> domini <q> m'ho <q> ccc'ho 
+<L 173:31> <C 20_JOHANNES> jan <C 471_DE> die <C 1_POTTER> pottere 
+<L 173:32> <C 20_HENDRIK> heinric <C 20_TOLVIN> tolvin 
+<L 173:33> <C 20_JOHANNES> jan <C 20_RAAS> raes <C 2_SPIERING> spirinx <C 1_ZOON> sone 
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+
+<L 173:34> <C 20_JOHANNES> jan <C 700_VAN> van <C 20_BALOU> balou <C 203_GEBREKEN> ghebrect <q> [hand] <q> ? 
+<end-atlas_kenmerk  atlas_kenmerkkode='.H.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

@@ -1,0 +1,39 @@
+<header>
+<docId>0548</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 798:46> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> G<A >ra</A>ue <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_DOEN> doen <C 100_KOND> cont <C 321_AL> alle <C 474_DE> dien <C 414_GENE> ghenen <C 421_DIE> d[ie] <C 414_DEZE> desen 
+<L 799:1> <C 0_BRIEF> brief <C 214_ZULLEN> solen <C 250_ZIEN> sien <C 801_OF> jofte <C 250_HOREN> horen. <C 810_DAT> Dat <C 404_WIJ> wi <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> v[an] <C 21_VOORNE> vorne <C 454_HAAR> haren 
+<L 799:2> <C 20_ALBERT> alebrecht <C 800_EN> ende <C 1_BURGGRAAF> borg<A >ra</A>ue <C 700_VAN> van <C 20_ZEELAND> zelant <VN type=1> <q> . <C 111_GERECHT> gher[e]chte <C 11_GEWARENDE> ghewarende <C 214_ZIJN> siin. <C 700_VAN> van 
+<L 799:3> <C 22_DIEDERIK> di[e]derics <C 1_LAND> lande <C 800_EN> ende <C 700_VAN> van <C 21_GRIJSOORDE> griishorde <C 810_WANT> want <C 403+403_HET+HIJ> hiet <C 501_WETTELIJK> wit[te]like <C 704_TEGEN> thegh[e]n 
+<L 799:4> <C 404_WIJ> ons <C 273_KOPEN> gheco[e]ft <C 213_HEBBEN> heuet <C 800_EN> ende <C 273_BETALEN> bethalet. <C 800_EN> Ende <C 321_AL> alle <C 471_DE> die <C 411_GENE> ghen[e] <C 421_DIE> [di]e <C 700_OP> op <C 414_DEZE> des[en] 
+<L 799:5> <C 104_VOORGEZEID> voregh[e]zed[en] <C 1_LAND> lande <C 274_WONEN> wonenden <C 214_ZIJN> sijn <C 801_OF> j[o]fte <C 271_DIJKEN> dikende <C 801_OF> jofte <C 11_KOOPLIEDEN> copelijde 
+<L 799:6> <C 421_DIE> die <C 610_DAARAAN> daer+aen <VN type=1> <C 274_VAREN> varenden <C 214_ZIJN> sijn <C 801_OF> jof[te] <C 274_KEREN> kerenden, <C 421_DIE> die <C 410_DAT> dat <C 204_DOEN> d[oe]n <C 700+474_BIJ+DE/HET> b[i]den 
+<L 799:7> <C 1_HEER> here <C 700_VAN> van <C 24_VOORNE> voren <C 421_DIE> die <C 504_TEVOREN> t[e]+voren <C 210_ZIJN> i[s] <C 274_SCHRIJVEN> ghescreuen <C 411_DIE> die <C 201_NEMEN> [nem]e <C 404_WIJ> wi <C 700_OP> op <C 451_ONS> onse 
+<L 799:8> <C 1_GELEIDE> gheleide <C 800_EN> ende <C 700_OP> op <C 451_ONS> onse <C 1_BESCHERMENIS> bescer[e]menisse. <C 800_EN> ende <C 406+421_ZIJ+DIE> dise <C 221_LETTEN> lettede <C 231_ZULLEN> soude <C 404_WIJ> wi 
+<L 799:9> <C 250_HOUDEN> houden <C 700_OP> op <C 450_HAAR> haer <C 0_LIJF> liif <C 800_EN> ende <C 700_OP> op <C 450_HAAR> haer <C 0_GOED> ghoet <C 700_IN> Jn <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> desen 
+<L 799:10> <C 14_LETTER> l[e]tt<A >er</A>en <C 421_DIE> [d]ie <C 274_GEVEN> ghegheuen <C 234_ZIJN> waren <C 700+471_IN+DE> inde <C 14_JAAR> jaren <C 452_ONS> ons <C 4_HEER> heren <C 300_1000-200-EN-84> dusent+tuehonder+ende+viir+en+tachtich 
+<L 799:11> <C 472_DE/HET> des <C 2_ZONDAG> sonnendaghes <C 700_NA> n[a] <C 101_SINT> [se]nte <C 22_JOHANNES> jans <C 1_MIS> misse 
+<L 799:12> <C 700_TE> te <C 101_MID> midde <C 1_ZOMER> zomere. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 799:51> <C 20_ZEELAND> zielant 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

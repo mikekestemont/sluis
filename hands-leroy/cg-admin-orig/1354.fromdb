@@ -1,0 +1,53 @@
+<header>
+<docId>1354</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='24' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2101:21> <q> .N.xviij. <q> Hec <q> carta <q> modicum <q> uel <q> nichil <q> valet <q> nobis 
+<L 2101:22> <q> ponatur <q> tamen <q> in <q> testamento <q> ar<A >noldi</A> <q> clercs. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='24' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2101:28> <C 20_NICOLAAS> Clais <C 20_BONIJN-X> bonijn <C 20_PETRUS> piet<A >er</A> <C 1_KAUW> cauwe <C 20_JOHANNES> jan <C 700_VAN> van <C 21_LEERNE> lederne <C 20_WILHELM> willem <C 101_WIT> witte <C 20_PETRUS> piet<A >er</A> <C 1_VIN> vinne 
+<L 2101:29> <C 800_EN> ende <C 20_AEGIDIUS> gillis <q> .f. <C 22_EVERBOUD> euerbouds <C 404_WIJ> wie <C 14_SCHEPEN> scepenen. <C 474+700_DE+IN> jnden <C 0_DAM> dam. <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene; <C 810_DAT> Dat 
+<L 2101:30> <C 20_WILHELM> willem <C 20_KOELEWEI-X> coelewey <C 470+101_DE+OUD> doude <C 800_EN> ende <C 21_BOUDEWIJN> boudene <C 0_KORNUIT> cornut. <C 451_ONS> onse <C 12_POORTER> porters, <C 11_VOOGD> voghede 
+<L 2101:31> <C 22_PETRUS> piet<A >er</A>kins <q> f. <C 22_PETRUS> piet<A >er</A>s <q> f. <C 22_RIJKWARD> riquards <VN type=1> <C 700+475_UIT+DE> vter <C 0_MEET> meed, <C 800+411_EN+DIE> entie <C 20_PETRUS> pieterkin <C 411_ZELF> selue <C 700_VOOR> vor <C 404_WIJ> ons 
+<L 2101:32> <C 224_KOMEN> camen, <C 800_EN> en<A >de</A> <C 224_SCHELDEN> scolden <C 101_KWIJT> quite <C 21_ARNOUT> arnoude <C 700_VAN> van <C 21_LISSEWEGE> lisseweghe <C 700_VAN> van <C 301_VIER> viere <C 14_POND> ponden 
+<L 2101:33> <C 115_VLAAMS> vlaems<A >cher</A> <C 11_PENNING> peneghe <C 472+2_HET+JAAR> tsiars <C 421_DIE> die <C 411_DIE> die <C 20_ARNOUT> arnoud, <C 100_SCHULDIG> scoudich <C 230_ZIJN> was <C 474_DE> dien <C 21_PETRUS> pieterkine 
+<L 2101:34> <q> f. <C 22_PETRUS> Pieters <VN type=1> <C 100_VOORZEID> vorseid, <C 840_ALS> als <C 700_VAN> van <C 484_EEN> enen <C 1_STUK> sticke <C 2_LAND> lands <C 271_LIGGEN> licghende <C 700*_BEZIJDEN> besiden <C 412_DIE> dies 
+<L 2101:35> <C 22_ARNOUT> arnouds <C 1_HUIS> huse <C 700#_OVER> ouer <C 470+0+700_HET+WATER+AAN> antwater <C 471+700_DE+AAN> andie <C 1_OOSTZIJDE> oestside <C 700+474_VAN+DE/HET> vanden <C 1_WEG> weghe <C 420_DAT> dat <C 411_DIE> die <C 20_ARNOUT> arnoud 
+<L 2101:36> <C 221_KOPEN> cochte <C 700_TEGEN> tieghen <C 474_DE> dien <C 21_PETRUS> piet<A >er</A>kine <C 800_EN> en<A >de</A> <C 700_TEGEN> tieghen <C 451_ZIJN> sine <C 11_VOOGD> voghede <C 110_VOORZEID> vorseid. <C 471_DE> die 
+<L 2101:37> <C 421_WELK> welke <C 111_VOORZEID> vorseide <C 301_VIER> viere <C 10_POND> pond <C 2+472_JAAR+HET> tsiaers <C 421_DIE> die <C 20_ARNOUT> arnoud <C 700_VAN> van <C 21_LISSEWEGE> lisseweghe <C 221_AFLOSSEN> oflossede <C 700_OM> om 
+<L 2101:38> <C 300_VEERTIG> viertich <C 10_POND> pond <C 115_VLAAMS> vlaems<A >cher</A> <C 11_PENNING> peneghe <C 471+800_DE+EN> Entie <C 421_WELK> welke <C 300_VEERTIG> viertich <C 10_POND> pond <C 115_VLAAMS> vlaems<A >cher</A> 
+<L 2101:39> <C 11_PENNING> peneghe <C 471_DE> die <C 111_VOORZEID> vorseide <C 11_VOOGD> voghede <C 411+800_DIE+EN> entie <C 20_PETRUS> piet<A >er</A>kin <q> .f <C 22_PETRUS> Pieters <VN type=1> <C 224_VERLIJDEN> verlieden <C 810_DAT> dat 
+<L 2101:40> <C 406_ZIJ> hem <C 411_DIE> die <C 20_ARNOUT> arnoud <C 100_VOORZEID> vorseid <C 500_WEL> wel <C 273_BETALEN> betaelt <C 231_HEBBEN> hadde <C 800_EN> ende <C 274_VERGELDEN> vergouden <C 700_IN> in <C 104_GOED> goeden 
+<L 2101:41> <C 1_PAAIMENT> paymente <C 700_IN> jn <C 4_KENNIS> kennessen <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 14_SCHEPEN> scepenen <C 110_VOORZEID> vorseid <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> 
+<L 2101:42> <C 273_BEZEGELEN> beseghelt <VN type=1> <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 111_UITHANGEND> vtanghende <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> iaer <C 452_ONS> ons 
+<L 2101:43> <C 4_HEER> here<A >n</A> <C 810+440_ALS+MEN> alsme<A >n</A> <C 203_SCHRIJVEN> scriuet <C 301_1200-NEGENTIG-EN-VIER> .m.+cc.+xc.+ende+viere <C 472_DE/HET> des <C 2_VRIJDAG> vridaghes <C 700_VOOR> vor <C 101_SINT> sinte 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2101:54> <C 273_BEZEGELEN> beghelt 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 2102:1> <C 1_BAAFSMIS> bamesse. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='24' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='24' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

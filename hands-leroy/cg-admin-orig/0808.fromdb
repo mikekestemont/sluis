@@ -1,0 +1,39 @@
+<header>
+<docId>0808</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1317:25> <C 700_IN> jn <C 470_DE> dasselt. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1317:28> <C 321_AL> Alle <C 411_GENE> ghene <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 214_MOETEN> moeten <C 250_BEKENNEN> bekennen <C 810_DAT> dat <C 20_THOMAS> domaes 
+<L 1317:29> <C 471_DE> de <C 0_MAAG> maech <C 220_ONTVANGEN> ontfinc <C 700_TE> te <C 21_AFSNEE> afsene <C 2+700_GASTHUIS+TE> tgasthuus <C 0_BEHOEF> boef <C 700_VAN> van <C 20_GENT> ghent <C 700_VAN> van <C 0_VROUW> ver <C 24_MARGARETA> mergrieten 
+<L 1317:30> <C 0+472_HEER+DE> ser <C 20_BOUDEWIJN> boidijn <C 22_EVERBOUD> euerbouds <C 0_DOCHTER> dochter <C 800_EN> en<A >de</A> <C 21_GIJSBERT> ghiselbrechte <C 454_HAAR> haren <C 0_MAN> man <C 480_EEN> een <C 0_STUK> stic 
+<L 1317:31> <C 2_LAND> lants <C 420_DAT> dat <C 203_LIGGEN> leghet <C 700_IN> in <C 471_DE> de <C 20_HASSELT> hasselt <C 800_EN> en<A >de</A> <C 213_HETEN> heetet <C 0_DREK> drec. <C 610_HIEROVER> Hier+ouer <C 220_STAAN> stont <C 450_MIJN> mijn 
+<L 1317:32> <C 20+0_FILIPPUS+HEER> arphilips <C 700_VAN> van <C 1_BURNE> burne <C 861_ALS> alse <C 1_HEER> here. <C 20_HENDRIK> heinric <C 700_VAN> van <C 475_DE/HET> der <C 14_LINDE> linden <C 861_ALS> alse <C 0_LAAT> laet. <C 20_HENDRIK> heinric 
+<L 1317:33> <C 700_VAN> van <C 475_DE/HET> der <C 1_BEEK> beke <C 861_ALS> alse <C 0_LAAT> laet. <C 20_LAURENTIUS> laurens <C 0_VROMAN-X> vroman <C 861_ALS> alse <C 0_LAAT> laet. <C 411_DEZE> Dese <C 224_STAAN> stonden <C 321_AL> alle <C 700_IN> in <C 471_DE> de 
+<L 1317:34> <C 1_JEGENWOORDIGHEID> jeghewordechede <C 520_DAAR> daer <C 410_DIT> dit <C 101_VOORZEID> voerseide <C 0_LAND> lant <C 274*_OP-> hup <C 230_ZIJN> was <C 274#_-GEVEN> ghegheuen. <C 700_IN> Jn 
+<L 1317:35> <C 4_OORKONDSCHAP> orcontscepen <C 810_DAT> dat <C 410_DIT> dit <C 100_WAAR> waer <C 230_ZIJN> was <C 213_HEBBEN> heeft <C 450_MIJN> mijn <C 0_HEER> ar <C 20_FILIPPUS> philips <C 700_VAN> van <C 21_BURNE> burne <C 454_ZIJN> sinen 
+<L 1317:36> <C 0_ZEGEL> seghel <C 611_HIERAAN> hier+ane <C 274_HANGEN> ghehanghen. <C 800_EN> En<A >de</A> <C 700_VAN> va<A >n</A> <C 414_DIE> dien <C 104_VOORZEID> voerseiden <C 1_LAND> lande <C 550_ZO> so <C 210_ZULLEN> sal 
+<L 1317:37> <C 450_MIJN> mijn <C 0_HEER> ar <C 20_FILIPPUS> philips <C 700_VAN> van <C 21_BURNE> burne <C 250_HEBBEN> hebben <C 502_JAARLIJKS> iaerlics <C 484_EEN> eenen <C 1_HOOIER> oiere <C 801_OF> ofte <C 300_ACHT> .viij. <C 19_DENARIUS> 't3d. 
+<L 1317:38> <C 110_ONBEGREPEN> onbegrepen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 810_TOEN> doe <C 440_MEN> men <C 220_SCHRIJVEN> screef 
+<L 1317:39> <C 319_1288> .m'ho.cc'ho.lxxxviij'ho. <C 2_ZONDAG> sondaechs <C 700_VOOR> voer <C 101_SINT> sente <C 22_LAURENTIUS> laurens <C 0_DAG> dach <C 701_TOT> tote <C 21_AFSNEE> afsene <C 700_IN> in <C 450_MIJN> mijn <C 0+472_HEER+DE> ser 
+<L 1317:40> <C 22_FILIPPUS> philips <C 0_HUIS> huus. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,39 @@
+<header>
+<docId>0079</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 140:8> <C 700_IN> jn <C 471_DE> de <C 1_ZAKBROEDERSTRAAT> sach+broeder+strate <C 100_ERFELIJK> eerfelich <q> renten <q> x <C 19_DENARIUS> d <q> g<A >rote</A>. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 140:14> <q> .. <C 204_WETEN> Weten <C 321_AL> alle <C 471_DE> de <C 411_GENE> Ghene <C 421_DIE> die <C 500_NU> nu <C 214_ZIJN> sin <C 800_EN> en<A >de</A> <C 421_DIE> die <C 700_TE> te <C 251_KOMEN> Comene <C 204_ZIJN> sin <C 421_DIE> die <C 411_DEZE> dese 
+<L 140:15> <C 4_LETTER> letteren <C 214_ZULLEN> zullen <C 250_HOREN> horen <C 801_OF> ofte <C 250_ZIEN> sien <C 810_DAT> dat <C 401_IK> jc <C 20_BOUDEWIJN> boidin <C 21_SCHRIJDE-X> scride <C 211_HEBBEN> hebbe <C 274_GEVEN> ghegheven <C 700_IN> in 
+<L 140:16> <C 4_AALMOES> aelmoesnen <C 700_OP> vp <C 450_MIJN> min <C 0_HUIS> huus <C 474_DE/HET> den <C 1_SPITAAL> spitale <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans <C 0_HUIS> huus <C 700_IN> jn <C 20_GENT> ghent <C 300_TIEN> tien 
+<L 140:17> <C 11_SCHELLING> schelghe <C 502_JAARLIJKS> jaerlijcs. <C 410_DAT> dat <C 0_HUIS> thuus <C 203_STAAN> staet <C 700_OVER> ouer <C 21_SCHELDE> schelde <C 700_BIJ> bi <C 474_DE/HET> den <C 12_BROEDER> broeders <C 700_VAN> van <C 474_DE/HET> den 
+<L 140:18> <C 1_ZAK> zacke <C 700_OP> vp <C 472+0_DE+HEER> ser <C 22_SIEGER> zeghers <C 22_PATRICIUS> parijs <C 0_LAND> lant. <C 800_EN> en<A >de</A> <C 810_OMDAT> o<A >m</A>me+dat <C 401_IK> jc <C 471_DE> de <C 101_VOORZEID> voerseide <C 20_BOUDEWIJN> boidin 
+<L 140:19> <C 201_WILLEN> wille <C 810_DAT> dat <C 410_DIT> dit <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 501_EEUWELIJK> eweleke <C 441_ZO-WIE> so+wie <C 810_DAT> dat <C 470_HET> dat <C 101_VOORZEID> voerseide 
+<L 140:20> <C 0_HUIS> huus <C 203_KOPEN> coept <C 801_OF> ofte <C 203_HUREN> huurt. <C 550_ZO> soe <C 210+401_HEBBEN+IK> hebbic <C 411_DEZE> dese <C 101_VOORZEID> voerseide <C 1_GIFT> ghifte <C 274_GEVEN> ghegheven <C 700_VOOR> voer 
+<L 140:21> <C 474_DE/HET> den <C 1_HEER> here <C 21_ARNOUT> arnoude <C 474_DE/HET> den <C 21_BANNER-X> banre <C 421_DIE> die <C 200_ZIJN> es <C 700_IN> in <C 4+472_PAROCHIEPAAP+DE> sprochijspapen <C 1_STAD> stede <C 700_VAN> va<A >n</A> <C 101_SINT> sente 
+<L 140:22> <C 22_JOHANNES> jans. <C 800_EN> en<A >de</A> <C 700_VOOR> voer <C 474_DE/HET> den <C 1_HEER> here <C 21_ABRAHAM> brame <C 800_EN> en<A >de</A> <C 700_VOOR> voer <C 474_DE/HET> den <C 1_HEER> here <C 21_JOHANNES> janne <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_PUT> pitte. 
+<L 140:23> <C 800_EN> en<A >de</A> <C 700_IN> jn <C 4_OORKONDSCHAP> oerconschepen <C 700_VAN> van <C 415_DEZE> deser <C 4_GIFT> ghiften <C 550_ZO> soe <C 214_HEBBEN> hebbe<A >n</A> <C 411_DEZE> dese <C 101_VOORZEID> voerseide <C 470+0_DE+HEER> der 
+<L 140:24> <C 20_ARNOUT> arnout <C 800_EN> en<A >de</A> <C 470+0_DE+HEER> der <C 20_ABRAHAM> braem <C 800_EN> en<A >de</A> <C 0+470_HEER+DE> der <C 20_JOHANNES> jan <C 700_AAN> an <C 411_DEZE> dese <C 4_LETTER> letteren <C 271_HANGEN> gheanghe <C 451_HAAR> hare 
+<L 140:25> <C 1_ZEGEL> zeghele. <C 411_DEZE> Dese <C 14_LETTER> letteren <C 234_ZIJN> waren <C 273_MAKEN> ghemaecht <C 700_OP> vp <C 470+0_HET+JAAR> djaer <C 700_VAN> van <C 474_DE/HET> den <C 1_INCARNATIOEN> incaernatione 
+<L 140:26> <C 319_1269> .m'ho.+cc'ho+Lx'hoix'ho <C 700_IN> jn <C 101_SINT> sente <C 22_SIMON> simoens <C 800_EN> en<A >de</A> <C 101_SINT> sente <C 22_JUDA> juuds <C 1_AVOND> auonde. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

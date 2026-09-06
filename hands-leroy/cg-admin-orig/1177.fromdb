@@ -1,0 +1,91 @@
+<header>
+<docId>1177</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1808:10> <q> carta. <q> reddituum <q> in <C 21_VARSENARE> versnare 
+<L 1808:11> <q> copia <q> facta <q> est.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_OP> vp <q> .ij. <C 11_GEMET> ymete <q> xvj. <C 14_ROEDE> roeden.- 
+<L 1808:12> <C 21_VARSENARE> varsenare. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1808:19> <C 404_WIJ> WJE <C 20_WOUTER> Wouter <C 700_VAN> van <C 20_GENT> ghent <C 1_RIDDER> ruddre; <C 20_BOUDEWIJN> bouden <C 700_VAN> van <C 21_DUDZELE> dudsele; <C 20_OLIVIER> Oliuier <C 475+700_DE+VAN> vander 
+<L 1808:20> <C 1_HAAG> haghe; <C 21_HUGO> hughe <C 700+474_VAN+DE/HET> vanden <C 1_HOF> houe; <C 20_JOHANNES> jan <C 0_MOND> mont; <C 20_JOHANNES> jan <C 700_VAN> van <C 20_CADZAND> caedzant; <C 20_WILHELM> willem <C 471_DE> die 
+<L 1808:21> <C 101_KORT> corte; <C 20_JOHANNES> jan <C 700_VAN> van <C 21_TARWEDIJK> tarrendike <C 800_EN> ende <C 20_WOUTER> wouter <C 471_DE> die <C 0_VOS> vos; <C 14_SCHEPEN> Schepenen <VN type=1> <C 700+474_VAN+DE/HET> vanden 
+<L 1808:22> <C 104_VRIJ> vrihen <C 204_DOEN> doen <C 700_TE> Te <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <VN type=1> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien. 
+<L 1808:23> <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> dat <C 224_KOMEN> camen <C 700_VOOR> vor <C 404_WIJ> ons. <C 20_BOUDEWIJN> bouden <C 475+700_DE+VAN> vander <C 1_POORT> porte. <C 21_MARIA> marie <C 450_ZIJN> sijn <C 0_WIJF> wijf. 
+<L 1808:24> <C 800_EN> ende <C 20_BOUDEWIJN> bouden <C 700+475_VAN+DE> vander <C 1_POORT> porte <C 450_ZIJN> sijn <C 1_ZOON> soene. <C 800_EN> ende <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 474_DE/HET> den 
+<L 1808:25> <C 1_HEER> here <C 20_PETRUS> Pieter <C 1_KALF> calue <C 0_KANUNNIK> canonec <C 700_VAN> van <C 101_SINT> Sinte <C 24_MARIA> marien <C 700_IN> jn <C 21_BRUGGE> brugghe. <C 700+475_TE+DE> Ter <C 4_KERK> kerken <C 0_BEHOEF> boef 
+<L 1808:26> <C 700_VAN> van <C 101_SINT> Sinte <C 24_MARIA> marien <C 700_IN> jn <C 21_BRUGGE> brugghe <C 100_VOORZEID> vorseit. <C 700_VAN> van <C 300_29> neghen+ende+twintich 
+<L 1808:27> <C 14_SCHELLING> Scheleghen <C 800_EN> ende <C 301_6> zesse <C 11_PENNING> peneghe <C 115_GOED> goeder <C 115_VLAAMS> vlaemscer <C 14_PENNING> peneghen <C 105_ERFELIJK> Eerueliker 
+<L 1808:28> <C 4_RENTE> renten <C 2+472_JAAR+HET> Siaers <C 471_DE> die <C 421_WELK> wilke <VN type=1> <C 111_VOORZEID> vorseide <C 14_PENNING> peneghen <C 273_BEZETTEN> bezet <C 214_ZIJN> sijn <C 700_OP> vp <C 480_EEN> Een <C 1_STUK> sticke 
+<L 1808:29> <C 2_LAND> lants <C 271_LIGGEN> ligghende <C 700+474_TE+DE/HET> ten <C 104_VRIJ> vrihen <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 800_EN> ende <C 700+475_BINNEN+DE> binder <C 1_PAROCHIE> prochie <C 700_VAN> van 
+<L 1808:30> <C 21_VARSENARE> varsenare, <VN type=1> <C 470+421_HET+WELK> Twilke <VN type=1> <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 203_HOUDEN> hout <C 300_TWEE> twe <C 11_GEMET> ymete <C 800_EN> ende <C 301_16> zestiene <C 14_ROEDE> Roeden. 
+<L 1808:31> <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 800_OF> jof <C 320_MIN> min. <C 800_EN> ende <C 213_HETEN> heet <C 0_BUIDELSBILK> budels+belc; <C 800_EN> Ende <C 500_NOCH> noch <C 700_OP> vp <C 480_EEN> een <C 310_ANDER> ander 
+<L 1808:32> <C 1_STUK> sticke <VN type=1> <C 2_LAND> lants <C 271_LIGGEN> ligghende <C 702_NEFFENS> neffens <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 104_ANDER> andren <C 1_LAND> lande <C 474+700_DE/HET+BINNEN> binden 
+<L 1808:33> <C 1_AMBACHT> ambochte <C 800_EN> ende <C 700+475_BINNEN+DE> binder <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_VARSENARE> varsenare <C 100_VOORZEID> vorseit <C 700+474_TE+DE/HET> ten <C 104_VRIJ> vrihen <C 800_EN> ende 
+<L 1808:34> <C 203_HOUDEN> hout <C 301_VIJF> viue <C 14_LIJN> linen. <C 800_EN> ende <C 300_7> zeuen <C 14_ROEDE> Roeden <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 800_OF> jof <C 320_MIN> min <C 800_EN> ende <C 213_HETEN> heet 
+<L 1808:35> <C 21_SLAK> Slecke. <C 700_TE> Te <C 251_GELDEN> gheldene <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 101_ERFELIJK> Eeruelike <C 1_RENTE> Rente <C 700_IN> jn <C 320_ELK> elc <C 0_JAAR> jaer <C 471_DE> die <C 301_EEN> Ene 
+<L 1808:36> <C 0_HELFT> helt <C 325+700_ELK+TE> telker <VN type=1> <C 101_SINT> Sinte <C 22_MARTIN> martins <C 1_MIS> messe. <C 800_EN> Ende <C 471_DE> die <C 310_ANDER> ander <C 0_HELFT> helt <VN type=1> <C 700+324_TE+ELK> Telken 
+<L 1808:37> <C 21_MIDWINTER> medewintre; <C 800_EN> Ende <C 406_ZIJ> Sie <C 224_WEDDEN> wedden <C 403_HIJ> hem <C 100_AL> al <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 101_ERFELIJK> Eeruelike <C 1_RENTE> Rente <C 700_TE> te 
+<L 1808:38> <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <VN type=1> <C 700_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche. <C 700_TE> Te <C 415_DEZE> deser <C 105_VOORZEID> vorseider <C 4_KERK> kerken <C 0_BEHOEF> boef 
+<L 1808:39> <C 104_RECHT> Rechten <C 1_EIGENDOM> eghindoeme; <C 800_EN> Ende <C 810_OMDAT> omme+dat <VN type=1> <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 14_SCHEPEN> Schepenen <C 700+474_VAN+DE/HET> vanden 
+<L 1808:40> <C 104_VRIJ> vrihen <C 224_ZIJN> waren <C 700_OVER> ouer <C 411_DEZE> dese <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 800_EN> ende <C 404_WIJ> wie <C 204_WILLEN> willen <C 403+810_ZIJ+DAT> datse <VN type=1> <C 100_VAST> vast <C 210_ZULLEN> Sal 
+<L 1808:41> <C 260_BLIJVEN> bliuen <C 100_ZEKER> zeker <C 800_EN> ende <C 101_GESTADE> ghestade <C 550_ZO> So <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren <C 700_TE> Te <C 4_KENNIS> kennessen 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.R.S.'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='2' tijdstatus='1'>
+
+<L 1808:51> <C 14_SCHEPEN> Scepene<A >n</A> 
+<L 1808:52> <C 414_GENE> ghene<A >n</A> 
+<L 1808:53> <C 421_WELK> welke 
+<L 1808:54> <C 21_VARSENARE> varsnare 
+<L 1808:55> <C 470+421_HET+WELK> tuelke 
+<L 1808:56> <C 0_STUK> stic 
+<L 1808:57> <C 700_TE> te <C 325_ELK> elker 
+<L 1808:58> <C 0_HELFT> elt 
+<L 1808:59> <C 251_WAREN> warne 
+<L 1808:60> <C 810_OMDAT> om+dat 
+<L 1808:61> <C 810_DAT> dat <C 403_ZIJ> soe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.R.S.'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+
+<L 1809:1> <C 101_UITHANGEND> vuthanghende <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen; <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+474_TE+DE/HET> Ten 
+<L 1809:2> <C 1_STEIGER> steghere <VN type=2> <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrihen. <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> Screef <C 450_ZIJN> Sijn 
+<L 1809:3> <C 0_INCARNATIOEN> jncarnation; <C 300_DUIZENTIG-292> duzentich;+twe+honderd;+ende+twe;+ende+neghentich; 
+<L 1809:4> <C 472+2_DE+ZATERDAG> Saterdaghes <C 700_NA> na <C 101_SINT> Sinte <C 22_THOMAS> domaes <C 1_DAG> daghe <C 700_IN> in <C 20_HOOIMAAND> hoymaent; 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.R.S.'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='2' tijdstatus='1'>
+
+<L 1809:51> <C 1_STEIGER> steghre 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.R.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

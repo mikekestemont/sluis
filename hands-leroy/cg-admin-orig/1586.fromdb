@@ -1,0 +1,39 @@
+<header>
+<docId>1586</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='118' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2375:39> <q> ghecocht <q> jeghe<A >n</A> <C 22_BOUDEWIJN> boudins <C 0_WEDUWE> weduwe <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <q> wijc 
+<L 2375:40> <C 800_EN> en<A >de</A> <q> hare<A >n</A> <C 14_KIND> kindre<A >n</A>.- <q> sluus, <q> xij. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='118' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2375:43> <C 404_WIJ> Wie <C 21_HUGO> Hughe <C 20_GOELIAAS-X> ghoeliaes <C 21_WOUTER> Wo<A >utre</A> <q> f <C 22_WOUTER> weits <C 20_JOHANNES> jhan <C 471_DE> die <C 0_HAMER> hamer <C 21_HUGO> hughe <q> .f. <C 22_BOUDEWIJN> boudens 
+<L 2375:44> <C 800_EN> & <C 20_NICOLAAS> clais <q> .f. <C 22_LAMBERT> la<A >m</A>mins <C 10_SCHEPEN> scepe<A >n</A> <C 700_IN> in <C 21_LAMMINSVLIET> la<A >m</A>mins+uliete <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 406_ZIJ> hem <C 324_AL> allen 
+<L 2375:45> <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 224_KOMEN> camen <C 700_VOOR> vor <C 404_WIJ> ons <C 20_RIJKWARD> rikared <VN type=1> 
+<L 2376:1> <C 0_VROUW> ver <C 24_BERTHILDE> baertilden <C 1_ZOON> soene <C 800_EN> & <C 20_JOHANNES> jhan <C 450_ZIJN> siin <C 0_BROEDER> broeder <C 800_EN> & <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 444_EEN> enen 
+<L 2376:2> <C 21_RIJKWARD> rikaerde <C 474_DE/HET> den <C 0_HOEREL-X> hoerel <C 700_VAN> van <C 1_HUIS> huse <C 800_EN> & <C 700_VAN> van <C 1_LAND> lande <C 420_DAT> dat <C 203_STAAN> staet <C 700_TUSSEN> tusche<A >n</A> <C 20_JACOB> jacob <q> .f. 
+<L 2376:3> <C 22_RIJKWARD> rikards <C 1_HOFSTEDE> hofstede <C 700_AAN> an <C 470+301_DE+EEN> dene <C 1_ZIJDE> side <C 800_EN> & <C 22_JOHANNES> jhans <C 2_MUNTER> monters <C 1_HOFSTEDE> hofstede <C 700_AF> af <C 310_ANDER> ander <C 1_ZIJDE> side <C 800_EN> & 
+<L 2376:4> <C 224+403_WEDDEN+HET> weddens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> werne <C 700_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche <C 700_MET> met <C 301_ACHT> achte <C 19_SOLIDUS> sol 
+<L 2376:5> <C 111_VLAAMS> vlae<A >m</A>sche <C 700_VAN> van <C 105_RECHT> recht<A >er</A> <C 1_LANDCIJNS> lant+cense <C 800_EN> En<A >de</A> <C 510_ALDAAR> aldaer <C 550_ZO> so <C 403+220*_HET+-GEVEN> gaeft <C 220#_WEDER-> weder <C 471_DE> die 
+<L 2376:6> <C 101_VOORZEID> vorseide <C 20_RIJKWARD> rikaerd <C 471_DE> de <C 0_HOEREL-X> hoerel <C 414_DIE> dien <C 21_RIJKWARD> rikaerde <C 800_EN> & <C 21_JOHANNES> jhanne <C 454_ZIJN> sinen <C 0_BROEDER> broeder <C 700_TE> te 
+<L 2376:7> <C 104_ERFELIJK> haerueliken <C 1_CIJNS> cense <C 701_OM> o<A >m</A>me <C 300_20> tuintich <C 19_SOLIDUS> sol <C 111_VLAAMS> vlae<A >m</A>sche <C 2+472_JAAR+HET> tjaers <C 700_BOVEN> bouen <C 475_DE/HET> der 
+<L 2376:8> <C 0_LANDSCHULD> lantscout <C 100_VOORZEID> vorseit <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 301_1200-NEGENTIGENZES> m'ho+cc'ho+xc'ho+&+sesse 
+<L 2376:9> <C 472_DE/HET> des <C 2_MAANDAG> maendaghes <C 700_VOOR> vor <C 101_SINT> sinte <C 22_GREGORIUS> gregoris <C 1_DAG> daghe <C 700_IN> jn <C 21_MAART> maerte.. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='118' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='118' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

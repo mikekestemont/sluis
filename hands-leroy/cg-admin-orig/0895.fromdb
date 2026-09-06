@@ -1,0 +1,54 @@
+<header>
+<docId>0895</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='100' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1417:8> <q> Datum <q> M+ij'hc+lxxxix <C 2+472_ZONDAG+DE> tsondaechs 
+<L 1417:9> <q> voer <q> kersdach <C 700_VAN> van <q> zesse <C 14_DAGWANT> dachwan<A >den</A> <C 2_LAND> Lants.- 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> Ses <C 14_DAGWANT> dachwanden 
+<L 1417:10> <C 2_LAND> lants <C 700_VAN> van <C 24_LEDEBERG> Ledeberghen <q> de <q> dato <q> 1289.- 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1700' jaar_van='1601' tijdsoort='2' tijdstatus='1'>
+<C 700_VAN> van <q> 3 <C 10_DAGWANT> dagwant <C 2_LAND> lants <C 274_LIGGEN> gelegen 
+<L 1417:11> <C 700_AAN> aen <C 474_DE/HET> den <C 24_SCHADDOREN> Scaddoren. <C 500_ITEM> Item <q> noch <q> 3 <C 10_DAGWANT> dagwant <C 274_LIGGEN> gelegen <C 700+474_AAN+DE/HET> aenden <C 20_REIGERSHOEK> Regershoec <C 800_EN> en 
+<L 1417:12> <q> 't! <C 0_BUNDER> bunder <C 700_AAN> aen <C 471_DE> de <C 1_LOOSSTRAAT> loes+strate <q> onder <q> Pamel <q> de <q> dato <q> 1289. 
+<end-datering  jaar_tot='1700' jaar_van='1601' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1417:15> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 21_LEDEBERG> ledeberghe <C 204_MAKEN> maken <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 1417:16> <C 4_LETTER> lettren <C 250_ZIEN> sien <C 214_ZULLEN> selen <C 800_EN> en<A >de</A> <C 250_HOREN> horen <C 810_DAT> dat <C 471_DE> de <C 111_WIT> witte <C 14_VROUW> vrowen <C 700_VAN> van <C 21_BRUSSEL> brucele <C 214_HEBBEN> hebben 
+<L 1417:17> <C 273_KOPEN> ghecocht <C 300_DRIE> drie <C 10_DAGWANT> dachwant <C 2_LAND> lands <C 704_JEGEN> jeghen <C 21_WOUTER> wout<A >er</A>e <C 474_DE/HET> den <C 0_BRIEDER> brieder <C 700_VAN> van <C 21_LEDEBERG> ledeberghe 
+<L 1417:18> <C 421_DIE> die <C 440_MEN> men <C 203_HOUDEN> hout <C 700_VAN> van <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 21_LEDEBERG> ledeberghe <C 421_DIE> die <C 274_LIGGEN> gheleghen <C 214_ZIJN> siin <C 700_AAN> an <C 474_DE/HET> den 
+<L 1417:19> <C 14_SCHADDOREN> scaddoren <C 800_EN> ende <C 300_DRIE> drie <C 10_DAGWANT> dachwant <C 421_DIE> die <C 440_MEN> men <C 203_HOUDEN> hout <C 700_VAN> van <C 474_DE/HET> den <C 1_OOR> ore <C 700_VAN> van <C 21_LOMBEEK> lombeke. 
+<L 1417:20> <C 300+470_EEN+DE> deen <C 0_DAGWANT> dachwant <C 210_ZIJN> es <C 274_LIGGEN> gheleghen <C 700_AAN> an <C 474_DE/HET> den <C 20*_RENGERS-> renghers <C 20#_-HOEK> huec <C 800_EN> ende <C 300+1+470_HALF+BUNDER+HET> thalbondre 
+<L 1417:21> <C 203_LIGGEN> leghet <C 700_AAN> an <C 471_DE> de <C 1_LOOSSTRAAT> loes+strete, <C 800_EN> ende <C 610_HIERIN> hier+in <C 214_ZIJN> siin <C 471_DE> de <C 111_VOORGENOEMD> voreghenoemde <C 111_WIT> witte 
+<L 1417:22> <C 14_VROUW> vrowe<A >n</A> <C 274_DOEN> ghedaen <C 700_BIJ> bi <C 4_MANING> maninghe<A >n</A> <C 472+4_DE+HEER> sheren <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 0_WIJSDOM> wiisdoem <VN type=1> <C 700_VAN> van <C 14_SCHEPEN> scepene<A >n</A> 
+<L 1417:23> <C 274_BEHOUDEN> behouden <C 320+475_AL+DE/HET> alder <C 415_GENE> gherre <C 0_RECHT> recht <C 421_DIE> die <C 611*_DAAR-> der <C 0_RECHT> recht <C 611#_-AAN> ane <C 204_HEBBEN> hebben, <C 800_EN> ende <C 701_OM> omme <C 410_DIT> dit 
+<L 1417:24> <C 100_ZEKER> seker <C 800_EN> ende <C 100_VAST> vast <C 700_TE> te <C 251_MAKEN> makene <C 550_ZO> so <C 213_HEBBEN> heeft <C 20_WILHELM> willem <C 471_DE> de <C 1_HEER> here <C 700_VAN> van <C 21_LEDEBERG> ledeberghe <C 454_ZIJN> sine<A >n</A> 
+<L 1417:25> <C 0_ZEGEL> zeghel <C 700_AAN> an <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 274_HANGEN> ghehanghen. <C 800_EN> ende <C 404_WIJ> wi <C 111_VOORGEZEID> voregheseide <C 14_SCHEPEN> scepene<A >n</A> <C 474_DE/HET> den 
+<L 1417:26> <C 454_ONS> onsen, <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 475_DE/HET> der <C 4_GEBOORTE> gheborte<A >n</A> <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 29_JEZUS> ihesu <C 22_CHRISTUS> kerts 
+<L 1417:27> <C 851_ALS> alse <C 440_MEN> men <C 203_ZEGGEN> seghet <C 301_DUIZENTIG-200-ACHTENTIGENNEGEN> dusentecht,+tue+hondert+achtentech+ende+Neghene 
+<L 1417:28> <C 2_ZONDAG> sondaghes <C 701_VOOR> vore <C 0_KERSTDAG> kersdach <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='100' plaats_2='' regio_1='10' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

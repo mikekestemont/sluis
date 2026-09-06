@@ -1,0 +1,34 @@
+<header>
+<docId>0411</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 638:38> <C 475+700_DE+VAN> vander <C 0_BORGTOCHT> borchtocht 
+<L 638:39> <C 702_JEGENS> ieghens <C 1_HEER> here <C 20_WOUTER> wouter <C 475+700_DE+VAN> vander <C 4_SPUI> spoyen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<statushand  statushandkode='ad'>
+
+<L 638:46> <C 20_FLORENTIUS> Florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 411_DIE> die <C 203_GROETEN> groet <C 451_ZIJN> sine <C 111_LIEF> lieue <C 11_SCHEPEN> scepene <C 800_EN> ende <C 471_DE> die 
+<L 639:1> <C 101_GEMEEN> ghemeene <C 0_POORT> port <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 404_WIJ> wi <C 204_BIDDEN> bidden <C 405_GIJ> v <C 810_DAT> dat <C 405_GIJ> ghi <C 203_ZEGELEN> seghelt <C 414_DEZE> desen <C 0_BRIEF> brief 
+<L 639:2> <C 421_DIE> die <C 405_GIJ> v <C 451_ONS> onse <C 1_BODE> bode <C 203_BRENGEN> bringhet. <C 700_VAN> van <C 455_ONS> onser <C 4_TOL> tolnen <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 421_DIE> die <C 404_WIJ> wi <C 273_BEWIJZEN> bewiset 
+<L 639:3> <C 214_HEBBEN> hebben <C 4_HEER> haren <C 21_WOUTER> woutre <C 700_VAN> van <C 475_DE/HET> der <C 1_SPUI> spoie <C 454_ONS> onsen <C 0_WAARD> wart <C 700_TE> te <C 300_4> vier <C 14_JAAR> iaren. <C 322_ELK> elkes <C 2_JAAR> iaers 
+<L 639:4> <C 701_OM> omme <C 300_VIJFHONDERD> vijfhondert <C 10_POND> pont <C 100_HOLLANDS> hollans. <C 800_EN> ende <C 610_HIERAF> hijr+of <C 204_BELOVEN> belouen <C 404_WIJ> wi <C 405_GIJ> v <C 100_SCHADELOOS> scadeloes <C 700_TE> te 
+<L 639:5> <C 251_HOUDEN> houdene <C 700_IN> jn <C 4_OORKONDE> orconden <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieue. <C 421_DIE> die <C 230_WORDEN> wart <C 274_GEVEN> ghegheuen <C 700_IN> in <C 474_DE/HET> den 
+<L 639:6> <C 4_JAAR> iaren <C 452_ONS> ons <C 4_HEER> heren. <C 300_1000-200-EN-82> dusent.+tvehondert.+ende+tveendetachtich. <C 472_DE> des <C 2_MEIDAG> meyen+daghes. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

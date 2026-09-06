@@ -1,0 +1,47 @@
+<header>
+<docId>1744</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2609:37> <C 200+410_ZIJN+DIT> dits <C 700_VAN> van <C 24_ADELHEID> alisen <C 700_VAN> va<A >n</A> <q> lede <C 800_EN> en<A >de</A> <C 700_VAN> van <q> gheertruden 
+<L 2609:38> <q> hare <C 0_ZUSTER> zust<A >er</A>. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1299' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2609:41> <C 29_LAURENTIUS> Lavrentii <q> pbri <q> de <C 1_LEDE> Lede 
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2610:1> <C 403_HET> Het <C 210_ZIJN> si <C 100_KOND> cont <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> ende <C 250_HOREN> oeren <C 250_LEZEN> lesen. 
+<L 2610:2> <C 810_DAT> Dat <C 21_ADELHEID> alise <C 700_VAN> va<A >n</A> <C 1_LEDE> lede <C 800_EN> ende <C 20_GEERTRUIDA> ghetrut. <C 472+0_DE+HEER> ser <C 22_ABNER> abiins <C 10_KIND> kinder <C 700_VAN> van <C 474_DE/HET> den <C 1_KERKHOF> kerchoue. 
+<L 2610:3> <C 214_HEBBEN> hebben <C 274_GEVEN> gh[e]geuen <C 474_DE/HET> de<A >n</A> <C 0*_HEILIGE-> heylengen <C 0#_-GEEST> geest <C 700_VAN> van <C 101_SINT> sente <C 24_ELISABETH> lysebetten <C 700_BIJ> bi <C 20_GENT> gent 
+<L 2610:4> <C 309_20> .x.x. <C 19_SOLIDUS> 't3s. <C 501_EEUWELIJK> eulike <C 700_NA> na <C 403_ZIJ> hare <C 305_BEIDE> beeder <C 0_LIJF> lief <C 700_OP> ob <C 480+300_EEN+HALF> .i.+haelf <C 1_BUNDER> buenre <C 2_LAND> lants <C 100_EIGEN> eygen. <C 309_25> .xx.v. 
+<L 2610:5> <C 14_ROEDE> roeden <C 320_MIN> min <C 474_DE/HET> den <C 14_ARME> armen <C 700_TE> te <C 4_HULP> hulpen <C 455_HAAR> haerre <C 0_NOOD> noet <C 471_DE> De <C 421_WELK> welke <C 21_ADELHEID> alise <C 800_EN> ende 
+<L 2610:6> <C 20_GEERTRUIDA> ghertrut. <C 204_WILLEN> willen <C 810_DAT> dat <C 440_MEN> men <C 200_DOEN> doe <C 450_HAAR> har <C 1_JAARGETIJDE> iarghetide <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_GELD> gelde. 
+<L 2610:7> <C 800_EN> ende <C 452_HAAR> hars <C 2_VADER> vaders <C 22_ABNER> abiins <C 800_EN> ende <C 455_HAAR> hare <C 0_MOEDER> moeder <C 0_VROUW> ver <C 24_BIELE> bielen. <C 410_DIT> Dit <C 203_OORKONDEN> orcont <C 0+470_HEER+DE> der 
+<L 2610:8> <C 20_LAURENTIUS> laurens <C 451_ONS> onse <C 1_PAROCHIEPAAP> prochipape <C 800_EN> ende. <C 21_WOUTER> woutre <C 700_VAN> van <C 1_LEDE> lede. <C 20_PETRUS> piet<A >er</A> <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 1_MEER> meere 
+<L 2610:9> <C 11_SCHEPEN> scepene. <C 21_WOUTER> woutre <C 700_VAN> van <C 20_SPESSART> s[pe]xart <VN type=1> <C 1_SCHEPEN> scepene. <C 20_ARNOUT> arnout <C 700_VAN> van <C 20_RIETMEERS> riemersch <C 1_SCHEPEN> scepene. 
+<L 2610:10> <C 800_EN> ende <C 21_SIEGER> seghere <C 700_VAN> van <C 474_DE/HET> den <C 21_DRIETS> drietse <C 1_SCHEPEN> scepen[e] <C 800_EN> [ende] <q> [vele] <C 111_ANDER> [and]re <C 111_GOED> goede <C 11_LIEDEN> liede. 
+<L 2610:11> <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> dit <C 100_VAST> vast <C 211_BLIJVEN> bliue <C 800_EN> [ende] <C 101_GESTADE> [gestade] <C 550_ZO> so <C 403+210_HET+ZIJN> heist 
+<L 2610:12> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 474_DE/HET> den <C 1_ZEGEL> zegle <C 452_ONS> oens <C 4_PAROCHIEPAAP> prochipapen. <C 800_EN> ende <C 700_MET> met <C 474_DE/HET> den <C 1_ZEGEL> zegle <C 700_VAN> van 
+<L 2610:13> <C 475_DE/HET> der <C 4_FERMERIE> fermerien. <C 700_MET> met <C 22_WOUTER> wouters <C 1_ZEGEL> zegle <C 700_VAN> van <C 1_LEDE> lede. <C 800_EN> ende <C 700_MET> met <C 474_DE/HET> den <C 1_ZEGEL> zegle <C 0*+472_HEILIGE-+DE> tseilech 
+<L 2610:14> <C 0#_-GEEST> geest <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 700_VAN> van <C 474_DE/HET> den <C 1_INCARNATIOEN> i<A >n</A>carnatioene <C 452_ONS> ons 
+<L 2610:15> <C 4_HEER> heeren <C 810_TOEN> doe <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 309_1298> .m'ho.cc'ho.xc'ho.+viii'ho. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

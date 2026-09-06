@@ -1,0 +1,41 @@
+<header>
+<docId>0136</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='81' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 255:18> <C 404_WIJ> Vvi <C 20_ANTONIUS> antonis <C 472_DE/HET> des <C 1_HEER> here <C 22_PETRUS> pieters <C 1_ZOON> sone <C 700_VAN> va[n] <C 20_ARNEMUIDEN> [arnemuden.] <C 800_EN> [en]de <C 20_BARTOLOMEUS> barthelomeus 
+<L 255:19> <C 22_MICHAEL> Gilemans <C 1_ZOON> sone. <C 800_EN> ende <C 20_BOUDEWIJN> boudin <C 22_WILHELM> willems <C 1_ZOEN> sone. <C 204_DOEN> doen <C 700_TE> te <C 1_KOND> konde <C 321_AL> alle <C 474_DE/HET> den 
+<L 255:20> <C 414_GENE> [ghenen] <C 421_DIE> [die] <C 411_DEZE> [dese] <C 4_LETTER> [letter]en <C 204_ZIEN> sien <C 800_EN> ende <C 250_ZIEN> sien <C 214_ZULLEN> sullen. <C 810_DAT> dat <C 404_WIJ> wi <C 21_FLORENTIUS> Florence <C 700_VAN> van 
+<L 255:21> <C 24_HENEGOUWEN> henegowen <C 214_HEBBEN> hebben <C 273_GICHTEN> gheghichtet <C 320_AL> al <C 470_HET> [dat] <q> [goet] <C 420_DAT> [dat] <C 404_WIJ> [wi] <C 224_HEBBEN> [ha]dden <C 701_TOT> tote 
+<L 255:22> <C 20_ARNEMUIDEN> arnemuden. <C 800_EN> ende <C 20_ADELHARD> alard <C 24_HUGO> hughen <C 2_ZOON> sons <C 0_GOED> goet. <C 700_IN> jn <C 14_TIEND> tienden. <C 700_IN> in <C 1_AMBACHT> ambochte. <C 700_IN> jn 
+<L 255:23> <C 1_LAND> lande. <C 700_IN> [jn] <C 14_HOFSTEDE> [hofsteden] <C 800_EN> ende <C 320_AL> al <C 470_HET> dat <C 0_GOED> goet <C 620*_DAAR-> dar <C 404_WIJ> wi <C 800_EN> ende <C 20_ADELHARD> alard <C 24_HUGO> hughen <C 1_ZOON> sone 
+<L 255:24> <C 440_ENIG> enich <C 0_RECHT> recht <C 620#_-TOE> toe <C 224_HEBBEN> hadden <C 700_IN> in <C 470_HET> dat <C 0_AMBACHT> ambocht <C 700_VAN> van <C 20_ARNEMUIDEN> arnemuden. <C 500_VOORT> Vort <C 204_VERVANGEN> vervanghen <VN type=1> 
+<L 255:25> <C 404_WIJ> wj <C 21_ADELHARD> alarde <C 24_HUGO> hughen <C 1_ZOON> sone <C 810_DAT> dat <C 403_HIJ> hi <C 411_DEZE> dese <C 1_GIFT> ghichte <C 250_LOVEN> louen <C 210_ZULLEN> sal. <C 500_VOORT> Vort <C 204_VERVANGEN> uervanghen <VN type=1> 
+<L 255:26> <C 404_WIJ> wi <C 451_ONS> onse <C 11_GEBOEZEMTE> ghebosemte <C 421_DIE> die <C 510_DAAR> dar <C 700_IN> in <C 470_HET> dat <C 0_AMBACHT> ambocht <C 440_ENIG> enech <C 0_GOED> goet <C 224_HEBBEN> hadden. <C 800_EN> ende 
+<L 255:27> <C 411_DEZE> dese <C 1_GIFT> ghichte <C 214_WILLEN> willen <C 404_WIJ> wi <C 250_HOUDEN> houden <C 501_GETROUWELIJK> ghetrowelike <C 800_EN> ende <C 501_GESTADELIJK> ghestadelike. <C 410_DIT> Dit <C 0_GOED> goet 
+<L 255:28> <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 273_GICHTEN> gheghict <C 21_FLORENTIUS> florence <C 700_VAN> van <C 24_HENEGOUWEN> henegowen <C 700_IN> in <C 20_MIDDELBURG> middelb<A >ur</A>gh <C 700_VOOR> vor <C 321_VEEL> uele 
+<L 255:29> <C 472_DE/HET> des <C 4_GRAAF> grauen <C 14_MAN> mannen. <C 800_EN> Ende <C 810_OMDAT> umme+dat <C 411_DEZE> dese <C 1_GIFT> ghichte <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade 
+<L 255:30> <C 211_BLIJVEN> bliue <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 411_DEZE> dese <C 14_LETTER> letteren <C 260_DOEN> doen <C 250_ZEGELEN> seghelen. <C 401_IK> jc <C 20_ANTONIUS> tonis <C 700_MET> met <C 454_MIJN> minen <C 1_ZEGEL> seghele. 
+<L 255:31> <C 800_EN> ende <C 401_IK> jc <C 20_BARTOLOMEUS> barthelmeus <C 810_OMDAT> vmme+dat <C 401_IK> ic <C 481_GEEN> ghene <C 0_ZEGEL> seghel <C 560_NE> ne <C 221_HEBBEN> hadde <C 211+406_HEBBEN+ZIJ> hebbese <C 260_DOEN> doen 
+<L 255:32> <C 250_ZEGELEN> seghelen <C 700_MET> met <C 452_MIJN> mins <C 2_OOM> oms <C 22_PETRUS> piet<A >er</A>s <C 1_ZEGEL> seghele <C 700_VAN> van <C 20_SOUBURG> subb<A >ur</A>gh. <C 800_EN> ende <C 401_IK> jc <C 20_WILHELM> willem 
+<L 255:33> <C 22_BOUDEWIJN> boudins <C 1_ZOON> sone <C 810_OMDAT> vm+dat <C 401_IK> ic <C 484_GEEN> ghenen <C 0_ZEGEL> seghel <C 560_NE> ne <C 221_HEBBEN> hadde <C 406+200_ZIJ+HOUDEN> houdse <C 100_BEZEGELD> beseghelt 
+<L 255:34> <C 700_ONDER> onder <C 22_ANTONIUS> tonis <C 0_ZEGEL> seghel <C 452_MIJN> mijns <C 4_NEEF> neuen. <C 500_VOORT> Vort <C 214_HEBBEN> hebben <C 404+406_WIJ+ZIJ> wise <C 260_DOEN> doen <C 250_ZEGELEN> seghelen. <C 700_MET> met 
+<L 255:35> <C 22_PETRUS> pieters <C 1_ZEGEL> seghele <C 700_VAN> van <C 20_SOUBURG> subborgh. <C 800_EN> ende <C 700_MET> met <C 24_WISSE> wissen <C 1_ZEGEL> seghele <C 700_VAN> van <C 21_KOUDEKERKE> coudek<A >er</A>ke. 
+<L 255:36> <C 800_EN> en<A >de</A> <C 700_MET> met <C 22_NICOLAAS> claises <C 1_ZEGEL> seghele <C 700_VAN> van <C 20_KATS> kads. <C 800_EN> ende <C 700_MET> met <C 22_ARNOUT> arnouds <C 1_ZEGEL> seghele <C 700_VAN> van 
+<L 255:37> <C 21_KOUDEKERKE> coudekerke. <C 800_EN> ende <C 700_MET> met <C 20_WILHELM> willem <C 22_JOHANNES> jans <C 2_ZOON> sons <C 1_ZEGEL> seghele. <C 411_DEZE> Dese <C 14_LETTER> letteren <C 234_ZIJN> waren 
+<L 255:38> <C 274_GEVEN> gheuen <C 700_IN> jn <C 452_ONS> onses <C 4_HEER> heren <C 4_JAAR> jaren <C 309_1273> tualef+hond<A >er</A>t+en<A >de</A>+drie+ende+tseuentich. 
+<L 255:39> <C 472_DE/HET> Des <C 2_ZONDAG> sonendaghes <C 700_VOOR> vor <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_MIS> messe <C 700_TE> te <C 1_MIDZOMER> midde+somere. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='81' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

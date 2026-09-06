@@ -1,0 +1,24 @@
+<header>
+<docId>0009</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 44:15> <q> de <q> concordia <q> inter <q> ecclesiam 
+<L 44:16> <q> & <q> scultetu<A >m</A> <q> sancti <q> bauonis <q> facta.- 
+<end-datering  jaar_tot='1400' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> de <q> concordia <q> jnter <q> ecclesiam 
+<L 44:17> <q> et <q> schulthetu<A >m</A> <q> sancti <q> Bauonis. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

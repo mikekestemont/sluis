@@ -1,0 +1,39 @@
+<header>
+<docId>0665</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1117:21> <C 20_SIMON> Symo<A >n</A> <C 0_BAARD> bard.- <q> donatio <C 22_SIMON> symonis <C 0_BAARD> bard. 
+<L 1117:22> <C 999_ZZZ> s <C 309_2> .ij. <C 11_SPADE> spade <q> terre <C 700_IN> i<A >n</A> <C 21_VRANKENDIJK> frankedike. <C 309_1286> m+cc+lxxxvj <q> feria <q> quarta <q> pasche <q> jn 
+<L 1117:23> <q> parrochia <q> de <C 20_HULST> hulst. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1117:29> <C 401_IK> Jc <C 20_SIMON> Symoen <C 471_DE> die <C 0_BAARD> bard <C 1_POORTER> port<A >er</A>e <C 700_IN> i<A >n</A> <C 21_BRUGGE> brugghe. <C 200_DOEN> Doe <C 700+251_TE+WETEN> tewetene <C 324_AL> allen <C 474_DE/HET> den 
+<L 1117:30> <C 414_GENE> goene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> Lettre<A >n</A> <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat <C 401_IK> jc <C 211_HEBBEN> hebbe 
+<L 1117:31> <C 274_GEVEN> ygheven <C 704_BINNEN> bi<A >n</A>nen <C 454_MIJN> minen <C 104_GANSE> gansen <C 1_LIJF> Live <C 800_EN> & <C 704_BINNEN> bi<A >n</A>nen <C 454_MIJN> minen <C 104_BEDACHTE> bedochte<A >n</A> <C 1_ZIN> sinne. 
+<L 1117:32> <C 300_TWEE> tve <C 14_SPADE> spaden <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> mi<A >n</A> <C 800_OF> jof <C 500_LUTTEL> lettel <C 320_MEE> me <C 271_LIGGEN> ligghende <C 700_IN> i<A >n</A> <C 21_VRANKENDIJK> vrankendike. <C 475_DE/HET> der 
+<L 1117:33> <C 4_KERK> kerken <C 700+475_VAN+DE> vander <C 20_DOEST> does <C 700_IN> i<A >n</A> <C 1_AALMOES> alemoesene. <C 800_EN> En<A >de</A> <C 810_OMDAT> omme+dat <C 401_IK> jc <C 20_SIMON> Symoen <C 471_DE> die <C 0_BAARD> bard 
+<L 1117:34> <C 100_VOORZEID> vorseit <C 201_WILLEN> wille <C 810_DAT> dat <C 410_DIT> dit <C 100_VAST> vast <C 211_BLIJVEN> blive <C 100_ZEKER> zeker <C 800_EN> & <C 101_GESTADE> ghestade. <C 550_ZO> So <C 210+401_HEBBEN+IK> hebbic <C 411_DEZE> dese <C 14_LETTER> lettre<A >n</A> 
+<L 1117:35> <C 4+700_KENNIS+TE> teke<A >n</A>nessen <C 101_UITHANGEND> vthanghende <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_MIJN> minen <C 101_PROPER> propre <C 1_ZEGEL> zeghele. <C 421_DIE> Die 
+<L 1117:36> <C 234_ZIJN> waren <C 273_MAKEN> ghemaect <C 800_EN> & <C 274_GEVEN> ygheven <C 2_WOENSDAG> wonsdaghes <C 700_IN> i<A >n</A> <C 471_DE> die <C 11_PAASDAG> passche+daghe. <q> anno 
+<L 1117:37> <q> domini <q> .m'ho <q> cc'ho. <q> lxxx'ho. <q> sexto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

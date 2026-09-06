@@ -1,0 +1,47 @@
+<header>
+<docId>1558</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2344:8> <C 700_VAN> Van <C 0+472_HEER+DE> ser <C 22_GREGORIUS> juris <C 22_HAAK> haecs <C 11_KIND> kindre. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2344:13> <C 410_DIT> Dit <C 210_ZIJN> es <C 471_DE> de <C 11_GOEDING> goedinghe <C 421_DIE> die <C 0+472_HEER+DE> ser <C 22_GREGORIUS> juris <C 22_HAAK> haecs <C 11_KIND> kindre <C 700_AAN> an <C 406_ZIJ> hem <C 204_TREKKEN> trecken. <C 800_EN> en<A >de</A> 
+<L 2344:14> <C 471_DE> de <C 421_WELK> welke, <C 421_DIE> die <C 403_HIJ> hem <C 204_TOEBEHOREN> toe+behoren <C 841_ALS> alse <C 700+475_VAN+DE> vander <C 4_VERSTERFTE> versterften <C 700_VAN> van <C 455_HAAR> harre 
+<L 2344:15> <C 0_MOEDER> moeder; <C 410_DAT> Dat <C 200_ZIJN> es <C 700_TE> te <C 251_VERSTAAN> v<A >er</A>staene <C 309_2000> .ii'hm. <C 19_LIBRA> lb <C 111_VLAAMS> vlaemsce <C 421_DIE> die <C 406_ZIJ> hem <C 470+0_DE+HEER> der <C 20_GREGORIUS> joeris 
+<L 2344:16> <C 406_ZIJLIEDEN> hareliede <C 0_VADER> vaeder <C 100_SCHULDIG> sculdech <C 210_ZIJN> es <C 700_VAN> van <C 454_HAAR> haren <C 1_GEDEEL> ghedeele <C 700_VAN> van <C 455_HAAR> harre <C 0_MOEDER> moeder. 
+<L 2344:17> <C 800_EN> En<A >de</A> <C 411_DIE> die <C 213_HEBBEN> heuet <C 403_HIJ> hi <C 406_ZIJLIEDEN> hemlieden <C 273_GELOVEN> ghelouet <C 800_EN> en<A >de</A> <C 273_BEWIJZEN> bewiist, <C 700+470_OP+HET> vpt <C 0_HUIS> hues <C 800_EN> en<A >de</A> <C 700_OP> vp 
+<L 2344:18> <C 470+1_HET+ERF> deerue, <C 420_DAT> dat <C 203_STAAN> staet <C 700_OP> vp <C 471_DE> de <C 101+0_HOOG+POORT> hogheport. <C 700_OP> vp <C 474_DE/HET> den <C 0_HORNIK> hornec <C 475+700_DE+VAN> vander <C 4_STEEG> steghen, <C 702_NEFFENS> neffens 
+<L 2344:19> <C 474_DE/HET> den <C 1_HUIS> huse <C 700+475_VAN+DE> vander <C 4_SIKKEL> sickelen; <C 800_EN> En<A >de</A> <C 700_OP> vp <C 320_AL> al <C 471_DE> de <C 1_INHAVE> inhaue <C 421_DIE> die <C 203_BEHOREN> behort <C 700+474_TE+DE/HET> ten 
+<L 2344:20> <C 104_VOORZEID> vorseiden <C 0_HUIS> hues; <C 231_ZIJN> Ware <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> saeke, <C 810_DAT> dat <C 610_DAARAAN> daer+an <C 440_IET> iet <C 221_GEBREKEN> ghebrake. <C 550_ZO> soe <C 213_HEBBEN> heuet 
+<L 2344:21> <C 600+403_EROVER+HIJ> hire+ou<A >er</A> <C 273_ZETTEN> gheset <C 700_TE> te <C 1_PAND> pande, <C 470+320_HET+AL> alt <C 0_GOED> goet, <C 420_DAT> dat <C 403_HIJ> hi <C 203_HEBBEN> heuet <C 704_BINNEN> binne<A >n</A> <C 475_DE/HET> der <C 1_STAD> stede <C 700_VAN> van 
+<L 2344:22> <C 20_GENT> ghent. <C 700_IN> jn <C 440_WAT> wat <C 14_MANIER> manieren <C 810+403_DAT+HET> dat <C 274_LIGGEN> gheleghen <C 210_ZIJN> es; <C 410_DIT> Dit <C 0_GELOOF> ghelof <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 0_BEWIJS> bewiis <C 230_ZIJN> was 
+<L 2344:23> <C 274_DOEN> ghedaen, <C 700_VOOR> vor <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_PETRUS> pietere <C 474_DE/HET> den <C 0_VOS> vos, <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_NICOLAAS> claise <C 21_WILLEBAARD-X> willebarde. <C 800_EN> en<A >de</A> 
+<L 2344:24> <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_SIMON> simone <C 700+474_VAN+DE/HET> vanden <C 1_PUT> pitte, <C 600+421_EROVER+DIE> diere+ou<A >er</A> <C 224_ZIJN> ware<A >n</A> <C 861_ALS> alse <C 111_ERFACHTIG> heeruachteghe <C 11_LIEDEN> liede. 
+<L 2344:25> <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 309_1200-VIERWERF-TWINTIG-EN-TIEN> .m.cc.iiiixx.+en<A >de</A>+.x. <C 471+700_DE+IN> jnde <C 1_WEEK> weke <C 700_VOOR> vor <C 0_KERSTAVOND> kersauont; <C 800_EN> En<A >de</A> 
+<L 2344:26> <C 810_OMDAT> omme+dat <C 0+470_HEER+DE> der <C 20_PETRUS> pieter <C 471_DE> de <C 0_VOS> vos <C 800_EN> en<A >de</A> <C 470+0_DE+HEER> der <C 20_NICOLAAS> clais <C 20_WILLEBAARD-X> willebart, <C 100_DOOD> doet <C 214_ZIJN> siin; <C 551_ZO> soe 
+<L 2344:27> <C 221_VERNIEUWEN> v<A >er</A>niuwede <C 470+0_DE+HEER> der <C 20_GREGORIUS> joeris, <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_STUK> sticke, <C 700_VOOR> vor <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_JOHANNES> janne <C 474+700_DE/HET+VAN> vanden 
+<L 2344:28> <C 1_PUT> pitte, <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_BOUDEWIJN> boidine <C 700+475_VAN+DE> vander <C 1_LAAK> lake. <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_BOUDEWIJN> boidine <C 474_DE/HET> den <C 1_PAAP> pape. <C 841_ALS> alse 
+<L 2344:29> <C 700_VOOR> vor <C 111_ERFACHTIG> heeruachteghe <C 11_LIEDEN> liede; <C 800_EN> En<A >de</A> <C 610_HIERTOE> hier+toe <C 204_BIEDEN> bieden <C 471_DE> de <C 111_VOORZEID> vorseide <C 11_KIND> kindre <C 700_TE> te 
+<L 2344:30> <C 251_DOEN> doene, <C 320_AL> al <C 420_DAT> dat <C 475_DE> der <C 0_WET> wet <C 210_ZULLEN> sal <C 260_DUNKEN> dinken, <C 420_DAT> dat <C 406_ZIJ> sii <C 100_SCHULDIG> sculdech <C 214_ZIJN> siin <C 700_TE> te <C 251_DOEN> doene; <C 800_EN> En<A >de</A> 
+<L 2344:31> <C 204_BEGEREN> beghere<A >n</A> <C 700_AAN> an <C 474_DE/HET> de<A >n</A> <C 1_HEER> heere <C 810_DAT> dat <C 403_HIJ> hi <C 406_ZIJ> hem <C 451_HAAR> hare <C 0_RECHT> recht <C 610_DAARIN> der+in <C 201_BEHOUDEN> behoude. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

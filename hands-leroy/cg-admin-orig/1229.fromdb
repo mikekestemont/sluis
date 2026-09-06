@@ -1,0 +1,23 @@
+<header>
+<docId>1229</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1882:20> <q> .. <C 1_LETTER> Lett<A >er</A>e. <C 4_HEER> hare<A >n</A> 
+<L 1882:21> <C 20_ARNOUT> arnoust <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 1_STEEN> stei<A >n</A>ne <C 621#_DAAR-> dar <C 403_HIJ> hi <C 621*_-MEDE> mede <C 220_OPDRAGEN> opdroeg <C 474_DE/HET> de<A >n</A> <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> va<A >n</A> <C 20_HOLLAND> holl<A >ant</A>. <C 309_91> xci. 
+<L 1882:22> <C 12_BUNDER> boe<A >n</A>res <C 2_LAND> lanst. <C 421_DIE> die <C 204_LIGGEN> legge<A >n</A> <C 470+700_HET+IN> int <C 0_LAND> lant. <C 700_VAN> va<A >n</A> <C 20_BORSEN> borse<A >n</A>. <C 421_DIE> die <C 403_HIJ> hi <C 500_WEER> wed<A >er</A> <C 700_VAN> van <C 403_HIJ> he<A >m</A> 
+<L 1882:23> <C 220_ONTVANGEN> onfei<A >n</A>g. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

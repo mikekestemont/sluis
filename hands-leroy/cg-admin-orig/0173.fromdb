@@ -1,0 +1,22 @@
+<header>
+<docId>0173</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1275' jaar_van='1251' tijdsoort='2' tijdstatus='2'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 295:31> <q> + <C 510_HIER> HIER <C 203_LIGGEN> LEGHET <C 20_ASSERIJK-X> ASSCHERIC <C 700_VAN> VAN <C 475_DE/HET> [DE]R <C 20_KOUDERBURG> COUDERBORCH 
+<L 295:32> <C 421_DIE> [DIE] <C 220_STERVEN> [S]TAERF <C 700+470_IN+HET> I[NT] <C 0_JAAR> [I]AER[.] <q> [...] <C 101_SINT> [SENTE] <C 22_SIMON> [SIMO]ENS <C 800_EN> ENDE 
+<L 295:33> <C 101_SINT> SENTE <C 24_JUDA> IVDEN <C 1_AVOND> AVONDE <C 240_BIDDEN> BID <C 700_OVER> OVER <C 403_HIJ> HEM 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1275' jaar_van='1251' tijdsoort='2' tijdstatus='2'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

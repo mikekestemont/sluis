@@ -1,0 +1,62 @@
+<header>
+<docId>1034</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1566:12> <C 21_JABBEKE> jabbeke.- 
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 1566:13> <q> jn <q> sancti <q> egidij <q> iij't! <q> lb <q> quas 
+<L 1566:14> <q> soluit <q> jonch<A >er</A>e <q> ecclesie <q> beate <q> marie.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> jn <q> officio <q> de <q> ziezeel <q> iuxta 
+<L 1566:15> <q> monek<A >en</A> <C 24_SPORKEN-X> spork<A >en</A> <q> ?. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1566:20> <C 20_JOHANNES> Jan <C 471_DE> die <C 1_NAAIER> Naiere <C 21_ADELHEID> adelise <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 20_PETRUS> Pieter <C 700_VAN> van <C 475_DE/HET> der <C 1_MAT> matte <C 21_ELISABETH> lisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf 
+<L 1566:21> <C 20_JACOB> jacob <C 1_KAARDEBOL> cardenbolle <C 21_ELISABETH> lisebette <C 450_ZIJN> sijn <C 0_WIJF> wijf, <C 20_AGNES> anees <q> f <C 24_ADELHEID> adelisen <C 22_HOOGGEMOED-X> hoghimoeds <C 21_GEERTRUIDA> trude 
+<L 1566:22> <C 451_HAAR> are <C 0_ZUSTER> suster <C 20_WILHELM> willem <C 20_BABA-X> baba <C 700_OVER> over <C 463_HEM> hem <C 414_ZELF> seluen <C 800_EN> & <C 700_OVER> over <C 24_ELISABETH> betten <C 800_EN> & <C 24_CATHARINA> katelinen <C 451_ZIJN> sine 
+<L 1566:23> <C 11_KIND> kindere, <C 20_JACOB> jacob <C 1_KAARDEBOL> cardenbolle <C 800_EN> & <C 20_ADAM> adaem <C 700_VAN> van <C 21_LISSEWEGE> lisseweghe <C 471_DE> de <C 1_METSENAAR> maetsenare <C 700_OVER> over 
+<L 1566:24> <C 20_AEGIDIUS> gillekine, <C 21_VROMOEDJE> v<A >ro</A>moudekine <C 800_EN> ende <C 21_PETRUS> pieterkine <C 22_AEGIDIUS> gillis <C 2_BLANKAARD> blancards <C 10_KIND> kinder 
+<L 1566:25> <C 20_GODLIEF> Godelief <C 700_VAN> van <C 4_STRATEN> straten, <C 20_JOHANNES> jan <C 1_DRIBBELAAR-X> drubbelare <C 21_ADELHEID> adelise <C 2_DRIBBELAAR-X> drubbelars <C 21_MARGARETA> margriete <C 451_HAAR> are <VN type=1> 
+<L 1566:26> <C 0_ZUSTER> suster <C 20_WOUTER> wouter <C 0_HOOFD> houet <C 21_ADELHEID> adelise <C 450_ZIJN> sijn <C 0_ZUSTER> suster <C 20_MARIA> maria <q> f <C 22_WILHELM> w<A >illems</A> <C 4_WAAL> walen <C 20_JOHANNES> jan <C 20_BELAARD> belard 
+<L 1566:27> <C 20_JOHANNES> jan <C 20_JOOIMAN-X> joiman <C 0_KLERK> clerc <C 20_JACOB> coppin <C 20_JOOIMAN-X> joiman <C 0_KLERK> clerc <C 20_WILLAARD> willard <C 300_HONDERDWERF> hondert+waerf <C 21_AVE> auesoete <C 450_ZIJN> sijn 
+<L 1566:28> <C 0_WIJF> wijf <C 20_GREGORIUS> joris <C 20_JOOIMAN-X> joyman <C 20_FEI> veis <C 471_DE> de <C 1_KUIPER> cupre <C 471_DE> die <C 0_KLERK> clerc, <C 20_JACOB> coppin. <C 21_CATHARINA> kateline. <C 21_ELISABETH> bette. <C 800_EN> ende 
+<L 1566:29> <C 21_CLARA> clare <C 22_JOHANNES> jans <C 10_KIND> kinder <C 700_VAN> van <C 4_STRATEN> straten <C 224_GEVEN> gauen <C 1_HALM> halme <C 800_EN> ende <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 474_DE/HET> den <C 1_HEER> here 
+<L 1566:30> <C 21_MICHAEL> michiele <C 700_VAN> van <C 21_JABBEKE> jabbeke <C 1_PAROCHIEPAAP> prochie+pape <C 700_VAN> van <C 455_ONS> onser <C 4_VROUW> vrouwen <C 700_IN> jn <C 21_BRUGGE> brugghe <C 700_VAN> van 
+<L 1566:31> <C 304_TWEE> tveen <C 11_GEMET> ymete <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MEE> me <C 800_OF> jof <C 320_MIN> min <C 271_LIGGEN> ligghende <C 700+474_BINNEN+DE/HET> binden <C 1_AMBACHT> ambochte <C 700_VAN> van 
+<L 1566:32> <C 474_DE/HET> den <C 104_SIJSEELS> ziesseelschen <C 475+700_DE+BINNEN> binder <C 1_PAROCHIE> prochie <C 700_VAN> van <C 101_SINT> sinte <C 20_AEGIDIUS> Gillis <C 700_BEZUIDHALF> besuudalf <C 22_BOUDEWIJN> boudens 
+<L 1566:33> <C 2_STUIVER-X> stuuers <C 271_STREKKEN> streckende <C 474+700_DE/HET+AAN> anden <C 0_WEG> wech <C 800_EN> ende <C 214_HETEN> heten <C 22_RIJKWARD> riquards <C 2_PAUW> paeus <C 0_LAND> land <C 800_EN> ende <C 406_ZIJ> sie 
+<L 1566:34> <C 403+224_HET+WEDDEN> weddents <C 403_HIJ> hem <C 700+4_TE+WET> tewetten <C 700+251_TE+WAREN> tewaerne <C 0_WEG> wech <C 800_EN> ende <C 0_LAND> land <C 101_KWIJT> quite <C 0_LAND> land <C 700_MET> met <C 455_ZIJN> sire 
+<L 1566:35> <C 105_RECHT> rechter <C 0_SCHULD> scult <C 700_TE> te <C 454_ZIJN> sinen <C 104_VRIJ> vrien <C 1_EIGENDOM> Eghijndome <C 700_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche, <C 410_DIT> Dit 
+<L 1566:36> <C 204_KENNEN> kennen <C 14_SCHEPEN> schepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_SIJSEELS> ziesseelschen <C 20_WOUTER> wouter <C 471_DE> die <C 101_KOPEREN> coperine <C 20_JOHANNES> jan <C 0_MAST> mast. 
+<L 1566:37> <C 20_WILHELM> willem <C 700_VAN> van <C 475_DE/HET> der <C 0_LO> lo. <C 20_WOUTER> weitin <C 700_VAN> van <C 475_DE/HET> der <C 0_LO> lo. <C 21_HUGO> hughe <C 700_VAN> van <C 20_ASSEBROEK> arsebroec. <C 20_BOUDEWIJN> boidin <C 700_VAN> van 
+<L 1566:38> <C 474_DE/HET> den <C 1_LEEN> lene. <C 20_PETRUS> pieter <C 700_VAN> van <C 475_DE/HET> der <C 0_BIEST> biest. <C 20_JOHANNES> jan <C 0_DOORGANG> durganc <C 800_EN> ende <C 20_SIMON> symoen <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe. 
+<L 1566:39> <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 472+2_DE+DINSDAG> sdinxendaghes <C 700_NAAR> naer <C 0_HALF> alf <C 21_MEI> meye. <q> anno <q> domini <q> .m'ho. <q> cc'ho. 
+<L 1566:40> <q> Nonagesimo. <q> primo <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

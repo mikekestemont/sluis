@@ -1,0 +1,22 @@
+<header>
+<docId>1633</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2441:13> <C 1_LETTER> ..L<A >ettere</A>. <C 472_DE/HET> des 
+<L 2441:14> <C 2_BISSCHOP> bisscops <C 700_VAN> van <C 20_UTRECHT> vtrech <C 621*_DAAR-> dar <C 403_HIJ> hi <C 621#_-MEDE> mede <C 203_GELOVEN> gelouet <C 474_DE/HET> de<A >n</A> <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> va<A >n</A> <C 20_HOLLAND> holl<A >ant</A> <C 410_ALZULK> alsuulc 
+<L 2441:15> <C 0_GELD> ghelt <C 700_TE> te <C 250_GELDEN> ghelde<A >n</A> <C 820_ALS> als <C 403_HIJ> hi <C 220_NEMEN> nam <C 709_VAN> va <q> sic <C 4_HEER> hare<A >n</A> <C 21_JACOB> jacobe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

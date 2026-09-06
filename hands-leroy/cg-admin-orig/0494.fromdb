@@ -1,0 +1,43 @@
+<header>
+<docId>0494</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 732:17> <C 404_WIJ> Wie <C 20_PETRUS> Pieter <C 700_VAN> van <C 475_DE/HET> der <C 1_WEIDE> weide <C 20_WILHELM> Willem <C 6_KALKER> calk<A >ra</A> <C 20_JACOB> Jacob <C 700_VAN> van <C 474_DE/HET> den <C 1_GROENENDIJK-X> gronendike <C 800_EN> & 
+<L 732:18> <C 20_PETRUS> Pieter <C 20_WALKIER-X> walkier <C 11_SCHEPEN> scepene <C 700_IN> in <C 21_BRUGGE> Brug[e] <C 700_TE> te <C 474_DE> dien <C 4_TIJD> tiden <C 850_DAT> dat <C 411_DEZE> dese <C 0_DING> ding <C 274_DOEN> gedaen 
+<L 732:19> <C 230_ZIJN> was, <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> iof 
+<L 732:20> <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> d[at] <C 220_KOMEN> cam <C 700_VOOR> voer <C 404_WIJ> ons <C 700_IN> in <C 100_GEBANNEN> ibannen <C 1_VIERSCHAAR> vierscarre <C 20_JOHANNES> Jhan <C 0_DOP> dop <C 800_EN> ende 
+<L 732:21> <C 20_PETRUS> Pieter <C 450_ZIJN> sin <C 0_BROEDER> broder <C 700_AF> of <C 300+1_EEN+ZIJDE> enside <C 800_EN> Ende <C 20_NICOLAAS> Clais <C 20_WALKIER-X> walkier <C 700_AF> of <C 1_BANDERZIJDE> ba[n]d[er]+side <C 841_ALS> alse 
+<L 732:22> <C 700_VAN> van <C 484_EEN> enen <C 1_DISCOORD> discorde <C 420_DAT> dat <C 406_ZIJ> si <C 224_HEBBEN> hadden <C 840_ALS> alse <C 474+700_DE/HET+VAN> vanden <C 1_DEEL> dele <C 700_VAN> van <C 472+1_DE+HEER> tsere <C 22_AEGIDIUS> Gillis <C 2_DOP> dops 
+<L 732:23> <C 0_DOOD> doet <C 472+0_DE+HEER> tser <C 22_PETRUS> pieters <C 2_ZOON> soe[ns] <C 800_EN> & <C 24+0_MARGARETA+VROUW> vroumargh<A >eriet</A>en <C 452_ZIJN> sins <C 0_WIJF> wijf. <C 800_EN> Ende <C 510_DAAR> daer 
+<L 732:24> <C 224_WIJZEN> wiseden <C 404_WIJ> wie <C 11_SCHEPEN> scepene <C 110_VOORZEID> vorseit <C 700_BIJ> bi <C 104_GEMAAND> imaenden <C 1_EED> ede <C 700_NA> nae <C 1_TAAL> tale <C 700_NA> nae <C 1_WEDERTAAL> weder[tale] 
+<L 732:25> <C 474_DE> dien <C 104_VOORZEID> vorseiden <C 20_NICOLAAS> Clais <C 21_WALKIER-X> walkiere <C 251*+251#+700_IN-+-KOMEN+TE> intecomene <C 700_MET> met <C 320_AL> al <C 414_DIE> dien <C 420_DAT> dat <C 403_HIJ> hie <C 221_UITHEBBEN> vit+hadde 
+<L 732:26> <C 700_IN> in <C 1_HUWELIJK> houwelike <C 231_WILLEN> wilde <C 403_HIJ> hie <C 20_NICOLAAS> Clais <C 100_VOORZEID> vorseit <C 250_DELEN> dele[n] <C 700+475_TE+DE> [ter] <C 105_ACHTER> achterster <C 0_DOOD> doet. <C 800_EN> Ende 
+<L 732:27> <C 21_JOHANNES> Jhanne <C 1_DOP> doppe <C 800_EN> ende <C 20_PETRUS> Pieter <C 510_ALZO> alsoe <C 251*+251#+700_IN-+-BRENGEN+TE> intebringhene <C 320_AL> al <C 420_DAT> dat <C 406_ZIJ> si <C 224_UITHEBBEN> houte+hadden <C 800_OF> iof 
+<L 732:28> <C 471_DE> die <C 1_WAARDE> warde <C 610_DAARAF> daer+of <C 800_EN> [ende] <C 320_AL> al <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_GOEDING> godinghe <C 700_TE> te <C 1_HOOP> hope <C 700_TE> te <C 251_WERPEN> warpene, 
+<L 732:29> <C 800_EN> ende <C 322_ELK> elcs <C 2_KIND> kints <C 0_GOED> goed <C 100+100_GOED+EVEN> euengoed <C 800_EN> & <C 100_GELIJK> gelijc <C 700_TE> te <C 251_MAKEN> makene <C 420_DAT> dat <C 250_DELEN> del[en] <C 231_ZULLEN> [soude] <C 475+700_DE+TE> ter 
+<L 732:30> <C 105_ACHTER> achterster <C 0_DOOD> doed. <C 800_EN> Ende <C 810_OMDAT-DAT> omme+dat,+dat <C 470+0_DE+HEER> der <C 20_LAMBERT> Lamb<A >ra</A>th <C 471_DE> die <C 1_TOLLENAAR> toelna<A >re</A> <C 800_EN> ende 
+<L 732:31> <C 421+403_DIE+HET> dies <C 403_HIJ> hem <C 224_VOLGEN> volgeden <C 560_NIET> niet <C 505_VOORDER> voerder <C 224_WIJZEN> wise[den] <C 821_DAN> danne <C 700_OP> op <C 20_NICOLAAS> Clais <C 21_WALKIER-X> walkiere <C 800_EN> & 
+<L 732:32> <C 700_OP> op <C 21_JOHANNES> Jhanne <C 0_DOP> dop, <C 841_ALS> alse <C 810_DAT> dat <C 20_NICOLAAS> Clais <C 20_WALKIER-X> walkier <C 250*_IN-> in <C 231_ZULLEN> soude <C 250#_-KOMEN> comen <C 475+700_DE+TE> ter <C 105_ACHTER> achterst<A >er</A> <C 0_DOOD> doet 
+<L 732:33> <C 700_MET> met <C 104_HALF> haluen <C 1_GOED> goede <C 420_DAT> dat <C 403_HIJ> hie <C 221_UITHEBBEN> vit+hadde <C 700_IN> in <C 1_HUWELIJK> houwelike <C 231_WILLEN> wilde <C 403_HIJ> hie <C 250_DELEN> delen <C 800_EN> & 
+<L 732:34> <C 20_JOHANNES> Jhan <C 0_DOP> dop <C 231_ZULLEN> soude <C 250_UITHOUDEN> vit+houden <C 420_DAT> dat <C 403_HIJ> hie <C 221_UITHEBBEN> vit+hadde <C 510_ALZO> also <C 820+403_ALS+HET> alst <C 403_HIJ> hem <C 273_WIJZEN> iwist <C 230_ZIJN> was, 
+<L 732:35> <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wie <C 224_WIJZEN> wiseden <C 700_VAN> van <C 320_AL> al <C 800_EN> & <C 501_ALDOOR> al+duere <C 800_EN> & <C 810_OMDAT> o<A >m</A>me+dat <C 404_WIJ> wie <C 204_WILLEN> willen 
+<L 732:36> <C 810_DAT> dat <C 411_DEZE> dese <C 0_DING> dinc <C 211_BLIJVEN> bliue <C 100_VAST> vast <C 800_EN> & <C 101_GESTADE> gestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 11_SCHEPEN> scepene <C 110_VOORZEID> vorseid <C 700_IN> in 
+<L 732:37> <C 4_KENNIS> kennessen <C 700_VAN> van <C 320_AL> al <C 414_DEZE> desen <C 114_VOORZEID> verseiden <VN type=1> <C 14_DING> dinghen <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_ZEGELEN> gezegelt <C 700_OP> op 
+<L 732:38> <C 21_NICOLAAS> Claise <C 21_WALKIER-X> walkiere <C 800_EN> ende <C 701_OP> oppe <C 20_PETRUS> piet<A >er</A> <C 1_DOP> doppe <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 111_UITHANGEND> vithangende 
+<L 732:39> <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> gedaen <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 300_1283> .m'ho.cc'ho.lxxx'ho.+&+Drie <C 472+2_DE+WOENSDAG> swondaghes <C 700_VOOR> voer 
+<L 732:40> <C 101_SINT> sinte <C 20_LAMBERT> Lamb<A >ra</A>th <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

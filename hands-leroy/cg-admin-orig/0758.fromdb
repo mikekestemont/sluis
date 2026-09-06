@@ -1,0 +1,38 @@
+<header>
+<docId>0758</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1249:39> <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 213_DOEN> doet <C 250_GROETEN> groeten <C 321_AL> alle <C 451_ZIJN> sine <C 14_BALJUW> baliuwen, <C 704_TUSSEN> tuschen 
+<L 1249:40> <C 471_DE> die <C 21_MAAS> mase <C 800_EN> ende <C 471_DE> die <C 21_ZIJPE> sype, <C 421_DIE> die <C 700_IN> in <C 471_DE> die <C 4_TIJD> thiiden <C 204_ZIJN> ziin. <C 404_WIJ> Wi <C 204_GEBIEDEN> ghebieden <C 405_GIJ> v <C 324_ELK> elken 
+<L 1249:41> <C 501_ZONDERLING> sonderlinghe <C 810_DAT> dat <C 405_GIJ> ghi <C 454_ONS> onsen <C 12_POORTER> porters <C 700_VAN> van <C 20_DELFT> delf <C 203_INPANDEN> in+pandet <C 450_HAAR> hoer <C 1_DERDEDEEL> derdendele 
+<L 1249:42> <C 700+474_VAN+DE/HET> vanden <C 14_BOETE> boeten <C 421_DIE> die <C 204_VERVALLEN> vervallen <C 700_IN> in <C 451_ONS> onse <C 1_POORT> porte <C 700_VAN> van <C 20_DELFT> delf <C 700_VAN> van <C 0_VECHTEN> vechten <C 801_OF> ofte <C 700_VAN> van 
+<L 1249:43> <C 110_VERBEURD> verboerden <C 11_WAPEN> wapene <C 700_VAN> van <C 114_UITHEEMS> vthemschen <C 14_LIEDEN> liiden <VN type=1> <C 421_DIE> die <C 700_IN> in <C 451_UW> vwe <C 1_BALJUWSCHAP> baliuscappe 
+<L 1249:44> <C 204_WONEN> wonen <C 520_DAAR> daer <C 403+406_HET+ZIJ> ziit <C 405_GIJ> v <C 250+700_WETEN+TE> teweten <C 214_DOEN> doen <C 700_MET> met <C 451_HAAR> hoere <C 1_POORTZEGEL> port+seghele. <C 274_GEVEN> Ghegheven <C 700_IN> in 
+<L 1249:45> <C 452_ONS> ons <C 4_HEER> heren <C 1_JAAR> iare <C 300_1287> tvelfhondert+ende+zeven+entachtich <C 472_DE/HET> des <C 2_DONDERDAG> donredaghes <C 700_NA> na 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 1249:51> <C 14_LIEDEN> luden 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 1250:1> <C 101_SINT> sente <C 22_NICOLAAS> niclais <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,56 @@
+<header>
+<docId>1910</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2817:10> <q> de <q> iacobo <C 4_VROUW> vore<A >n</A> 
+<L 2817:11> <C 24_BENIGNUS> beni<A >n</A>gne<A >n</A> <q> iuxta <q> atrium <q> in <q> neck<A >er</A>spoelle.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 500_ITEM> jt<A >em</A> <C 489_EEN> .j. 
+<L 2817:12> <C 1_LETTER> lettere <C 700_VAN> van <q> x <C 19_SOLIDUS> 't3s <q> pai<A >ments</A> <C 700_OP> op <q> jacob <q> erue <C 4_VROUW> v<A >er</A>ren <C 24_BENIGNUS> beninghene<A >n</A> <C 700_OP> op 
+<L 2817:13> <q> neck<A >er</A>spoele <q> neue<A >n</A> <C 474_DE/HET> de<A >n</A> <q> kerhof <C 500_NU> nu <C 203_HOUDEN> houdet <C 450_ZIJN> sin <C 0_DOCHTER> docter <q> anno <q> .m'ho. <q> ccc'ho.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<L 2817:14> <C 2_DONDERDAG> donderdags <C 700_NA> na <C 325_AL> alre <C 14_HEILIGE> heyleghe<A >n</A>misse. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2817:19> <C 404_WIJ> Wi <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 21_NEKKERSPOEL> neckerspole, <C 1_HEER> here <C 20_JOHANNES> jan <C 471_DE> de <C 1_BEER> bere, <C 20_WOUTER> wouter <C 700_VAN> van <C 21_GISTEL> gestele, 
+<L 2817:20> <C 800_EN> ende <C 20_JOHANNES> jan <C 20_KARREMAN> kerman, <C 204_GROETEN> groten <C 800_EN> ende <C 204_DOEN> doen <C 100_KOND> cont <C 474+320_DE/HET+AL> alden <C 414_GENE> genen <C 421_DIE> die <C 500_NU> nu <C 204_ZIEN> sijn <C 800_EN> ende 
+<L 2817:21> <C 421_DIE> die <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 0_BROEDER> broder <C 20_JOHANNES> jan <C 700_VAN> van <C 474_DE/HET> den <C 114_KRANK> cranken <C 14_BEGIJN> beghine<A >n</A> <C 700_VAN> van <C 21_MECHELEN> mechelne 
+<L 2817:22> <C 213_HEBBEN> heft <C 274_KRIJGEN> ghecregen <C 700+475_TE+DE> ter <C 115_KRANK> cranker <C 14_BEGIJN> beghine<A >n</A> <C 0_BEHOEF> boef <C 700+470_IN+HET> int <C 0_BEGIJNHOF> beghinen+hof <C 700_VAN> van 
+<L 2817:23> <C 21_MECHELEN> mechelne <C 700_JEGEN> jegen <C 21_JACOB> jacoppe <C 4_VROUW> w<A >er</A>en <C 24_BENIGNUS> beni<A >n</A>gnen <C 300_TIEN> tien <C 11_SCHELLING> scelli<A >n</A>ghe <C 472+2_HET+JAAR> siars <C 101_ERFELIJK> erfeleke 
+<L 2817:24> <C 2_CIJNS> tsiens <C 105_GEMEEN> gemeendre <C 4_MUNT> munten <C 510_ALZO> also <C 412_ZULK> selkes <C 2_GELD> gelds <C 821_ALS> alse <C 500_ALTOOS> altoes <C 700_IN> in <C 1_BEURS> borse <C 250_GAAN> gaen <C 210_ZULLEN> sal 
+<L 2817:25> <C 414+700_DIE+TE> tien <C 4_TIJD> tiden <C 440+850_MEN+ALS> alsmen <C 414_DEZE> desen <C 0_CIJNS> tsiens <C 250_GELDEN> gilden <C 210_ZULLEN> sal, <C 700_OP> op <C 450_ZIJN> sijn <C 0_HUIS> huus <C 800_EN> ende <C 700_OP> op <C 450_ZIJN> sijn <C 1_ERF> herve 
+<L 2817:26> <C 420_DAT> dat <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 700_TE> te <C 21_NEKKERSPOEL> neckerspole <C 700_BIJ> bi <C 474_DE/HET> den <C 1_KERKHOF> kerchove <VN type=1> <C 700_TUSSEN> tusscen <C 22_HENDRIK> heyrinchs 
+<L 2817:27> <C 2+472_DUIVEL+DE> sduvels <C 1_ERF> herve <C 800_EN> ende <C 22_HENDRIK> heyrijchs <C 1_ERF> herve <C 700_VAN> van <C 475_DE/HET> der <C 1_MEER> mere <C 800_EN> ende <C 411_DEZE> dese <C 300_TIEN> tien 
+<L 2817:28> <C 11_SCHELLING> scelli<A >n</A>ghe <C 472+2_HET+JAAR> siars <C 210+440_ZULLEN+MEN> salm<A >en</A> <C 250_GELDEN> gilden <C 301+470_EEN+DE> dene <C 0_HELFT> helft <C 700+101_TE+SINT> tesente <C 22_JOHANNES> jans <C 1_MIS> misse <C 800_EN> ende <C 470+311_DE+ANDER> dandre 
+<L 2817:29> <C 0_HELFT> helft <C 700_TE> te <C 1_KERSTAVOND> kersavonde, <C 800_EN> ende <C 700_IN> in <C 411_DEZE> dese <C 300_TIEN> tien <C 11_SCHELLING> scellinghe <C 472+2_HET+JAAR> siars <C 550_ZO> so <C 210_ZIJN> es <C 274_KOMEN> com<A >en</A> <C 411_DEZE> dese 
+<L 2817:30> <C 101_VOORGENOEMD> vorghenoemde <C 0_BROEDER> broder <C 20_JOHANNES> jan <C 700_MET> met <C 4_MANING> mani<A >n</A>ghen <C 2+472_RECHTER+DE> srechters <C 800_EN> ende <C 700_MET> met <C 1_WIJSDOM> wijsdoeme 
+<L 2817:31> <C 475_DE/HET> der <C 14_SCHEPEN> scepene<A >n</A> <C 501_BEHOUDELIJK> behoudenlike <C 322_ELK> elcs <C 2_MAN> mans <C 1_RECHT> rechte, <C 800_EN> ende <C 810_OMDAT> om+dat <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> es 
+<L 2817:32> <C 800_EN> ende <C 101_GESTADE> ghestade <C 210_ZULLEN> sal <C 260_BLIJVEN> bliven <C 551_ZO> soe <C 404+210+600*_WIJ+HEBBEN+ER-> hebwiere <C 404_WIJ> wi <C 111_VOORGENOEMD> vorghenoemde <C 14_SCHEPEN> scepenen <C 451_ONS> onse 
+<L 2817:33> <C 11_ZEGEL> seghele <C 274+600#_HANGEN+-AAN> aengheanghen, <C 411_DEZE> dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 2817:34> <C 850+440_ALS+MEN> alsmen <C 203_SCHRIJVEN> scrijft <C 319_1300> .m'ho.+ccc'ho. <C 2+472_DONDERDAG+DE> sdonderdags <C 700_NA> na <C 325_AL> alre <C 14_HEILIGE> heylegen <C 1_MIS> misse. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

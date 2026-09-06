@@ -1,0 +1,50 @@
+<header>
+<docId>1389</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='126' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2152:9> <C 0_KOOP> coep <C 475+700_DE+VAN> va<A >n</A>der <C 1_STAD> steide <C 1_LAND> lande <q> bijgeschreven 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_TE> te <q> thorout.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2152:15> <C 404_WIJ> Wi. <C 20_JOHANNES> jhan <C 20_ZUIDUIT-X> zuduut. <C 20_JOHANNES> jhan <C 0_BOUTIJN-X> boutin. <C 20_AEGIDIUS> gillis <C 700_VAN> van <C 21_RIJSEL> risele. <C 20_LAMBERT> lammin <C 22_LAMBERT> lamsins <C 1_ZOON> soene 
+<L 2152:16> <C 800_EN> ende <C 20_JOHANNES> jhan <C 700_VAN> van <C 475_DE/HET> der <C 1_LELIE> lelie <C 14_SCHEPEN> scepenen <C 700_IN> jn <C 20_TORHOUT> thorout <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den 
+<L 2152:17> <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen <C 1_CHARTER> chartere <C 250_ZIEN> zien <C 214_ZULLEN> sullen <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat <C 224_KOMEN> quamen <C 700_VOOR> vor 
+<L 2152:18> <C 404_WIJ> ons <C 111_VOORZEID> vorseide <C 14_SCHEPEN> scepenen. <C 20_JOHANNES> hannin <C 700_VAN> van <C 474_DE/HET> den <C 1_BILK> beleke. <C 21_GRIELE> griele <C 700_VAN> van <C 474_DE/HET> den <C 1_BILK> beleke. 
+<L 2152:19> <C 21_ELISABETH> lice <C 700_VAN> van <C 474_DE/HET> den <C 1_BILK> beleke. <C 800_EN> ende <C 21_CATHARINA> catrine <C 700_VAN> van <C 474_DE/HET> den <C 21_BILK> beleke <C 451_ZIJN> sine <C 11_ZUSTER> zuustere. <C 800_EN> ende 
+<L 2152:20> <C 224_GEVEN> gauen <C 452_HAAR> hars <C 2_DANK> danx <C 800_EN> ende <C 452_HAAR> hars <C 4_WIL> willen <C 21_ROBERT> roberechte <C 700_VAN> van <C 21_KOOLKERKE> coelkerke <C 1_POORTER> portere <C 700_IN> jn 
+<L 2152:21> <C 21_BRUGGE> brucghe <C 700+475_TE+DE> ter <C 1_STAD> stede <C 0_BEHOEF> boef <C 700_VAN> van <C 21_BRUGGE> brucghe <C 104_WETTELIJK> wetteliken <C 0_HALM> halm <C 800_EN> ende <C 101_WETTELIJK> wettelike 
+<L 2152:22> <C 1_GIFT> ghifte <C 700_VAN> van <C 484_EEN> enen <C 0_HUIS> huus <C 800_EN> ende <C 700_VAN> van <C 475_DE/HET> der <C 1_ERF> arue <C 610_DAARONDER> der+onder <C 271_STAAN> staende <C 800_EN> ende 
+<L 2152:23> <C 271_LIGGEN> ligghende <C 700+474_BINNEN+DE/HET> binden <C 1_POORTGERECHT> portjrechte <C 700_VAN> van <C 20_TORHOUT> thorout <C 700+474_TE+DE/HET> ten <C 1_BILK> beleke. <C 704_TUSSEN> tusschen <C 475_DE/HET> der 
+<L 2152:24> <C 1_STAD> stede <C 1_HUIZING> husinghe <C 700_VAN> van <C 21_BRUGGE> brucghe <C 421_DIE> die <C 504_WIJLEN> wilen <C 230_ZIJN> was <C 22_MICHAEL> michiels <C 2_BAATMAN-X> batemans. <C 800_EN> ende 
+<L 2152:25> <C 22_BOUDEWIJN> boudens <C 1_HUIS> huse <C 700_VAN> van <C 474_DE/HET> den <C 1_HAAN> hane. <C 800_EN> Ende <C 810_DAT> dat <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 20_JOHANNES> hannin. <C 21_GRIELE> griele. <C 21_ELISABETH> lice. 
+<L 2152:26> <C 800_EN> ende <C 21_CATHARINA> catrine <C 224_WEDDEN> wedden <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 21_ROBERT> roberechte <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_HUIS> huus <C 800_EN> ende 
+<L 2152:27> <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_ERF> arue <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_GEWAREN> jwaerne <C 704_JEGEN> jheghen <C 324_ELK> elken <C 1_MENS> mensche <C 100_ZUIVER> zuiuer 
+<L 2152:28> <C 800_EN> ende <C 101_KWIJT> quite <C 700_VAN> van <C 325_AL> alre <C 1_RENTE> rente <C 800_EN> ende <C 700_VAN> van <C 325_AL> alre <C 0_SCHULD> schult. <C 800_EN> Ende <C 700_IN> jn <C 4_KENNIS> kennessen <C 700_VAN> van 
+<L 2152:29> <C 414_DEZE> desen <C 114_VOORZEID> vorseiden <C 14_STUK> sticken <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 111_VOORZEID> vorseide <C 14_SCHEPEN> scepenen <C 414_DEZE> desen <C 104_PRESENT> presenten 
+<L 2152:30> <C 1_CHARTER> chartere <C 273_ZEGELEN> jzeghelt. <C 320_ELK> elc <C 700_MET> met <C 454_ZIJN> sinen <C 101_PROPER> propre <C 1_ZEGEL> zeghele <C 101_UITHANGEND> huut+hanghende. <C 410_DIT> Dit 
+<L 2152:31> <C 230_ZIJN> was <C 274_DOEN> jdaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 300_DUIZENTIG-294> dusentich.+tue+hondert+vier+ende+neghentich 
+<L 2152:32> <C 700_OP> vp <C 474_DE/HET> den <C 0_DONDERDAG> donders+dach <C 700_NAAR> naer <C 472+102_DE/HET+HEILIG> selesch <C 22_CHRISTUS> kers <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='126' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

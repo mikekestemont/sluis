@@ -1,0 +1,36 @@
+<header>
+<docId>1383</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2146:39> <C 29_JACOB> jac<A >obus</A> <q> de <C 999_ZZZ> turris. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<statushand  statushandkode='an'>
+
+<L 2146:44> <C 20_WOUTER> Wouter <C 471_DE> die <C 1_HOOIER> hoyere <C 800_EN> ende <C 21_IME> ymsoete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 224_GEVEN> gauen <C 1_HALM> halme <C 800_EN> ende <C 101_WETTELIJK> wettelike 
+<L 2146:45> <C 1_GIFT> ghifte <C 21_JACOB> jacoppe <C 700_VAN> van <C 474_DE/HET> den <C 1_TOREN> torre <C 700_VAN> van <C 300_VEERTIG> viertich <C 14_ROEDE> roeden <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MEE> me <C 800_OF> jof <C 320_MIN> min 
+<L 2146:46> <C 271_LIGGEN> ligghende <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 800_EN> en<A >de</A> <C 475+700_DE+BINNEN> binder <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_KOOLKERKE> coelkerke <C 700_OP> vp 
+<L 2147:1> <C 472+2_HET+PROOST> sproefs <C 800_EN> ende <C 700_IN> jn <C 4_STAD> steden <C 475+700_DE+BEWESTEN> bewester <C 1_GURDERINGEN> gurderinghe <C 474+700_DE/HET+BUITEN> buten <C 1_DIJK> dike <C 704_JEGEN> jeghen <C 0_VROUW> v<A >er</A> <C 24_CAECILIA> celien 
+<L 2147:2> <C 0_LAND> land <C 22_NICOLAAS> clais <q> f <C 472+0_DE+HEER> ser <C 22_MARTIN> martins <C 4_WEDUWE> wedewen <C 800_EN> en<A >de</A> <C 475_DE/HET> der <C 111_ANDER> andere <C 600+421_ERTOE+DIE> diere+toe <C 204_BEHOREN> behoren, 
+<L 2147:3> <C 800_EN> Ende <C 406_ZIJ> sie <C 403+224_HET+WEDDEN> weddents <C 403_HIJ> hem <C 700+4_TE+WET> tewetten <C 700_TE> te <C 251_WAREN> waerne <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> land <C 101_KWIJT> quite <C 0_LAND> land 
+<L 2147:4> <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0+2+472_SCHULD+PROOST+DE> sproefs+scult <C 700_TE> te <C 454_ZIJN> sinen <C 104_VRIJ> vrien <C 1_EIGENDOM> Eghijndome <C 704_JEGEN> jeghen <C 324_ELK> elken 
+<L 2147:5> <C 1_MENS> mensche, <C 410_DIT> Dit <C 204_KENNEN> kennen <C 12_REDENAAR> redenars <C 700_OP> vp <C 2+472_PROOST+HET> sproefs <C 20_AKET> aket <q> f <C 22_DIEDERIK> Dierkins <C 800_EN> en<A >de</A> <C 20_WILHELM> willem 
+<L 2147:6> <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 2+472_ZATERDAG+DE> tsaterdaghes <C 700_VOOR> voer <C 101_SINT> sinte <C 22_NICOLAAS> Niclaus <C 1_DAG> daghe 
+<L 2147:7> <C 700_VOOR> voer <C 20_MIDWINTER> medewint<A >er</A>. <q> anno <q> domini <q> .m'ho.cc'ho. <q> Nonagesimo. <q> quarto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

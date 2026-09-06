@@ -1,0 +1,25 @@
+<header>
+<docId>0059</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 118:11> <q> carta <q> reddituum <C 700_IN> in <q> stene <q> quos <q> emit 
+<L 118:12> <q> jacop <q> .f. <q> piet<A >er</A>s. <q> contra <C 29_HENDRIK> henr<A >icum</A> <q> .f. <q> lippins <q> .iij. <C 19_LIBRA> lib. 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> iij <C 19_LIBRA> lb 
+<L 118:13> <C 119_PARIJS> par<A >isis</A> <q> spectantes <q> ad <q> capellaniam <q> quam <q> obtinet <q> dominus <q> ghildolph<A >us</A> 
+<L 118:14> <q> de <C 21_KRUININGEN> Cruninghe. 
+<end-datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

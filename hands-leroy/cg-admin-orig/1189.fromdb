@@ -1,0 +1,44 @@
+<header>
+<docId>1189</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='50' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1824:18> <C 700+474_VAN+DE/HET> vande<A >n</A> <q> ouden <q> gherit <C 700_VAN> van <q> hemskerck. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='50' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1824:23> <C 401_IK> Jc <C 20_GERARD> Gherret <C 700_VAN> van <C 21_HEEMSKERK> hemskerke, <C 200_DOEN> Do <C 100_KOND> cont <C 320_AL> al <C 474_DE> dien <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief 
+<L 1824:24> <C 214_ZULLEN> zoelen <C 250_ZIEN> zien, <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 401_IK> ic <C 454_MIJN> minen <C 14_LIEDEN> luden <C 700_VAN> van <C 24_LUTTIK-OOSTHUIZEN> luttickoisthusen, 
+<L 1824:25> <C 800_EN> ende <C 454_MIJN> minen <C 14_LIEDEN> luden <C 700_VAN> van <C 20_DREI> drei, <C 210_HEBBEN> heb <C 274_GEVEN> ghegheuen <C 411_ALZULK> al+sulke <C 1_VRIJHEID> vrieheide <C 800_EN> en<A >de</A> <C 320_AL> al 
+<L 1824:26> <C 410_ZULK> sulk <C 0_RECHT> recht, <C 820_ALS> als <C 700_IN> in <C 414_DEZE> desen <C 0_BRIEF> brief <C 274_SCHRIJVEN> ghescreuen <C 213_STAAN> staet, <C 410_DAT> Dat <C 210_ZIJN> is <C 810_DAT> dat <C 401_IK> ic <C 406_ZIJ> hon <C 210_ZULLEN> zel 
+<L 1824:27> <C 250_ZETTEN> setten <C 484_EEN> enen <C 0_RECHTER> rechter, <C 800_EN> en<A >de</A> <C 300_7> zeuen <C 10_SCHEPEN> scepen, <C 230+500_BREKEN+ER> braker <C 440_ENIG> enich <C 700_VAN> van <C 474_DE> dien <C 10_SCHEPEN> scepen <C 800_OF> of 
+<L 1824:28> <C 560_NE> en <C 230_ZIJN> waer <C 403_HIJ> hi <C 560_NIET> nijt <C 101_NUT> nutte, <C 401_IK> mi, <C 800_OF> of <C 454_MIJN> minen <C 14_LIEDEN> luden <C 550_ZO> so <C 230+401_ZULLEN+IK> zoudic, <C 800_OF> of <C 450_MIJN> mijn <C 0_RECHTER> rechter, 
+<L 1824:29> <C 484_EEN> enen <C 104_ANDER> andren <C 250_ZETTEN> zetten, <C 471_DE> die <C 0_RECHTER> rechter <C 210_ZULLEN> zel <C 250_RECHTEN> rechten, <C 700_BIJ> bi <C 1_VONNIS> vonnisse <C 475_DE/HET> der 
+<L 1824:30> <C 115_VOORGENOEMD> voerghenomeder <C 11_SCHEPEN> scepene, <C 821_ALS> alse, <C 0_SCHEPENDOM> scependoem <C 203_WIJZEN> wijst <C 700_IN> in <C 20_KENNEMERLAND> k<A >er</A>merlant, <C 500_VOORT> voert <C 320_AL> al 
+<L 1824:31> <C 420_DAT> dat <C 510_DAAR> taer <C 203_VALLEN> valt <C 700+475_BENEDEN+DE> beneder <C 105_HOOG> hoghester <C 1_BOETE> boete <C 410_DAT> dat <C 210_ZULLEN> zel <C 471_DE> die <C 0_RECHTER> rechter <C 700_MET> mit <C 474_DE> tien 
+<L 1824:32> <C 14_SCHEPEN> scepenen, <C 250_BERECHTEN> berechten, <C 502_BINNENSLANDS> binnen+lants <C 800_EN> en<A >de</A> <C 610_DAARAF> daer+of <C 204_NEMEN> nemen <C 700_TE> te <C 14_DAG> daghen, <C 500_VOORT> Voert 
+<L 1824:33> <C 550_ZO> so <C 210_ZULLEN> zel <C 401_IK> ic <C 800_OF> of <C 450_MIJN> mijn <C 0_RECHTER> rechter <C 700_VAN> van <C 455_MIJN> mire <C 4_WEG> weghen <C 250_RECHTEN> rechten, <C 700_MET> mit <C 451_MIJN> mine <C 11_MAN> manne, 
+<L 1824:34> <C 700_VAN> van <C 1_HOGE> hoghe, <C 800_EN> en<A >de</A> <C 700_VAN> van <C 101_LAAG> leghe, <C 700_MET> mit <C 320_AL> al <C 414_ZULK> sulken <C 0_RECHT> recht <C 820_ALS> als <C 471_DE> die <C 0_BALJUW> baliu <C 203_RECHTEN> recht <C 700_IN> in 
+<L 1824:35> <C 20_KENNEMERLAND> kerm<A >er</A>lant <C 500_VOORT> Voert <C 550_ZO> so <C 210_HEBBEN> heb <C 401_IK> ic <C 410_DIT> dit <C 0_RECHT> recht <C 454_MIJN> mine<A >n</A> <C 14_LIEDEN> luden <C 274_GEVEN> ghegheuen <C 700_OM> om 
+<L 1824:36> <C 104_MENIGERHANDE> menigherhanden <C 104_TROUW> trouwe<A >n</A> <C 0_DIENST> dienst <C 424_DIE> dien <C 406_ZIJ> si <C 454_MIJN> minen <C 0_HEER> heir <C 454_MIJN> mine<A >n</A> <C 0_VADER> vader <C 800_EN> en<A >de</A> 
+<L 1824:37> <C 401_IK> mi <C 274_DOEN> ghedaen <C 214_HEBBEN> hebben, <C 274_BEHOUDEN> behouden <C 452_MIJN> mijns <C 2_RECHT> rechts <C 800_EN> en<A >de</A> <C 455_MIJN> mire <C 1_HEERHEID> heireide, <C 810_DAT> Dat <C 410_DIT> dit 
+<L 1824:38> <C 100_WAAR> waer <C 210_ZIJN> is, <C 410_DAT> dat <C 401+200_IK+OORKONDEN> orcondick <C 700_MET> mit <C 454_MIJN> minen <C 100_OPEN> open <C 0_LETTER> letter <C 800_EN> en<A >de</A> <C 700_MET> mit <C 454_MIJN> minen <C 0_ZEGEL> zeghel. 
+<L 1824:39> <C 471_DE> Die <C 0_JAAR> iaer <C 452+4_ONS+HEER> ons+sheren. <C 300_1000-292> Dusent.+tuehondert,+en<A >de</A>+tue+ende+neghentich. <C 472_DE/HET> des 
+<L 1824:40> <C 2_ZONDAG> sonnen+daghes <C 700_NA> na <C 101_SINT> zente <C 22_LAMBERT> lambrechts <C 0_DAG> dach, <C 700_TE> te <C 21_HEEMSKERK> hemskerke. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='50' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='50' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

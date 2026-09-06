@@ -1,0 +1,47 @@
+<header>
+<docId>0337</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 552:9> <C 471_DE> de <C 20_CABAUW> cabau.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_TE> Te <q> boeke <q> gescr<A >euen</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 552:17> <C 401_IK> Jc <C 24_HARBERT> harbaren <C 700_VAN> van <C 475_DE/HET> der <C 1_LEDE> liede <C 1_RIDDER> riddre <C 201_DOEN> doe <C 100_KONDIG> kundich <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen 
+<L 552:18> <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 801_OF> ofte <C 250_HOREN> horen. <C 810_DAT> dat <C 401_IK> ic <C 273_VERKOPEN> vercoft <C 211_HEBBEN> hebbe <C 4_HEER> haren <C 21_NICOLAAS> clayse <C 700_VAN> van <C 21_KATS> catse 
+<L 552:19> <C 480_EEN> een <C 0_LAND> lant <C 420_DAT> dat <C 213_HETEN> heet <C 471_DE> die <C 0_CABAUW> cabau <C 800_EN> en<A >de</A> <C 203_LIGGEN> leghet <C 700_AAN> an <VN type=1> <C 21_LOPIK> lopike <C 700_MET> met <C 1_TIEND> tiende <C 800_EN> ende <C 700_MET> mid 
+<L 552:20> <C 1_RECHT> rechte <C 510_ALZO> also <C 501_HEELLIJK> heelike <C 821_ALS> alse <C 401+403_IK+HET> ict <C 510_DAAR> dar <C 221_HEBBEN> hadde <C 700_OM> om <C 481_EEN> ene <C 1_SOM> summe <C 700_VAN> van <C 14_PENNING> pennighen <C 421_DIE> die 
+<L 552:21> <C 403_HIJ> hi <C 401_IK> mi <C 273_BETALEN> betalet <C 213_HEBBEN> heuet. <C 800_EN> Ende <C 610_DAARBIJ> dar+bi <C 550_ZO> so <C 211_HEBBEN> hebbe <C 401_IK> ic <C 403_HIJ> hem <C 273_GELOVEN> ghelouet <C 700_IN> in <C 104_GOED> goeden 
+<L 552:22> <C 4_TROUW> truwen <C 810_DAT> dat <C 401_IK> ic <C 411_DIE> die <C 1_WATERING> wat<A >er</A>inghe <C 700_VAN> van <C 414_DIE> dien <C 1_LAND> lande <C 540_ZO-WANNEER> so+wanner <C 403+403_HIJ+HET> hise <C 700_AAN> an <C 454_MIJN> min<A >en</A> 
+<L 552:23> <C 1_GERECHT> gherechte <C 273_BRENGEN> ghebrocht <C 213_HEBBEN> heuet. <C 700_DOOR> dor <C 450_MIJN> min <C 1_GERECHT> gherechte <C 105+700_HALF+TE> thalver <C 21_IJSSEL> ysele <C 210_ZULLEN> sal <C 250_LEIDEN> leyden 
+<L 552:24> <C 700_ZONDER> sonder <C 101_ALLERHANDE> alrehande <C 0_KOMMER> commer <C 800_OF> of <C 1_LETTING> lettinghe. <C 800_EN> ende <C 510_ZO> so <C 210_ZULLEN> sal <C 403_HIJ> hi <C 700_IN> in <C 450_MIJN> min <C 1_GERECHT> gherechte 
+<L 552:25> <C 481_EEN> ene <C 1_SLUIS> sluze <C 250_LEGGEN> leghen <C 620*_DAAR-> dar <C 410_DAT> dat <C 101_VOORGEZEID> vorgheseghede <C 0_LAND> lant <C 620#_-DOOR> dor <C 250_WATEREN> wateren <C 211_MOGEN> moeghe. <C 800_EN> ende 
+<L 552:26> <C 810_OMDAT> om+dat <C 411_DEZE> dese <C 0_KOOP> coep <C 800_EN> ende <C 411_DEZE> dese <C 101_GESPROKEN> ghesprokene <C 1_VOORWAARDE> vorwarde <C 820_ALS> als <C 510_HIER> her <C 274_SCHRIJVEN> ghescreuen <C 210_ZIJN> es 
+<L 552:27> <C 101_STAD> stade <C 800_EN> ende <C 101_VAST> vaste <C 211_BLIJVEN> bliue <C 610_DAAROM> dar+om <C 211_HEBBEN> hebbe <C 401_IK> ic <C 403_HIJ> hem <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> beseghelt <C 700_MET> met 
+<L 552:28> <C 454_MIJN> minen <C 1_ZEGEL> seghele <C 700_IN> jn <C 474_DE/HET> den <C 4_JAAR> iaren <C 452_ONS> ons <C 4_HEER> heren <C 300_DUIZEND-280> dusent+tvehondert+ende+thachtentich. 
+<L 552:29> <C 700_IN> jn <C 455_ONS> onser <C 4_VROUW> vrouwen <VN type=1> <C 1_AVOND> avonde <C 403+810_ZIJ+ALS> alsi <C 273_BOODSCHAPPEN> gheboetscepet <C 230_WORDEN> wart. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,57 @@
+<header>
+<docId>0267</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 442:10> <q> de <q> xxx <q> s 
+<L 442:11> <q> annui <q> redditus <q> quos <q> dedit <C 20_ELISABETH> elysabeth <q> .f. <C 22_REINBOUD> reinbouts <C 9_BEGIJN> beghina <q> assignatis <C 700_IN> in 
+<L 442:12> <C 21_UITKERKE> huutk<A >er</A>ke <C 309_1279> m+cc+lxxix <q> michaelis.- <C 20_ELISABETH> elysabeth <q> .f. <C 22_REINBOUD> reimbouds. <q> de <q> xxx 
+<L 442:13> <q> s <q> Redditus <q> perpetui. <C 700_IN> i<A >n</A> <C 21_UITKERKE> vtkerke.- <q> litteram <q> collationis <q> quere <C 700_IN> in 
+<L 442:14> <C 20_AARDENBURG> ardenbuerch <q> uel <C 20_POLSBROEK> pulsbrouc. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1279' jaar_van='1279' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 442:20> <C 450_MIJN> min <C 1_HEER> here <C 20_REINWARD> reinvaerd <q> .f. <C 0+24_VROUW+GODELIEVE> v<A >er</A>godelieuen. <C 450_MIJN> min <C 1_HEER> h<A >er</A>e <C 20_BOUDEWIJN> boud<A >en</A> <C 471_DE> die <C 6_BROEKER> broek<A >ra</A> 
+<L 442:21> <C 12_RIDDER> rudd<A >er</A>s. <C 20_DIEDERIK> Diederic <C 471_DE> die <C 0_VOS> vos. <C 20_WILHELM> willem <C 471_DE> die <C 101_KORT> corte. <C 20_JOHANNES> jan <C 1_NIEUWMAAR> niemare. <C 20_DIEDERIK> dirkin <q> f 
+<L 442:22> <C 22_GIJS> Ghiselins. <C 101_LANG> langhe <C 20_JOHANNES> jan <C 700_VAN> van <C 20_CADZAND> caedsand. <C 404_WIJ> wie <C 14_SCHEPEN> scepenen <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien. <C 204_DOEN> doen <C 700_TE> te 
+<L 442:23> <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien. <C 800_OF> iof <C 250_HOREN> horen <C 250_LEZEN> lesen. 
+<L 442:24> <C 810_DAT> dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons. <C 20_REINGOED> reingod <q> .f. <C 22_REINGOED> reingods. <C 800_EN> ende <C 21_BERT> Bertelline <VN type=1> <C 450_ZIJN> zin <C 0_WIJF> wijf. <C 800_EN> en<A >de</A> 
+<L 442:25> <C 224_GEVEN> gaven <C 101_WETTELIJK> wettelike <C 1_GIFT> Ghijfte <C 24_ELISABETH> lisebetten <q> .f. <C 22_REINBOUD> reinbouds <C 475_DE/HET> der <C 4_BEGIJN> beghinen. <C 700_VAN> van <C 304_DRIE> drien 
+<L 442:26> <C 11_GEMET> ymete <C 2_LAND> lands. <C 800_EN> en<A >de</A> <C 300_42> tve+ende+viertich <C 14_ROEDE> roeden <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> mi<A >n</A> <C 800_OF> iof <C 320_MEE> me 
+<L 442:27> <C 271_LIGGEN> licghende <C 704_BINNEN> bi<A >n</A>nen <C 474_DE/HET> den <C 1_AMBACHT> ambochte <C 800_EN> en<A >de</A> <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_UITKERKE> vtkerke. <C 800_EN> en<A >de</A> 
+<L 442:28> <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORZEID> vorseid<A >en</A> <C 1_LAND> lande. <C 550_ZO> so <C 213+403_HETEN+HET> hetets. <C 300_ZEVEN> seven <C 14_LIJN> linen. <C 800_EN> en<A >de</A> <C 300_VEERTIG> viertich <C 14_ROEDE> roeden 
+<L 442:29> <C 22_DANAARD-X> danards <C 0_WERF> werf. <C 800_EN> en<A >de</A> <C 411_DIE> die <C 311_ANDER> andre <C 300_TWEE> tve <C 14_LIJN> linen <C 800_EN> en<A >de</A> <C 300_TWEE> tve <C 14_ROEDE> roeden <C 214_HETEN> heten <C 22_KODEKIJN/KOETJE?> coedekins <C 0_STUK> stic. <VN type=1> 
+<L 442:30> <C 800_EN> en<A >de</A> <C 406_ZIJ> sie <C 403+224_HET+WEDDEN> wedde<A >n</A>ts <C 403_ZIJ> hare. <C 0_WEG> weg. <C 800_EN> en<A >de</A> <C 0_LAND> land. <C 800_EN> en<A >de</A> <C 101_KWIJT> quite <C 0_LAND> land <C 700_TE> te <C 4_WET> wetten 
+<L 442:31> <C 700_TE> te <C 251_WAREN> waerne <C 700_TE> te <C 454_HAAR> haren <C 104_VRIJ> vrie<A >n</A> <C 1_EIGENDOM> egh<A >in</A>dome. <C 500_VOORT> vort <C 411_DIE> die <C 101_VOORZEID> vorseide. <C 21_ELISABETH> lisebette. <C 220_GEVEN> gaf 
+<L 442:32> <C 500_WEER> wed<A >er</A> <C 414_DIE> dien <C 104_VOORZEID> vorseid<A >en</A> <C 21_REINGOED> reingote <q> .f. <C 22_REINGOED> reingods. <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> land <C 700_TE> te 
+<L 442:33> <C 104_ERFELIJK> h<A >er</A>fliken <C 1_CIJNS> cense. <C 701_OM> o<A >m</A>me. <C 300_30> dartich <C 11_SCHELLING> sceleghe <C 2+472_JAAR+HET> siaers. <C 115_VLAAMS> vlaems<A >cher</A> <C 11_PENNING> peneg<A >he</A>. <C 700_TE> te 
+<L 442:34> <C 251_GELDEN> gheldene <C 700+324_TE+ELK> telken <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_MIS> messe <C 411_DIE> die <C 301_EEN> ene <C 0_HELFT> helt. <C 800_EN> & <C 411_DIE> die <C 310_ANDER> and<A >er</A> <C 0_HELFT> helt <C 101_SINT> sinte 
+<L 442:35> <C 1_BAAFSMIS> bamesse <C 421_DIE> die <C 613_DAARNAAST> daer+naest <C 203_KOMEN> co<A >m</A>t <C 700_MET> met <C 304_EEN> ene<A >n</A> <C 1_POND> po<A >n</A>de <C 2_WAS> was <C 700_TE> te <C 1_KOOP> cope <C 800_EN> en<A >de</A> <C 700_TE> te 
+<L 442:36> <C 1_VERSTERFENIS> v<A >er</A>st<A >er</A>fnesse. <C 800_EN> & <C 810_OMDAT> o<A >m</A>me+dat <C 404_WIJ> wie <C 111_VOORZEID> vorseid<A >e</A> <C 14_SCHEPEN> scepene<A >n</A> <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 0_DING> di<A >n</A>c 
+<L 442:37> <C 211_BLIJVEN> bliue <C 100_VAST> vast <C 800_EN> & <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 273_ZEGELEN> ghesegelt <C 700_MET> met <C 454_ONS> o<A >n</A>sen 
+<L 442:38> <C 14_ZEGEL> zeghellen. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 101_SINT> sinte <C 22_MICHAEL> michiels <C 1_DAG> dag<A >he</A>. <q> anno <q> domini <q> .m'ho. 
+<L 442:39> <q> cc'ho. <q> lxx'ho. <q> ix'ho. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+
+<L 442:51> <C 21_BERT> Bertelliue <C 21_BERT> baertelline <C 21_BERT> baertelliue 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1279' jaar_van='1279' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

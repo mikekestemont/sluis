@@ -1,0 +1,302 @@
+<header>
+<docId>2110</docId>
+<genre>L</genre>
+<bron>
+<bron_afk>Rein.E</bron_afk>
+<bron_oms>Reinaert E</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 385:2> <C 800_NO> No <C 1_CREATUUR> creature <C 421_DIE> die <C 203_HEBBEN> heuet <C 0_LIJF> lif. 
+<L 385:3> <C 700_ZONDER> Sond<A >er</A> <C 471_DE> die <C 1_UIL> ule <C 800_EN> en<A >de</A> <C 421_DIE> die <C 0_SCHAVUIT> scowut 
+<L 385:4> <C 421_DIE> die <C 510_DAAR> dar <C 204_NESTELEN> nestelen <VN type=1> <C 700_IN> in <C 470_HET> dat <C 0_KRUID> crut. 
+<L 385:5> <C 800_OF> Of <C 440_ENIG> eneh <C 100_ANDER> and<A >er</A> <C 0_VOGELIJN> vogelin 
+<L 385:6> <C 420_DAT> Dat <C 500_ELWAAR> el+war <C 501_GAARNE> g<A >er</A>ne <C 231_WILLEN> wilde <C 250_ZIJN> sin. 
+<L 385:7> <C 800_EN> En<A >de</A> <C 510_DAAR> dar <C 700_BIJ> bi <C 4_AVONTUUR> auenturen <C 203_LIJDEN> lidet. 
+<L 385:8> <C 0_KONING> Coni<A >n</A>c <C 510_DAAR> dar <C 203_LIGGEN> leid <C 450_MIJN> min <C 0_SCHAT> scat <C 273_HIJDEN> gehidet. 
+<L 385:9> <C 0_KONING> Coni<A >n</A>c <C 411_DIE> die <C 1_STAD> stede <C 213_HETEN> heed <C 21_KRIEKENPUT> crikenputte 
+<L 385:10> <C 243_VERSTAAN> v<A >er</A>staet <C 410_DIT> dit <C 500_WEL> wel <C 403_HET> et <C 210_ZIJN> es <C 405_GIJ> .v. <C 101_NUT> nutte. 
+<L 385:11> <C 405_GIJ> Gi <C 213_ZULLEN> sult <C 510_DAAR> dar <C 250_GAAN> gaen. <C 405_GIJ> gi <VN type=1> <C 800_EN> ende <C 450_MIJN> min <C 1_VROUW> vrouwe 
+<L 385:12> <C 560_NE> En <C 405+203_GIJ+WETEN> wetti <C 500_OOK> oec <C 441_NIEMAND> nimenne <C 510_ZO> so <C 101_GETROUW> get<A >ro</A>we. 
+<L 385:13> <C 424_DIE> Din <C 405_GIJ> gi <C 213_LATEN> laet <C 260_ZIJN> sin <C 450_UW> .v. <C 1_BODE> bode. 
+<L 385:14> <C 800#_NOG> Noh <C 700_BIJ> bi <C 4_BEDE> beden <C 800*_NO> no <C 700_BIJ> bi <C 1_GEBOD> gebode. 
+<L 385:15> <C 800_MAAR> mar <C 243_GAAN> gaet <C 510_DAAR> dar <C 411_ZELF> selue <C 800_EN> en<A >de</A> <C 810_ALS> asse <C 405_GIJ> gi 
+<L 385:16> <C 414_DIE> dien <C 414_ZELF> seluen <C 1_PUT> putte <C 203_KOMEN> comet <C 700_BIJ> bi. 
+<L 385:17> <C 405_GIJ> Gi <C 213_ZULLEN> sult <C 250_VINDEN> uinden <C 111_JONG> ionge <C 4_BERK> berken. 
+<L 385:18> <C 1_HEER> here <C 0_KONING> coni<A >n</A>c <C 410_DAT> dat <C 210+405_ZULLEN+GIJ> suldi <C 250_MERKEN> m<A >er</A>ken 
+<L 385:19> <C 421_DIE> Die <C 700_ALLERNAAST> alre+nast <C 474_DE> den <C 1_PUT> putte <C 203_STAAN> staet. 
+<L 385:20> <C 0_KONING> Coni<A >n</A>c <C 700+415_TOT+DIE> totir <C 4_BERK> berken <C 243_GAAN> gaet. 
+<L 385:21> <C 610#_DAAR-> Dar <C 203_LIGGEN> leget <VN type=1> <C 471_DE> die <C 0_SCHAT> scat <C 610*_-ONDER> ond<A >er</A> <C 274_BEGRAVEN> beg<A >ra</A>uen. 
+<L 385:22> <C 510_DAAR> Dar <C 210+405_ZULLEN+GIJ> suldi <C 250_DELVEN> diluen <C 800_EN> en<A >de</A> <C 250_SCHRAVEN> scrauen. 
+<L 385:23> <C 480_EEN> En <C 0_LUTTEL> luttel <C 2_MOS> mosses <C 700_IN> i<A >n</A> <C 470+301_DE+EEN> dene <C 1_ZIJDE> side <VN type=1> 
+<L 385:24> <C 550_ZO> So <C 210+405_ZULLEN+GIJ> suldi <C 250_VINDEN> uenden <C 320_MENIG> meneh <C 11_GESMEDE> gesmide 
+<L 385:25> <C 700_VAN> van <C 1_GOUD> goude <C 100_RIJKELIJK> riclic <C 800_EN> en<A >de</A> <C 101_SCHOON> scone. 
+<L 385:26> <C 405_GIJ> Gi <C 213_ZULLEN> sult <C 250_VINDEN> uenden <C 500_OOK> oec <C 471_DE> die <C 1_KROON> crone. 
+<L 385:27> <C 421_DIE> Die <C 20_HENDRIK> heimeric <C 471_DE> die <C 0_KEIZER> keys<A >er</A> <C 220_DRAGEN> droh 
+<L 385:28> <C 800_EN> En<A >de</A> <C 110_ANDER> ander <VN type=1> <C 14_SIERHEID> cyreiden <C 320_GENOEG> genoeh. 
+<L 385:29> <C 111_EDEL> Edele <C 11_STEEN> stene <C 104_GOUDEN> gulden <C 0_WERK> werc 
+<L 385:30> <C 440_MEN> men <C 220_KOPEN> coht <C 560_NIET> nit <C 701_OM> ombe <C 300_DUIZEND> duse<A >n</A>t <C 10_MARK> marc. 
+<L 385:31> <C 0_HEER> H<A >er</A> <C 0_KONING> coni<A >n</A>c <C 810_ALS> asse <C 405_GIJ> gi <C 213_HEBBEN> hebt <C 410_DAT> dat <C 0_GOED> guet. 
+<L 385:32> <C 530_HOE> hoe <C 501_DIKKE> dicke <C 210+405_ZULLEN+GIJ> suldi <C 700_IN> i<A >n</A>. <C 454+0_UW+MOED> vwe<A >n</A>muet. 
+<L 385:33> <C 250_PEINZEN> Pensen. <C 20_REINAARD> R<A >einart</A>. <C 101_GETROUW> getrouwe <C 0_VOS> vos. 
+<L 385:34> <C 421_DIE> Die <C 510_HIER> hir <C 220_GRAVEN> grouet <C 700_IN> in <C 410_DIT> dit <C 0_MOS> mos. 
+<L 385:35> <C 414_DEZE> Desen <C 0_SCHAT> scat <C 700_BIJ> bi <C 455_DIJN> dire <C 0_LIST> lust 
+<L 385:36> <C 0_GOD> Got <C 201+402_GEVEN+DU> geuedi <C 100_GOED> guet <C 549_ZO-WAAR> so+wa <C 402_DU> du <C 203_ZIJN> best 
+<L 385:37> <C 500_TOEN> Doe <C 221_ANTWOORDEN> antw<A >er</A>de <C 471_DE> die <C 0_KONING> co<A >ninc</A> <C 500_ZAAN> [saen] 
+<L 385:38> <C 20_REINAARD> R<A >einart</A>. <C 210_ZULLEN> sal <C 401_IK> ic <C 471_DE> die <C 0_VAART> vart <C 250_BESTAAN> be[staen] 
+<L 385:39> <C 405_GIJ> Gi <C 210_MOETEN> motet <C 250_ZIJN> sin <VN type=1> <C 700_AAN> an <C 451_ONS> onse <q> [vart] 
+<L 385:40> <C 800_EN> En<A >de</A> <C 405_GIJ> gi <C 210_MOETEN> motet <C 404_WIJ> ons. <C 20_REINAARD> R<A >einart</A> <VN type=1> 
+<L 386:1> <C 250_HELPEN> Hulpen <C 454_UW> uwen <C 0_SCHAT> sca[t] <q> [ontdeluen] 
+<L 386:2> <C 401+560_IK+NE> Jne <C 221_WANEN> wande <C 700_BIJ> bi <C 401_IK> mi <C 414_ZELF> sel[uen] 
+<L 386:3> <C 510_ALDAAR> Al+dar <C 500_NIMMERMEER> ne<A >m</A>b[er]+meer <C 250_GERAKEN> g[eraken] <VN type=1> 
+<L 386:4> <C 401_IK> Jc <C 211_HEBBEN> hebbe <C 203_GEHOREN> gehort <C 250_NOEMEN> nom[en] <C 20_AKEN> [aken] 
+<L 386:5> <C 800_EN> En<A >de</A> <C 20_PARIJS> pariis <C 403+210_HET+ZIJN> est <C 510_DAAR> dar <C 500_IET> it <C 500_NA> [na] 
+<L 386:6> <C 800_EN> En<A >de</A> <C 210+403_ZIJN+HET> est <C 510_ALZO> also <C 401+820_IK+ALS> assic <C 240_VERSTAAN> v<A >er</A>[sta] 
+<L 386:7> <C 550_ZO> So <C 203_SMEKEN> smeket <VN type=1> <C 402_DU> di. <C 20_REINAARD> R<A >einart</A>. <C 800_EN> en<A >de</A> <C 203_ROEMEN> [romet] 
+<L 386:8> <C 20_KRIEKENPUT> Crikenpit <C 421_DIE> die <C 405_GIJ> gi <C 510_DAAR> d[ar] <C 203_NOEMEN> [nomet] 
+<L 386:9> <C 200+401_WANEN+IK> wanic <C 210_ZIJN> es <C 480_EEN> en <C 101_GEVEINSD> geuen[sde] <VN type=1> <q> [name] 
+<L 386:10> <C 411_DEZE> Dese <C 1_TAAL> tale <C 230_ZIJN> was. <C 21_REINAARD> R<A >einarde</A>. <C 101_ONBEKWAAM> on[bequame] <VN type=1> 
+<L 386:11> <C 800_EN> En<A >de</A> <C 220_VERBELGEN> v<A >er</A>balh <C 403_HIJ> hem <C 800_EN> en<A >de</A> <q> [sprac] <q> [ia] <q> [ia] 
+<L 386:12> <C 405_GIJ> Gi <C 500+200_ER+ZITTEN> sit<A >er</A> <C 0_KONING> coni<A >n</A>c <C 510_ALZO> also <C 500_NA> n[a] <VN type=1> 
+<L 386:13> <C 821_ALS> Alse <C 700_VAN> van <C 21_KEULEN> colne <C 701_TOT> tot[e] <C 21_MEI> [meie] 
+<L 386:14> <C 405+220+810_GIJ+WANEN+DAT> wandidat <C 401_IK> ic <C 405_GIJ> .v. <C 471_DE> d[ie] <VN type=1> <q> [leie] 
+<L 386:15> <C 201_WILLEN> wille <C 250_WIJZEN> wisen <C 700_IN> in <C 471_DE> di[e] <C 21_JORDAAN> [iordane] 
+<L 386:16> <C 401_IK> Jc <C 210_ZULLEN> sal <C 405_GIJ> v <C 250_TONEN> tonen <C 810_ZO> soe <C 401_IK> ic <q> [wane] 
+<L 386:17> <C 1_OORKONDE> Orconde <C 320_GENOEG> genoh <C 500_AL> al <C 501_OPENBAAR> [openbare] 
+<L 386:18> <C 11_LIEDEN> Lude <C 220_ROEPEN> riep <C 403_HIJ> hi <C 20_CUWAARD> cohar[t] <C 243_KOMEN> [comt] <q> [hare] 
+<L 386:19> <C 243_KOMEN> Comt <C 700+474_VOOR+DE> vorde<A >n</A> <C 0_KONING> coni<A >n</A>c <C 20_CUWAARD> [cohart] <VN type=1> 
+<L 386:20> <C 471_DE> Die <C 11_DIER> dire <C 224_ZIEN> sagen <C 321_AL> all[e] <q> [darwart] 
+<L 386:21> <C 800_EN> En<A >de</A> <C 224_WONDEREN> wo<A >n</A>d<A >er</A>den <C 321_AL> alle <C 430_WAT> w[at] <VN type=1> <q> [dar] <C 221_ZIJN> [ware] 
+<L 386:22> <C 20_CUWAARD> Cohart <C 220_GAAN> ginc <C 271_BEVEN> beuen[de] <VN type=1> <C 800_EN> [en<A >de</A>] <C 700_IN> [in] <C 1_VAAR> [vare] 
+<L 386:23> <C 403_HIJ> Hem <C 221_WONDEREN> wo<A >n</A>d<A >er</A>de <C 430_WAT> wat <C 471_DE> [die] <C 0_KONING> [co<A >ninc</A>] <C 221_WILLEN> [woude] 
+<L 386:24> <C 20_REINAARD> .R<A >einart</A>. <C 220_SPREKEN> sprac. <C 20_CUWAARD> cohart <C 200+405_HEBBEN+GIJ> he[bdi] <VN type=1> <q> [coude] 
+<L 386:25> <C 405_GIJ> Gi <C 203_BEVEN> beuet <C 243_ZIJN> siit <C 101_BLIJ> blide <C 700_ZONDER> s[onder] <C 1_VAAR> [vare] 
+<L 386:26> <C 243_ZEGGEN> Segt <C 454_MIJN> minen <C 1_HEER> here <C 474_DE> d[en] <VN type=1> <C 0_KONING> [co<A >ninc</A>] <q> [ware] 
+<L 386:27> <C 412_DIT> Dis <C 200+401_MANEN+IK> manic <C 405_GIJ> v <C 700+475_BIJ+DE> bid<A >er</A> <C 4_TROUW> t[rouwen] 
+<L 386:28> <C 421_DIE> Die <C 405_GIJ> gi <C 1_VROUW> vrouwe <C 24_GENTE> ge[nten] <C 455_MIJN> [mire] <C 4_VROUW> [vrouwen] 
+<L 386:29> <C 800_EN> En<A >de</A> <C 403_HIJ> hem <C 414_ZELF> seluen <C 100_SCHULDIG> scu[ldeh] <C 203_ZIJN> [sit] 
+<L 386:30> <C 500_TOEN> Doe <C 220_SPREKEN> sprac <C 20_CUWAARD> cohart <VN type=1> <q> [vermaledit] 
+<L 386:31> <C 550_ZO> Soe <C 401+210_IK+MOETEN> motic <C 250_WORDEN> w<A >er</A>den <C 810_AL> al <C 401_IK> [wistic] <C 500_WEL> [wel] 
+<L 386:32> <C 810+403_DAT+HET> Daat <C 401_IK> mi <C 250_KOSTEN> costen <C 231_ZULLEN> so[ude] <C 450_MIJN> [min] <q> [vel] 
+<L 386:33> <C 401+230_IK+MOGEN> [mohtic] <C 250_LIEGEN> [l]igen <C 440_ENIG> eneh <C 0_WOORD> wort <VN type=1> 
+<L 386:34> <C 810_AL> [al] <C 230+403_ZIJN+HET> [wart] <C 700_VAN> van <C 481_EEN> ere <C 0_MOORD> mort. 
+<L 386:35> <q> [want] <C 405_GIJ> [gi] <C 203_MANEN> [m]anet <C 475+700_DE+BIJ> bid<A >er</A> <C 4_TROUW> trouwen. 
+<L 386:36> <C 421_DIE> [die] <C 401_IK> [ic] <C 455_MIJN> [mire] <C 105_ZOET> sut<A >er</A> <C 4_VROUW> vrouwen. 
+<L 387:1> <C 800+474_EN+DE> [ente<A >n</A>] <C 0_KONING> [coni]nc <VN type=1> <C 100_SCHULDIG> sculdeh <C 210_ZIJN> ben <VN type=1> 
+<L 387:2> <q> [doe] <q> [sprac] <q> [R<A >einart</A>] <C 550_ZO> soe <C 243_ZEGGEN> seg[et] <VN type=1> <C 403_HIJ> hem. 
+<L 387:3> <C 402_DU> [wetstu] <C 530_WAAR> [wa]r <C 21_KRIEKENPUT> crikenputte <C 203_STAAN> steet 
+<L 387:4> <q> [sprac] <C 20_CUWAARD> [cohar]t <C 800_OF> of <C 401_IK> ic <C 200_WETEN> weet. 
+<L 387:5> <q> [ia] <C 401_IK> [ic] <C 230+403_ZULLEN+HET> [soud]et <VN type=1> <C 250_WEZEN> wesen <C 510_ZO> so. 
+<L 387:6> <C 560_NE> [ne] <C 403_HIJ> [stati] <C 560_NIET> [nit] <C 700_BIJ> [b]i <C 20_HULSTERLO> hulsterlo 
+<L 387:7> <C 700_OP> [op] <C 414_DIE> [dien] <C 0_MOER> [moe]r <VN type=1> <C 700_IN> en <C 485_EEN> ere <C 1_WOESTIJN> wostine. 
+<L 387:8> <C 401_IK> [ic] <q> [hebbe] <C 273_GEDOGEN> [ged]uget <VN type=1> <C 321#_ZO-> so <C 321*_-MENIG> menege <C 1_PIJN> pine 
+<L 387:9> <q> [so] <q> [menegen] <C 0_HONGER> [h]ong<A >er</A> <C 320#_ZO-> so <C 320*_-MENIG> meneh <C 1_KOUDE> coude 
+<L 387:10> <C 800_EN> [ende] <C 1_ARMOEDE> [armoed]e <C 101_MENIGVOUD> menech+foude. 
+<L 387:11> <C 700_OP> [op] <C 21_KRIEKENPUT> [crike<A >n</A>putte] <C 324#_ZO-> so <C 324*_-MENIG> menege<A >n</A> <C 0_DAG> dah. 
+<L 387:12> <C 810_DAT> [dat] <C 403+401_HET+IK> [ics] <C 250_VERGETEN> [verge]tten <C 560_NIET> nit <C 560_NE> i<A >n</A> <C 210_MOGEN> mah. 
+<L 387:13> <q> [hoe] <C 401+230_IK+MOGEN> [mochti]c <VN type=1> <C 250_VERGETEN> v<A >er</A>getten <C 412_DIT> dis 
+<L 387:14> <C 810_DAT> [dat] <q> [aldar] <C 20_SININIT> [s]ininit <VN type=1> <C 471_DE> die <C 0_SIES> sies 
+<L 387:15> <C 421_DIE> [die] <q> [valsce] <C 11_PENNING> [p]ennincge <VN type=1> <C 220_SLAAN> sloeh 
+<L 387:16> <C 621#_DAAR-> [dar] <C 403_HIJ> [hi] <C 403_HIJ> [hem] <C 621*_-MEDE> mede <VN type=1> <C 501_SCHOON> scone <C 220_BEDRAGEN> bedroueh 
+<L 387:17> <C 800+471_EN+DE> [entie] <C 14_GEZEL> [gesel]len <VN type=1> <C 451_ZIJN> sine. 
+<L 387:18> <C 410_DAT> [dat] <C 230_ZIJN> [was] <C 504_TEVOREN> [te]voren <VN type=1> <C 810+401_EER+IK> eric <VN type=1> <C 700_MET> met <C 21_RIJN> rine 
+<L 387:19> <C 451_MIJN> [mine] <C 0_GEZELSCHAP> [gesels]cap <VN type=1> <C 221#_-MAKEN> macte <C 221##_VAST-> vast. 
+<L 387:20> <C 421_DIE> [die] <C 401_IK> [mi] <C 273_KWIJTEN> [gequi]t <VN type=1> <C 213_HEBBEN> heft <C 324_MENIG> menege<A >n</A> <C 10_PAST> past 
+<L 387:21> <q> [o+wi] <q> [sprac] <C 20_REINAARD> R<A >einart</A>. <C 101_ZOET> sute <C 20_RIJN> rin 
+<L 387:22> <q> [liue] <q> [geselle] <C 101_SCHOON> scone <C 0_HONDJE> hondekin. 
+<L 387:23> <q> [vergaue] <C 0_GOD> [got] <C 220+405_ZIJN+GIJ> wardi <C 510_NU> nu <C 510_HIER> hir 
+<L 387:24> <C 405_GIJ> [gi] <C 403+230_HET+ZULLEN> [soudet] <C 250_TOGEN> [t]ogen <VN type=1> <C 700_VOOR> vor <C 411_DEZE> dese <C 10_DIER> diir 
+<L 387:25> <C 700_MET> [met] <C 104_SCHOON> [sconen] <C 1_RIJM> [ri]me <C 403+230_HET+ZIJN> wars <C 700+251_TE+DOEN> tedone. 
+<L 387:26> <C 810_DAT> [dat] <C 401_IK> [ic] <C 560_NOOIT> [noit] <C 560_NE> ne <VN type=1> <C 230_ZIJN> wa <VN type=1> <C 510_ZO> soe <C 101_KOEN> cone. 
+<L 387:27> <C 810_DAT> [dat] <C 401_IK> [ic] <C 441_ENIG> [eneg]e <C 11_ZAAK> sake <C 221_DOEN> dede 
+<L 387:28> <C 621_DAAR-> [dar] <C 401_IK> [ic] <C 474_DE> [den] <C 0_KONING> [c]oni<A >n</A>c <C 211_MOETEN> mote <C 621*_-MEDE> mede. 
+<L 387:29> <C 700#_TE> [te] <C 401_IK> [mi] <C 700##_WAART> [wart] <C 250_BELGEN> belge<A >n</A> <C 250_DOEN> doe<A >n</A> <C 700_MET> met <C 1_RECHT> rehte 
+<L 387:30> <q> [gaet] <q> [weder] <C 700_ONDER> [o]nder <VN type=1> <C 411_GENE> gene <C 11_KNECHT> cnehte 
+<L 387:31> <q> [sprac] <q> [R<A >einart</A>] <C 501_HAASTELIJK> [ha]stelike <C 20_CUWAARD> cohart. 
+<L 387:32> <C 450_MIJN> [min] <C 1_HEER> [here] <C 471_DE> [de] <C 0_KONING> coni<A >n</A>c <C 560_NE> en <C 213_HEBBEN> heft <C 405+700+700*_GIJ+WAART+TE> tuwart 
+<L 388:1> <C 560_NE> Ne <C 1_ZAAK> sake <C 700_TE> te <C 251_SPREKEN> sprekene <C 320_MEER> meer. 
+<L 388:2> <C 20_CUWAARD> Cohart <C 221_DOEN> dede <C 480_EEN> enen <C 0_WEERKEER> wed<A >er</A>+keer 
+<L 388:3> <C 800_EN> En<A >de</A> <C 220_GAAN> ginc <C 700+472_VAN+DE> vans <C 2_KONING> coni<A >n</A>cs <C 1_RAAD> rade <C 510_DAAR> dar. 
+<L 388:4> <C 20_REINAARD> .R<A >einart</A>. <C 220_SPREKEN> sprac <C 0_KONING> coni<A >n</A>c <C 1_HEER> here <C 403+210_HET+ZIJN> est <C 100_WAAR> waer. 
+<L 388:5> <C 810_DAT> Dat <C 401_IK> ic <C 201_ZEGGEN> segge. <C 20_REINAARD> R<A >einart</A>. <C 403+910_HET+JA> iaet. 
+<L 388:6> <C 243_VERGEVEN> v<A >er</A>geuet <C 401_IK> mi <C 401_IK> ic <C 221_ZEGGEN> seyde <C 100_KWAAD> q<A >ua</A>et. 
+<L 388:7> <C 810_DAT> Dat <C 401_IK> ic <C 405_GIJ> .v. <C 221_MISTROUWEN> mestroude <C 500_IET> it 
+<L 388:8> <C 20_REINAARD> R<A >einart</A>. <C 101_GOED> gude <C 0_VRIEND> vrint <C 510_NU> nu <C 243_ZIEN> siit 
+<L 388:9> <C 474_DE> Den <C 0_RAAD> raet <C 810_DAT> dat <C 405_GIJ> gi <C 700_MET> met <C 404_WIJ> ons <C 203_GAAN> gaet. 
+<L 388:10> <C 474+700_DE+TE> Ten <C 1_PUT> putte <C 510_ALDAAR> aldar <C 471_DE> die <C 1_BERK> b<A >er</A>ke <C 203_STAAN> staet 
+<L 388:11> <C 620#_DAAR-> Dar <C 471_DE> die <C 0_SCHAT> scat <C 203_LIGGEN> legt <C 100_BEGRAVEN> beg<A >ra</A>uen <C 620*_-ONDER> ond<A >er</A> 
+<L 388:12> <C 20_REINAARD> R<A >einart</A>. <C 220_SPREKEN> sprac <C 1_HEER> here <C 405_GIJ> gi <C 203_ZEGGEN> segt <C 0_WONDER> wond<A >er</A>. 
+<L 388:13> <C 220+405_WANEN+GIJ> wandi <C 220+560+403+401_ZIJN+NE+HET+IK> inwars <C 320+500_AL+TE> alte <C 100_VRO> vro. 
+<L 388:14> <C 0_KONING> Coni<A >n</A>c <C 810_OF> of <C 403_HET> et <C 401_IK> mi <C 221_STAAN> stonde <C 510_ZO> so. 
+<L 388:15> <C 810_DAT> Dat <C 401_IK> ic <C 700_MET> met <C 405_GIJ> .v. <C 250_WANDELEN> wandele<A >n</A> <C 231_MOGEN> mohte. 
+<L 388:16> <C 510_ALZO> Also <C 810+403_ALS+HET> ast <C 404_WIJ> ons <C 304_BEIDE> beyden <C 221_DUNKEN> dohte 
+<L 388:17> <C 800_EN> Ende <C 403+405_HET+GIJ> giis <C 230_ZIJN> wart <C 1_HEER> here <C 700_ZONDER> sund<A >er</A> <C 1_ZONDE> sonde. 
+<L 388:18> <C 910_NEEN> Neen <C 403+200_HET+ZIJN> ets <C 820+401_ALS+IK> asic <C 405_GIJ> .v. <C 201_OORKONDEN> orconde. 
+<L 388:19> <C 800_EN> En<A >de</A> <C 401_IK> ic <C 405_GIJ> v. <C 201_ZEGGEN> sege <C 810_AL> al <C 403+210_HET+ZIJN> est <C 1_SCHAAM> scame. 
+<L 388:20> <C 500_TOEN> Doe <C 20_IZEGRIM> ysengrim <C 2+700_DUIVEL+IN> indiuels <C 1_NAAM> name. 
+<L 388:21> <C 700_IN> Jn <C 471_DE> die <C 1_ORDE> ordene <C 220_GAAN> ginc <C 504#_HIER-> hir <C 504*_-TEVOREN> teuoren 
+<L 388:22> <C 800_EN> Ende <C 403_HIJ> hi <C 700_TE> te <C 1_MONNIK> moneke <C 230_WORDEN> wart <C 274_BESCHEREN> bescore<A >n</A>. 
+<L 388:23> <C 510_TOEN> Doe <C 560_NE> ne <C 403+230_HIJ+KUNNEN> co<A >n</A>stem <C 560_NIET> nit <C 415_DEZE> d<A >ir</A>e <C 1_PROVENDE> p<A >ro</A>ue<A >n</A>de <C 250_GENOEGEN> genoge<A >n</A>. 
+<L 388:25> <C 620#_DAAR-> Dar <C 300_ZES> ses <C 11_MONNIK> moneke <C 466_HEM> hen <C 620*_-MEDE> met <C 224_BEDRAGEN> bedroge<A >n</A> 
+<L 388:26> <C 403_HIJ> Hi <C 221_KLAGEN> clagede <C 700_VAN> van <C 1_HONGER> hongre <C 800_EN> en<A >de</A> <C 221_KERMEN> carmde. 
+<L 388:27> <C 510_ZO> So <C 501_ZEER> sere <C 810_DAT> dat <C 403_HIJ> hi <C 401_IK> mi <C 221_ONTFERMEN> ontfarmde. 
+<L 388:28> <C 500_TOEN> Doe <C 403_HIJ> hi <C 221_KRANKEN> cra<A >n</A>kede <C 800_EN> en<A >de</A> <C 230_WORDEN> wart <C 100_TRAAG> trah. 
+<L 388:29> <C 500_TOEN> Doe <C 220_DRAGEN> droh <C 403+401_HET+IK> ics <C 1_ROUW> rouwe <C 820_ALS> asse <C 480_EEN> en <C 450_ZIJN> sin <C 0_MAAG> maeh 
+<L 388:30> <C 800_EN> En<A >de</A> <C 220_GEVEN> gaf <C 403_HIJ> hem <C 0_RAAD> raet <C 810_DAT> dat <C 403_HIJ> hi <C 220#_UIT-> ut <C 220*_-RENNEN> ran. 
+<L 388:31> <C 610_DAAROM> Dar+ombe <C 210_ZIJN> bin <C 401_IK> ic <C 700_IN> i<A >n</A> <C 2+472_PAUS+DE> spaues <C 0_BAN> ban. 
+<L 388:32> <C 510_MORGEN> Margen <C 810_ALS> asse <C 471_DE> die <C 1_ZON> sunne <C 203_OPGAAN> op+gaet. 
+<L 388:33> <C 401+210_IK+WILLEN> willic <C 700_TE> te <C 21_ROME> rome <C 701_OM> ombe <C 0_AFLAAT> aflaet. 
+<L 388:34> <C 700_VAN> van <C 21_ROME> rome <C 200_VAREN> var <C 401_IK> ic <C 700_OVER> ou<A >er</A> <C 0_ZEE> ze 
+<L 388:35> <C 560+550_NE+ZO> Sone <C 201_KOMEN> come <C 401_IK> ic <C 500_DAN> dan <C 500_NIMMERMEE> nemb<A >er</A>mee. 
+<L 388:36> <C 810+401_EER+IK> Eric <C 550_ZO> so <C 321_VEEL> uele <C 211_HEBBEN> hebbe <C 2_GOED> guds <C 274_DOEN> gedaen. 
+<L 388:37> <C 0_KONING> Coni<A >n</A>c <C 420_DAT> dat <C 401_IK> ic <C 700_MET> met <C 405_GIJ> .v. <C 210_MOGEN> mah <C 250_GAAN> gaen. 
+<L 388:39> <C 810_DAT> Dat <C 440_NIEMAND> nimen <C 510_ZO> so <C 100_ONSPELLIJK> onspelic <C 560_NE> en <C 210_ZIJN> es. 
+<L 388:40> <C 700_TUSSEN> Tuschen <C 24_POLANEN> pollanen <C 800_EN> en<A >de</A> <C 20_SCHOUWEN> scouden. 
+<L 388:41> <C 421_DIE> Die <C 463_HEM> hem <C 700_VAN> va<A >n</A> <C 251_LACHEN> lahgene <C 231_HEBBEN> hadde <C 250_ONTHOUDEN> o<A >n</A>thoude<A >n</A>. 
+<L 388:42> <C 700_DOOR> Dor <C 1_ROUW> rouwe <C 421_DIE> die <C 403_HIJ> he<A >m</A> <C 231_MOGEN> mohte <C 250_GESCHIEDEN> gescien 
+<L 388:43> <C 231_HEBBEN> Hadde <C 403_HIJ> hi <C 21_REINAARD> R<A >einarde</A>. <C 500_TOEN> doe <C 274_ZIEN> gesien. 
+<L 388:44> <C 540_HOE> Hoe <C 501_WONDERLIJK> wond<A >er</A>like <C 403_HIJ> hi <C 510_HENEN> henen <C 220_GAAN> ginc 
+<L 388:45> <C 800_EN> en<A >de</A> <C 540_HOE> hoe <C 501_GEMAKKELIJK> gemakelike <C 403_HIJ> heme <C 220_HANGEN> hinc 
+<L 388:46> <C 1_SCHERP> Scerpe <C 800_EN> en<A >de</A> <C 0_PALSTER> palst<A >er</A> <C 701_AAN> ane <C 454_ZIJN> sinen <C 0_HALS> hals 
+<L 389:1> <C 800_EN> En<A >de</A> <C 471_DE> die <C 10_SCHOEN> scon <C 500_OOK> oec <C 500_ALS-EN-ALS> als+en<A >de</A>+als 
+<L 389:2> <C 421_DIE> Die <C 403_HIJ> hi <C 220_DRAGEN> droeh <C 701_AAN> ane <C 451_ZIJN> sine <C 10_BEEN> been. 
+<L 389:3> <C 100_GEBONDEN> Gebonden. <C 224_DOEN> daden <C 420_DAT> dat <C 403_HIJ> hi <C 230_SCHIJNEN> sceen. 
+<L 389:4> <C 0_PELGRIM> Peleg<A >ri</A>m <C 820_GELIJK> gelic <C 500_GENOEG> genoeh 
+<L 389:5> <C 22_REINAARD> .R<A >einarts</A>. <VN type=1> <C 1_HART> h<A >er</A>te <C 504_BINNEN> bi<A >n</A>nen <C 220_LACHEN> loeh. 
+<L 389:6> <C 820_DOORDAT> Dor+dat <C 406_ZIJ> si <C 321_AL> alle <C 700_MET> met <C 403_HIJ> heme <C 224_GAAN> gingen. 
+<L 389:7> <C 700_MET> met <C 510_ZO> soe <C 105_GROOT> groter <C 4_ZAMENING> samenongen. 
+<L 389:8> <C 421_DIE> Die <C 403_HIJ> he<A >m</A> <C 504_TEVOREN> teuoren <C 234_ZIJN> ware<A >n</A> <C 100_WREED> wreet 
+<L 389:9> <C 500_TOEN> Doe <C 220_SPREKEN> sprac <C 403_HIJ> hi <C 474+700_DE+TE> ten <C 0_KONING> coni<A >n</A>c <C 401_IK> mi <C 210_ZIJN> es <C 0_LEED> leet 
+<L 389:10> <C 810_DAT> Dat <C 405_GIJ> gi <C 510_DUS> d<A >us</A> <C 501_VER> v<A >er</A>re <C 700_MET> met <C 401_IK> mi <C 203_GAAN> gaet. 
+<L 389:11> <C 401_IK> Jc <C 201_VRUCHTEN> vrochte <C 403_HET> et <C 210_MOGEN> mah <C 405_GIJ> v. <C 260_WEZEN> wesen <C 100_KWAAD> q<A >ua</A>et 
+<L 389:12> <C 405_GIJ> Gi <C 213_HEBBEN> hebt <C 274_VANGEN> geuaen <C 300_TWEE> tue <C 11_MOORDENAAR> mordenare. 
+<L 389:13> <C 203+403_GEVALLEN+HET> geuallet <C 810_DAT> dat <C 403_ZIJ> si <C 405_GIJ> v. <C 204_ONTVAREN> onfaren. 
+<L 389:14> <C 405_GIJ> Gi <C 213_HEBBEN> hebt <C 465_U> .v. <C 700_TE> te <C 251_WACHTEN> wahtene <C 320_MEER> meer 
+<L 389:15> <C 820_DAN> Dan <C 405_GIJ> gi <C 465_U> .v. <C 223_DOEN> dadet <C 560_NOOIT> noit <C 500_EER> eer 
+<L 389:16> <C 243_BLIJVEN> Blift <C 1_GOD> gode <C 100_BEVOLEN> beuolen <C 401_IK> ic <C 213_MOETEN> moet <C 250_GAAN> gaen. 
+<L 389:17> <C 700_NA> Na <C 411_DEZE> dyse <C 1_TAAL> tale <C 230_GAAN> ginc <C 403_HIJ> hi <C 250_STAAN> staen. 
+<L 389:18> <C 700_OP> Op <C 451_ZIJN> sine <C 111_ACHTERST> echt<A >er</A>ste <C 300_TWEE> tue <C 14_POOT> poten. 
+<L 389:19> <C 800_EN> Ende <C 221_MANEN> maende <C 474_DE> den <C 114_KLEIN> clene<A >n</A> <C 800_EN> en<A >de</A> <C 474_DE> de<A >n</A> <C 114_GROOT> g<A >ro</A>te<A >n</A>. <VN type=1> 
+<L 389:20> <C 810_DAT> Dat <C 406_ZIJ> si <C 321_AL> alle <C 700_VOOR> vor <C 403_HIJ> he<A >m</A> <C 224_BIDDEN> baden. 
+<L 389:21> <C 820_OF> Of <C 403_ZIJ> si <C 701_AAN> ane <C 451_ZIJN> sine <C 14_WELDAAD> weldaden 
+<L 389:22> <C 100_GERECHT> Gerech <C 0_DEEL> deel <C 250_HEBBEN> hebben <C 234_WILLEN> wouden. 
+<L 389:23> <C 406_ZIJ> Si <C 224_ZEGGEN> seyden <C 321_AL> alle <C 810_DAT> dat <C 403_ZIJ> si <C 234_ZULLEN> souden. 
+<L 389:24> <C 403_HIJ> Sins <C 250_GEDENKEN> gedinge<A >n</A> <C 700_IN> in <C 454_HAAR> hare<A >n</A> <C 11_GEBED> gebede. 
+<L 389:25> <C 500_NU> Nu <C 243_HOREN> hort <C 500_VOORT> vort <C 420_WAT> wat <C 20_REINAARD> R<A >einart</A>. <C 221_DOEN> dede. 
+<L 389:26> <C 510_DAAR> Dar <C 403_HIJ> hi <C 700_VAN> van <C 474_DE> den <C 0_KONING> coni<A >n</A>c <C 220_SCHEIDEN> sciet. 
+<L 389:27> <C 510_ZO> So <C 101_DROEFELIJK> drouelike <C 403_HIJ> hi <C 700_VAN> ua<A >n</A> <C 406_ZIJ> he<A >m</A> <C 220_SCHEIDEN> sciet. 
+<L 389:28> <C 810_DAT> Dat <C 403_HET> et <C 444_SOM> some<A >n</A> <C 501_ZEER> sere <C 221_ONTFERMEN> ontfarmede 
+<L 389:29> <C 21_CUWAARD> Cuarde <C 474_DE> den <C 1_HAAS> hase <C 403_HIJ> hi <C 221_BEMANEN> bimaende. 
+<L 389:30> <C 910_OWEE> O+wi <C 20_CUWAARD> cuart <C 510_NU> nu <C 211_ZULLEN> sele <C 404+250_WIJ+SCHEIDEN> wisceden. 
+<L 389:31> <C 810_OF> Of <C 0_GOD> got <C 201_WILLEN> wille <C 405_GIJ> gi <C 213_ZULLEN> sult <C 401_IK> mi <C 250_GELEIDEN> geleden. 
+<L 389:32> <C 800_EN> En<A >de</A> <C 450_MIJN> mi<A >n</A> <C 0_VRIEND> vrint <C 20_BELIJN> bellin <C 471_DE> de <C 0_RAM> ram. 
+<L 389:33> <C 405_GIJ> Gi <C 301_TWEE> tuene <C 210_WORDEN> word <C 401_IK> mi <C 560_NOOIT> noit <C 100_GRAM> gra<A >m</A>. 
+<L 389:34> <C 830+405_NE-830+GIJ> Gine <C 213_MOETEN> moet <C 401_IK> mi <C 500_VOORT> vort <C 250_BRENGEN> bringen. 
+<L 389:35> <C 405_GIJ> Gi <C 213_ZIJN> siid <C 700_VAN> va<A >n</A> <C 105_ZOET> sot<A >er</A> <C 4_WANDELING> wandelingen. 
+<L 389:36> <C 800_EN> En<A >de</A> <C 100_ONBEGREPEN> onbegrepen <C 800_EN> en<A >de</A> <C 104_GOEDERTIEREN> god<A >er</A>tiren. 
+<L 389:37> <C 800_EN> En<A >de</A> <C 100_ONBEKLAAGD> onbeclagt <C 700_VAN> ua<A >n</A> <C 324_AL> allen <C 14_DIER> diren. 
+<L 389:38> <C 100_GEESTELIJK> Gestelic <C 210_ZIJN> es <C 455_UW> ver <C 305_BEIDE> beder <C 1_ZEDE> sede. 
+<L 389:39> <C 405_GIJ> Gi <C 203_LEVEN> leuet <C 301_BEIDE> bede <C 820_ALS> asse <C 401_IK> ic <C 510_TOEN> doe <C 221_DOEN> dede 
+<L 389:40> <C 500_TOEN> Doe <C 401_IK> ic <C 1_KLUIZENAAR> clusenare <C 230_ZIJN> was. 
+<L 389:41> <C 406+200_GIJ+HEBBEN> Hebdi <C 15_LOOF> lou<A >er</A> <VN type=1> <C 800_OCHTE> ohte <C 0_GRAS> gras 
+<L 390:1> <C 405+560_GIJ+NE> Gine <C 203_DOEN> doet <C 441_NEGEEN> negene <C 0_EIS> eisch <VN type=1> 
+<L 390:2> <C 800_NO> Noe <C 700_IN> in <C 0_BROOD> broet <C 800_NO> no <C 701_OM> ombe <C 0_VLEES> vlich <VN type=1> 
+<L 390:3> <C 800_NOCH> Noh <C 701_OM> ombe <C 101_ZONDERLIJK> sond<A >er</A>like <C 1_SPIJS> spise 
+<L 390:4> <C 700_MET> Met <C 414#_ALDUS-> ald<A >us</A> <C 414*_-GEDAAN> gedanen <C 1_PRIJS> p<A >ri</A>se 
+<L 390:5> <C 213_HEBBEN> Heuet <C 20_REINAARD> R<A >einart</A>. <C 411_DEZE> dese <C 300_TWEE> tue <C 273_VERDOREN> u<A >er</A>do[rt] 
+<L 390:6> <C 810_ZODAT> So+dat <C 406_ZIJ> si <C 700_MET> met <C 403_HIJ> hem <C 224#_-GAAN> gin[gen] <q> [vort] 
+<L 390:7> <C 811_TOT> Tote <C 403_ZIJ> si <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 450_ZIJN> s[in] <C 0_HUIS> [hus] 
+<L 390:8> <C 800_EN> En<A >de</A> <C 700_VOOR> vor <C 471_DE> die <C 1_POORT> porte <C 700_TE> te <C 20_MAUPERTUUS> [maupertus] 
+<L 390:9> <C 810_ALS> Asse <C 20_REINAARD> .R<A >einart</A>. <C 701_VOOR> vore <C 471_DE> die <C 1_POORT> p[orte] <VN type=1> <C 220_KOMEN> [quam] 
+<L 390:10> <C 510_TOEN> Doe <C 220_SPREKEN> sprac <C 403_HIJ> hi <C 1_NEEF> neu[e] <C 20_BELIJN> [bellin] <C 471_DE> die <VN type=1> <C 0_RAM> ra<A >m</A>. 
+<L 390:11> <C 405_GIJ> Gi <C 203_MOETEN> muet <C 501_ALLEEN> allene <C 504_BUITEN> [bute]n <C 250_STAAN> staen. 
+<L 390:12> <C 401_IK> Jc <C 213_MOETEN> muet <C 700_IN> in <C 455_MIJN> mire <C 4_VEST> [uest]en <C 250_GAAN> gaen. 
+<L 390:13> <C 20_CUWAARD> Cuart <C 210_ZULLEN> sal <C 250_INGAAN> i<A >n</A>gaen <C 700_MET> met <VN type=1> <C 401_IK> mi. 
+<L 390:14> <C 0_HEER> Her <C 20_BELIJN> bellin <C 203_BIDDEN> bidt <C 403_HIJ> hem <C 810_DAT> dat <C 403_HIJ> hi. 
+<L 390:15> <C 201_TROOSTEN> Troste <C 500_WEL> wel <C 1_VROUW> urouwe <C 24_HERMELIJN> ermeline<A >n</A>. 
+<L 390:16> <C 700_MET> met <C 454_HAAR> haren <C 114_ARM> armen <C 14_WELP> wolpinen. 
+<L 390:17> <C 810_ALS> Asse <C 401_IK> ic <C 700_AAN> an <C 403_ZIJ> hare <C 0_OORLOF> orlof <C 201_NEMEN> neme. 
+<L 390:18> <C 20_BELIJN> Bellin <C 220_SPREKEN> sprac <C 401_IK> ic <C 403+201_HET+BIDDEN> biddes <C 403_HIJ> heme 
+<L 390:19> <C 810_DAT> Dat <C 403+406_HIJ+ZIJ> hise <C 321_AL> alle <C 201_TROOSTEN> troste <C 501_WEL> wale. 
+<L 390:20> <C 20_REINAARD> R<A >einart</A>. <C 220_GAAN> ginc <C 700_MET> met <C 101_SCHOON> sconre <C 1_TAAL> tale. 
+<L 390:21> <C 510_ZO> Soe <C 271_SMEKEN> smekende <C 800_EN> en<A >de</A> <C 510_ZO> soe <C 101_LOSERTIER> losertire 
+<L 390:22> <C 700+325*_IN+ZO-> Jnso <C 325#_-MENIG> meneger <C 4_MANIER> maniren. 
+<L 390:23> <C 810_DAT> Dat <C 403_HIJ> hi <C 700_MET> met <C 1_BARAAT> barate <C 221_BRENGEN> brohte. 
+<L 390:24> <C 21_CUWAARD> Cuarde <C 700_IN> in <C 451_ZIJN> sene <C 1_HAGEDOCHT> hagedohte. 
+<L 390:25> <C 811_ALS> Alse <C 406_ZIJ> si <C 700_IN> in <C 470_HET> dat <C 0_HOL> hol <C 224_KOMEN> q<A >ua</A>men 
+<L 390:26> <C 20_CUWAARD> Cuart. <C 800_EN> en<A >de</A> <C 20_REINAARD> R<A >einart</A> <C 504_TEZAMEN> tesamen. 
+<L 390:27> <C 510_TOEN> Doe <C 224_VINDEN> uo<A >n</A>den <C 406_ZIJ> si <C 1_VROUW> vrouwe <C 24_HERMELIJN> ermeline<A >n</A> 
+<L 390:28> <C 700_BIJ> Bi <C 454_HAAR> haren <C 114_KLEIN> clenen <C 14_WELP> wolpinen. 
+<L 390:29> <C 403_ZIJ> Si <C 230_ZIJN> was <C 700_IN> i<A >n</A> <C 14_ZORG> sorgen <C 800_EN> en<A >de</A> <C 700_IN> in <C 1_VAAR> vare. 
+<L 390:30> <C 810_WANT> want <C 403_ZIJ> si <C 221_WANEN> wande <C 810_DAT> dat <C 20_REINAARD> .R<A >einart</A>. <C 231_ZIJN> ware. 
+<L 390:31> <C 274_VERHANGEN> v<A >er</A>hange<A >n</A> <C 800_EN> en<A >de</A> <C 810_ALS> asse <C 403+403_ZIJ+HIJ> sine <C 220_VERNEMEN> v<A >er</A>na<A >m</A>. 
+<L 390:32> <C 810_DAT> Dat <C 403_HIJ> hi <C 0+700_HUIS+TE> thus <C 500_WEER> wed<A >er</A> <C 220_KOMEN> quam. 
+<L 390:33> <C 800_EN> En<A >de</A> <C 0_PALSTER> palst<A >er</A> <C 800_EN> en<A >de</A> <C 1_SCHERP> scerpe <C 220_DRAGEN> droeh. 
+<L 390:34> <C 221_DUNKEN> Dohte <C 403_ZIJ> hare <C 101_WONDERLIJK> wond<A >er</A>like <C 500_GENOEG> genoeh. 
+<L 390:35> <C 403_ZIJ> Si <C 230_WORDEN> wart <C 101_BLIJ> blide <C 800_EN> en<A >de</A> <C 220*_-SPREKEN> sprac <C 403_ZIJ> si <C 220#_AAN-> an. 
+<L 390:36> <C 101_LIEF> Liue <C 20_REINAARD> .R<A >einart</A> <C 540_HOE> hoe <C 210_ZIJN> si <C 402_DU> di <C 250_ONTGAAN> ontgaen. 
+<L 390:37> <C 20_REINAARD> R<A >einart</A>. <C 220_SPREKEN> sprac <C 401_IK> ic <C 210_ZIJN> was <C 100_GEVANGEN> geuaen 
+<L 390:38> <C 800_MAAR> mar <C 471_DE> die <C 0_KONING> coni<A >n</A>c <C 403_HIJ> hi <C 230_LATEN> liit <C 401_IK> mi <C 250_GAAN> gaen. 
+<L 390:39> <C 401_IK> Jc <C 213_MOETEN> muet <C 260_WORDEN> w<A >er</A>den <C 0_PELGRIM> pelegrim 
+<L 390:40> <C 0_HEER> Her <C 20_BRUIN> brun <C 800_EN> en<A >de</A> <C 0_HEER> her <C 20_IZEGRIM> ysengrim. 
+<L 391:1> <C 214_ZIJN> [sin] <C 274_DOEN> [ge]daen <VN type=1> <C 0_GIJZEL> gisel <C 700_OVER> ouer <C 401_IK> mi. 
+<L 391:2> <C 471_DE> [die] <C 0_KONING> [coninc] <C 213_HEBBEN> heft <C 404_WIJ> ons. <C 0_DANK> da<A >n</A>c <C 201_HEBBEN> hebbe <C 403_HIJ> hi. 
+<L 391:3> <C 21_CUWAARD> C[uarde] <C 274_GEVEN> [gegeu]e<A >n</A> <C 700_OP> op <C 101_RECHT> rehte <C 1_ZOEN> sone. 
+<L 391:4> <C 100_AL> al <C 454_ONS> [onsen] <C 1_WIL> [w]ille <C 651_MEDE> mede <C 251+700_DOEN+TE> tedone. 
+<L 391:5> <C 471_DE> D[ie] <C 0_KONING> [coninc] <C 201_LIJDEN> [li]de <C 411_ZELF> selue <C 412_DAT> des 
+<L 391:6> <C 810_DAT> Da[t] <C 20_CUWAARD> [cuart] <C 471_DE> [die] <C 311_EERST> erste <C 230_ZIJN> was 
+<L 391:7> <C 420_DIE> Di <C 404_WIJ> o[ns] <C 220_VERRADEN> [verr]it <C 700_TEGEN> tegen <VN type=1> <C 403_HIJ> hem. 
+<L 391:8> <C 800_EN> En<A >de</A> <C 700+475_BIJ+DE> bid[er] <C 4_TROUW> [trouw]en <C 421_DIE> die <C 401_IK> ic <C 210_ZIJN> bin 
+<L 391:9> <C 405_GIJ> v <C 100_SCHULDIG> sculdeh <C 1_VROUW> vrouwe <C 21_HERMELIJN> ermeline. 
+<L 391:10> <C 21_CUWAARD> Cuarde <C 203_NAKEN> nact <C 301_EEN> ene <C 101_ZWAAR> suare <C 1_PIJN> pine. 
+<L 391:11> <C 401_IK> Jc <C 210_ZIJN> ben <C 403_HIJ> hem <C 700_MET> met <C 1_RECHT> rehte <C 100_GRAM> gram. 
+<L 391:12> <C 811_ALS> Alse <C 20_CUWAARD> cuart <C 410_DIT> dit <C 220_VERNEMEN> u<A >er</A>nam 
+<L 391:13> <C 221*_-KEREN> kerde <C 403_HIJ> hi <C 463_HEM> hem <C 221#_OM-> ombe <C 800_EN> en<A >de</A> <C 221_WANEN> wande <C 250_VLIEDEN> vlien <VN type=1> 
+<L 391:14> <C 800_MAAR> mar <C 410_DAT> dat <C 231+560_KUNNEN+NE> neco<A >n</A>ste <C 403_HIJ> he<A >m</A> <C 560_NIET> nit <C 250_GESCHIEDEN> gescien. 
+<L 391:15> <C 800_WANT> want <C 20_REINAARD> .R<A >einart</A>. <C 231_HEBBEN> hadde <C 403_HIJ> hem <C 274_ONDERGAAN> ond<A >er</A>gaen. 
+<L 391:16> <C 471_DE> Die <C 1_POORT> porte <C 800_EN> en<A >de</A> <C 403+220_HIJ+GRIJPEN> grepene <C 500_ZAAN> san. 
+<L 391:17> <C 475+700_DE+BIJ> Bid<A >er</A> <C 4_KEEL> kelen <C 501_MOORDELIJK> mordelike. 
+<L 391:18> <C 800_EN> En<A >de</A> <C 20_CUWAARD> cuart <C 220_ROEPEN> riep <C 501_GENADELIJK> genadelike. 
+<L 391:19> <C 243_HELPEN> Hulpt <C 401_IK> mi <C 20_BELIJN> bellin <C 530_WAAR> waer <C 210+405_ZIJN+GIJ> sidi. 
+<L 391:20> <C 411_DEZE> Dese <C 0_PELGRIM> pelegrim <C 403_HIJ> hi <C 203_DODEN> dodet <C 401_IK> mi. 
+<L 391:21> <C 410_DIT> Dit <C 0_ROEPEN> ropen <C 230_ZIJN> was <C 501_SCHIER> scire <C 274_DOEN> gedaen. 
+<L 391:22> <C 810_BEDIE> bedie <C 20_REINAARD> R<A >einart</A>. <C 403_HIJ> hi <C 231_HEBBEN> hadde <C 500_ZAAN> saen. 
+<L 391:23> <C 451_ZIJN> Sine <C 1_KEEL> kele <C 500_ONTWEE> ontue <C 274_BREKEN> gebroken. 
+<L 391:24> <C 510_TOEN> Doe <C 220_SPREKEN> sprac <C 20_REINAARD> .R<A >einart</A> <C 510_NU> nu <C 210_GAAN> ga <C 404_WIJ> wi <C 250_KOKEN> coken. 
+<L 391:25> <C 414_DEZE> Desen <C 104_GOED> guden <C 104_VET> vetten <C 1_HAAS> hase 
+<L 391:26> <C 471_DE> Die <C 11_WELP> wolpine <C 224_LOPEN> liepen <C 474+700_DE+TOT> toten <C 1_HAAS> ase 
+<L 391:27> <C 800_EN> En<A >de</A> <C 234_GAAN> gingen <C 250_ETEN> eten <C 501_ALGEMEEN> algemeyne. 
+<L 391:28> <C 451_HAAR> hare <C 1_ROUW> rouwe <C 403_HIJ> hi <C 230_ZIJN> was <C 101_KLEIN> clene. 
+<L 391:29> <C 810_DAT> Dat <C 20_CUWAARD> cuart <C 231_HEBBEN> hadde <C 274_VERLIEZEN> v<A >er</A>loren <C 0_LIJF> lif. 
+<L 391:30> <C 21_HERMELIJN> Ermeline. <C 22_REINAARD> R<A >einarts</A> <C 0_WIJF> wiif 
+<L 391:31> <C 220_ETEN> at <C 700_VAN> van <C 474_DE> den <C 1_VLEES> vlesce <C 800_EN> en<A >de</A> <C 0_DRANK> dra<A >n</A>c <C 472_HET> dis <C 2_BLOED> bludis <VN type=1> 
+<L 391:32> <C 910_AI> ay <C 540_HOE> hoe <C 501_DIKKE> dicke <C 220_BIDDEN> bat <C 403_ZIJ> si <C 2_GOD> godis. 
+<L 391:33> <C 474_DE> Den <C 0_KONING> coni<A >n</A>c <C 421_DIE> die <C 700_DOOR> dor <C 451_ZIJN> sine <C 0_DEUGD> doget <VN type=1> 
+<L 391:34> <C 451_HAAR> Hare <C 111_KLEIN> clene <C 11_KIND> kindre <C 231_HEBBEN> hadde <C 273_VERHOGEN> u<A >er</A>hoget. 
+<L 391:35> <C 510_ZO> Soe <C 500_VROEG> vroeh <C 700_MET> met <C 484_EEN> enen <C 104_GOED> gude<A >n</A> <C 1_MAAL> male. 
+<L 391:36> <C 20_REINAARD> R<A >einart</A>. <C 220_SPREKEN> sprac <C 403_HIJ> hi <C 200+403_GUNNEN+HET> ans <C 404_WIJ> ons <C 501_WEL> wale. 
+<L 391:37> <C 401_IK> Jc <C 203_WETEN> weet <C 500_WEL> wel <C 213_MOETEN> muet <C 471_DE> die <C 0_KONING> coni<A >n</A>c <C 250_LEVEN> leue<A >n</A>. 
+<L 391:38> <C 403_HIJ> Hi <C 231_ZULLEN> soude <C 404_WIJ> ons <C 501_GAARNE> g<A >er</A>ne <C 11_GIFT> gehte <C 250_GEVEN> geuen. 
+<L 391:39> <C 421_DIE> Die <C 403_HIJ> hi <C 411_ZELF> selue <C 560_NIET> nit <C 560_NE> ne <C 221_WILLEN> woude. 
+<L 391:40> <C 250_HEVEN> heue<A >n</A> <C 701_OM> ombe <C 300_ZEVEN> seue<A >n</A> <C 10_MARK> marc <C 700_VAN> va<A >n</A> <C 1_GOUD> goude. 
+<L 392:1> <C 430_WAT> wat <C 11_GIFT> gehte <C 203_ZIJN> si<A >n</A>t <C 403_HET> dat <C 220_SPREKEN> sprac <C 1_HERMELIJN> ermeline 
+<L 392:2> <C 20_REINAARD> R<A >einart</A>. <C 220_SPREKEN> sprac <C 403+210_HET+ZIJN> ets <C 301_EEN> ene <C 1_LIJN> line <VN type=1> 
+<L 392:3> <C 800_EN> En<A >de</A> <C 301_EEN> ene <C 0_WORST> worst <C 800_EN> en<A >de</A> <C 300_TWEE> tue <VN type=1> <C 14_MIK> micken. 
+<L 392:4> <C 800_MAAR> mar <C 401+200_IK+MOGEN> magic <VN type=1> <C 401_IK> ic <C 210_ZULLEN> sal <C 403_HIJ> he<A >m</A> <C 250_ONTSCHRIKKEN> ontscricke<A >n</A>. 
+<L 392:5> <C 200+401_MOGEN+IK> Magic <C 500_EER> eer <C 204_LIJDEN> liden <C 11_DAG> dage <C 300_TWEE> tue 
+<L 392:6> <C 810_DAT> Dat <C 401_IK> ic <C 701_OM> ombe <C 450_ZIJN> sin <C 0_DANGER> dang<A >er</A> <C 320_MEE> mee. 
+<L 392:7> <C 560_NE> Ne <C 221_GEVEN> gaue. <C 820_DAN> dan <C 403_HIJ> hi <C 701_OM> ombe <C 410_DAT> dat <C 450_MIJN> min 
+<L 392:8> <C 403_ZIJ> Si <C 220_SPREKEN> sprac <C 20_REINAARD> .R<A >einart</A>. <C 530_WAAR> war <C 210_MOGEN> mah <C 410_DAT> dat <C 260_ZIJN> sin. 
+<L 392:9> <C 20_REINAARD> R<A >einart</A>. <C 220_SPREKEN> sprac <C 1_VROUW> vrouwe <C 401_IK> ic <C 405+200_GIJ+ZEGGEN> seggu. 
+<L 392:10> <C 401_IK> Jc <C 203_WETEN> weet <C 480_EEN> en <C 1_WILDERNIS> weld<A >er</A>nesse <C 100_RUW> ru. 
+<L 392:11> <C 700_VAN> van <C 114_LANG> langen <C 11_GAGEL> gagele <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 4_HEIDE> heyde<A >n</A>. 
+<L 392:12> <C 410_DAT> Dat <C 210_ZIJN> es <C 480_EEN> een <C 500_WEL> wel <C 100_GROOT> groet <C 1_GELEIDE> geleide. 
+<L 392:13> <C 700_VAN> van <C 104_GOED> guden <C 1_LEVEN> leuene <C 700_VAN> van <C 105_GOED> god<A >er</A> <C 4_SPIJS> spisen. 
+<L 392:14> <C 510_DAAR> Dar <C 204_WONEN> wone<A >n</A> <C 11_WOERHOEN> vor+honre <C 800_EN> en<A >de</A> <C 14_PATRIJS> p<A >ar</A>t<A >ri</A>sen. 
+<L 392:15> <C 800_EN> En<A >de</A> <C 111_MENIGERHANDE> meneg<A >er</A>ande <C 11_VOGELIJN> vogeline. 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

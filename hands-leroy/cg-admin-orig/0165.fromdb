@@ -1,0 +1,57 @@
+<header>
+<docId>0165</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 285:10> <q> parrochia <q> sancti <q> Egidij 
+<L 285:11> <C 29_BRUGS> Brugen<A >sis</A> <q> prope <q> parrochiam <q> sancti <q> petri <q> supra <C 0_DIJK> diic <C 20_ELISABETH> elizabet <q> relicta 
+<L 285:12> <C 29_LAMBERT> lamcini <C 20_KEUS-X> keuz <q> soluit <q> annuatim <C 29_SIMON> Symoni <C 0_PROVENSIJN-X> prouensin <q> capellano <q> iiii <q> s <q> super 
+<L 285:13> <q> leemte <q> van <q> een <q> woord <q> terre <q> argillose. 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> in <q> sancti <q> egidij <q> de 
+<L 285:14> <q> .xxv <q> virgis <q> terre <q> quondam <C 29_BOUDEWIJN> boud<A >ini</A> <q> .f. <q> ingrauens.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 470+700_HET+IN> jnt 
+<L 285:15> <C 101_MAANDAGS> maendaessche <C 9_FOLIO> folio <q> xxxvij. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1275' jaar_van='1275' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 285:23> <C 404_WIJ> Wie <C 20_WOUTER> wouter <C 0_HOOFD> hoeft. <C 20_PETRUS> pieter <C 0_OOM> hoem. <C 20_DIEDERIK> Dierman <C 700_VAN> van <C 21_ZEVEKOTE> zeuencote. <C 20_DIEDERIK> Dierman <C 700_VAN> van 
+<L 285:24> <C 101_SINT> Sinte <C 22_LAURENTIUS> lourens. <C 20_WOUTER> wouter <C 700_VAN> van <C 4_ESSEN> essen. <C 800_EN> Ende <C 20_WOUTER> weitin <C 471_DE> die <C 1_GRAAF> Graue <C 14_SCHEPEN> Schepennen <C 700+470_IN+HET> int 
+<L 285:25> <C 101_MAANDAGS> maendaesche. <C 204_DOEN> Doen <C 251+700_WETEN+TE> tewetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen 
+<L 285:26> <C 250_ZIEN> zien <C 800_EN> ende <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat <C 20_BOUDEWIJN> bouden <q> .f. <C 22_ENGRAAF> jngrauens, <C 800_EN> ende <C 20_MARIA> maria <C 450_ZIJN> ziin <C 0_WIJF> wiif 
+<L 285:27> <C 224_KOMEN> quamen <C 700_VOOR> voer <C 404_WIJ> ons <C 800_EN> ende <C 224_OPGEVEN> gauen+vp <C 474_DE/HET> den <C 1_HEER> here <C 21_SIMON> Symoene <C 1_PROVENSIJN-X> prouensine 
+<L 285:28> <C 1_KAPELAAN> capellane <C 700_VAN> van <C 100_SINT> Sint <C 22_SALVADOR> Saluatoers <C 101_WETTELIJK> wettelike <C 0_HALM> halm <C 800_EN> ende <C 1_GIFT> ghifte <C 700_VAN> van <C 300_VIJFENTWINTIG> viuen+tvintich 
+<L 285:29> <C 14_ROEDE> roeden <C 2_LAND> lands <C 500_LICHTELIJK> lichteleic <C 320_MIN> min, <C 800_OF> jof <C 500_LICHTELIJK> lichteleic <C 325_MEER> mer <C 271_LIGGEN> licghende <C 704_BINNEN> binnen 
+<L 285:30> <C 100_SINT> sint <C 22_AEGIDIUS> Gielis <C 1_PAROCHIE> prochie <C 700_BIJ> bi <C 100_SINT> Sint <C 22_PETRUS> pieters <C 474+700_DE/HET+OP> vpten <C 0_DIJK> diic, <C 700_BINNEN> binnen <C 0_VROUW> vrou <C 24_MARIA> marien <C 22_JOHANNES> jans 
+<L 285:31> <q> f. <C 2_LAM> lams <C 4_WEDUWE> wedewen <C 1_LAND> lande. <C 800_EN> Ende <C 410_DIT> dit <C 101_VOORZEID> voerseide <C 0_LAND> land <C 224_WEDDEN> wedden <C 406_ZIJ> zi <C 403_HIJ> hem <C 4+700_WET+TE> tewetten 
+<L 285:32> <C 251+700_WAREN+TE> tewaerne <C 704_TEGEN> tjeghen <C 324_ELK> elken <C 1_MENS> mensche. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 410_DIT> dit <C 501_WETTELIJK> wettelike <C 274_DOEN> ghedaen 
+<L 285:33> <C 230_ZIJN> was <C 700_VOOR> voer <C 404_WIJ> ons <C 841_ALS> alze <C 700_VOOR> voer <C 14_SCHEPEN> Schepennen, <C 800_EN> ende <C 404_WIJ> wie <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> di[t] <C 210_ZIJN> zi 
+<L 285:34> <C 100_GESTADIG> ghestadich, <C 550_ZO> zo <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren <C 101_UITHANGEND> vthanghende <C 273_ZEGELEN> ghezeghelt <C 700_MET> met 
+<L 285:35> <C 454_ONS> onzen <C 14_ZEGEL> zeglen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 475_DE/HET> der <C 1_INCARNATIE> jncarnatie <C 452_ONS> ons <C 4_HEER> heren <C 810_ALS> als <C 440_MEN> men 
+<L 285:36> <C 220_SCHRIJVEN> screef <C 301_1200-ZEVENTIG-EN-VIJF> .m.cc.lxx.+ende+viue. <C 100_SINT> Sint <C 22_JOHANNES> jans <C 1_DAG> daghe <C 700_IN> in <C 21_MEI> meye. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1275' jaar_van='1275' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

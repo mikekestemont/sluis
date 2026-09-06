@@ -1,0 +1,55 @@
+<header>
+<docId>1380</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2144:24> <C 0_ZUSTER> sust<A >er</A> 
+<L 2144:25> <q> annees.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 101_ERFELIJK> Ervelike <q> Erv <q> onzeker <q> rente <C 700_TE> te <q> sleydinghe <C 274_GEVEN> ghegheue<A >n</A>. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2144:30> <C 701_TOT> Tote <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 411_DEZE> dese <C 4_LETTER> lettren <C 800_EN> ende <C 250_HOREN> horen <C 250_LEZEN> lesen, 
+<L 2144:31> <C 401_IK> Jc <C 20_JOHANNES> jhan <C 700_VAN> van <C 4_LEDE> leden <C 1_PAAP> pape <C 700_VAN> van <C 24_SLEIDINGE> sleidinghen <C 201_GROETEN> groete <C 405_GIJ> hu <C 700_IN> in <C 454_ONS> onsen <C 1_HEER> here. <C 401_IK> Jc <C 200_DOEN> doe 
+<L 2144:32> <C 405_GIJ> hu <C 700_TE> the <C 251_WETEN> wetene <C 810_DAT> dat <C 20_BOUDEWIJN> boidin <C 471_DE> de <C 101_ROOD> rode <C 0_PAROCHIAAN> prochiaen <C 700_VAN> van <C 24_SLEIDINGE> sleidinghen <C 800_EN> en<A >de</A> 
+<L 2144:33> <C 20_GEERTRUIDA> gheertruud <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 224_GEVEN> gauen <C 700_IN> in <C 105_PUUR> puerre <C 4_AALMOES> aelmoesenen <C 1_JONKVROUW> joncvrouwe <C 24_AGNES> aneesen 
+<L 2144:34> <C 700_VAN> van <C 1_BRUG> brigghe <C 421_DIE> die <C 274_BEGEVEN> begheuen <C 210_ZIJN> es <C 700_TE> the <C 21_DOORZELE> dorensele, <C 700_IN> in <C 451_MIJN> mine <C 1_JEGENWOORDIGHEID> jeghenwordechede, 
+<L 2144:35> <C 300_VEERTIG> viertech <C 11_SCHELLING> scelghe <C 472+2_HET+JAAR> tsiaers <C 700_OP> vp <C 301_VIER> viere <C 11_BUNDER> buunre <C 2_LAND> lands <C 421_DIE> die <C 403_HIJ> hi <C 221_KOPEN> cochte <C 704_JEGEN> jeghen 
+<L 2144:36> <C 21_JOHANNES> jhanne <C 474_DE/HET> den <C 0_KONING> coninc, <C 420_WELK> welc <C 0_LAND> land <C 203_LIGGEN> leecht <C 704_TUSSEN> tusschen <C 22_WOUTER> wouters <C 10_KIND> kinder <C 24+0_AVE+VROUW> vernauen 
+<L 2144:37> <C 2_ZOON> soens <C 1_LAND> lande, <C 800_EN> en<A >de</A> <C 22_HUGO> hughes <C 700+474_UIT+DE/HET> vten <C 21_ZOMPEL> somple. <C 800_EN> en<A >de</A> <C 500_VOORT> voert <C 300_VIERENTWINTIG> viere+en<A >de</A>+twinchtech 
+<L 2144:38> <C 11_SCHELLING> scelghe <C 700_OP> vp <C 301_7> seuene <C 11_GEMET> ghemete <C 2_LAND> lands <C 421_DIE> die <C 204_LIGGEN> ligghen <C 474+700_DE/HET+TE> ten <C 1_EIND> ende <C 700_VAN> van <C 414_DEZE> desen 
+<L 2144:39> <C 114_VOORZEID> vorseiden <C 301_VIER> viere <C 14_BUNDER> buunre<A >n</A> <C 500_ZUIDWAART> suut+waerd. <C 420_WELK> welc <C 0_LAND> land <C 403_HIJ> hi <C 221_KOPEN> cochte <C 704_JEGEN> ieghen <C 22_WOUTER> wouters 
+<L 2144:40> <C 10_KIND> kinder <C 700_VAN> van <C 21_ZEVEKOTE> seuencote. <C 800_EN> en<A >de</A> <C 500_VOORT> vord <C 300_22> twee+en<A >de</A>+twintech <VN type=1> <C 11_SCHELLING> scelghe <C 700_OP> vp <C 300_TWEE> twee 
+<L 2144:41> <C 11_BUNDER> buunre <C 2_LAND> lands <C 421_DIE> die <C 204_LIGGEN> ligghen <C 474+700_DE/HET+TE> ten <C 1_EIND> ende <C 700_VAN> van <C 474_DE/HET> den <C 114_VOORZEID> vorseiden <C 301_7> seuene <C 14_GEMET> ghemeten 
+<L 2144:42> <C 500_ZUIDWAART> suutwaerd <C 421_DIE> die <C 403_HIJ> hi <C 221_KOPEN> cochte <C 704_JEGEN> jeghen <C 21_GERLOF> gherolue <C 700_VAN> van <C 475_DE/HET> der <C 4_WOESTIJN> wostinen. <C 800_EN> en<A >de</A> <C 500_VOORT> vord 
+<L 2144:43> <C 301_VIJFTIEN> vijftiene <C 11_SCHELLING> scelghe <C 700_OP> vp <C 300_EEN> een <C 1_BUNDER> buunre <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> een+alf, <C 420_DAT> dat <C 203_LIGGEN> leecht <C 702_NEFFENS> neffens 
+<L 2144:44> <C 474_DE/HET> den <C 114_VOORZEID> vorseiden <C 304_TWEE> twen <C 14_BUNDER> buunren <C 500_OOSTWAART> oestwaerd. <C 420_DAT> dat <C 403_HIJ> hi <C 221_KOPEN> cochte <C 704_JEGEN> ieghe<A >n</A> <C 24_SIEGER> seghere<A >n</A> 
+<L 2144:45> <C 700+474_UIT+DE/HET> vten <C 14_WILG> wulghen. <C 411_DEZE> Dese <C 111_VOORZEID> vorseide <C 300_HONDERD> ondert <C 11_SCHELLING> schelghe <C 800_EN> en<A >de</A> <C 301_12> twaleue <C 11_PENNING> peneghe <C 220_GEVEN> gaf 
+<L 2145:1> <C 403_HIJ> hi <C 415_DEZE> deser <C 105_VOORZEID> vorseider <C 4_JONKVROUW> joncvrouwe<A >n</A> <C 24_AGNES> aneesen <C 700_OP> vp <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_GOED> goed <C 502_JAARLIJKS> jaerlics <C 700_TE> the 
+<L 2145:2> <C 454_HAAR> hare<A >n</A> <C 1_LIJF> liue, <C 800_EN> en<A >de</A> <C 700_NA> na <C 450_HAAR> haer <C 0_LIJF> lijf <C 271_BLIJVEN> bliuende <C 474_DE/HET> den <C 0_KLOOSTER> cloester <C 700_VAN> van <C 21_DOORZELE> dorensele, <C 700_IN> jn 
+<L 2145:3> <C 4_OORKONDSCHAP> orcondschepen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 214_HEBBEN> ebben <C 404_WIJ> wi, <C 471_DE> de <C 1_ABDIS> abdesse <C 700_VAN> van <C 21_DOORZELE> dorensele, <C 800_EN> en<A >de</A> 
+<L 2145:4> <C 401_IK> ic, <C 1_PAAP> pape <C 700_VAN> van <C 24_SLEIDINGE> sleidinghen <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seghelen. 
+<L 2145:5> <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 0+470_JAAR+HET> tjaer <C 700_VAN> van <C 474_DE/HET> den <C 1_INCARNATIOEN> jncarnatioene <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef 
+<L 2145:6> <C 319_1294> .m'ho.+cc'ho.+ende+xciiii'ho. <C 700_IN> Jn <C 101_SINT> sente <C 22_ANDREAS> andries <C 1_AVOND> auonde. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

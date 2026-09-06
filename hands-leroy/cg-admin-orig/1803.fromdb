@@ -1,0 +1,22 @@
+<header>
+<docId>1803</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.Q.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2683:11> <C 1_LETTER> lett<A >er</A>e <C 21_ODE> Otte <C 700_VAN> van <C 20_HEUKELOM> hoclem <C 621*_DAAR-> daer 
+<L 2683:12> <C 403_HIJ> hi <C 474_DE/HET> den <C 1_GRAAF> G<A >ra</A>ue <C 700_VAN> van <C 20_HOLLAND> holl<A >ant</A> <C 621#_-MEDE> mede <C 220_OPGEVEN> up+gaf <C 450_ZIJN> sijn <C 0_HUIS> huus <C 20_WADENBURG> wademborch <C 800_EN> en<A >de</A> 
+<L 2683:13> <C 500_WEER> weder <C 220_ONTVANGEN> ontfinc <C 700_VAN> van <C 403_HIJ> hem <C 700_TE> te <C 1_LEEN> leene. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.Q.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

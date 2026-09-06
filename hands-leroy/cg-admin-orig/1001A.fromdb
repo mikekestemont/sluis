@@ -1,0 +1,59 @@
+<header>
+<docId>1001A</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.O.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+<L 1525:39> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens, <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_MAKEN> maken <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 1525:40> <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 700_VOOR> voer <C 404_WIJ> ons <C 224_KOMEN> quamen <C 411_DIE> die <C 700_VAN> van <C 24_SCHOUWEN> scovden. 
+<L 1525:41> <C 800_EN> ende <C 501_ONDERLING> onderlinghe <C 224_DINGEN> dingheden. <C 800_EN> ende <C 224_TOGEN> toghenden <C 11_BRIEF> brieve <C 421_DIE> die <C 406_ZIJ> sij <C 224_HEBBEN> hadden 
+<L 1525:42> <C 474+700_DE/HET+VAN> vanden <C 14_DIJK> diken <C 530_WAAR> waer <C 406_ZIJ> sij <C 454_HAAR> horen <C 0_DIJK> diic <C 250_DIJKEN> diken <C 234_ZULLEN> sovden. <C 700_NA> Na <C 321_AL> alle <C 1_TAAL> tale, <C 700_NA> na <C 321_AL> alle 
+<L 1525:43> <C 0_TOGEN> toghen <C 421_DIE> die <C 406_ZIJ> sij <C 224_HEBBEN> hadden <C 700_VOOR> voer <C 404_WIJ> ons. <C 550_ZO> so <C 230_ZIJN> was <C 273_WIJZEN> ghewiset <C 474+700_DE/HET+VAN> vanden <C 10_GEZWORENE> ghesvoren <C 421_DIE> die 
+<L 1525:44> <C 204_WONEN> wonen <C 475+20+700_DE+SCHELDE+BEWESTEN> bewesterscelt <C 800_EN> ende <C 475+20+700_DE+SCHELDE+BEOOSTEN> bi+oesterscelt <C 700_MET> met <C 100_VOLKOMEN> volcomen <C 1_VONNIS> vonnesse. <C 810_DAT> dat <C 321_AL> alle 
+<L 1525:45> <C 0_DING> dinc <C 231_ZULLEN> sovde <C 250_STAAN> staen <C 700_TE> te <C 250_VERBETEREN> verbetren <C 700+474_VAN+DE/HET> vanden <C 1_DIJK> dike <C 700_VAN> van <C 24_SCHOUWEN> sc[ov]den. <C 700_BIJ> bi <C 404_WIJ> ons, <C 800_EN> ende 
+<L 1525:46> <C 700_BIJ> bi <C 1_RAAD> rade <C 455_ONS> onser <C 14_MAN> mannen. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 410_DIT> dit <C 273_WIJZEN> ghewiset <C 210_ZIJN> es <C 701_AAN> ane <C 451_ONS> onse 
+<L 1526:1> <C 0_VERBETEREN> verbetren. <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 464_ONS> ons <C 274_BERADEN> beraden <C 700_MET> met <C 454_ONS> onsen <C 114_TROUW> trouwen <C 14_MAN> mannen. <C 800_EN> Ende 
+<L 1526:2> <C 204_ZEGGEN> secghen <C 510_ALDUS> aldus <C 470+700_HET+IN> int <C 311_EERST> ierste. <C 810_DAT> dat <C 471_DE> die <C 11_BRIEF> brieve <C 421_DIE> die <C 406_ZIJ> sii <C 224_TOGEN> toghenden <C 700_VOOR> voer <C 404_WIJ> ons <C 841_ALS> alse 
+<L 1526:3> <C 474+700_DE/HET+VAN> vanden <C 1_DIJK> dike <C 700_VAN> van <C 24_SCHOUWEN> scovden <C 560_NIET> niet <C 100_GOED> goet <C 560_NE> ne <C 214_ZIJN> siin. <C 801_NOCHTE> nochte <C 560_NIET> niet <C 100_GOED> goet <C 260_BLIJVEN> bliuen <C 560_NE> en 
+<L 1526:4> <C 214_MOGEN> moghen. <C 500_VOORT> Voert <C 204_ZEGGEN> secghen <C 404_WIJ> wi <C 810_DAT> dat <C 471_DE> die <C 300_VIJF> viif <C 11_ZESTENDEEL> sestendele <C 700_VAN> van <C 24_SCHOUWEN> scovden, <C 704_BINNEN> binnen <C 475_DE/HET> der 
+<L 1526:5> <C 4_SCHELFERING> scelueringhen <C 700_VAN> van <C 0_BURG> borch <C 250*_AAN-> ane <C 214_ZULLEN> sullen <C 250#_-VANGEN> vaen <C 800_EN> ende <C 250_DIJKEN> diken <C 454_HAAR> horen <C 0_DIJK> diic. <C 510_ALZO> also <C 820_ALS> als 
+<L 1526:6> <C 403+406_HIJ+ZIJ> siine <C 273_DIJKEN> ghediket <C 214_HEBBEN> hebben <C 510_HIERVOORMAALS> hier+voermaels <C 700_OVER> over <C 101_LANG> langhe <C 1_WIJL> wile. <C 700_IN> Jn <C 415_DEZE> deser 
+<L 1526:7> <C 4_MANIER> maniren <C 810_DAT> dat <C 404_WIJ> wi <C 204_NEMEN> nemen <C 610_DAARTOE> daer+toe <C 700_IN> in <C 324_ELK> elken <C 314_VIJFTE> viiften <C 1_ZESTENDEEL> sestendele <C 304_EEN> enen <C 0_MAN> man. 
+<L 1526:8> <C 800_ZONDER> sonder <C 700_IN> in <C 21_ZUIDKERKE> sutk<A >er</A>ke <C 301_TWEE> tvee <C 14_MAN> mannen. <C 410_DAT> dat <C 214_ZIJN> siin. <C 20_REINGEER> rengher <C 24_JOHANNES> vannen <C 1_ZOON> sone. <C 20_REINGEER> rengher 
+<L 1526:9> <C 22_SIMON> monekins <C 1_ZOON> sone. <C 20_CHRISTIAAN> costin <C 22_WOLFHARD> wolfarts <C 1_ZOON> sone. <C 20_WOUTER> wouter <C 22_WADDIN> waddins <C 1_ZOON> sone. <C 0_SLABBAARD> slabbart 
+<L 1526:10> <C 24_HUGO> hughen <C 1_ZOON> sone. <C 800_EN> en<A >de</A> <C 20_PETRUS> peter <C 24_HUGO> hughen <C 1_ZOON> sone. <C 810_DAT> dat <C 411_DEZE> dese <C 214_ZULLEN> sullen <C 250_VERZIEN> versien <C 411_DEZE> dese <C 300_VIJF> viif 
+<L 1526:11> <C 11_ZESTENDEEL> sestendele <C 430_WELK> welc <C 474+810_DE/HET+DAT> datten <C 104_ZWAAR> svaersten <C 0_KOST> cost <C 203_HEBBEN> hevet <C 700_VAN> van <C 1_DIJK> dike. <C 800_EN> Ende <C 424_DIE> dien <C 406_ZIJ> sij 
+<L 1526:12> <C 204_VINDEN> vinden <C 503_MEEST> meest <C 100_BEZWAARD> besvaert <C 700_VAN> van <C 1_DIJK> dike. <C 414_DIE> dien <C 214_ZULLEN> sullen <C 406_ZIJ> sij <C 250_AFNEMEN> of+nemen <C 510_ALZO> also <C 321_VEEL> vele <C 2_DIJK> diics 
+<L 1526:13> <C 820_ALS> als <C 406_ZIJ> hem <C 213_DUNKEN> denket <C 101_REDELIJK> redenlike. <C 800_EN> ende <C 403+214_HET+ZULLEN> sullent <C 250_GEVEN> gheven <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 474_DE/HET> den 
+<L 1526:14> <C 104_MINST> minsten <C 0_KOST> cost <C 203_HEBBEN> hevet <C 700_IN> in <C 114_GELIJK> gheliken <C 14_DING> dinghen <C 700_NA> na <C 472_DE/HET> des <C 2_LAND> lants <C 1_OORBAAR> orbare, <C 700_BIJ> bi <C 454_HAAR> horen 
+<L 1526:15> <C 1_EED> eede <C 800_EN> ende <C 700+474_BIJ+DE/HET> biden <C 0_OVERMAN> over+man <C 421_DIE> die <C 404_WIJ> wi <C 610_DAARTOE> daer+toe <C 204_ZETTEN> setten. <C 221_ZIJN> ware <C 810_DAT> dat <C 406_ZIJ> sii <C 1_TWIST> tviste 
+<L 1526:16> <C 224_HEBBEN> hadden <C 700_ONDER> onder <C 466_HEN> hem <C 414_ZELF> seluen <C 810_DAT> dat <C 403_HIJ> hi <C 231_MOGEN> mochte <C 250_ZEGGEN> secghen <C 420_DAT> dat <C 403_HIJ> hem <C 100_GOED> goet <C 213_DUNKEN> denket 
+<L 1526:17> <C 700_NA> na <C 472_DE/HET> des <C 2_LAND> lants <C 1_OORBAAR> orbare. <C 500_VOORT> Voert <C 204_ZEGGEN> secghen <C 404_WIJ> wi. <C 440+540_MEN+ZO-WAAR> so+waerman <C 14_INSETE> inseten <C 203_LIGGEN> leghet <C 700_IN> in 
+<L 1526:18> <C 24_SCHOUWEN> scovden. <C 810_DAT> dat <C 470_HET> dat <C 101_GEMEEN> ghemene <C 0_LAND> lant <C 250_KOSTEN> costen <C 210_ZULLEN> sal <C 800_EN> ende <C 250_OPMAKEN> op+maken <C 700_TE> te <C 104_VOL> vollen <C 1_DIJK> dike. 
+<L 1526:19> <C 821_ALS> alse <C 472_DE/HET> des <C 2_LAND> lants <C 1_OORBAAR> orbare <C 210_ZIJN> es. <C 800_EN> ende <C 811_ALS> alse <C 471_DE> die <C 1_INSETE> insete <C 273_MAKEN> ghemaket <C 210_ZIJN> es. <C 550_ZO> so <C 214_ZULLEN> sullen <C 403+406_HIJ+ZIJ> siine 
+<L 1526:20> <C 250_HOUDEN> hovden <C 421_DIE> die <C 504_TEVOREN> ten+voren <C 414_DIE> dien <C 0_DIJK> diic <C 224_HEBBEN> hadden. <C 500_VOORT> voert <C 204_ZEGGEN> secghen <C 404_WIJ> wi. <C 841_ALS> alse <C 700+474_VAN+DE/HET> vanden 
+<L 1526:21> <C 1_GELD> ghelde <C 420_DAT> dat <C 404_WIJ> wi <C 700+474_IN+DE/HET> inden <C 1_DIJK> dike <C 214_HEBBEN> hebben <C 273_LEGGEN> gheleghet <C 700_IN> in <C 24_SCHOUWEN> scovden. <C 810_DAT> dat <C 471_DE> die <C 411_GENE> ghene 
+<L 1526:22> <C 421_DIE> die <C 454_HAAR> horen <C 0_DIJK> diic <C 560_NIET> niet <C 273_MAKEN> ghemaket <C 560_NE> en <C 214_HEBBEN> hebben <C 800_EN> ende <C 273_VERWAREN> verwaert. <C 510_ALZO> also <C 821_ALS> alse <C 403_HIJ> hi <C 501_LAATST> leste 
+<L 1526:23> <C 273_DELEN> ghedeelt <C 230_ZIJN> was <C 700_BIJ> bi <C 21_JOHANNES> janne <C 700+474_VAN+DE/HET> vanden <C 1_HOEK> hoeke <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 474_DE/HET> den <C 10_GEZWORENE> ghesvoren <C 421+600_DIE+ERTOE> diere+toe 
+<L 1526:24> <C 274_NEMEN> ghenomen <C 234_ZIJN> waren. <C 404_WIJ> ons <C 250_GELDEN> ghelden <C 214_ZULLEN> sullen <C 100_TWEESCHAT> tviscat <C 0_GELD> ghelt <C 700+474_VAN+DE/HET> vanden <C 1_GELD> ghelde <C 420_DAT> dat 
+<L 1526:25> <C 404+600_WIJ+ERIN> wiire+in <C 214_HEBBEN> hebben <C 260_DOEN> doen <C 250_LEGGEN> lecghen. <C 800_EN> Ende <C 421_DIE> die <C 454_HAAR> horen <C 0_DIJK> diic <C 273_VERWAREN> verwaert <C 214_HEBBEN> hebben. 
+<L 1526:26> <C 800_EN> ende <C 411_DEZE> dese <C 10_GEZWORENE> ghesvoren <C 421_DIE> die <C 500_NU> nv <C 204_ZIJN> siin <C 410_DAT> dat <C 204_KENNEN> kennen. <C 411_DIE> die <C 214_ZULLEN> sullen <C 100_KWIJT> quiit <C 260_BLIJVEN> bliuen <C 700_VAN> van 
+<L 1526:27> <C 414_DEZE> desen <C 1_GELD> ghelde. <C 500_VOORT> Voert <C 200_ZIJN> es <C 451_ONS> onse <C 0_ZEGGEN> secghen <C 810_DAT> dat <C 404_WIJ> wi <C 800_EN> ende <C 471_DE> die <C 411_GENE> ghene <C 421_DIE> die <C 700_NA> na <C 404_WIJ> ons 
+<L 1526:28> <C 204_KOMEN> comen. <C 421_DIE> die <C 14_GRAAF> graven <C 700_VAN> van <C 20_HOLLAND> hollant <C 214_ZULLEN> sullen <C 260_WEZEN> wesen. <C 500_ALTOOS> altoes <C 204_HEBBEN> hebben <C 471_DE> die <C 0_MACHT> macht <C 700_TE> te 
+<L 1526:29> <C 250_VERBETEREN> verbetren <C 472_DE/HET> des <C 102_VOORGENOEMD> vorghenomedes <C 2_LAND> lants <C 1_OORBAAR> orbare <C 700_VAN> van <C 24_SCHOUWEN> scovden <C 700_BIJ> bi <C 1_RAAD> rade <C 455_ONS> onser 
+<L 1526:30> <C 14_MAN> mannen. <C 800_EN> Ende <C 410_DIT> dit <C 1_VONNIS> vonnesse <C 230_ZIJN> was <C 273_WIJZEN> ghewiset <C 472_DE/HET> des <C 2_MAANDAG> manendaghes <C 700_VOOR> voer 
+<L 1526:31> <C 0_VASTENAVOND> vastelavont. <C 800_EN> ende <C 404_WIJ> wi <C 224_ZEGGEN> segheden <C 410_DIT> dit <C 0_ZEGGEN> secghen <C 610_DAARAF> daer+af <C 700_OP> op <C 414_DIE> dien <C 414_ZELF> seluen <C 0_DAG> dach. 
+<L 1526:32> <C 700_IN> Jn <C 452_ONS> ons <C 4_HEER> heren <C 1_JAAR> iare. <C 300_1290> ducent.+tvehondert.+ende+neghentich <C 1_JAAR> jare. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

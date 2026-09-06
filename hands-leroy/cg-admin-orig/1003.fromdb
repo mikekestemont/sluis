@@ -1,0 +1,63 @@
+<header>
+<docId>1003</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1528:21> <C 410_DIT> dit <C 200_ZIJN> es <C 700_VAN> van <C 21_EUSTACHIUS> stase <C 700_VAN> van <q> lede <C 700_VAN> van 
+<L 1528:22> <q> ghuldinmers.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1528:27> <C 404_WIJ> Wi <C 20_JOHANNES> Jhan <C 700_BIJ> bi <C 475_DE/HET> der <C 1_GRATIE> gratie <C 700_VAN> van <C 1_GOD> gode <C 0_ABT> abt <C 700_VAN> van <C 101_SINT> sente <C 22_PETRUS> pieters <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene 
+<L 1528:28> <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen. <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 801_OF> ofte <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat <C 404_WIJ> wi 
+<L 1528:29> <C 271_EISEN> hieskende <C 234_ZIJN> waren <C 700_OP> vp <C 0_TIJD> tiid <C 421_DIE> die <C 274_LIJDEN> leden <C 210_ZIJN> es; <C 475_DE/HET> Der <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 1_CONVENT> Couente <C 700_VAN> van 
+<L 1528:30> <C 101_SINT> sente <C 24_CLARA> Claren <C 700_IN> in <C 20_GOUDEN-MEERS> guldemersch <C 700_BIJ> bi <C 20_GENT> Ghent <C 1_TIEND> tiende <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 104_VOORZEID> vorseiden 
+<L 1528:31> <C 21_GOUDEN-MEERS> guldemersche <C 620*_DAAR-> dar <C 471_DE> de <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 0_CONVENT> couent <C 454_HAAR> haren <C 0_KLOOSTER> cloester <C 620#_-OP> vp 
+<L 1528:32> <C 273_STICHTEN> ghesticht <C 214_HEBBEN> hebben. <C 700_VAN> van <C 474_DE/HET> den <C 421_WELK> welke <C 1_EIS> iesche <C 800_EN> en<A >de</A> <C 700_VAN> van <C 474_DE/HET> den <C 425_WELK> welker <C 1_TIEND> tiende <C 471_DE> de 
+<L 1528:33> <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 0+470_CONVENT+HET> tcouent <C 454_HAAR> haren <C 0_PAIS> paies <C 500_WEL> wel <C 700_JEGEN> ieghen <C 404_WIJ> ons <C 273_MAKEN> ghemaect 
+<L 1528:34> <C 214_HEBBEN> hebben. <C 800_EN> en<A >de</A> <C 700+451_TE+ONS> thonse <C 1_WIL> wille <C 620_WAARBIJ> warbi <C 810_DAT> dat <C 404_WIJ> wi <C 214_HEBBEN> hebbe<A >n</A> <C 101_KWIJT> quite <C 274_SCHELDEN> ghescouden <C 474_DE/HET> den 
+<L 1528:35> <C 104_VOORZEID> vorseiden <C 0_EIS> heisch <C 800_EN> en<A >de</A> <C 471_DE> de <C 101_VOORZEID> vorseide <C 1_TIEND> tiende. <C 800_EN> en<A >de</A> <C 320_AL> al <C 470_HET> dat <C 0_RECHT> recht <C 420_DAT> dat <C 404_WIJ> wi <C 204_HEBBEN> hebben 
+<L 1528:36> <C 700_AAN> an <C 471_DE> de <C 101_VOORZEID> vorseide <C 20_GOUDEN-MEERS> guldemersch <C 801_OF> ofte <C 250_HEBBEN> hebben <C 234_MOGEN> mochten. <C 410_DAT> Dat <C 200_ZIJN> es <C 700_TE> te <C 251_VERSTAAN> verstane <C 320_AL> al 
+<L 1528:37> <C 470_HET> dat <C 0_RECHT> recht <C 420_DAT> dat <C 404_WIJ> wi <C 700_AAN> an <C 471_DE> de <C 101_VOORZEID> vorseide <C 20_GOUDEN-MEERS> guldemersch <C 204_HEBBEN> hebben <C 701_TOT> tote <C 309_7> .vij. <C 14_GEMET> ghemeten 
+<L 1528:38> <C 100_GROOT> groet. <C 500_LUTTEL> lettel <C 320_MIN> min <C 801_OF> ofte <C 500_LUTTEL> lettel <C 325_MEER> meer, <C 800_ZONDER> sonder <C 0_STREEPJE> strepkin <C 420_DAT> dat <C 21_ADELHEID> alise <C 22_IJSENBAART-X> ysembarts 
+<L 1528:39> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 451_HAAR> hare <C 1_GEDEEL> ghedeele. <C 800_EN> En<A >de</A> <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_PAIS> paise <C 213_HEBBEN> heeft 
+<L 1528:40> <C 471_DE> de <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 0_CONVENT> couent <C 404_WIJ> ons <C 320_GENOEG> ghenoech <C 274_DOEN> ghedaen <C 800_EN> en<A >de</A> <C 454_ONS> onsen 
+<L 1528:41> <C 104_GOED> goeden <C 0_MOED> moet. <C 700_OVER> Ouer <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_DING> dinghe <C 224_ZIJN> waren <C 861_ALS> alse <C 1_OORKONDE> orconde. <C 20_IWEIN> ywain 
+<L 1528:42> <C 0_STULLAARD> stullart <C 0_BALJUW> bailliu <C 700_VAN> van <C 20_GENT> ghent <C 800_EN> en<A >de</A> <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande <C 700_VAN> van <C 20_AALST> alst. <C 20_ARNOUT> arnout <C 20_BRANTIJN-X> brantin. 
+<L 1528:43> <C 800_EN> En<A >de</A> <C 20_AEGIDIUS> Gillis <C 1_PAAP> pape <C 0_KOSTER> coster <C 700_VAN> van <C 21_VOORDE> voerde. <C 800_EN> En<A >de</A> <C 500_VOORT> vort <C 700_OVER> ouer <C 411_DEZE> dese <C 111_VOORZEID> vorseide 
+<L 1528:44> <C 14_DING> dinghen <C 224_ZIJN> waren <C 861_ALS> alse <C 451_ONS> onse <C 14_MAN> mannen. <C 20_GERARD> Ghierart <C 700_VAN> van <C 474_DE/HET> den <C 1_WAL> walle. <C 20_EUSTACHIUS> Eustaes <C 700_VAN> van 
+<L 1528:45> <C 4_LEDE> leden <C 800_EN> en<A >de</A> <C 20_DIEDERIK> diederic <C 471_DE> de <C 1_SCHOTELAAR> scotelere. <C 800_EN> En<A >de</A> <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 20_GERARD> ghierart <C 700_VAN> van <C 474_DE/HET> de<A >n</A> 
+<L 1528:46> <C 1_WAL> walle <C 800_EN> en<A >de</A> <C 20_DIEDERIK> diederic <C 471_DE> de <C 1_SCHOTELAAR> scotelere <C 214_HEBBEN> hebben <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 14_DING> dinghen <C 500_WEL> wel 
+<L 1529:1> <C 800_EN> en<A >de</A> <C 501_WETTELIJK> wettelike <C 100_KENLIJK> kenlic <C 273_MAKEN> ghemaect. <C 21_ROEL> Roeline <C 1_ZICHTBOOM> zichteboeme. <C 21_HENDRIK> heinrike <C 474_DE/HET> den 
+<L 1529:2> <C 1_MOUTENAAR> moutenere. <C 21_GIJSBERT> Ghiselbrechte <C 0+472_HEER+DE> ser <C 22_FOLKERT> volkers <C 1_ZOON> sone <C 0_VROUW> ver <C 24_MARIA> marien <C 1_ZOON> soene. <C 21_BOUDEWIJN> boudwine 
+<L 1529:3> <C 22_ARNOUT> arnouts <C 1_ZOON> soene. <C 800_EN> en<A >de</A> <C 21_MARTIN> Martine <C 474_DE/HET> den <C 1_DROSSAAT> drussate. <C 861_ALS> alse <C 454_HAAR> hare<A >n</A> <C 14_HUISGENOOT> hus+ghenoete<A >n</A> <C 421_DIE> die 
+<L 1529:4> <C 500_OOK> oec <C 451_ONS> onse <C 10_MAN> man <C 214_ZIJN> sin. <C 810_OMDAT> Om+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 14_DING> dinghen <C 500_WEL> wel 
+<L 1529:5> <C 800_EN> en<A >de</A> <C 501_WETTELIJK> wettelike <C 271_STAAN> staende <C 214_BLIJVEN> bliuen <C 700_ZONDER> sonder <C 1_CALANGE> calanghe <C 501_EEUWELIJK> ewelike <C 700_VAN> van <C 404_WIJ> ons <C 800_EN> en<A >de</A> 
+<L 1529:6> <C 700_VAN> van <C 414_DIE> dien <C 700_NA> na <C 404_WIJ> ons <C 250_KOMEN> comen <C 214_ZULLEN> sullen. <C 550_ZO> so <C 204_BIDDEN> bidden <C 404_WIJ> wi <C 474_DE/HET> den <C 114_VOORZEID> vorseiden <C 204_OORKONDEN> orconden <C 800_EN> en<A >de</A> 
+<L 1529:7> <C 474_DE/HET> den <C 111_VOORZEID> vorseide <C 14_MAN> mannen <C 421_DIE> die <C 14_ZEGEL> seghelen <C 204_HEBBEN> hebben <C 810_DAT> dat <C 403+406_HET+ZIJ> siit <C 321_AL> alle <C 204_ZEGELEN> seghelen. <C 800_EN> En<A >de</A> 
+<L 1529:8> <C 404_WIJ> wi <C 20_IWEIN> ywain <C 0_STULLAARD> stullart <C 100_VOORGEZEID> vorgheseit <C 800_EN> en<A >de</A> <C 20_ARNOUT> arnout <C 20_BRANTIJN-X> brantin <C 800_EN> en<A >de</A> <C 20_AEGIDIUS> Gillis <C 1_PAAP> pape <C 0_KOSTER> coster 
+<L 1529:9> <C 700_VAN> van <C 21_VOORDE> voerde <C 810_OMDAT> om+dat <C 404_WIJ> ons <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_DING> dinghe <C 500_WEL> wel <C 100_KENLIJK> kenlec <C 214_ZIJN> sin <C 550_ZO> so 
+<L 1529:10> <C 404+210_WIJ+HEBBEN> hebwi <C 610_HIERAAN> hier+an <C 451_ONS> onse <C 114_PROPER> propre<A >n</A> <C 14_ZEGEL> seghelen <C 274_HANGEN> ghehanghen. <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 20_GERARD> Gherart <C 700_VAN> van 
+<L 1529:11> <C 474_DE/HET> den <C 1_WAL> walle <C 100_VOORGEZEID> vore+gheseit. <C 20_EUSTACHIUS> Eustaes <C 700_VAN> van <C 4_LEDE> leden <C 20_DIEDERIK> diederic <C 471_DE> de <C 1_SCHOTELAAR> scotelere. <C 20_ROEL> Roelin 
+<L 1529:12> <C 0_ZICHTBOOM> zichtboem. <C 20_HENDRIK> heinric <C 471_DE> de <C 1_MOUTENAAR> moutenere. <C 20_GIJSBERT> Ghiselbrecht <C 0+472_HEER+DE> ser <C 22_FOLKERT> volkers <C 1_ZOON> soene <C 0_VROUW> ver 
+<L 1529:13> <C 24_MARIA> marien <C 1_ZOON> soene. <C 20_BOUDEWIJN> Boudwin <C 22_ARNOUT> arnouts <C 1_ZOON> soene <C 800_EN> en<A >de</A> <C 20_MARTIN> martin <C 471_DE> de <C 1_DROSSAAT> drussate. <C 810_OMDAT> om+dat 
+<L 1529:14> <C 404_WIJ> ons <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_DING> dinghe <C 500_WEL> wel <C 100_KENLIJK> kenlec <C 214_ZIJN> sin <C 550_ZO> so <C 600*+210+404_ER-+HEBBEN+WIJ> hebwire <C 451_ONS> onse <C 14_ZEGEL> seghelen 
+<L 1529:15> <C 600#_-AAN> an <C 274_HANGEN> ghehanghen <C 700_IN> in <C 0_OORKONDSCHAP> orconscep <C 475_DE/HET> der <C 1_WAARHEID> waride. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons 
+<L 1529:16> <C 1_HEER> here <C 300_1290> .m'ho.cc'ho.+negentech. <C 472+2_DE+DINSDAG> sdisendags <C 700_NA> na <C 100_SINT> sent <C 22_GREGORIUS> Gregoris <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

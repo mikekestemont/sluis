@@ -1,0 +1,42 @@
+<header>
+<docId>0214</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 383:33> <C 700_TE> te <C 21_DRONGEN> dronghene <C 700_VAN> van <C 309_4> .iiii. <C 11_GEMET> ghemete <C 1_MEERS> mersche <C 410_DIT> dit <C 203+440_HOUDEN+MEN> houdmen <C 700_VAN> van <C 1_HEER> heere <C 700_VAN> van 
+<L 383:34> <C 20_LUXEMBURG?> luce<A >n</A>borch. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1277' jaar_van='1273' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 383:43> <q> . <C 1_JONKVROUW> Jonurouwe <C 21_ELISABETH> lizebette <C 0+472_HEER+DE> seer <C 2_ABRAHAM> braems <C 471_DE> de <C 101_GROOT> grote <C 1_MEESTEREGGE> meesterigghe <C 700_VAN> van <C 474_DE/HET> den 
+<L 383:44> <C 11_BEGIJN> beghine <C 700_VAN> van <C 101_SINT> zente <C 24_ELISABETH> lizebetten <C 700_VAN> van <C 20_GENT> ghent <C 213_HEBBEN> heeft <C 273_KOPEN> ghecocht <C 704_JEGEN> ieghen <C 20_WILHELM> willem 
+<L 383:45> <C 0+472_HEER+DE> seer <C 20_GIJSBERT> ghiselbrecht <C 1_ZOON> sone <C 700_VAN> van <C 475_DE/HET> der <C 0_VENT> vent <C 800_EN> en<A >de</A> <C 704_JEGEN> ieghen <C 450_ZIJN> sijn <C 0_WIJF> wijf. <C 480_EEN> een <C 0_STUK> stic 
+<L 383:46> <C 0_MEERS> meersch <C 420_DAT> dat <C 203_LIGGEN> leghet <C 700_IN> in <C 20_ELSMEERS> elsmersch. <C 410_DAT> dat <C 203_KENNEN> kent <C 20_JOHANNES> ian <C 471_DE> de <C 1_SCHOUTHEET> scoutete. <C 410_DAT> dat <C 204_KENNEN> kennen 
+<L 384:1> <C 14_SCHEPEN> scepenen. <C 20_DANIEL> daneel <C 700_VAN> van <C 20_OTEGEM> oeteghem. <C 20_JOHANNES> ian <C 700_VAN> van <C 20_NOORDHOUT> noertout. <C 800_EN> en<A >de</A> <C 20_JOHANNES> ian <C 471_DE> de <C 101_BRUIN> brune. 
+<L 384:2> <C 800_EN> en<A >de</A> <C 20_JOHANNES> ian <C 700_VAN> van <C 475_DE/HET> der <C 1_WOESTIJN> wostine. <C 20_SIMON> simoen <C 700+475_UIT+DE> vter <C 20_HASSELT> asselt. <C 20_GERLOF> gheerolf <C 700_VAN> van <C 474_DE/HET> den <C 1_ELSHOUT> elshaute. 
+<L 384:3> <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 411_ZELF> selue <C 0_STUK> stic <C 2_MEERS> meersch <C 410_DAT> dat <C 201_HOUDEN> haude <C 440_MEN> men <C 700_VAN> van <C 474_DE/HET> den <C 1_HEER> heere <C 700_VAN> van 
+<L 384:4> <C 20_LUXEMBURG?> lucenborch. <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 411_ZELF> selue <C 0_STUK> stic <C 2_MEERS> meersch <C 213_HEBBEN> heeft <C 273_HUREN> gheuret <C 20_WOUTER> wauter <C 0_PIJPAARD> pipaert. 
+<L 384:5> <C 701_OM> omme <C 309_4> .iiii. <C 19_LIBRA> lib. <C 472+2_HET+JAAR> tsaers <C 701_TOT> tote <C 309_12> .xii. <C 14_JAAR> iaren. <C 610_DAARBIJ> dar+bi <C 210_ZULLEN> sal <C 471_DE> die <C 20_WOUTER> wauter <C 0_PIJPAARD> pipaert <C 320_AL> al <C 471_DE> die 
+<L 384:6> <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 320_AL> al <C 414_DIE> dien <C 0_KOST> cost <C 250_GELDEN> ghelden <C 421_DIE> die <C 701_UIT> vte <C 415_DIE> dier <C 0_MEERS> mersch <C 203_GAAN> ghaet <C 704_BINNEN> binnen <C 414_DIE> dien <C 309_12> .xij. 
+<L 384:7> <C 14_JAAR> iaren. <C 210+412_ZIJN+DAT> dies <C 1_BORG> boerghe. <C 20_HENDRIK> henric <C 700_VAN> van <C 21_OOSTGAVER> oest+gauere <C 0+472_HEER+DE> seer <C 22_JOHANNES> ians <C 1_ZOON> sone. <C 800_EN> en<A >de</A> <C 20_WILHELM> willem 
+<L 384:8> <C 0_BISSCHOP> bisscop.. <C 410_DAT> dat <C 204_KENNEN> kennen <C 14_SCHEPEN> scepennen <C 700_VAN> van <C 21_DRONGEN> drongine <C 421_DIE> die <C 401_IK> ic <C 614_HIERVOREN> ier+voeren <C 273_NOEMEN> ghe+noemt 
+<L 384:9> <C 214_HEBBEN> ebben 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1277' jaar_van='1273' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

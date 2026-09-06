@@ -1,0 +1,35 @@
+<header>
+<docId>1425</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2187:9> <C 700_VAN> van <C 474_DE/HET> den <q> p<A >er</A>sonate <C 700_VAN> van <q> wesele <C 800_EN> ende <C 700_VAN> van <C 475_DE/HET> d<A >er</A> <q> tienden.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2187:10> <C 1_LETTER> l<A >ett</A>re <C 474+700_DE/HET+VAN> vanden <q> p<A >er</A>sonate <C 800_EN> en<A >de</A> <C 700+475_VAN+DE> vander <q> tienden <C 700_VAN> van <q> wesele. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<L 2187:12> <C 700_VAN> van 
+<L 2187:13> <C 474_DE/HET> den <q> p<A >er</A>sonate <C 700_VAN> van <C 475_DE/HET> d<A >er</A> <q> tienden <C 700_VAN> va<A >n</A> <q> wesele <C 800_EN> ende <C 700_VAN> van <C 475_DE/HET> der <C 101_NIEUW> nuw<A >er</A>e <q> tienden.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<L 2187:14> <C 4_LETTER> l<A >ett</A>ren <C 700+474_VAN+DE/HET> vanden <q> p<A >er</A>sonate <C 800_EN> en<A >de</A> <C 700+474_VAN+DE/HET> vanden <q> eind-n <q> uit <q> r 
+<L 2187:15> <q> tienden <C 700_VAN> van <q> wesele. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='7' plaats_2='' regio_1='6' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

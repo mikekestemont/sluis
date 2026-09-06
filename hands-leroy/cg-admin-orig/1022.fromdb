@@ -1,0 +1,47 @@
+<header>
+<docId>1022</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='86' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1553:18> <q> de <q> thelonio <q> in <C 20_ASSELT> assel <q> de <q> legatione <q> domini <q> de 
+<L 1553:19> <C 20_KRANENDONK> crane<A >n</A>donc. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1553:22> <C 410_DAT> Dat <C 210_ZIJN> si <C 100_KOND> cont <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <VN type=1> <C 214_ZULLEN> selen <C 250_ZIEN> sien <C 800_EN> en<A >de</A> <C 250_HOREN> horen <C 810_DAT> dat 
+<L 1553:23> <C 29_CATHARINA> katerina <VN type=1> <C 471_DE> de <C 1_VROUW> vrowe <C 700_VAN> van <C 20_KRANENDONK> cranendonc <C 203_GEVEN> gheeft <C 800_EN> en<A >de</A> <C 250_GEVEN> gheuen <C 210_ZULLEN> sal <C 810_DE-WIJL-DAT> die+wile+dat 
+<L 1553:24> <C 403_ZIJ> si <C 203_LEVEN> leeft <C 300_DRIE> drie <C 10_POND> pont <C 111_LEUVENS> loue<A >n</A>sche <C 115_KLEIN> cleiner <C 11_PENNING> pennicge <C 474_DE/HET> den <C 14_JONKVROUW> joncvrowe<A >n</A> <C 474_DE/HET> den 
+<L 1553:25> <C 14_NON> nonne<A >n</A> <C 700_TE> te <C 20_KEIZERBOS> keiserbosch <C 300_30> dertech <C 11_SCHELLING> schillinge <C 700_VAN> van <C 452_MIJN> mijns <C 4_HEER> heren <C 1_JAARGETIJDE> jaerghetide 
+<L 1553:26> <C 452_MIJN> mijns <C 4_HEER> haren <C 22_ENGELBERT> Enghelbrerchs <VN type=1> <C 700_VAN> van <C 20_KRANENDONK> crane<A >n</A>donc. <C 800_EN> En<A >de</A> <C 700_VAN> van <C 452_MIJN> mijns <C 4_HEER> here<A >n</A> 
+<L 1553:27> <C 452_MIJN> mijns <C 4_HEER> haren <C 22_WILHELM> willems <C 700_VAN> va<A >n</A> <C 20_KRANENDONK> cranendonc. <C 300_30> dertech <C 11_SCHELLING> schillinge <C 501_ERFELIJK> erfleke 
+<L 1553:28> <C 24+700_ZWALMEN+TE> teswalme<A >n</A> <C 251+700_ONTVANGEN+TE> tontvane. <C 800_EN> En<A >de</A> <C 320_AL> al <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 470_HET> dat <C 0_GOED> goet <C 700_NA> na <C 475_DE/HET> der <C 4_VROUW> vrowe<A >n</A> <C 700_VAN> van 
+<L 1553:29> <C 20_KRANENDONK> cranendonc <C 204_HEBBEN> hebben <C 800_EN> en<A >de</A> <C 250_HOUDEN> houden <C 214_ZULLEN> selen <C 406_ZIJ> si <C 403+214_HET+ZULLEN> solent <C 500_OOK> oec <C 250_GEVEN> gheue<A >n</A> <C 510_ALZO> alsoe <C 820+403_ALS+HET> alst 
+<L 1553:30> <C 450_MIJN> mijn <C 1_HEER> here <C 450_MIJN> mijn <C 1_HEER> hare <C 20_WILHELM> willem <C 220_GEVEN> gaf <C 701_VOOR> vore <C 454_MIJN> minen <C 1_HEER> here <C 450_MIJN> mijn <C 4_HEER> hare<A >n</A> 
+<L 1553:31> <C 21_ENGELBERT> Enghelbrechte <C 454_ZIJN> sine<A >n</A> <C 0_VADER> vader <C 300_30> dertech <C 11_SCHELLING> schillinghe <C 111_LEUVENS> loue<A >n</A>sche. <C 800_EN> En<A >de</A> <C 0_VROUW> ver 
+<L 1553:32> <C 29_CATHARINA> katerina <C 471_DE> de <C 1_VROUW> vrowe <C 700_VAN> van <C 20_KRANENDONK> crane<A >n</A>donc <VN type=1> <C 213_HEBBEN> heeft <C 274_GEVEN> gegheuen <C 701_VOOR> vore <C 406_ZIJ> hen <C 304_BEIDE> beiden. 
+<L 1553:33> <C 410_DIT> Dit <C 0_GELD> gelt <VN type=1> <C 203_GEVEN> gheeft <C 440_MEN> men <C 474_DE/HET> den <C 14_JONKVROUW> Joncvrowe<A >n</A> <C 700_ONDER> onder <C 466_ZIJ> hen <C 501_GEMEENLIJK> gemeinlike <C 700_TE> te <C 4_PITANTIE> pitantie<A >n</A> <VN type=1> 
+<L 1553:34> <C 700_TE> te <C 104_HALF> halue<A >n</A> <C 21_MEI> meie <C 700_OP> op <C 101_SINT> sente <C 22_SERVATIUS> seruaes <C 0_DAG> dach. <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 214_MOGEN> moghen <C 471_DE> de <C 14_ERFGENOOT> erfgenoten 
+<L 1553:35> <C 250_KWIJTEN> quiten <C 811_ALS> alse <C 406_ZIJ> si <C 204_WILLEN> willen <C 800_EN> en<A >de</A> <C 0_LANDRECHT> lant+recht <C 210_ZIJN> es. <C 411_DEZE> Dese <C 0_BRIEF> brief <C 230_WORDEN> wart <C 274_GEVEN> gegheuen <C 700_IN> i<A >n</A> <C 0_JAAR> jaer 
+<L 1553:36> <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 300_1000-290> .m'ho.+cc'ho.+Ende+neghentech. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 1553:54> <C 20_KRANENDONK> crane<A >n</A>ne<A >n</A>donc 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='86' plaats_2='' regio_1='12' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

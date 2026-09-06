@@ -1,0 +1,69 @@
+<header>
+<docId>0587</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='142' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 986:39> <q> De <q> concambio <q> agri 
+<L 986:40> <q> jn <q> samslat.- <C 411_DEZE> dese <C 1_LETTER> lett<A >er</A>e <C 203_HOUDEN> hout <C 810_DAT> dat <C 404_WIJ> wi <q> ghecreghen <q> ieghen <q> zegh<A >er</A>en 
+<L 986:41> <C 0+472_HEER+DE> ser <q> zeghers <C 1_ZOON> zone <C 230_ZIJN> was <C 700_VAN> van <q> ghent <q> onder <C 700_IN> in <q> wissele <C 800_EN> en<A >de</A> <C 700_IN> in <C 1_KOOP> coepe <q> .xij. 
+<L 986:42> <C 11_GEMET> ghemete <C 800_EN> en<A >de</A> <q> lxxv <C 14_ROEDE> roeden <C 2_LAND> lands. <q> datum <q> anno <q> domini <q> m'ho. <q> cc'ho. <q> lxxxiiij'ho. 
+<L 986:43> <q> sexta <q> post <q> valentini. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 987:1> <C 403_HET> Het <C 211_WEZEN> wese <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> horen 
+<L 987:2> <C 810_DAT> dat <C 401_IK> jc <C 0_BROEDER> broeder <C 20_HENDRIK> heinric <C 1_COMMANDEER> comendere <C 700_VAN> van <C 474_DE/HET> den <C 104+0_DUITS+HUIS> dietschenhuus <C 700_VAN> van 
+<L 987:3> <C 21_MECHELEN> machgheline <C 211_HEBBEN> hebbe <C 273_BEWIJZEN> bewijst <C 24_SIEGER> segheren <C 452+0_MIJN+HEER> mijns+ser <C 22_SIEGER> seghers <C 1_ZOON> sone <C 700_VAN> van <C 20_GENT> ghent <C 309_11> .xi. 
+<L 987:4> <C 11_GEMET> ghemete <C 2_LAND> lands <C 800_EN> ende <C 309_90> .xc. <C 14_ROEDE> roeden <C 700_IN> in <C 4_WISSELING> wisselinghen <C 501_EEUWELIJK> euwelike <C 700+251_TE+HEBBEN> tehebbene 
+<L 987:5> <C 800_EN> ende <C 251+700_BEZITTEN+TE> tebesittene. <C 700_VAN> Van <C 414_DEZE> desen <C 309_11> .xi. <C 11_GEMET> ghemete <C 2_LAND> lands. <C 800_EN> ende <C 309_90> .xc. <C 14_ROEDE> roeden <C 550_ZO> soe <C 213_HEBBEN> heft 
+<L 987:6> <C 273_BEWIJZEN> bewijst <C 0_BROEDER> broeder <C 20_HENDRIK> heinric <C 471_DE> die <C 101_VOORZEID> vorseide <C 24_SIEGER> segheren <C 414_DIE> dien <C 114_VOORZEID> vorseiden <C 309_7> .vii. <C 11_GEMET> ghemete 
+<L 987:7> <C 2_LAND> lands. <C 800_EN> ende <C 309_50> .l. <C 14_ROEDE> roeden <C 271_LIGGEN> lichghende <C 700_BEWESTHALF> bewesthalf <C 22_SIEGER> seghers <C 1_HUIS> huse <C 700_OP> vp <C 1_HAREBORTSE> harebortse. 
+<L 987:8> <C 800_EN> ende <C 700_BOVEN> bouen <C 414_DEZE> desen <C 309_7> .vii. <C 11_GEMET> ghemete <C 2_LAND> lands <C 800_EN> ende <C 309_50> .l. <C 14_ROEDE> roeden <C 421_DIE> die <C 510_HIER> hier <C 214_ZIJN> sijn 
+<L 987:9> <C 273_VOORZEGGEN> vorseit. <C 550_ZO> soe <C 203_BEWIJZEN> bewijst <C 0_BROEDER> broeder <C 20_HENDRIK> heinric <C 24_SIEGER> segheren <C 700_VAN> van <C 20_GENT> ghent <C 309_4> .iiii. <C 11_GEMET> ghemete 
+<L 987:10> <C 2_LAND> lands <C 800_EN> ende <C 309_40> .xl. <C 14_ROEDE> roeden <C 271_LIGGEN> lichghende <C 500_OOSTWAART> oestward <C 700_VAN> van <C 22_SIEGER> seghers <C 4_WONING> woninghen <C 700_OP> vp 
+<L 987:11> <C 1_HAREBORTSE> harebortse <C 800_EN> ende <C 700_BIJ> bi <C 22_SIEGER> seghers <C 4_WONING> woninghen. <C 800_EN> Ende <C 411_DEZE> dese <C 411_ZELF> selue <C 101_VOORZEID> vorseide 
+<L 987:12> <C 21_SIEGER> seghere <C 411_DIE> die <C 213_HEBBEN> heft <C 273_BEWIJZEN> bewijst <C 0_BROEDER> broeder <C 21_HENDRIK> heinrike <C 414_DEZE> desen <C 104_VOORZEID> uorseiden <C 700_OVER> ouer <C 414_DEZE> desen 
+<L 987:13> <C 0_WISSEL> wissel <C 309_11> .xi. <C 11_GEMET> ghemete <C 2_LAND> lands. <C 800_EN> ende <C 309_90> .xc. <C 14_ROEDE> roeden. <C 800_EN> ende <C 309_3> .iii. <C 10_VIERENDEEL> virrendeel. <C 800_EN> ende 
+<L 987:14> <C 411_DEZE> dese <C 111_VOORNOEMD> vernoemde <C 309_3> .iii. <C 10_VIERENDEEL> virrendeel <C 550_ZO> soe <C 203_GEVEN> gheft <C 21_SIEGER> seghere <C 0_BROEDER> broeder <C 21_HENDRIK> heinrike <C 840_ALS> als <C 700_IN> in 
+<L 987:15> <C 4_BAAT> baten <C 700_VAN> van <C 415_DEZE> deser <C 4_WISSELING> wisselinghen. <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 420_DAT> dat <C 21_SIEGER> seghere 
+<L 987:16> <C 213_HEBBEN> heft <C 273_BEWIJZEN> bewijst <C 0_BROEDER> broeder <C 21_HENDRIK> heinrike <C 550_ZO> soe <C 204_LIGGEN> lichghen <C 309_6> .vi. <C 11_GEMET> ghemete <C 2_LAND> lands. <C 800_EN> ende <C 309_65> .lxv. 
+<L 987:17> <C 14_ROEDE> roeden <C 700_OVER> ouer <C 471_DE> de <C 1_STRAAT> strate <C 700+1+471_AAN+ZUIDZIJDE+DE> andesuutside <C 700_BIJ> bi <C 22_SIEGER> seghers <C 1_DAM> damme <C 700+475_AAN+DE/HET> ander <C 10_BROEDER> broeder <C 0_LAND> land 
+<L 987:18> <C 700_VAN> van <C 474_DE/HET> den <C 0+104_HUIS+DUITS> dietschenhuus. <C 800_EN> Ende <C 610_HIERBOVEN> hier+bouen <C 203_BEWIJZEN> bewijst <C 21_SIEGER> seghere <C 0_BROEDER> broeder 
+<L 987:19> <C 21_HENDRIK> heinrike <C 309_6> .vi. <C 11_GEMET> ghemete <C 2_LAND> lands <C 309_50> .l. <C 14_ROEDE> roeden <C 320_MIN> min <C 271_LIGGEN> lichghende <C 700_IN> in <C 101_GROOT> grote <C 20_KOPPIK?> coppic <C 700_VAN> van 
+<L 987:20> <C 475_DE/HET> der <C 4_STRAAT> straten <C 500_OOSTWAART> oestward <C 700_BIJ> bi <C 20_WOUTER> wouter <C 2_SCHOL-X> scols. <C 800_EN> Ende <C 610_HIERBOVEN> hier+bouen <C 213_HEBBEN> heft <C 21_SIEGER> seghere 
+<L 987:21> <C 273_VERKOPEN> vercocht <C 800_EN> ende <C 274_GEVEN> ghegheuen <C 800_EN> ende <C 273_GELOVEN> gheloeft <C 700_TE> te <C 251_WAREN> warne <C 309_60> .lx <C 14_ROEDE> roeden <C 2_LAND> lands 
+<L 987:22> <C 701_OM> omme <C 309_25> .xxv. <C 11_SCHELLING> scale <C 110_VLAAMS> vlaemsch <C 414_DEZE> desen <C 104_VOORZEID> uorseiden <C 0_BROEDER> broeder <C 21_HENDRIK> heinrike. <C 800_EN> ende <C 411_DEZE> dese 
+<L 987:23> <C 309_60> .lx. <C 14_ROEDE> roeden <C 2_LAND> lands <C 110_GEKOCHT> ghecocht. <C 204_LIGGEN> lichghen <C 700_AAN> an <C 470_HET> dat <C 101_VOORZEID> uorseide <C 0_LAND> land <C 700_IN> in <C 101_GROOT> grote 
+<L 987:24> <C 20_KOPPIK?> coppic. <C 800_EN> Ende <C 411_DEZE> dese <C 101_VOORZEID> uorseide <C 0_BROEDER> broeder <C 20_HENDRIK> heinric <C 213_HEBBEN> heft <C 273_GELOVEN> gheloeft <C 700_VAN> van <C 453+4_ZIJN+HALF> sinen+thalfen 
+<L 987:25> <C 800_EN> ende <C 700_VAN> van <C 475_DE/HET> der <C 12_BROEDER> broeders <C 4_HALF> haluen <C 700_VAN> van <C 474_DE/HET> den <C 0+104_HUIS+DUITS> dietschenhuus <C 700_BIJ> bi <C 455_ZIJN> sire 
+<L 987:26> <C 4_TROUW> trouwen <C 414_DEZE> desen <C 0_WISSEL> wissel <C 700_VAN> van <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 700+251_TE+HOUDEN> tehoudene <C 101_GESTADE> ghestade 
+<L 987:27> <C 800_EN> ende <C 100_VAST> vast <C 501_EEUWELIJK> euwelike. <C 800_EN> Ende <C 411_DEZE> dese <C 101_VOORZEID> uorseide <C 21_SIEGER> seghere <C 213_HEBBEN> heft <C 273_GELOVEN> gheloeft <C 700_BIJ> bi <C 455_ZIJN> sire 
+<L 987:28> <C 4_TROUW> trouwen <C 414_DEZE> desen <C 104_VOORZEID> uorseiden <C 0_WISSEL> wissel <C 700_TE> te <C 251_HOUDEN> houdene <C 101_GESTADE> ghestade <C 800_EN> ende <C 100_VAST> vast <C 501_EEUWELIJK> euwelike 
+<L 987:29> <C 0_BROEDER> broeder <C 21_HENDRIK> heinrike <C 800_EN> ende <C 474_DE/HET> den <C 14_BROEDER> broederen <C 700_VAN> van <C 474_DE/HET> den <C 0+104_HUIS+DUITS> dietschenhuus. <C 471_DE> De 
+<L 987:30> <C 14_OORKONDE> orconden <C 700_VAN> van <C 414_DEZE> desen <C 1_WISSEL> wisselle <C 214_ZIJN> sien. <C 0+470_HEER+DE> Der <C 20_JOHANNES> jan <C 700_VAN> van <C 4_MOUDE> mouden <C 1_PAAP> pape <C 700_VAN> van 
+<L 987:31> <C 20_ZAAMSLAG> zaemslacht. <C 0_MEESTER> Meester <C 20_WILHELM> willem <C 700_VAN> van <C 20_ZAAMSLAG> zaemslacht. <C 21_SIEGER> seghere <C 700_VAN> van <C 4_MARE> maren. <C 20_JOHANNES> jan 
+<L 987:32> <C 22_WOUBERT> woubrechts <C 1_ZOON> sone. <C 20_WOUTER> wouter <C 471_DE> de <C 1_BLAAK> blake. <C 20_DIEDERIK> diederic <C 1_FALK> valke. <C 20_PETRUS> pieter <C 22_FILIPPUS> lippins <C 1_ZOON> sone. 
+<L 987:33> <C 20_DIEDERIK> dirkijn <C 700_VAN> van <C 1_HAREBORTSE> harebortse. <C 20_JOHANNES> jan <C 700_VAN> van <C 474_DE/HET> den <C 1_ZAK> sacke. <C 800_EN> ende <C 21_HUGO> hughe <C 1+471_MOLENAAR+DE> demoelnare. <C 700_OM> om 
+<L 987:34> <C 411_DEZE> dese <VN type=1> <C 14_STUK> sticken <C 100_GOED> goet <VN type=1> <C 800_EN> ende <C 100_VAST> vast <C 700_TE> te <C 251_HOUDEN> houdene <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 401_IK> ic <C 21_SIEGER> seghere <C 700_VAN> van 
+<L 987:35> <C 20_GENT> ghent <C 454_MIJN> minen <C 0_ZEGEL> seghel <C 700_AAN> an <C 414_DEZE> desen <C 1_CHARTER> sartere <C 274_HANGEN> ghehanghen. <C 800_EN> ende <C 401_IK> jc <C 450_MIJN> mijn <C 1_HEER> here 
+<L 987:36> <C 20_FILIPPUS> philips <C 700_VAN> van <C 21_AKSEL> axle <C 211_HEBBEN> hebbe <C 454_MIJN> minen <C 0_ZEGEL> seghel <C 274_HANGEN> ghehanghen <C 700_AAN> an <C 414_DEZE> desen <C 1_CHARTER> sartere 
+<L 987:37> <C 810+403_OMDAT+HET> omme+dat <C 100_VAST> vast <C 800_EN> ende <C 100_ZEKER> seker <C 210_ZIJN> si. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_CARNATIOEN> carnatioen <C 452_ONS> ons <C 4_HEER> heren 
+<L 987:38> <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrift <C 309_DUIZEND> .m. <C 10_JAAR> jaer <C 309_200> .cc. <C 10_JAAR> jaer. <C 800_EN> ende <C 309_84> .lxxxiiii. <C 10_JAAR> jaer. <C 2_VRIJDAG> vrindaghes <C 700_NA> na <C 101_SINT> sente 
+<L 987:39> <C 22_VALENTINUS> valentijns <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='142' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

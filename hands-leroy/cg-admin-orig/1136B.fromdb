@@ -1,0 +1,36 @@
+<header>
+<docId>1136B</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+<L 1760:41> <q> 't% <C 1_LETTER> Lett<A >er</A>e <C 472_DE/HET> des <C 4_HEER> he<A >er</A>en <C 700_VAN> va<A >n</A> <C 21_AMSTEL> amestelle. <C 621#_DAAR-> daer <C 403_HIJ> hi <C 621*_-MEDE> mede <C 221_GELOVEN> ghelouede <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue 
+<L 1760:42> <C 301_TWEE> tuee <C 14_LETTER> lett<A >er</A>en <C 421_DIE> die <C 403_HIJ> hi <C 221_HEBBEN> hadde <C 700_VAN> van <C 474_DE/HET> den <C 0_KONING> Coninc <C 20_WILHELM> willaem. 
+<L 1760:43> <C 401_IK> [Jc] <C 20_GIJSBERT> Ghisebrecht <C 1_HEER> heere <C 700_VAN> van <C 21_AMSTEL> amestelle <C 1_RIDDER> ridd<A >er</A>e, <C 201_MAKEN> make <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den 
+<L 1760:44> <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lett<A >er</A>e <C 214_ZULLEN> sullen <C 250_ZIEN> z[ie]n <C 800_OF> of <C 250_HOREN> hoere<A >n</A> <C 250_LEZEN> les[en] <C 810_DAT> [d]at <C 401_IK> ic 
+<L 1760:45> <C 273_GELOVEN> ghelouet <C 211_HEBBEN> hebbe <VN type=1> <C 454_MIJN> mine<A >n</A> <C 104_LIEF> lieue<A >n</A> <C 1_HEER> heere <C 4_HEER> hare<A >n</A> <C 21_FLORENTIUS> florense <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> Hollant 
+<L 1761:1> <C 700_VAN> van <C 20_ZEELAND> zeelant <C 800_EN> en<A >de</A> <C 1_HEER> heer[e] <C 700_VAN> van <C 20_FRIESLAND> vrieselant, <C 810_DAT> dat <C 401_IK> ic <C 403_HIJ> hem <C 250#_WEER> weder <C 210_ZULLEN> sal <C 250*_GEVEN> gheuen 
+<L 1761:2> <C 471_DE> die <C 301_TWEE> tu[e]e <C 14_LETTER> lett<A >er</A>en <C 421_DIE> die <C 401_IK> ic <C 201_HEBBEN> hebbe <C 700_VAN> van <C 4_HEER> hare<A >n</A> <C 20_WILHELM> willaem <C 454_ZIJN> sine<A >n</A> <C 0_VADER> vader <C 421_DIE> die 
+<L 1761:3> <C 500_WIJLENEER> wilenneer <C 0_KONING> coninc <C 230_ZIJN> was <C 700_VAN> van <C 24_ROME> roeme<A >n</A>. <C 841_ALS> alse <C 700_VAN> van <C 474_DE/HET> den <C 1_GOED> ghoede <C 700_VAN> van <C 20#_NAARDINGER-> nardi<A >n</A>gh<A >er</A> <C 20*_-LAND> lant, 
+<L 1761:4> <C 800_EN> en<A >de</A> <C 471_DE> die <C 301_TWEE> tuee <C 2_PAUS> pawes <C 11_BRIEF> brieue <C 700_MET> me[t] <C 472_DE/HET> [des] <q> [abts] <C 11_BRIEF> brieue <C 700_VAN> van <C 101_SINT> sente 
+<L 1761:5> <C 22_PAULUS> pauwels <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 700_VAN> van <C 414_DIE> dien <C 414_ZELF> seluen <C 1_GOED> goede <C 810_TE-DE-EERST-DAT> ten+eersten+dat <C 470_HET> dat <C 0_PLEIT> plait 
+<L 1761:6> <C 273_EINDEN> ghee[n]t <C 213_WORDEN> wo[rdet] <C 704_TUSSEN> [tusc]hen <C 471_DE> die <C 1_ABDIS> abdisse <C 700_VAN> van <C 24_ELTEN> Elten <C 800_EN> en<A >de</A> <C 401_IK> mi <C 420_DAT> dat <C 404_WIJ> wi 
+<L 1761:7> <C 501_ONDERLING> onderlinghe <C 204_HEBBEN> hebben <C 700_VAN> van <C 414_DEZE> desen <C 1_GOED> ghoede, <C 800_EN> en<A >de</A> <C 560_NE> en <C 211_WORDEN> worde <C 410_DIT> d[it] <C 0_PLEIT> [plait] <C 560_NIET> [niet] 
+<L 1761:8> <q> [cortelike] <C 273_EINDEN> gheent. <C 550_ZO> soe <C 201_GELOVEN> gheloue <C 401_IK> ic <C 454_MIJN> minen <C 104_VOORGENOEMD> voerghenoemden <C 1_HEER> heere <C 474_DE/HET> den 
+<L 1761:9> <C 1_GRAAF> g<A >ra</A>ue <C 471_DE> die <C 14_LETTER> lett<A >er</A>en <C 320_ALGADER> allegader <C 821_ALS> alse <C 614_HIERBOVEN> h[ier+bouen] <C 274_SCHRIJVEN> [ghescr]euen <C 213_STAAN> staet <C 251#_WEDER-> weder 
+<L 1761:10> <C 700_TE> te <C 251*_-GEVEN> gheuene <C 700_BINNEN> bin <C 414_DEZE> desen <C 1_JAAR> jare <C 620#_DAAR-> daer <C 404_WIJ> wi <C 500_NU> nu <C 620*_-IN> in <C 204_ZIJN> sijn. <C 700_IN> Jn <C 1_OORKONDE> orkonde <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieue 
+<L 1761:11> <C 273_BEZEGELEN> [beseghelt] <C 700_MET> [met] <C 454_ONS> [onsen] <C 1_ZEGEL> seghele <C 274_GEVEN> [g]hegheue<A >n</A> <C 700_IN> in <C 452_ONS> ons <C 4_HEER> he[er]e<A >n</A> <C 1_JAAR> iare <C 309_1291> .m.+cc.+ende+.xci. 
+<L 1761:12> <C 472_DE/HET> des <C 2_ZATERDAG> sat<A >er</A>daghes <q> [voer] <C 4_HALFVASTEN> halfvaste<A >n</A> <C 701_TOT> t[ote] <C 21_AALBERTSBERGEN> [alebrechtsberghe] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

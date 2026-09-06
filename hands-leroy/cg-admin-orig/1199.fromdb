@@ -1,0 +1,62 @@
+<header>
+<docId>1199</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1835:9> <q> De <q> nouem <q> mensuris <q> terre <q> quas <q> dedit <C 29_AEGIDIUS> egidius <q> filius 
+<L 1835:10> <q> quondam <q> domini <q> hugonis <q> militis <q> de <q> auel<A >er</A>e <q> ? <q> & <q> concessu <q> domini 
+<L 1835:11> <q> comitis.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> Ysendicke <C 0_AMBACHT> amb<A >acht</A> <C 700_VAN> van <q> neghe<A >n</A> <C 14_GEMET> ghemete<A >n</A> <C 2_LAND> lands. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1835:18> <C 404_WIJ> Wje <C 21_WOUTER> woutre <C 700_VAN> van <C 20_GENT> ghent, <C 20_JOHANNES> jan <C 700_VAN> van <C 1_POEL> poele, <C 20_JOHANNES> jan <C 471_DE> die <C 0_WEVEL> weuel <C 12_RIDDER> rudders, <C 20_DIEDERIK> diederic 
+<L 1835:19> <C 471_DE> die <C 0_VOS> vos, <C 20_JOHANNES> jan <C 474+700_DE/HET+VAN> vanden <C 1_ZAND> zande, <C 20_JOHANNES> jan <C 700_VAN> van <C 20_CADZAND> caedsant, <C 20_IWEIN> wenin <C 700_VAN> van <C 21_VARSENARE> varsenare, <C 20_JOHANNES> jan <C 471_DE> die 
+<L 1835:20> <C 101_BRUIN> brune, <C 20_HENDRIK> heinric <C 471_DE> die <C 101_GROOT> grote, <C 20_NICOLAAS> clais <C 700_VAN> van <C 21_BAVINGDAM> bavindamme, <C 20_WILHELM> willem <C 471_DE> die <C 101_KORT> corte, <C 20_WOUTER> wouter 
+<L 1835:21> <C 471_DE> die <C 0_VOS> vos, <C 800_EN> ende <C 20_AEGIDIUS> gillis <C 700_VAN> van <C 20_EERNEGEM> ernegheem, <C 14_SCHEPEN> scepenen <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te 
+<L 1835:22> <C 251_WETEN> wetene <C 320+474_AL+DE/HET> alden <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat 
+<L 1835:23> <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons, <C 20_AEGIDIUS> gillis <C 0+452_HEER+MIJN> miin+ser <C 22_HUGO> hugs <C 1_ZOON> soene <C 800_EN> ende <C 1_JONKVROUW> joncfrouwe <C 20_HEILSWIND> heilsuint <C 450_ZIJN> siin 
+<L 1835:24> <C 0_WIJF> wijf <C 800_EN> ende <C 224_GEVEN> ghauen <C 101_WETTELIJK> wettelicke <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 21_DIEDERIK> diederike <C 700+474_VAN+DE/HET> vanden <C 1_KLOOSTER> cloestre 
+<L 1835:25> <C 700_VAN> van <C 20_OOSTEEKLO> oest+eclo <C 700+475_TE+DE> ter <C 1_ABDIS> abbedesse <C 800_EN> ende <C 472+2+700_HET+CONVENT+TE> tscouents <C 0_BEHOEF> boof <C 474+700_DE/HET+VAN> vanden <C 1_KLOOSTER> cloostre <C 700_VAN> van <C 20_OOSTEEKLO> oest+eclo 
+<L 1835:26> <C 100_VOORZEID> vorseid <C 700_VAN> van <C 300_9> neghen <C 11_GEMET> ymete <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer <C 271_LIGGEN> licghende 
+<L 1835:27> <C 700_IN> in <C 470+0_HET+AMBACHT> tambocht <C 800_EN> ende <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_IJZENDIJKE> jsendike, <C 474+700_DE/HET+VAN> vanden <C 424_WELK> welken <C 1_LAND> lande 
+<L 1835:28> <C 403+203_HET+LIGGEN> leghets <C 301_VIJF> viue <C 11_GEMET> ymete <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <VN type=1> <C 325_MEER> meer <C 704_BACHTEN> bachten <C 22_BOUDEWIJN> boudens <C 700_VAN> van <C 21_HEILE> heile, 
+<L 1835:29> <C 800_EN> ende <C 500_VOORT> vort <C 403+203_HET+LIGGEN> leghets <C 300_ANDERHALF> anderhalf <C 0_GEMET> ymet <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer <C 500_BEOOSTHALF> beoesthalf 
+<L 1835:30> <C 700+411_AAN+DIE> andie <C 301_VIJF> viue <C 11_GEMET> ymete <C 110_VOORZEID> vorseid, <C 800_EN> ende <C 500_VOORT> vort <C 203+403_LIGGEN+HET> leghets <C 300_ANDERHALF> anderhalf <C 0_GEMET> ymet <C 500_LICHTELIJK> lichtelic <C 320_MIN> min 
+<L 1835:31> <C 800_OF> jof <C 325_MEER> meer <C 475+700_DE+BIJ> bider <C 14_HEBBELING> hebbelinghen <C 1_MOLEN> muelne. <C 800_EN> Ende <C 500_VOORT> vort <C 203+403_LIGGEN+HET> leghets <C 300_EEN> een <C 0_GEMET> ymet <C 2_LAND> lands 
+<L 1835:32> <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer <C 700_ONDER> onder <C 22_WILHELM> willems <C 24+0_ELISABETH+VROUW> verlisen <C 2_ZOON> soens <C 0_WEG> weech. <C 800_EN> Ende <C 20_AEGIDIUS> gillis 
+<L 1835:33> <C 800_EN> ende <C 1_JONKVROUW> joncfrouwe <C 20_HEILSWIND> heilsuint <C 450_ZIJN> siin <C 0_WIJF> wijf <C 100_VOORZEID> vorseid <C 224_WEDDEN> wedden <C 0_BROEDER> broeder <C 21_DIEDERIK> diederike 
+<L 1835:34> <C 100_VOORZEID> vorseid <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne <C 0_WEG> wech <C 800_EN> ende <C 0_LAND> lant <C 800_EN> ende <C 101_KWIJT> quite 
+<L 1835:35> <C 0_LAND> land <C 700_ZONDER> sonder <C 0_SCHULD> scout <C 700_TE> te <C 415_DIE> dier <C 105_VOORZEID> vorseider <C 1_ABDIS> abbedesse <C 800_EN> ende <C 2+700+472_CONVENT+TE+HET> tscouents <C 104_VRIJ> vrien 
+<L 1835:36> <C 1_EIGENDOM> eghindome. <C 800_EN> Ende <C 320_AL> al <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_GIFT> ghifte <C 230_ZIJN> was <C 501_WETTELIJK> wettelicke <C 274_GEVEN> ghegheuen <C 474_DE> dien 
+<L 1835:37> <C 104_VOORZEID> vorseiden <C 0_BROEDER> broeder <C 21_DIEDERIK> diedericke <C 700+475_TE+DE> ter <C 105_VOORZEID> vorseider <C 1_ABDIS> abbedesse <C 800_EN> en<A >de</A> <C 700+472+2_TE+HET+CONVENT> tscouents <C 0_BEHOEF> boof 
+<L 1835:38> <C 474+700_DE/HET+BIJ> biden <C 1_WIL> wille <C 800_EN> ende <C 475+700_DE+BIJ> bider <C 1_OCTROOI> ottroye <C 452+0_MIJN+HEER> miin+ser <C 22_WIJD> wijds <C 700+414+4_TE+DIE+TIJD> tien+tiden <C 1_GRAAF> graue <C 700_VAN> van 
+<L 1835:39> <C 24_VLAANDEREN> vlaendren <C 800_EN> ende <C 475+700_DE+BIJ> bider <C 1_BEDE> bede <C 700_VAN> van <C 10_SCHEPEN> scepen <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 421+601#_DIE+ER-> diere <C 700_DOOR> duer <C 22_AEGIDIUS> gillis 
+<L 1835:40> <C 1_WIL> wille <C 100_VOORZEID> vorseid <C 601*_-OM> omme <C 224_BIDDEN> baden <C 450_MIJN> miin <C 1_HEER> here <C 474_DE/HET> den <C 1_GRAAF> graue <C 100_VOORZEID> vorseid. <C 800_EN> Ende <C 700_IN> jn 
+<L 1835:41> <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 810+403_DAT+ZIJ> datsoe <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 211_BLIJVEN> bliue <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie 
+<L 1835:42> <C 111_VOORZEID> vorseide <C 10_SCHEPEN> scepen <C 411_DEZE> dese <C 4_LETTER> letteren <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seghelen 
+<L 1835:43> <C 101_UITHANGEND> vuthanghende. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 472+2_DE+ZATERDAG> tsaterdaeghs <C 700_NA> na <C 101_SINT> sinte <C 22_MARTIN> martins <C 0_DAG> dach 
+<L 1835:44> <C 474+700_DE/HET+IN> inden <C 0_WINTER> winter. <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 450_ZIJN> siin <C 0_INCARNATIOEN> jncarnatioen. 
+<L 1835:45> <C 300_1290-2> Tuellefhondert.+Neghentich.+ende+twe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

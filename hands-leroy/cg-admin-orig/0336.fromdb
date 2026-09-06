@@ -1,0 +1,47 @@
+<header>
+<docId>0336</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 551:15> <C 404_WIJ> Wij <C 471_DE> de <C 11_BROEDER> broedre <C 800_EN> ende <C 471_DE> de <C 11_ZUSTER> sustre <C 800_EN> Ende <C 321_AL> alle <C 471_DE> die <C 12_MEESTER> miesters <C 214_ZIJN> sijn <C 700_VAN> van <C 474_DE/HET> den 
+<L 551:16> <C 1_GASTHUIS> gasthuse <C 700_TE> te <C 20_GENT> ghent <C 204_MAKEN> Maken <C 100_KOND> cont <C 800_EN> ende <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die 
+<L 551:17> <C 500_NU> nu <C 204_ZIJN> sijn <C 800_EN> ende <C 421_DIE> die <C 610_HIERNA> hir+na <C 250_WEZEN> wesen <C 214_ZULLEN> sullen. <C 810_DAT> Dat <C 404_WIJ> ons <C 470+0_DE+HEER> der <C 20_BOUDEWIJN> boidin <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe. <C 421_DIE> die 
+<L 551:18> <C 472+0_DE+HEER> ser <C 22_BOUDEWIJN> boidins <C 1_ZOON> soene <C 230_ZIJN> was <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe <C 421_DIE> die <C 1_POORTER> poertre <C 230_ZIJN> was <C 701_TOT> toete <C 20_GENT> ghent <C 800_EN> ende <C 0_VROUW> vro 
+<L 551:19> <C 24_ELISABETH> lisbetten <C 452_ZIJN> sins <C 2_WIJF> wiues. <C 221_BEWIJZEN> bewijsde <C 700_TE> te <C 251_GEVEN> gheuene <C 309_15> .xv. <C 19_LIBRA> lib <C 11_PENNING> peneghe <C 800_EN> ende <C 421_DIE> die <C 404_WIJ> hons 
+<L 551:20> <C 500_WEL> wel <C 274_VERGELDEN> vergolden <C 214_ZIJN> sijn <C 621*_DAAR-> dar <C 404_WIJ> wij <C 621#_-MEDE> mede <C 224_KOPEN> cochten <C 309_30> .xxx. <C 19_SOLIDUS> 't3s. <C 322_ELK> elcs <C 2_JAAR> iars <C 500_WEL> wel <C 271_LIGGEN> ligghende 
+<L 551:21> <C 700_IN> in <C 104_GOED> goeden <C 1_ERF> herue. <C 700_IN> in <C 451_ONS> honse <C 0_GOED> goet <C 420_DAT> dat <C 404_WIJ> wi <C 204_HEBBEN> ebben <C 700_IN> in <C 20_ZAAMSLAG> samslact. <C 800_EN> Ende <C 411_DIE> die 
+<L 551:22> <C 234_ZIJN> waren <C 404_WIJ> hons <C 274_GEVEN> ghegheuen. <C 700_IN> jn <C 415_DIE> derre <C 4_MANIER> manieren <C 850_DAT> Dat <C 404_WIJ> wij <C 421_DIE> die <C 14_MEESTEREGGE> miesterigghen 
+<L 551:23> <C 800_EN> ende <C 12_MEESTER> miesters <C 214_ZIJN> sin <C 800_EN> ende <C 321_AL> alle <C 421_DIE> die <C 700_NA> na <C 404_WIJ> hons <C 204_KOMEN> commen <C 700_VAN> van <C 474_DE/HET> den <C 1_GASTHUIS> gasthuse <C 700_TE> te 
+<L 551:24> <C 20_GENT> ghent <C 214_ZIJN> sijn <C 100_SCHULDIG> sculdech <C 501_EEUWELIJK> ewelike <C 322_ELK> elcs <C 2_JAAR> iars <C 700_TE> te <C 260_DOEN> doen <C 251_HOUDEN> houdene <C 472_DE/HET> des <C 0+102_HEER+VOORZEID> voerseits+ser 
+<L 551:25> <C 22_BOUDEWIJN> boidins <C 1_JAARGETIJDE> iarghetide <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe <C 700_OP> vp <C 474_DE/HET> den <C 314_VIERDE> vierden <C 0_DAG> dach <C 700_NA> na <C 455_ONS> honser <C 4_VROUW> vrouwen 
+<L 551:26> <C 0_DAG> dach <C 700_IN> in <C 21_SPELMAAND> spelmaende <C 800_EN> ende <C 260_DOEN> doen <C 250_ZINGEN> singhen <C 14_VIGILIE> vighelien <C 800_EN> ende <C 1_ZIELMIS> sielmesse <C 700_OVER> houer 
+<L 551:27> <C 451_ZIJN> sine <C 1_ZIEL> siele <C 800_EN> ende <C 250_GEVEN> gheuen <C 324_ELK> elken <C 700_VAN> van <C 454_ONS> honsen <C 14_PRIESTER> priestren <C 309_6> .vi <C 19_DENARIUS> d <C 800_EN> ende <C 474_DE/HET> den <C 0_KOSTER> coster 
+<L 551:28> <C 309_3> iii <C 19_DENARIUS> d <C 800_EN> Ende <C 404_WIJ> wi <C 214_ZULLEN> sullen <C 500_OOK> oec <C 250_GEVEN> gheuen. <C 700_OP> vp <C 474_DE/HET> den <C 414_ZELF> seluen <C 0_DAG> dach <C 309_TIEN> x. <C 19_SOLIDUS> 't3s <C 320_AL> al <C 454_ONS> honsen 
+<L 551:29> <C 14_ZIEKE> sieken. <C 800_EN> ende <C 454_ONS> honsen <C 14_ZUSTER> sustren <C 800_EN> ende <C 454_ONS> honsen <C 14_BROEDER> broedren <C 700_TE> te <C 4_PITANTIE> petansen. <C 800_EN> ende <C 700_TE> te 
+<L 551:30> <C 1_WIJN> wine. <C 800_EN> Ende <C 500_VOORT> vort <C 214_ZULLEN> sullen <C 404_WIJ> wi <C 500_OOK> oec <C 250_GEVEN> gheuen <C 501_EEUWELIJK> ewelike <C 322_ELK> elcs <C 2_JAAR> iars <C 320_AL> al <C 474_DE/HET> den <C 14_JACOBIJN> iacominen 
+<L 551:31> <C 700_TE> te <C 20_GENT> ghent <C 309_15> .xv <C 19_SOLIDUS> 't3s <C 700_TE> te <C 4_PITANTIE> petansen <C 800_EN> ende <C 700_TE> te <C 1_WIJN> wine <C 700_OP> vp <C 474_DE/HET> den <C 414_ZELF> seluen <C 0_DAG> dach <C 700_IN> Jn <C 415_DIE> derre 
+<L 551:32> <C 4_MANIER> manieren <C 850_DAT> dat <C 406_ZIJ> sij <C 500_OOK> oec <C 214_ZULLEN> sullen <C 250_ZINGEN> singhen <C 14_VIGILIE> vighelien <C 800_EN> ende <C 1_ZIELMIS> sielmesse. <C 800_EN> ende 
+<L 551:33> <C 250_BIDDEN> bidden <C 700_OVER> houer <C 472_DE/HET> des <C 102+0_VOORZEID+HEER> vorseits+ser <C 22_BOUDEWIJN> boidins <C 1_ZIEL> ziele <C 700+474_UIT+DE/HET> vten <C 1_HOF> houe <C 800_EN> ende <C 700_OVER> houer <C 321_AL> alle <C 455_ZIJN> sijre 
+<L 551:34> <C 11_VRIEND> vriende <C 11_ZIEL> siele. <C 800_EN> Ende <C 411_DEZE> dese <C 1_VOORWAARDE> vorwoerde <C 210_ZIJN> es <C 273_MAKEN> ghemaect <C 701_OM> omme <C 471_DE> de <C 1_OORBAAR> orboere <C 700_VAN> van 
+<L 551:35> <C 454_ONS> honsen <C 0_HUIS> hus <C 800_EN> ende <C 701_OM> omme <C 471_DE> de <C 0_NUTSCHAP> nutsceep <C 700_VAN> van <C 475_DE/HET> der <C 1_ZIEL> siele <C 700_BIJ> bi <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen 
+<L 551:36> <C 421_DIE> die <C 0_MEESTERSCHAP> miestersceep <C 204_HEBBEN> ebben <C 700+470_IN+HET> int <C 0_GASTHUIS> gasthus <C 700_TE> te <C 20_GENT> ghent. <C 800_EN> Ende <C 701_OM> omme <C 321_AL> alle <C 411_DEZE> dese <C 11_DING> dinghe 
+<L 551:37> <C 101_VAST> vaste <C 800_EN> ende <C 101_GESTADE> ghestade <C 501_EEUWELIJK> ewelike <C 700_TE> te <C 251_HOUDEN> houdene <C 700_ZONDER> sonder <C 444_ENIG> eeneghen <C 0_SCHAMP> scamp. <C 800_EN> ende 
+<L 551:38> <C 510_ALZO> alsoe <C 700_TE> te <C 251_VOLDOEN> wldoene <C 820+403_ALS+HET> alst <C 510_HIER> hijr <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es <C 800_EN> ende <C 274_BESCHRIJVEN> bescreuen. <C 550_ZO> soe <C 214_HEBBEN> hebben. <C 404_WIJ> wi. <C 411_DEZE> dese 
+<L 551:39> <C 4_LETTER> lettren <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> honsen <C 1_ZEGEL> seghele <C 700_VAN> van <C 454_ONS> honsen <C 1_GODSHUIS> godshuse. <C 700_IN> jn 
+<L 551:40> <C 4_OORKONDSCHAP> orconscepen. <C 411_DEZE> Dese <C 14_LETTER> lettren <C 234_ZIJN> waren <C 273_MAKEN> ghemaect <C 800_EN> ende <C 274_GEVEN> ghegheuen <C 470+700_HET+IN> jnt <C 700_VAN> van <C 474_DE/HET> den 
+<L 551:41> <C 1_INCARNATIOEN> jncarnatione <C 452_ONS> hons <C 4_HEER> heren <C 20_JEZUS> ih<A >es</A>us <C 20_CHRISTUS> kerst <C 319_1280> .M'ho.CC'ho.+ende+.lxxx'ho. <C 0_JAAR> iar <C 700_OMTRENT> omtrent <C 0_HALF> alf. 
+<L 551:42> <C 21_MAART> marte. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,117 @@
+<header>
+<docId>1882</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2787:26> <C 410_DIT> Dit <C 210_ZIJN> es 
+<L 2787:27> <C 1_ACHTERSTAL> acht<A >er</A>stelle <C 421+440_DIE+MEN> diem<A >en</A> <C 474_HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 210_ZIJN> es <q> anno <q> xcvi'ho. <q> xcvij'ho. <q> xcviij'ho. <q> xcix'ho. 
+<L 2787:29> <q> De <q> rekening <q> over <q> 1300 <q> loopt <q> van <q> juni <q> 1300 <q> tot <q> juni <q> 1301 <q> ze <q> werd 
+<L 2787:30> <q> nagezien <q> op <q> 16 <q> dec. <q> 1302 <q> blijkens <q> een <q> aantekening <q> van <q> een <q> andere <q> hand: 
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1302' jaar_van='1302' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2787:31> <q> gherekent <C 2+472_ZONDAG+DE> sondagh<A >es</A> <C 700_NA> na <C 101_SINT> s<A >inte</A> <C 22_NICASIUS> Nichasus <C 0_DAG> dach <q> anno <q> ccc'ho, <q> ij'ho 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1302' jaar_van='1302' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2787:39> <C 410_DIT> Dit <C 440+210_MEN+ZIJN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 700_VAN> van <C 2*+472_HEILIGE-+DE/HET> sheleghes <C 2#_-GEEST> gheis <C 700_IN> in <C 21_BRUGGE> brugghe <C 100_SCHULDIG> sculdich <C 700+475_VAN+DE> vand<A >er</A> 
+<L 2787:40> <C 1_ACHTERSTAL> acht<A >er</A>stelle <C 421_DIE> die <C 0+470_HEER+DE> der <C 21_WOUTER> w<A >outre</A> <C 20_PORREWAGEN> porrewaghen <C 220_OPGEVEN> vp+gaf <q> anno <q> domini <q> m'ho <q> cc'ho 
+<L 2787:41> <q> nonogesimo <q> sexto 
+<L 2787:42> <C 700_IN> Jn <C 21_BRUGGE> brugghe <C 20_HENDRIK> h<A >enri</A>c <C 20_MERRIK-X> merric <C 309_3> iij <C 19_SOLIDUS> 't3s 
+<L 2787:43> <C 700_IN> Jn <C 101_SINT> s<A >inte</A> <C 22_PETRUS> piet<A >er</A>s <C 474+700_DE/HET+OP> vpten <C 0_DIJK> dijc <q> vidua <C 20_BOUDEWIJN> boud<A >en</A> <C 2_DOORGANG> duerganx <C 309_6> vi <C 19_SOLIDUS> 't3s <C 20_JOHANNES> ihan <C 0_MAST> mast 
+<L 2787:44> <q> debet 
+<L 2787:45> <C 6_SOM> S<A >umm</A>a <C 309_9> ix <C 19_SOLIDUS> 't3s. 
+<L 2787:46> <C 500_ITEM> Jtem <C 440+210_MEN+ZIJN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 475+700_DE+VAN> vand<A >er</A> <C 1_ACHTERSTAL> acht<A >er</A>stelle <C 421_DIE> die <C 0_BROEDER> broed<A >er</A> 
+<L 2788:1> <C 20_WILHELM> willem <C 0_POIDER-X> poyder <C 220_OPGEVEN> vp+gaf <C 9_ANNO> anno <C 319_1700> xvij'ho. <C 700_IN> Jn <C 21_BRUGGE> brugghe 
+<L 2788:2> <C 101_SINT> Sinte <C 22_JOHANNES> Jhans <C 0_HUIS> huus <C 309_47> xlvij <C 19_SOLIDUS> 't3s <C 309_TIEN> .x. <C 19_DENARIUS> d 
+<L 2788:3> <C 20_WILHELM> willem <C 0_TIMMERMAN> te<A >m</A>m<A >er</A>man <C 309_12> .xij. <C 19_DENARIUS> d. 
+<L 2788:4> <C 700_IN> Jn <C 21_MOERKERKE> moerk<A >er</A>ke <C 20_JOHANNES> jhan <C 471_DE> die <C 101_JONG> jonghe <C 309_41> xli. <C 19_SOLIDUS> 't3s. <C 309_3> .iij. <C 19_DENARIUS> d 
+<L 2788:5> <C 700_IN> Jn <C 21_ZUIENKERKE> zuenk<A >er</A>ke <C 101_SINT> s<A >inte</A> <C 22_JOHANNES> ihans <C 0_HUIS> huus <C 309_14> xiiij <C 19_SOLIDUS> 't3s <C 309_11> xi <C 19_DENARIUS> d 
+<L 2788:6> <C 700_IN> Jn <C 101_SINT> sinte <C 22_PETRUS> piet<A >er</A>s <C 700+474_OP+DE/HET> vpten <C 0_DIJK> dijc <C 20_JOHANNES> jhan <C 0_MAST> mast <C 309_18> xviij <C 19_DENARIUS> d 
+<L 2788:7> <C 6_SOM> S<A >umm</A>a <C 309_5> v <C 19_LIBRA> lb <C 309_6,5> vi't! <C 9_SOLIDUS> 't3s. 
+<L 2788:8> <C 500_ITEM> Jtem <C 440+210_MEN+ZIJN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 700+475_VAN+DE> vand<A >er</A> <C 1_ACHTERSTAL> acht<A >er</A>stelle <C 421_DIE> die <C 0_BROEDER> broed<A >er</A> 
+<L 2788:9> <C 20_WILHELM> willem <C 0_POIDER-X> poider <C 220_OPGEVEN> vp+gaf <C 9_ANNO> anno <C 319_98> xcviij'ho 
+<L 2788:10> <C 700_IN> Jn <C 21_BRUGGE> brugghe <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 0_HUIS> huus <C 309_47> xlvij <C 19_SOLIDUS> 't3s <C 309_TIEN> x. <C 19_DENARIUS> d 
+<L 2788:11> <C 20_WILHELM> willem <C 0_TIMMERMAN> te<A >m</A>m<A >er</A>man <C 309_12> .xij. <C 19_DENARIUS> d 
+<L 2788:12> <C 700_IN> Jn <C 21_ZWIJNAARDE> zuinarde <C 20_ROBERT> Robrecht <C 700_VAN> van <C 21_VALENCIENNES> valenchine <C 309_43> xliij <C 19_SOLIDUS> 't3s <C 309_4> iiij <C 19_DENARIUS> d 
+<L 2788:13> <C 700_IN> Jn <C 21_MOERKERKE> moerk<A >er</A>ke <C 20_WILHELM> willem <C 0_TOELEG> tolech <C 309_15> xv <C 19_SOLIDUS> 't3s 
+<L 2788:14> <C 20_JOHANNES> Jhan <C 471_DE> die <C 101_JONG> jonghe <C 309_41> xli <C 19_SOLIDUS> 't3s <C 309_3> iij <C 19_DENARIUS> d 
+<L 2788:15> <C 700_IN> Jn <C 21_ZUIENKERKE> zuenk<A >er</A>ke <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 0_HUIS> huus <C 309_14> xiiij <C 19_SOLIDUS> 't3s <C 309_11> xi <C 19_DENARIUS> d 
+<L 2788:16> <C 700_IN> Jn <q> sancti <q> petri <q> supra <C 0_DIJK> dijc <C 20_JOHANNES> jhan <C 0_MAST> mast <C 309_18> xviij <C 19_DENARIUS> d 
+<L 2788:17> <C 6_SOM> S<A >umm</A>a <C 309_8> viij <C 19_LIBRA> lb <C 309_4> iiij <C 19_SOLIDUS> 't3s <C 309_TIEN> .x. <C 19_DENARIUS> d 
+<L 2788:18> <C 500_ITEM> Jtem <C 210+440_ZIJN+MEN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 700+475_VAN+DE> vand<A >er</A> <C 1_KASSEIE> causiede <C 700_VAN> van <C 324_ELK> elken <C 1_VOET> voete <C 309_2> .ij. 
+<L 2788:19> <C 19_DENARIUS> d 
+<L 2788:20> <C 20_ROBERT> Robrecht <C 700_VAN> van <C 21_VALENCIENNES> valenchine <C 309_11> xi <C 14_ROEDE> R<A >oeden</A> <C 309_4> iiij <C 11_VOET> voete. 
+<L 2788:21> <C 500_ITEM> jtem <C 419_IDEM> idem <C 309_4> iiij <C 14_ROEDE> R<A >oeden</A> <C 309_EEN> .i. <C 0_VOET> voet 
+<L 2788:22> <C 20_WOUTER> wouter <C 0_HOND> hont <C 309_15> xv. <C 11_VOET> voete 
+<L 2788:23> <C 20_JOHANNES> hannek<A >in</A> <C 1_SCHOENMAKER> scoemak<A >er</A>e <C 309_14> xiiij 
+<L 2788:24> <C 20_WOUTER> wout<A >er</A>loet <C 1_ZILVERBRANDER> zeluerbarnre <C 309_13> xiij <C 14_ROEDE> R<A >oeden</A> <C 309_11> xi <C 11_VOET> voete 
+<L 2788:25> <C 20_WOUTER> wout<A >er</A> <C 0_BLANKAARD> blankaert <C 309_4> iiij <C 14_ROEDE> R<A >oeden</A> 
+<L 2788:26> <C 20_NICOLAAS> clays <C 20_BERT> bertheloet <C 309_6> .vi. <C 14_ROEDE> R<A >oeden</A>. 
+<L 2788:27> <C 20_JOHANNES> Jhan <C 700_VAN> van <C 24_AKEN> aken <C 1_ZILVERBRANDER> zelu<A >er</A>barnre <C 309_36> xxxvi <C 11_VOET> voete 
+<L 2788:28> <C 21_SIEGER> Zeghere <C 700_VAN> van <C 20_GENT> ghent <C 309_13> xiij <C 14_ROEDE> R<A >oeden</A> 
+<L 2788:29> <C 20_JOHANNES> Jhan <C 700_VAN> van <C 24_SINTONGEN> sintoengen <C 309_17> xvij <C 14_ROEDE> R<A >oeden</A>. 
+<L 2788:30> <C 6_SOM> S<A >umm</A>a <C 309_8> viij <C 19_LIBRA> lb. <C 309_12> xij <C 19_SOLIDUS> 't3s <C 309_2> ij <C 19_DENARIUS> d 
+<L 2788:31> <C 500_ITEM> Jtem <C 210+440_ZIJN+MEN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 700+475_VAN+DE> vand<A >er</A> <C 1_ACHTERSTAL> acht<A >er</A>stelle <C 421_DIE> die <C 0_BROEDER> broeder 
+<L 2788:32> <C 20_ERMBOUD> herenboud <C 220_OPGEVEN> vp+gaf <q> anno <q> xcix'ho 
+<L 2788:33> <C 700_IN> Jn <C 21_BRUGGE> brugghe <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 0_HUIS> huus <C 309_47> xlvij <C 19_SOLIDUS> 't3s <C 309_TIEN> .x. <C 19_DENARIUS> d 
+<L 2788:34> <C 20_WILHELM> willem <C 0_TIMMERMAN> te<A >m</A>m<A >er</A>man <C 309_12> .xij. <C 19_DENARIUS> d 
+<L 2788:35> <C 700_TE> Te <C 21_ZWIJNAARDE> zuinarde <C 20_ROBERT> Rob<A >ra</A>t <C 700_VAN> van <C 21_VALENCIENNES> valenchine <C 309_3> .iij. <C 19_LIBRA> lb <C 309_8> .viij <C 19_SOLIDUS> 't3s <C 309_4> iiij <C 19_DENARIUS> d 
+<L 2788:36> <C 20_JOHANNES> Jhan <C 700_VAN> van <C 24_SINTONGEN> sintoengen <C 309_4> iiij <C 19_SOLIDUS> 't3s <C 309_3,5> iij't! <C 9_DENARIUS> d 
+<L 2788:37> <C 20_WOUTER> wout<A >er</A> <C 0_BLANKAARD> blank<A >ar</A>t <C 309_11> xi <C 19_SOLIDUS> 't3s <C 309_10,5> x't! <C 9_DENARIUS> d 
+<L 2788:38> <C 700_IN> Jn <C 20_AARDENBURG> ardenburgh <C 475+700_DE+BUITEN> but<A >er</A> <C 0_POORT> port <C 20_WILHELM> willem <C 21_ELISABETH> bette <C 309_3> iij <C 19_LIBRA> lb <C 309_7,5> .vij't!. <C 9_SOLIDUS> 't3s. 
+<L 2788:39> <C 700_IN> Jn <C 21_MOERKERKE> moerk<A >er</A>ke <C 20_WILHELM> willem <C 0_TOELEG> toelech <C 309_15> xv. <C 19_SOLIDUS> 't3s. 
+<L 2788:40> <C 20_JOHANNES> Jhan <C 471_DE> die <C 101_JONG> jonghe <C 309_56> .lvi. <C 19_SOLIDUS> 't3s. <C 309_3> iij. <C 19_DENARIUS> d. 
+<L 2788:41> <C 700_IN> Jn <C 21_ZUIENKERKE> zuenk<A >er</A>ke <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 0_HUIS> huus <C 309_14> xiiij <C 19_SOLIDUS> 't3s <C 309_11> xi <C 19_DENARIUS> d 
+<L 2788:42> <C 700_IN> Jn <C 101_SINT> sinte <C 22_PETRUS> piet<A >er</A>s <C 474+700_DE/HET+OP> vpten <C 0_DIJK> dijc <C 20_JOHANNES> jhan <C 0_MAST> mast <C 309_18> xviij <C 19_DENARIUS> d 
+<L 2788:43> <C 6_SOM> S<A >umm</A>a <C 309_14> xiiij <C 19_LIBRA> lb <C 309_8,5> .viij't!. <C 9_SOLIDUS> 't3s. 
+<L 2788:44> <C 500_ITEM> Jtem <C 210+440_ZIJN+MEN> esmen <C 474_DE/HET> den <C 0_HUIS> huus <C 100_SCHULDIG> sculdich <C 700_VAN> van <C 4_ACHTERSTAL> acht<A >er</A>stellen <C 700_VAN> van <C 4_TURF> turuen 
+<L 2788:45> <C 470+0_DE+HEER> der <C 20_ROBERT> Robloet <C 0_KANT> cant <C 309_5> .v. <C 19_LIBRA> lb <C 309_17,5> xvij't! <C 9_SOLIDUS> 't3s. 
+<L 2788:46> <C 0+470_HEER+DE> der <C 20_LAMBERT> lamb<A >ra</A>t <C 474+700_DE/HET+VAN> vanden <C 1_IJZERTJE-X> yserkine <C 309_20> xx. <C 19_SOLIDUS> 't3s. 
+<L 2789:1> <C 470+0_DE+HEER> der <C 20_WOUTER> wout<A >er</A> <C 20_BONIJN-X> bonin <C 309_39> xxxix <C 19_SOLIDUS> 't3s <C 700_VAN> van <C 14_VITSE> vitsen 
+<L 2789:2> <C 470+0_DE+HEER> der <C 20_ROBERT> robloet <C 0_KANT> cant <C 309_6> .vi. <C 19_LIBRA> lb <C 700_VAN> van <C 309_DUIZEND> i'hm <C 1_SCHOOF> scoue <C 14_VITSE> vitsen 
+<L 2789:3> <C 0_MEESTER> meest<A >er</A> <C 20_NICOLAAS> niclais <C 0_SCHIERING-X> scierinc <C 309_9> ix <C 19_SOLIDUS> 't3s <C 309_3> iij <C 19_DENARIUS> d <C 700_VAN> van <C 10_BOON> boen 
+<L 2789:4> <C 6_SOM> S<A >umm</A>a <C 309_15> xv <C 19_LIBRA> lb <C 309_5> .v. <C 19_SOLIDUS> 't3s <C 309_9> ix <C 19_DENARIUS> d 
+<L 2789:5> <C 6_SOM> S<A >umm</A>a <C 700_VAN> van <C 320_AL> al <C 309_52> lij. <C 19_LIBRA> lb <C 309_6> .vi. <C 19_SOLIDUS> 't3s <C 309_9> .ix. <C 19_DENARIUS> d. 
+<L 2789:6> <C 410_DIT> Dit <C 210_ZIJN> es <C 1_ACHTERSTAL> achterstelle <C 421+440_DIE+MEN> diemen <C 560_NIET> niet <C 250_GEÏNNEN> ghehinnen <C 210_MOGEN> mach <C 800_EN> ende <C 421_DIE> die <C 274_VERLIEZEN> v<A >er</A>loren 
+<L 2789:7> <C 210_ZIJN> es <C 470+700_HET+IN> int <C 0_GEDELF> ydelf 
+<L 2789:8> <C 700_IN> Jn <C 21_IJZENDIJKE> ysendike <C 20_WILHELM> willek<A >in</A> <q> f <C 22_JOHANNES> ha<A >n</A>nins <C 2_WEVER> weuers <C 309_3> iij <C 19_LIBRA> lb <C 309_15> xv <C 19_SOLIDUS> 't3s <C 309_3,5> iij't! <C 9_DENARIUS> d 
+<L 2789:9> <C 700_IN> Jn <C 20_AARDENBURG> ardenburgh <C 20_ADELHARD> alard <C 21_BOEI-X> boye <C 309_40> xl. <C 19_SOLIDUS> 't3s. 
+<L 2789:10> <C 700_IN> Jn <C 21_BRUGGE> brugghe <C 20_WILHELM> willem <C 20_LAUWIJN-X> louin <C 309_6> .vi. <C 19_SOLIDUS> 't3s. 
+<L 2789:11> <C 700_IN> Jn <C 20_AARDENBURG> ardenburgh <C 20_JOHANNES> jhan <C 474+700_DE/HET+VAN> vande<A >n</A> <C 1_PUT> pitte <C 309_6> vi. <C 19_SOLIDUS> 't3s. 
+<L 2789:12> <C 700_TE> Te <C 21_ZWIJNAARDE> zuinarde <C 20_JOHANNES> jhan <C 700_VAN> van <C 101_SINT> sinte <C 22_LAURENTIUS> louwerens <C 309_5> .v. <C 19_SOLIDUS> 't3s. <C 309_EEN> i. <C 9_DENARIUS> d 
+<L 2789:13> <C 21_AGATHA> Agh<A >ete</A> <q> f <C 22_WOUTER> w<A >outers</A> <q> f <C 22_BOUDEWIJN> boudens <C 309_14> xiiij <C 19_SOLIDUS> 't3s <C 309_2> ij <C 19_DENARIUS> d 
+<L 2789:14> <C 20_AEGIDIUS> gillis <C 475+700_DE+VAN> vander <C 1_STEGEL> steghele <C 309_6> vi. <C 19_SOLIDUS> 't3s. 
+<L 2789:15> <C 20_JACOB> coppin <C 1_SCHOTELAAR> scoetelare <C 309_5> .v. <C 19_SOLIDUS> 't3s. 
+<L 2789:16> <C 20_LAMBERT> lammijn <C 1_COPPIER-X> coppiere <C 309_9> .ix. <C 19_SOLIDUS> 't3s. 
+<L 2789:17> <C 20_NICOLAAS> clais <C 474+700_DE/HET+VAN> vanden <C 100_TEGELEN> teghelin <C 1_HUIS> huse <C 309_6> .vi. <C 19_SOLIDUS> 't3s. <C 410_DIT> dit <C 200_ZIJN> es <C 320_AL> al <C 700+470_IN+HET> int <C 0_GEDELF> ydelf 
+<L 2789:18> <C 21_MARGARETA> marg<A >riete</A> <C 700_VAN> van <C 20_MOLENBROEK> moelnebroec <C 309_16> xvi <C 19_SOLIDUS> 't3s. 
+<L 2789:19> <C 20_JOHANNES> Jhan <C 20_JOHANNES> hannoet <C 309_14> xiiij <C 19_SOLIDUS> 't3s <C 309_4> iiij <C 19_DENARIUS> d 
+<L 2789:20> <C 20_JOHANNES> hannek<A >in</A> <q> f <C 22_JACOB> iacobs <C 700+475_VAN+DE> vand<A >er</A> <C 1_KOUS> couse <C 309_8> viij <C 19_SOLIDUS> 't3s <C 309_3,5> iii't! <C 9_DENARIUS> d 
+<L 2789:21> <C 20_WILHELM> willem <C 20_KLUTIJN-X> cloetin <C 309_12> xij <C 19_SOLIDUS> 't3s <C 309_10,5> x't! <C 9_DENARIUS> d 
+<L 2789:22> <C 20_JUDOCUS> Joes <C 471_DE> die <C 1_GERTER-X> gart<A >er</A>e <C 309_16> xvi <C 19_SOLIDUS> 't3s <C 309_2> ij <C 19_DENARIUS> d 
+<L 2789:23> <C 700_IN> Jn <C 21_OOSTKERKE> oestk<A >er</A>ke <C 21_MARGARETA> marg<A >riete</A> <C 22_NICOLAAS> clais <C 22_TOLVIN> toluins <C 309_21> xxi <C 19_SOLIDUS> 't3s <C 309_5,5> v't! <C 9_DENARIUS> d 
+<L 2789:24> <C 700_IN> Jn <C 20_AARDENBURG> ardenburgh <C 20_PETRUS> piet<A >er</A> <C 700_VAN> van <C 20_GENT> ghent <C 0_TIMMERMAN> te<A >m</A>m<A >er</A>man <C 309_8> viij <C 19_SOLIDUS> 't3s. 
+<L 2789:25> <C 6_SOM> S<A >umm</A>a <C 309_13> xiij <C 19_LIBRA> lb. <C 309_9> ix <C 19_SOLIDUS> 't3s <C 309_8> viij <C 19_DENARIUS> d 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

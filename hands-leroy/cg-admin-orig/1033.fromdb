@@ -1,0 +1,51 @@
+<header>
+<docId>1033</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1564:36> <q> de <q> via <q> adiucata 
+<L 1564:37> <q> monasterio <q> nostro <q> apud <q> jabbeke <q> de <q> terra <q> que <q> vocatur <C 20_HEERST/HORST?> heerst <q> ultra <q> terram 
+<L 1564:38> <q> mense <q> pauperum.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> Van <C 480_EEN> een <C 0_LANDWEG> landt+wech <C 271_LIGGEN> leghen<A >de</A> <C 700_BIJ> bij <C 800_EN> en<A >de</A> <C 700_IN> in 
+<L 1564:39> <q> Jabbeke <C 475+700_DE/HET+AAN> and<A >er</A> <C 4_NOORDZIJDE> noortzijden <C 700+474_VAN+DE/HET> vand<A >en</A> <q> brugghewech <C 471_DE> de <q> cloost<A >er</A>e 
+<L 1564:40> <q> toebehooren<A >de</A>. <q> f. <q> CC'hoxxxj'ho. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1564:46> <C 410_DIT> dit <C 210_ZIJN> es <C 471_DE> die <C 0_LANDWEG> land+wech <C 421_DIE> die <C 273_WIJZEN> ghewiset <C 210_ZIJN> es <C 700_BIJ> bi <C 11_SCHEPEN> scepene <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 700+475_BINNEN+DE> binder 
+<L 1565:1> <C 1_PAROCHIE> prochie <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 1_AMBACHT> ambochte <C 700_VAN> van <C 21_JABBEKE> jabbeke, <C 474_DE/HET> den <C 0_ABT> abbet <C 700_VAN> van <C 100_SINT> sint <C 22_ANDREAS> Andries <C 700_BIJ> bi 
+<L 1565:2> <C 21_BRUGGE> brugge, <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 454_ZIJN> zinen <C 700_MET> met <C 451_HAAR> hare <C 0_DRIFT> dreft <C 700_TE> te <C 251_VAREN> varne <C 800_EN> ende <C 700_TE> te <C 251_KEREN> kerne, <C 410_DAT> dat 
+<L 1565:3> <C 200_ZIJN> es <C 700_TE> te <C 251_WETEN> wetene <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande <C 420_DAT> dat <C 213_HETEN> hetet <C 471_DE> die <C 0_HEERST/HORST?> heerst <C 800_EN> ende <C 700_VAN> van <C 320_AL> al <C 474_DE/HET> den <C 104_ANDER> andren 
+<L 1565:4> <C 1_LAND> lande <C 420_DAT> dat <C 203_MEERSEN> marst <C 610_DAARAAN> daer+an <C 700_VAN> van <C 1_LAND> lande <C 700_TE> te <C 1_LAND> lande <C 420_DAT> dat <C 200_ZIJN> es <C 412_DIE> dies <C 2_KLOOSTER> closters <C 700_VAN> van <C 100_SINT> sint 
+<L 1565:5> <C 20_ANDREAS> andries, <C 484_EEN> eenen <C 0_WEG> wech <C 700_TE> te <C 251_GAAN> gane <C 500_NOORD> nord <C 701+474_TOT+DE> toten <C 1_BRUGWEG> bruggeweghe <C 421_DIE> die <C 203_KOMEN> comet <C 475+700_DE+VAN> vander 
+<L 1565:6> <C 21_KOUS> couse <C 800_EN> ende <C 203_GAAN> gaet <C 700_TE> te <C 21_BRUGGE> brugge <C 800_EN> en<A >de</A> <C 301_EEN> eene <C 1_ROEDE> rode <C 100_BREED> breed <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 700_TE> te <C 251_PRIJZEN> p<A >ri</A>sene <C 700_OVER> ou<A >er</A> 
+<L 1565:7> <C 0_HALFLAND> half+land, <C 503_EERST> eerst <C 700_TE> te <C 251_GAAN> gaene <C 700_AAN> an <C 471_DE> die <C 1_OOSTZIJDE> oestzide <C 700_VAN> van <C 472_DE/HET> des <C 2_KLOOSTER> closters <C 1_LAND> lande <C 510_ALZO> als <C 501_VER> verre 
+<L 1565:8> <C 820_ALS> als <C 403_HET> het <C 500_NOORD> nord <C 203_GAAN> gaed <C 420_DAT> dat <C 20_PETRUS> pieter <C 101_GROOT> grote <C 1_BOEI-X> boie <C 203_HEBBEN> heuet <C 700_TE> te <C 1_CIJNS> chense, <C 800_EN> en<A >de</A> <C 610_DAARNA> darna <C 700_AAN> an 
+<L 1565:9> <C 471_DE> die <C 1_WESTZIJDE> weestzide <C 700_VAN> van <C 472_DE/HET> des <C 22_JACOB> coppins <C 1_LAND> lande <C 700_VAN> van <C 21_JABBEKE> jabbeke <C 474+701_DE+TOT> toten <C 1_WEG> weghe <C 500_NOORD> nord, <C 410_DIT> dit 
+<L 1565:10> <C 204_KENNEN> kennen <C 11_SCHEPEN> scepene <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrien, <C 404_WIJ> wie <C 20_WILHELM> willem <C 700_VAN> van <C 4_STRATEN> straten <C 800_EN> & <C 20_JOHANNES> jan <C 700_VAN> van <C 21_UITKERKE> vtk<A >er</A>ke 
+<L 1565:11> <C 12_RIDDER> rudders <C 20_WILHELM> willem <C 700_VAN> van <C 20_KLEIEM> cleihem <C 20_HENDRIK> henric <C 471_DE> die <C 101_GROOT> grote <C 20_RIJKWARD> riquard <C 0_STANDAARD> standard <C 20_ARNOUT> arnoud 
+<L 1565:12> <q> filius <C 22_HENDRIK> heinemans <C 20_BOUDEWIJN> bouden <q> filius <C 22_BOUDEWIJN> boudens <C 800_EN> en<A >de</A> <C 21_WOUTER> woutre <C 471_DE> die <C 0_VOS> vos, <C 410_DIT> dit <C 230_ZIJN> was 
+<L 1565:13> <C 274_DOEN> ghedaen <C 2_VRIJDAG> vrindaghes <C 700_NA> na <C 0_HALF> half <C 21_MEI> meie <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 4+452_HEER+ONS> onsheren <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scriuet <C 450_ZIJN> siin 
+<L 1565:14> <C 0_INCARNATIOEN> incarnation <q> m'ho <q> cc'ho <q> nonagesimo <q> primo 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,77 @@
+<header>
+<docId>0315</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 524:24> <C 22_BRUGGE> Bruges. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1280' jaar_van='1280' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 524:33> <q> 't% <C 1_HEER> here <C 471_DE> die <C 0_MEENTOCHT> meentucht <C 700_VAN> van <C 21_BRUGGE> brugghe <C 204_BETOGEN> betoghen <C 405_GIJ> ou <C 810_DAT> dat <C 471_DE> die <C 14_SCHEPEN> scepenen 
+<L 524:34> <C 0_RAAD> raet <C 224_MAKEN> maecten <C 481_EEN> ene <C 1_KEUR> cure. <C 510_ZO> So <C 100_ZWAAR> suaer <C 700_OP> vp <C 471_DE> die <C 0_MEENTOCHT> meentucht <C 620_WAARBIJ> warbi <C 810_DAT> dat <C 410_DIT> dit <C 0_DISCOORD> discort 
+<L 524:35> <C 510_ALDUS> aldus <C 210_ZIJN> es <C 700_IN> in <C 471_DE> die <C 0_POORT> poert <C 800_EN> & <C 810_DAT> dat <C 471_DE> die <C 1_KEUR> cure <C 560_NIET> niet <C 210_ZIJN> es <C 273_MAKEN> ghemaect <C 700+474_BIJ+DE/HET> biden <C 1_HEER> h<A >er</A>e <C 474+700_DE/HET+VAN> vanden 
+<L 524:36> <C 1_LAND> lande <C 800_EN> & <C 411_DIE> die <C 1_KEUR> cure <C 440+210_MEN+ZULLEN> salmen <C 405_GIJ> ov <C 500_WEL> wel <C 250_TOGEN> toghen 
+<L 524:37> <q> 't% <C 500_VOORT> vort <C 203_BETOGEN> betoghet <C 471_DE> die <C 0_MEENTOCHT> meintucht <C 810_DAT> dat <C 230_ZIJN> was <C 0_BURGEMEESTER> b<A >ur</A>ghmest<A >er</A> <C 20_PETRUS> piet<A >er</A> <C 700_VAN> van 
+<L 524:38> <C 21_KORTRIJK> curt<A >ri</A>ke <C 800_EN> & <C 20_PETRUS> piet<A >er</A> <C 20_BONIJN-X> bonin <C 800_EN> & <C 500_DAAR> do <C 230+560_ZIJN+NE> newas <C 471_DE> die <C 1_STAD> stede <C 560_NIET> niet <C 100_SCHULDIG> sculdich <C 700_TE> te <C 251_WOEKEREN> woekere 
+<L 524:39> <C 700_ZONDER> sonder <C 11_WEESJE> wesekine <C 800_EN> & <C 410_DIT> dit <C 560+210_NE+ZIJN> nes <C 500_NEWAAR> newaer <C 300_TWEE> tve <C 14_JAAR> jare<A >n</A> 
+<L 524:40> <q> 't% <C 500_VOORT> vort <C 203_BETOGEN> betoghet <C 471_DE> die <C 0_MEENTOCHT> meintucht <C 810_DAT> dat <C 274*_OVEREEN-> ouer+een <C 230_ZIJN> was <C 274#_-DRAGEN> ghedraghen <C 700_VAN> van 
+<L 524:41> <C 14_SCHEPEN> scepene<A >n</A> <C 800_EN> & <C 700_VAN> van <C 1_RAAD> rade <C 700+475_MET+DE> mett<A >er</A> <C 101_MEEST> meenste <C 1_MENIGTE> menechte <C 810_DAT> dat <C 440_MEN> men <C 231_ZULLEN> soude <C 260_HEBBEN> hebbe<A >n</A> 
+<L 524:42> <C 273_TRANSCRIBEREN> it<A >ra</A>nscrivert <C 471_DE> die <C 11*_REKENING-> rekeninghe <C 11#_-BRIEF> brieve <C 700_VAN> va<A >n</A> <C 454_HAAR> hare<A >n</A> <C 1_REKENING> rekeninghe <C 840_ALS> als <C 700_VAN> van <C 454_HAAR> hare<A >n</A> 
+<L 524:43> <C 11_BURGEMEESTERSCHAP> burghmest<A >er</A>scepe <C 700_VAN> va<A >n</A> <C 20_BONIJN-X> boni<A >n</A> <C 0_KANT> kant <C 800_EN> & <C 700_VAN> va<A >n</A> <C 20_PETRUS> piet<A >er</A> <C 700+475_VAN+DE> vander <C 1_WEIDE> weyde <C 800_EN> & <C 410_DIT> dit 
+<L 524:44> <C 560+230_NE+ZIJN> newas <C 560_NIET> niet <C 274_DOEN> ghedaen <C 800_EN> & <C 410_DIT> dit <C 203_BEGEREN> beghert <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 440+403_MEN+HET> met <C 203_DOEN> doet 
+<L 524:45> <q> 't% <C 500_VOORT> vort <C 203_BETOGEN> betoghet <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 440_MEN> men <C 213_HEBBEN> heift <C 274_HOUDEN> gheoude<A >n</A> <C 700_IN> i<A >n</A> <C 1_USAGE> vsaetse <C 800_EN> ende 
+<L 524:46> <C 700_IN> i<A >n</A> <C 1_COSTUME> costume <C 810_DAT> dat <C 440_MEN> men <C 480_NEGEEN> negheen <C 1_GIFT> ghifte <C 231_MOGEN> mochte <C 250_GEVEN> gheue<A >n</A> <C 700_ZONDER> sonder <C 471_DE> die 
+<L 525:1> <C 0_MEENTOCHT> meintucht <C 810_OMDAT> o<A >m</A>+dat <C 403+406_HET+ZIJ> siet <C 411_ZELF> selue <C 204_GELDEN> ghelden 
+<L 525:2> <q> 't% <C 500_VOORT> vort <C 203_BETOGEN> betoghet <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 500_NOOIT> noit <C 560+220_NE+ZIJN> newas <C 510_ZO> so <C 100_ZWAAR> suaer <C 1_ACCIJNS> assise <C 820_ALS> als <C 500_NU> nu <C 200_ZIJN> es 
+<L 525:3> <C 800_EN> en<A >de</A> <C 810_DAT> dat <C 406_ZIJ> sie <C 214_WILLEN> willen <C 250_WEZEN> wesen <C 700_OVER> ouer <C 471_DE> die <C 1_REKENING> rekeninghe <C 800_EN> & <C 214_WILLEN> willen <C 250_WETEN> weten <C 530_WAAR> waer <C 410_DIT> dit 
+<L 525:4> <C 0_GOED> goet <C 210_ZIJN> es <C 274_VAREN> ivaren <C 800_EN> & <C 406_ZIJ> sie <C 214+403_ZIJN+HET> sijnt <C 500_OOK> oec <C 100_SCHULDIG> sculdich <C 700_TE> te <C 251_WETEN> wetene <C 700_VAN> van <C 1_JAAR> jare <C 700_TE> te <C 4_JAAR> jare<A >n</A> <C 810_OMDAT> o<A >m</A>+dat 
+<L 525:5> <C 406+403_ZIJ+HET> siet <C 204_GELDEN> ghelden 
+<L 525:6> <q> 't% <C 406_ZIJ> sie <C 204_BEGEREN> begheren <C 500_VOORT> vort <C 321_AL> alle <C 11_KEUR> cure <C 700_TE> te <C 250_VERBETEREN> v<A >er</A>betre<A >n</A> <C 700_BIJ> bi <C 14_SCHEPEN> scepene<A >n</A> <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 474_DE/HET> den 
+<L 525:7> <C 0_20> tvintich <C 421_DIE> die <C 471_DE> die <C 0_MEENTOCHT> meentucht <C 651_TOE> toe <C 250_NEMEN> nemen <C 210_ZULLEN> sal 
+<L 525:8> <q> 't% <C 500_VOORT> vort <C 203_BEGEREN> beghert <C 471_DE> die <C 1_MEENTE> meente. <C 511_ALZO> alse <C 321_MENIG> meneghe <VN type=1> <C 14_SCHEPEN> scepene<A >n</A> <C 820_ALS> als <C 471_DE> die <C 1_HEER> h<A >er</A>e 
+<L 525:9> <C 203_MAKEN> maect <C 800_EN> & <C 510_ALZO> also <C 321_MENIG> meneghe <C 10_MAN> man <C 850_ALS> als <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 454_HAAR> hare<A >n</A> <C 1_RAAD> rade <C 204_MAKEN> maken <C 550_ZO> So <C 210_ZULLEN> sal 
+<L 525:10> <C 471_DE> die <C 1_MEENTE> meente <C 250_NEMEN> nemen <C 510_ALZO> also <C 324_MENIG> meneghe<A >n</A> <C 10_MAN> man <C 614_DAARJEGEN> daer+jeghe<A >n</A> <C 322_ELK> elkes <C 2_JAAR> jaers 
+<L 525:11> <q> 't% <C 500_VOORT> vort <C 203_BEGEREN> beghert <C 471_DE> die <C 0_MEENTOCHT> meintucht <C 810_DAT> dat <C 440_NIEMAND> niemen <C 210_ZIJN> si <C 0_BALJUW> bailliu <C 421_DIE> die <C 474+700_DE/HET+BINNEN> binde<A >n</A> 
+<L 525:12> <C 104_BRUGS> brugschen <C 1_AMBACHT> ambochte <C 100_WOONACHTIG> wona<A >n</A>uch <VN type=1> <C 210_ZIJN> es <C 800_NO> no <C 1_SCHOUTHEET> Scouthete 
+<L 525:13> <q> 't% <C 500_VOORT> vort <C 230_ZIJN> waer <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 411_DIE> die <C 411_GENE> ghoene <C 411_DIE> die <C 0_BALJUW> bailliu <C 700_TE> te <C 21_BRUGGE> brugghe <C 441_ENIG> eneghe 
+<L 525:14> <C 0_DING> dinc <C 221_DOEN> dade <C 704_JEGEN> jeghe<A >n</A> <C 411_DIE> die <VN type=1> <C 0_WET> wet <C 700+475_VAN+DE> vand<A >er</A> <C 1_STAD> stede <C 800_EN> en<A >de</A> <C 403+403_HET+HIJ> hies <C 271_VERWINNEN> v<A >er</A>wo<A >n</A>ne <C 231_WORDEN> worde <C 700_BIJ> bi 
+<L 525:15> <C 115_GOED> goed<A >er</A> <C 114_WETACHTIG> wettachtighe<A >n</A> <C 14_LIEDEN> liede<A >n</A> <C 800_EN> & <C 700_BIJ> bi <C 14_SCHEPEN> scepene<A >n</A> <C 810_DAT> dat <C 403_HIJ> hie <C 500_NIMMERMEE> ne<A >m</A>merme <C 0_BALJUW> bailliu 
+<L 525:16> <C 260_WEZEN> wesen <C 231_MOGEN> mochte <C 474+700_DE/HET+BINNEN> binde<A >n</A> <C 104_BRUGS> brugsche<A >n</A> <C 1_AMBACHT> ambochte 
+<L 525:17> <q> 't% <C 500_VOORT> vort <C 203_BEGEREN> beghert <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 0_MEESTER> mest<A >er</A> <C 22_NICOLAAS> niclais <C 0_HUIS> hus <C 700_VAN> van <C 20_BIERVLIET> birvliet <C 800_EN> en<A >de</A> 
+<L 525:18> <C 700_VAN> van <C 474+320_DE/HET+AL> alden <C 1_LAND> lande <C 420_DAT> dat <C 403_HIJ> hie <C 221_KOPEN> cochte <C 704_JEGEN> jeghe<A >n</A> <C 20_EUSTACHIUS> stasin <C 20_LARDEKIN-X> lardekin <C 800_EN> & <C 700+474_VAN+DE/HET> vande<A >n</A> <C 309_HONDERD> c <C 19_LIBRA> lib 
+<L 525:19> <C 2+472_JAAR+HET> siars <C 421_DIE> die <C 403_HIJ> hie <C 221_KOPEN> cochte <C 704_JEGEN> ieghe<A >n</A> <C 471_DE> die <C 1_STAD> stede. <C 410_DAT> dat <C 0_HUIS> hus <C 800_EN> & <C 0_LAND> land <C 800_EN> & <C 320_AL> al <C 420+600_DAT+DAARTOE> datt<A >er</A>+toe 
+<L 525:20> <C 203_BEHOREN> behort <C 210_ZIJN> si <C 475_DE/HET> der <C 0_MEENTOCHT> meentucht <C 403+810_HET+BEDIE-DAT> bedi+dat <C 274_KOMEN> come<A >n</A> <C 210_ZIJN> es <C 475+700_DE+VAN> vander <C 0_MEENTOCHT> meintucht <C 500_VOORT> Vort <C 411_DIE> die 
+<L 525:21> <C 309_HONDERD> c <C 19_LIBRA> 't3lb <C 472+2_HET+JAAR> tsiars <C 420_DAT> dat <C 406_ZIJ> sie <C 101_KWIJT> quite <C 214_ZIJN> siin <C 800_EN> en<A >de</A> <C 440_MEN> men <C 403_HIJ> he<A >m</A> <C 610_DANEN-AF> danof <C 500_NIMMERMEE> ne<A >m</A>merme <C 201_GEVEN> gheue <C 800_NO> no 
+<L 525:22> <C 0_HALLING> allinc <C 800_NO> no <C 0_PENNING> pe<A >n</A>ninc 
+<L 525:23> <q> 't% <C 500_VOORT> vort <C 203_BEGEREN> beghert <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 411_DIE> die <C 414_GENE> ghoenen <C 421_DIE> die <C 440_MEN> men <C 510_HIER> hier <C 250_NOEMEN> nomen <C 210_ZULLEN> sal 
+<L 525:24> <C 810_DAT> dat <C 406_ZIJ> sie <C 500_NIMMERMEE> ne<A >m</A>merme <C 204_KOMEN> come<A >n</A> <C 700_IN> in <C 471_DE> die <C 0_WET> wet <C 700+475_VAN+DE> vander <C 1_STAD> stede <C 700_OM> o<A >m</A> <C 471_DE> die <C 0_MISDAAD> mesdaet <C 420_DAT> dat 
+<L 525:25> <C 406_ZIJ> sie <C 274_DOEN> ghedae<A >n</A> <C 214_HEBBEN> hebbe<A >n</A> <C 704_JEGEN> jeghen <C 471_DE> die <C 1_MEENTE> meente 
+<L 525:26> <q> 't% <C 500_VOORT> vort <C 203_BEGEREN> beghert <C 471_DE> die <C 0_MEENTOCHT> meentucht <C 810_DAT> dat <C 14_SCHEPEN> scepene<A >n</A> <C 500_NIMMERMEE> ne<A >m</A>merme <C 1_VONNIS> vo<A >n</A>nesse 
+<L 525:27> <C 204_ZEGGEN> zeghen <C 830+406_NE+ZIJ> siene <C 204_HEBBEN> hebben <C 309_13> xiii <C 14_SCHEPEN> scepene<A >n</A> 
+<L 525:28> <C 500_VOORT> vort <C 203_BETOGEN> betoghet <C 471_DE> die <C 1_MEENTE> meente <C 810_DAT> dat <C 411_DIE> die <C 474+700_DE/HET+VAN> vande<A >n</A> <C 104_SIJSEELS> ziecelschen <C 273_VRIJEN> ghevriet <C 234_ZIJN> waren 
+<L 525:29> <C 500_GELIJK> gheliec <C 474_DE> dien <VN type=1> <C 475+700_DE+VAN> vander <C 0_POORT> poert <C 800_EN> & <C 610_HENEN-AF> hinof <C 214_HEBBEN> hebben <C 406_ZIJ> sie <C 501_LANG> langhe <C 273_VERONRECHTEN> v<A >er</A>onrecht 
+<L 525:30> <C 284_ZIJN> iwesen 
+<L 525:31> <C 410_DIT> Dit <C 214_ZIJN> sin <C 411_DIE> die <C 414_GENE> goene<A >n</A> <C 421_DIE> die <C 274_BEDRAGEN> bedraghe<A >n</A> <C 214_ZIJN> sijn <C 700_VAN> van <C 320+475_AL+DE/HET> alder <C 0_MEENTOCHT> meentucht 
+<L 525:32> <C 20_LAMBERT> Lamb<A >er</A>t <C 1_TOLLENAAR> tolna<A >re</A> <C 20_GERARD> ger<A >art</A> <C 20_BONIJN-X> bonin <C 0_KANT> kant <C 700+475_BACHTEN+DE> bacht<A >er</A> <C 1_HAL> halle 
+<L 525:33> <C 20_PETRUS> piet<A >er</A> <C 471_DE> de <C 1_WEIDE> weide <C 29_MATTE'S1US> matheus <C 0_HOOFD> hoeft 
+<L 525:34> <C 20_JOHANNES> joh<A >anne</A>s <C 475+700_DE+BACHTEN> bacht<A >er</A> <C 1_HAL> halle <C 0_MEESTER> mest<A >er</A> <C 20_NICOLAAS> niclais <C 700_VAN> van <C 20_BIERVLIET> birvliet 
+<L 525:35> <C 29_PAULUS> powels <C 6_KALKER> calk<A >ra</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1280' jaar_van='1280' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

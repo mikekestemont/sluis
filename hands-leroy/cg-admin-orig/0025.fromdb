@@ -1,0 +1,56 @@
+<header>
+<docId>0025</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 79:38> <C 700_IN> j<A >n</A> <C 21_ZUIENKERKE> zuenk<A >erke</A> <q> de <q> terra <q> condam <C 29_BOUDEWIJN> boidini 
+<L 79:39> <q> .f. <C 29_WILHELM> w<A >illelm</A>i <q> .f. <C 22_GOSWIJN> gosins <q> clerici. <q> ? <q> census <q> perpetus <q> est <q> ecclesie <q> sancti 
+<L 79:40> <q> saluatoris.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1263' jaar_van='1263' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 79:43> <C 20_BOUDEWIJN> Boidekin <q> .f. <C 22_WILHELM> willems <q> .f. <C 22_GOSWIJN> gosins <q> clerici. <C 29_MARGARETA> margareta <q> eius <q> vxor. <q> et <C 29_ELISABETH> liskina 
+<L 79:44> <q> soror <q> predicti. <C 29_ZZZ> b. <q> vendiderunt <C 29_JOHANNES> johanni <q> filio <q> domini <C 22_LAMBERT> Lamsoets. <q> tres 
+<L 79:45> <q> mensuras <q> & <q> dimidiam <q> & <q> viginti <q> nouem <q> virgas <q> preter <q> sextam <q> partem 
+<L 79:46> <q> uirge. <q> terre <q> iacentis <q> iuxta <q> pomerium <C 22_JORDAAN> jurdaens. <q> f. <C 22_DANIEL> danekins <q> versus <C 0_OOST> oest. 
+<L 80:1> <q> in <q> parrochia <q> de <C 26_ZUIENKERKE> zuenk<A >er</A>ka. <q> que <q> terra <q> vocatur <C 0_STRENG> stringh. <C 0_DISTELSTUK> distelstich. <q> et 
+<L 80:2> <C 20_HARINGMEET> haringhsmeet. <q> Jtem <q> predicti. <C 29_ZZZ> b. <C 29_ZZZ> m. <q> eius <q> vxor. <q> & <C 29_ELISABETH> liskina <q> soror <q> dicti. <C 29_ZZZ> b. <C 800_EN> & 
+<L 80:3> <C 21_DANK> Tanke <q> .f. <C 22_REINBOUD> reinbouds. <C 26_MARGARETA> margareta <q> eius <q> vxor. <C 26_WOUTER> wout<A >ra</A> <q> .f. <C 22_GUITER> ghut<A >er</A>s. <C 29_ELISABETH> lisemoedis 
+<L 80:4> <q> eius <q> vxor. <q> vendiderunt <q> prefato <C 29_JOHANNES> joh<A >ann</A>i. <q> quinque <q> linas <q> & <q> octo <q> virgas 
+<L 80:5> <q> preter <q> sextam <q> partem, <q> uirge <q> terre <q> iacentis <q> in <q> eadem <q> parrochia <C 0+470+700_STUK+HET+IN> indstich 
+<L 80:6> <q> ante <q> domum <C 22_MICHAEL> gielmans <C 700*_TE> the <C 22_KOBOLD> cobbouds <C 1_WEG> weghe <C 700#_WAART> waerd. <C 800_EN> en<A >de</A> <C 700+470+20_IN+DE+ZUIDHARINGSMEET> indsuet 
+<L 80:7> <C 20*_-HARINGSMEET> haringhmeet. <q> Jtem <C 29_WILHELM> will<A >elm</A>us <q> dictus <C 20_HAMER> hamer. <q> vendidit <q> predicto <C 29_JOHANNES> ioha<A >n</A>ni 
+<L 80:8> <q> quartam <q> partem <q> vnius <q> mensure <q> terre <q> iacentis <q> in <q> predicto 
+<L 80:9> <C 20_ZUIDHARINGSMEET> suetharinghsmeet, <q> pro <q> quadam <q> pecunie <q> summa <q> prefatis <q> omnibus <q> ad 
+<L 80:10> <q> plenum <q> persoluta. <q> Hec <q> cognoscunt <q> Dominus <C 29_RIJKWARD> riquard<A >us</A> <q> de <C 4_STRATEN> straten 
+<L 80:11> <q> miles. <q> Dominus <C 29_WOUTER> walter<A >us</A> <q> de <C 21_HEILE> heile <q> miles. <q> Dominus <C 29_LAMBERT> lamb<A >er</A>tus <C 20_HAMER> ham<A >er</A> 
+<L 80:12> <C 100_JUNIOR> iunior <q> miles. <C 29_HENDRIK> heinric<A >us</A> <C 20_KROOK> croech. <C 29_JOHANNES> joha<A >n</A>nes <q> de <C 20_KLEIEM> cleiheem. <C 29_WOUTER> walter<A >us</A> <C 0_WEVEL> weuel. 
+<L 80:13> <C 800_EN> & <C 29_JOHANNES> joh<A >ann</A>es <C 0_WEVEL> weuel. <q> franci <q> scabini. <q> coram <q> quibus <q> predicti. <C 29_ZZZ> b. <C 29_ZZZ> m. <q> eius 
+<L 80:14> <q> vxor. <C 29_ELISABETH> liskina <q> soror <q> dicti. <C 29_ZZZ> b. <C 21_DANK> tanke <q> .f. <C 22_REINBOUD> reinbouds. <C 29_ZZZ> m. <q> eius <q> vxor. <C 29_WOUTER> walter<A >us</A> 
+<L 80:15> <q> .f. <C 22_GUITER> ghut<A >er</A>s. <C 20_ELISABETH> lisemoed <q> eius <q> vxor. <q> & <C 29_WILHELM> will<A >elm</A>us <q> dictus <C 20_HAMER> ham<A >er</A>. <C 224_UITGAAN> vtghinghen 
+<L 80:16> <C 472_DE/HET> des <C 2_LAND> landes. <C 800_EN> ende <C 224_GEVEN> ghauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte. <C 800_EN> ende <C 466+224+403_HEM+HALMEN+HET> halmentshem. <C 800_EN> en<A >de</A> 
+<L 80:17> <C 224_GEVEN> ghauen <C 510_DAAR> daer <C 0_LAND> land <C 800_EN> en<A >de</A> <C 0_WEG> wegh. <C 800_EN> en<A >de</A> <C 406_ZIJ> si <C 224_GELOVEN> ghelofden <C 470_HET> dat <C 0_LAND> land <C 414_DIE> dien <C 21_JOHANNES> janne <C 700_TE> the 
+<L 80:18> <C 1_WET> wette <C 251_GEWAREN> ghewaerne <C 700_TE> te <C 2+1_MAN+LEVEN> mansleuene. <C 800_EN> en<A >de</A> <C 700_TE> te <C 2_LAND> lands <C 1_LEGER> leghere. <q> Jn <q> Cuius <q> rei 
+<L 80:19> <q> testimonium. <q> nos <q> prefati <q> franci <q> scabini. <C 29_RIJKWARD> Riquard<A >us</A> <q> de <C 4_STRATEN> straten. <C 29_WOUTER> walter<A >us</A> 
+<L 80:20> <q> de <C 21_HEILE> heile. <C 29_LAMBERT> lamb<A >er</A>tus <C 20_HAMER> hamer <C 100_JUNIOR> iunior <q> milites. <C 29_HENDRIK> h<A >ei</A>nric<A >us</A> <C 20_KROOK> croech. <C 29_JOHANNES> jo<A >hann</A>es 
+<L 80:21> <q> de <C 20_KLEIEM> cleyheem. <C 29_WOUTER> walter<A >us</A> <C 0_WEVEL> weuel. <C 800_EN> & <C 29_JOHANNES> joh<A >ann</A>es <C 0_WEVEL> weuel. <q> presentes <q> litteras 
+<L 80:22> <q> sigillorum <q> nostrorum <q> munimine <q> dignumduximus <q> roborari. <q> actum <q> & 
+<L 80:23> <q> datum. <q> anno. <q> domini. <q> millesimo. <q> ducentesimo. <q> sexagesimo <q> tercio 
+<L 80:24> <q> sabbato <q> post <q> festum <q> beati <q> martini <q> hiemalis. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1263' jaar_van='1263' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

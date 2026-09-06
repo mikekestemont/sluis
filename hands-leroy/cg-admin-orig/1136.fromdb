@@ -1,0 +1,21 @@
+<header>
+<docId>1136</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1760:11> <C 999_ZZZ> [..]el <C 621#_DAAR-> dar <C 403_HIJ> hi <C 621*_-MEDE> mede <C 221_GELOVEN> gelouede <C 474_DE/HET> de<A >n</A> <C 1_GRAAF> g<A >ra</A>ue. 
+<L 1760:12> <C 301_TWEE> tue <C 14_LETTER> lett<A >er</A>en <C 421_DIE> die <C 403_HIJ> hi <C 221_HEBBEN> hadde <C 700_VAN> va<A >n</A> <C 474_DE/HET> de<A >n</A> <C 0_KONING> coning <C 20_WILHELM> wille<A >m</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

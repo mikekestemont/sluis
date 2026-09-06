@@ -1,0 +1,44 @@
+<header>
+<docId>0981</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='47' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<statushand  statushandkode='mn'>
+<L 1504:38> <C 401_IK> [Jc] <C 20_WILHELM> willaem <C 0_BUIZER> bu[s]er <C 1_PAROCHIEPAAP> prochypape <C 700_IN> in <C 21_HAZERSWOUDE> haserswoude <VN type=1> <C 201_DOEN> doe <VN type=1> <C 100_KOND> kont <C 800_EN> en<A >de</A> <VN type=1> 
+<L 1504:39> <C 100_KENLIJK> kenlic <VN type=1> <C 324_AL> allen <C 14_LIEDEN> luden <C 421_DIE> die <VN type=1> <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <VN type=1> <C 214_ZULLEN> zullen <C 250_LEZEN> [le]sen <VN type=1> <C 800_OF> of <C 260_HOREN> horen <C 250_LEZEN> lesen 
+<L 1504:40> <C 810_DAT> dat <C 401_IK> mi <C 0_HEER> haer <C 20_JOHANNES> jan <C 700_VAN> van <q> [...] <C 91_ZZZ> [...]woude <C 9_PRIESTER?> pr <VN type=1> <C 700_TOT> tot <C 20_HAARLEM> haerlem <VN type=1> <C 700+474_MET+DE/HET> metten <VN type=1> 
+<L 1504:41> <C 104_GEMEEN> ghemeenen <C 1_CONVENT> couente <C 700_VAN> van <C 20_HAARLEM> haerlem <C 810_DAT> dat <C 401_IK> ic <C 20_WILHELM> willaem <C 21_JOHANNES> ja<A >n</A>ne <VN type=1> <C 100_VOORNOEMD> voe[rn]oemt <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 1504:54> <C 100_KENLIJK> kenliic 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 1505:1> <C 999_ZZZ> [...]de <C 250_SCHELDEN> scelden <C 300_VIJFTEHALF> vijftalf <C 11_SCHELLING> scellengh[e] <C 110_HOLLANDS> hollan[s] <VN type=1> <C 472+2_HET+JAAR> [sjae]rs <VN type=1> <C 421_DIE> die <C 471_DE> die 
+<L 1505:2> <C 101_PAPELIJK> papelike <C 1_PROVE> proue <C 221_HEBBEN> hadde <C 700_VAN> van <C 412_DIE> [d]ies <q> [...] <C 20_HAARLEM> harl[em] <C 700_MET> met 
+<L 1505:3> <C 324_AL> allen <VN type=1> <C 111_VOORGENOEMD> vorghe[noemde] <C 14_STUK> sticken <VN type=1> <C 810_DAT> dat <C 401_IK> mi <C 610_DAARVAN> daer+van <VN type=1> <C 220_GEBREKEN> ghebrac <C 810_WANT> want <C 491_WIE> wi <C 491_DIE> die 
+<L 1505:4> <C 999_ZZZ> [...]en <C 500_TOEN> doe <C 560_NE> en <C 221_HEBBEN> haede <C 999_ZZZ> d[] <q> [...] <C 20_WILHELM> willaem <VN type=1> <C 20_JOHANNES> jan 
+<L 1505:5> <q> [...] <C 91_EED> hede <C 700_VOOR> voer <C 470_HET> dat <C 101_MEEN> meenne <C 0_CONVENT> couent <q> [...] <C 203_SCHELDEN> [sc]helt <VN type=1> 
+<L 1505:6> <C 500_ALTEGADER> altegader <C 100_KWIJT> quit <C 510_HIER> hie[r] <q> [...] <q> [...] <C 91_ZZZ> sande <VN type=1> <C 700_VAN> van <C 21_HAZERSWOUDE> hazerswoude 
+<L 1505:7> <C 700_TE> te <C 20_HAARLEM> hae[rl]em <C 290_MOETEN> moet <C 700_AAN> an <C 471_DE> de <VN type=1> <C 992_LAKLAAS> laclaeys <VN type=1> <C 310+470_ANDER+DE> dand<A >er</A> <C 999_ZZZ> soe[] <q> [...] <C 29_NICOLAAS> cleys 
+<L 1505:8> <q> [...] <C 700_IN> [i]n <C 4_KENNIS> kennessen <C 475_DE/HET> der <C 0_WAARHEID> waerheyt <C 210+401_HEBBEN+IK> hebbic <C 414_DEZE> desen <C 0_BRIEF> brief <VN type=1> 
+<L 1505:9> <C 100_OPEN> open <C 273_BEZEGELEN> bezeghelt <C 700_MET> met <C 454_MIJN> [minen] <C 0_ZEGEL> [zeghel] <C 274_GEVEN> ghegheue[n] <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heere[n] 
+<L 1505:10> <C 300_1290> m'ho+cc'ho+en<A >de</A>+tneghentich <C 700_OP> vp <C 101_SINT> sinte <C 22_THOMAS> thomaes <C 0_DAG> da[c]h <C 2_APOSTEL> ap[ostels] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='47' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

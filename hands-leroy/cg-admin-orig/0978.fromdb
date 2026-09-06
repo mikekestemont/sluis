@@ -1,0 +1,36 @@
+<header>
+<docId>0978</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1499:42> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_MAKEN> maken <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen 
+<L 1499:43> <C 0_BRIEF> brief <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 801_OF> ofte <C 250_HOREN> horen <C 810_DAT> dat <C 404_WIJ> wi <C 700_VAN> van <C 474_DE/HET> den <C 1_TWIST> tviste <C 421_DIE> die <C 273_ZIJN> gheweset <C 213_HEBBEN> heuet 
+<L 1499:44> <C 704_TUSSEN> tusscen <C 451_ONS> onse <C 0_POORT> port <C 700_VAN> van <C 101_SINT> sente <C 21_GEERTRUIDENBERG> geerden+b<A >er</A>ghe <C 800_EN> en<A >de</A> <C 471_DE> die <C 14_AMBACHTSHEER> ambochtsheren 
+<L 1499:45> <C 700_VAN> van <C 20_ZUIDHOLLAND> suethollant,, <C 550_ZO> soe <C 200_ZIJN> es <C 810_DAT> dat <C 451_ONS> onse <C 0_ZEGGEN> segghen <C 701_OM> o<A >m</A>me <C 406_ZIJLIEDEN> hem+luden 
+<L 1499:46> <C 700+251_TE+BESCHEIDEN> tebesceydene <C 470+700_HET+IN> int <C 311_EERST> eerste <C 810_DAT> dat <C 321_AL> alle <C 471_DE> die <C 411_GENE> ghene <C 421_DIE> die <C 500_NU> nu <C 204_WONEN> wonen <C 700_TOT> toet <C 101_SINT> sente 
+<L 1500:1> <C 21_GEERTRUIDENBERG> geerdenberghe <C 800_OF> of <C 421_DIE> die <C 451_HAAR> hore <C 14_POORTER> portren <C 214_ZIJN> siin <C 810_DAT> dat <C 406_ZIJ> sii <C 214_ZULLEN> sullen <C 250_BLIJVEN> bliuen <C 700_IN> in <C 321_AL> alle <C 414_DIE> dien 
+<L 1500:2> <C 1_RECHT> rechte <C 620*_DAAR-> daer <C 500_NU> nv <C 471_DE> die <C 14_POORTER> portren <C 700_VAN> van <C 101_SINT> sente <C 21_GEERTRUIDENBERG> gheerdenb<A >er</A>ghe <C 204+620#_ZIJN+-IN> insiin,, <C 800_EN> en<A >de</A> <C 230_ZIJN> waer 
+<L 1500:3> <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 610_HIERNAAR> hier+naer <C 440_ENIG> enich <C 100_EIGEN> eyghin <C 0_MAN> man <C 1_POORTER> portre <C 211_WORDEN> worde <C 700+474_TE+DE/HET> ten <C 21_BERG> b<A >er</A>ghe <C 800_EN> en<A >de</A> 
+<L 1500:4> <C 810_DAT> dat <C 403_HIJ> hi <C 560_NIET> niet <C 273_BEKLAGEN> beclaghet <C 211+560_WORDEN+NE> enworde <C 701_BINNEN> binne <C 0_JAAR> iaer <C 800_EN> en<A >de</A> <C 701_BINNEN> binne <C 1_DAG> daghe <C 550_ZO> soe <C 231_ZULLEN> soude <C 403_HIJ> hi 
+<L 1500:5> <C 250_BLIJVEN> bliuen <C 861_ALS> alse <C 100_VRIJ> vri <C 860_ALS> als <C 480_EEN> een <C 1_POORTER> portre <C 700_VAN> van <C 704_BINNEN> binnen <C 421_DIE> die <C 560_NIET> niet <C 100_EIGEN> eyghen <C 560+210_NE+ZIJN> enhes,, <C 500_VOORT> voert 
+<L 1500:6> <C 210_ZIJN> es <C 410_DAT> dat <C 451_ONS> onse <C 0_ZEGGEN> segghen <C 810_DAT> dat <C 471_DE> die <C 14_POORTER> portren <C 421_DIE> die <C 204_WONEN> wonen <C 1+700*+700#_LAND+WAART+TE> telandewart <C 704_BUITEN> buden <VN type=1> <C 475_DE/HET> der 
+<L 1500:7> <C 0_POORT> port <C 411_DIE> die <C 214_ZULLEN> sullen <C 250_WONEN> wonen <C 510_ALDAAR> al+daer <C 701_TOT> tote <C 1_BAAFSMIS> bamisse <C 421_DIE> die <C 500_NAAST> naest <C 203_KOMEN> coemt <C 700_IN> in <C 414_ALZULK> alsulken 
+<L 1500:8> <C 1_PUNT> poente <C 406+820_ZIJ+ALS> alsi <C 500_NU> nv <C 204_WONEN> wonen,, <C 800_EN> en<A >de</A> <C 700_NA> na <C 101_SINT> sente <C 1_BAAFSMIS> bamisse <C 210_ZIJN> es <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 406_ZIJ> sii <C 511_DAN> da<A >n</A>ne 
+<L 1500:9> <C 704_BUITEN> buten <C 451_HAAR> hore <C 0_POORT> port <C 204_MISDOEN> mesdoen <C 810_DAT> dat <C 214_ZULLEN> sullen <C 406_ZIJ> sii <C 250_BETEREN> betren <C 700_BIJ> bi <C 414_ALZULK> al+sulken <C 1_RECHT> rechte <C 820_ALS> als <C 510_DAAR> daer 
+<L 1500:10> <C 200_ZIJN> es <C 520_DAAR> daer <VN type=1> <C 406_ZIJ> sii <C 204_MISDOEN> mesdoen <C 700_IN> in <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieve <C 274_GEVEN> ghegheven <C 470+700_HET+IN> int <C 0_JAAR> iaer 
+<L 1500:11> <C 452_ONS> ons <C 4_HEER> heren <C 300_1000-290> dusent+tvehondert+en<A >de</A>+neghetich <C 1_MAANDAG> manendaghe <C 700_VOOR> vor <C 101_SINT> sente 
+<L 1500:12> <C 24+1_LUCIA+DAG> luciendaghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

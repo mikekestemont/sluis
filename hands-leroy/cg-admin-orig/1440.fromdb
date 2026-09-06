@@ -1,0 +1,37 @@
+<header>
+<docId>1440</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2206:9> <C 24_SPERMALIE> sparmailgen.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> de <q> .xx. <q> s. <q> annuis <q> erga. 
+<L 2206:10> <C 29_WOUTER> w'ho <q> f <q> pet<A >ri</A> <q> de <C 21_PEELHOEK> peelhoeke <C 700_IN> jn <C 21_MOERKERKE> moerk<A >erke</A>.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+<C 21_MOERKERKE> Moerk<A >erke</A>. <q> anno 
+<L 2206:11> <q> .m'ho.cc'ho.xcv'ho.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> xx <C 19_SOLIDUS> 't3s <C 110_PARIJS> p<A >arisis</A> <C 101_ERFELIJK> eruelicke <q> rente<A >n</A>.- <q> beset <C 700_OP> vp <C 309_EEN> j 
+<L 2206:12> <C 0_GEMET> ymet <q> xx <C 19_SOLIDUS> 't3s. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

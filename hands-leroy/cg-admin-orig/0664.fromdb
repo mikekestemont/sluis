@@ -1,0 +1,193 @@
+<header>
+<docId>0664</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1113:13> <C 0_PLAN> plan <q> anno <q> lxxxvi. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1113:20> <q> Conputatio <q> magistrorum <q> de <C 0_SLUIS> slus. <q> domini <C 29_BOUDEWIJN> boud<A >ini</A> <C 2_BROEKER> brokers. <C 29_BOUDEWIJN> boidini <q> de 
+<L 1113:21> <C 21_POEL> poule <C 29_JOHANNES> ioh<A >ann</A>is <q> f <C 24_SCHONE> sconen. <C 29_WOUTER> walteri <C 22_RIJKBOUD/RIJKBODE> ribods <q> clerisi. <q> facta <q> aput <C 0_SLUIS> slus <q> feria 
+<L 1113:22> <q> quarta <q> post <q> pasca. <q> anno <q> domini <q> m'ho <q> c'hoc'ho <q> lxxxvi. 
+<L 1113:23> <q> Offisium <q> remansit <q> habens <q> vltra <q> cxxv <q> lib <q> xviii <q> s <q> vii <q> d 
+<L 1113:25> <q> Resepta 
+<L 1113:27> <q> de <q> arreragio <q> de <q> anno <q> preterito <q> cxxv <q> lib <q> xviii <q> s <q> vii <q> d 
+<L 1113:28> <q> item <q> de <q> denariis <q> aquatisis <q> .ccclv. <C 14_HOEVE> houin. <q> inde <q> .ii. <q> s <q> de <q> mensura <q> valent 
+<L 1113:29> <q> .mmmd. <q> lib <q> L <q> lib 
+<L 1113:30> <q> item <q> de <q> redditibus <q> offisii <q> xxxvii <q> s 
+<L 1113:31> <q> item <q> de <q> testamento <C 20_LAURENTIUS> louerin <C 20_VINE-X> vines <q> xxi <q> lib <q> xvi <q> s 
+<L 1113:32> <q> item <q> de <q> testamento <q> vxoris <C 22_AEGIDIUS> gillis <C 22_KLAUWAARD> clauards <C 309_TIEN> x <C 19_LIBRA> lib 
+<L 1113:33> <C 500_ITEM> it<A >em</A> <C 474+700_DE/HET+VAN> vanden <C 14_SPAAN> spaneren <C 309_9> ix <C 19_LIBRA> lib <C 309_40> xl <C 19_DENARIUS> d 
+<L 1113:34> <q> Summa <q> mmmdcc <q> lib <q> xviii <q> lib <q> xiiii <q> s <q> xi <q> d 
+<L 1113:36> <q> Data 
+<L 1113:38> <C 700+475_TE+DE> ter <C 0_SLUIS> slus <C 700_TE> te <C 251_VERSLAAN> verslane <C 309_TIEN> x <C 14_PLANK> plank<A >en</A> <C 700_TE> te <C 309_TIEN> x <C 19_SOLIDUS> 't3s <q> summa <C 309_5> v <C 19_LIBRA> lib 
+<L 1113:39> <C 500_ITEM> it<A >em</A> <C 309_8> viii <C 14_PLANK> plank<A >en</A> <C 700_TE> te <C 309_3,5> iii't! <C 9_SOLIDUS> 't3s <q> summa <C 309_28> xxviii <C 19_SOLIDUS> 't3s 
+<L 1113:40> <C 500_ITEM> it<A >em</A> <C 481_EEN> ene <C 0_SPAR> spar <C 700_TE> te <C 484_EEN> enen <C 1_SLEUTEL> slotele <C 309_TIEN> x <C 19_SOLIDUS> 't3s 
+<L 1113:41> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 309_18> xviii <C 19_DENARIUS> d 
+<L 1113:42> <C 700_TE> te <C 251_VOEREN> vorene <C 309_TIEN> x <C 19_SOLIDUS> 't3s 
+<L 1113:43> <C 700+251*+251#_TE+OP-+-DOEN> vptedone <C 309_16> xvi <C 19_DENARIUS> d 
+<L 1113:44> <q> quatuor <q> carpentarii <q> quilibet <q> .ii. <q> dies. <C 700_TE> te <q> xx <q> d <q> summa <q> xiii <q> s <q> iiii <q> d 
+<L 1113:45> <C 0_SLUIS> slus <C 700_TE> te <C 251_VERSLAAN> v<A >er</A>slane <C 309_28> xxviii <C 19_SOLIDUS> 't3s 
+<L 1113:46> <q> de <q> lingno <q> emto <q> propter <C 0_STADBOOM> stetboem 
+<L 1114:1> <q> contra <C 20_JOHANNES> iha<A >n</A> <q> de <C 20_DORDRECHT> durd<A >ra</A>g <C 309_106> .cvi. <C 14_BALK> balk<A >en</A>. <C 700_TE> te <q> xiii <q> s <q> summa <q> lxviii <q> lib <q> xviii <q> s 
+<L 1114:2> <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_225> .ccxxv. <C 14_BALK> balk<A >en</A> <C 700_TE> te <q> xiii <q> s <q> summa <q> cxlvi <q> lib <q> v <q> s 
+<L 1114:3> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 0_STUK> stic <C 309_EEN> .i. <C 19_DENARIUS> d <q> summa <q> xxvii <q> s <q> vii <VN type=1> <q> d 
+<L 1114:4> <C 700_TE> te <C 251_VOEREN> vorene <C 320_ELK> elc <C 309_155> .c.+lv <C 19_SOLIDUS> 't3s <q> summa <q> ix <q> lib <q> ii <q> s 
+<L 1114:5> <C 251*+251#+700_-DOEN+OP-+TE> vptedone <C 320_ELK> elc <C 0_STUK> stic <C 309_2> ii <C 19_DENARIUS> d <q> summa <q> lv <q> s <q> ii <q> d 
+<L 1114:6> <q> item <q> contra <C 20_JOHANNES> iha<A >n</A> <q> de <C 20_DORDRECHT> durd<A >ra</A>g <C 309_270> .cclxx. <C 14_BALK> balk<A >en</A>. <C 700_TE> te <C 309_12,5> xii't! <C 9_SOLIDUS> 't3s <q> summa <q> clxviii <q> lib 
+<L 1114:7> <q> xv <q> s 
+<L 1114:8> <q> item <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <q> .ccxl. <C 700_TE> te <q> xii't! <q> s <q> summa <q> cl <q> lib 
+<L 1114:9> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 0_STUK> stic <C 309_EEN> .i. <C 19_DENARIUS> d <q> summa <q> xlii <q> s <q> ii <q> d 
+<L 1114:10> <C 700_TE> te <C 251_VOEREN> vorene <C 320_ELK> elc <C 309_150> c+L <C 19_SOLIDUS> 't3s <q> summa <q> xii <q> lib <q> xv <q> s 
+<L 1114:11> <C 251*+251#+700_OP-+-DOEN+TE> vptedone <C 320_ELK> elc <C 0_STUK> stic <C 309_2> ii <C 19_DENARIUS> d <q> summa <q> iiii <q> lib <q> iiii <q> s <q> iiii <q> d 
+<L 1114:12> <C 700_VAN> van <C 1_GAREN> garene <C 474+700_DE/HET+TE> ten <C 14_REEP> repen <C 309_32> xxxii <C 19_SOLIDUS> 't3s 
+<L 1114:13> <C 309_6> .vi. <C 1_HOUT> houte <C 700_TE> te <C 14_HANDBOOM> handbomen <C 309_6> .vi. <C 19_SOLIDUS> 't3s 
+<L 1114:14> <C 309_15> .xv. <C 11_HOUT> houte. <C 651_MEDE> mede <C 700_TE> te <C 251_VANGEN> vangene <C 474_DE/HET> den <C 0_STADBOOM> stetbom <C 309_3> iii <C 19_LIBRA> lib <C 309_15> xv <C 19_SOLIDUS> 't3s 
+<L 1114:15> <C 700_VAN> van <C 1_ZAGEN> zaghene <C 309_50> L <C 19_SOLIDUS> 't3s 
+<L 1114:16> <q> item <q> contra <C 20_JOHANNES> iha<A >n</A> <q> de <C 20_DORDRECHT> durd<A >ra</A>g <C 309_HONDERD> c <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <q> summa <q> lx <q> lib 
+<L 1114:17> <q> item <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_150> cl <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <q> summa <q> xc <q> lib 
+<L 1114:18> <q> item <q> contra <C 20_JACOB> coppin <C 21_KALF> calfe <C 309_25> xxv <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_13> xiii <C 19_SOLIDUS> 't3s <q> summa <q> xvi <q> lib <q> v <q> s 
+<L 1114:19> <q> jtem <q> contra <C 20_JACOB> iacob <C 21_VESTERT> vast<A >ra</A>de <C 309_85> lxxxv <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <q> summa <q> li. <q> lib 
+<L 1114:20> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 0_STUK> stic <C 309_EEN> i <C 19_DENARIUS> d <q> summa <q> xxx <q> s <q> ii <q> d 
+<L 1114:21> <C 700_TE> te <C 251_VOEREN> vorene <C 320_ELK> elc <C 309_155> .c.+lv <C 19_SOLIDUS> 't3s <q> summa <q> ix <q> lib <q> xviii <q> s <q> ii <q> d 
+<L 1114:22> <C 251*+700+251#_-DOEN+TE+OP-> vptedone <C 320_ELK> elc <C 0_STUK> stic <C 309_3> iii <C 19_DENARIUS> d <q> summa <q> iiii't! <q> lib 
+<L 1114:23> <q> Summa <q> dccc <q> lib <q> xvii <q> lib <q> ii <q> s <q> ix <q> d 
+<L 1114:25> <q> item <q> contra <C 20_JOHANNES> iha<A >n</A> <q> de <C 20_DORDRECHT> durd<A >ra</A>g <C 309_177> clxxvii <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_13> xiii <C 19_SOLIDUS> 't3s <q> summa <q> cxv <q> lib <q> xii 
+<L 1114:26> <q> d 
+<L 1114:27> <q> item <q> cclxxxviii't! <C 700_TE> te <q> xii <q> s <q> iiii <q> d <q> summa <q> clxxvii <q> lib <q> xviii <q> s <q> ii <q> d 
+<L 1114:28> <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_150> .cc't!. <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <C 309_4> iiii <C 19_DENARIUS> d <q> summa <q> cxxiii <q> lib <q> xii 
+<L 1114:29> <q> s <q> x <VN type=1> <q> d 
+<L 1114:30> <q> contra <C 20_WILHELM> wille<A >m</A> <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_57> lvii <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <C 309_3> iii <C 19_DENARIUS> d <q> summa <q> xxxiiii <q> lib <q> xviii 
+<L 1114:31> <q> s <q> iii <q> d 
+<L 1114:32> <q> item <q> c <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_TIEN> x <C 19_SOLIDUS> 't3s <q> summa <q> L <q> lib 
+<L 1114:33> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 0_STUK> stic <C 309_EEN> i <C 19_DENARIUS> d <q> summa <q> iii <q> lib <q> ix <q> s <q> v <q> d 
+<L 1114:34> <C 700_TE> te <C 251_VOEREN> vorene <C 320_ELK> elc <C 309_103> c+iii <C 19_LIBRA> lib <VN type=1> <q> summa <q> xxv <q> lib 
+<L 1114:35> <C 251*+251#+700_-DOEN+OP-+TE> vptedone <C 320_ELK> elc <C 0_STUK> stic <C 309_3> iii <C 19_DENARIUS> d <q> summa <q> x <q> lib <VN type=1> <q> viii <q> s 
+<L 1114:36> <q> item <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_30> xxx <C 11_HOUT> houte <C 309_7,5> vii't! <C 9_LIBRA> lib 
+<L 1114:37> <C 300_EEN> en <C 1_AAS> ase <C 700_TE> te <C 309_2> ii <C 14_BLOK> blocen <C 309_35> xxxv <C 19_SOLIDUS> 't3s 
+<L 1114:38> <C 700_VAN> van <C 1_GAREN> garene <C 474+700_DE/HET+TE> ten <C 14_REEP> repen <C 309_3> iii <C 19_LIBRA> lib <C 309_4> iiii <C 19_SOLIDUS> 't3s 
+<L 1114:39> <C 700_TE> te <C 251_VOEREN> vorene <C 410_DIT> dit <C 0_HOUT> hout. <C 800_EN> ende <C 410_DIT> dit <C 0_GAREN> garen <C 309_20> xx <C 19_SOLIDUS> 't3s 
+<L 1114:40> <q> jtem <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_200> cc <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <C 309_3> iii <C 19_DENARIUS> d <q> summa <q> cxxii't! <q> lib 
+<L 1114:41> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_LADEN> ladene <C 320_ELK> elc <C 0_STUK> stic <C 309_EEN> .i. <C 4_TOURNOOIS> t<A >or</A>noisen <VN type=1> <q> summa <q> xx <q> s 
+<L 1114:42> <C 700_TE> te <C 251_VOEREN> vorene <C 320_ELK> elc <C 309_103> c+iii <C 19_LIBRA> lib <q> summa <q> vi <q> lib 
+<L 1115:1> <C 251*+251#+700_OP-+-DOEN+TE> vptedone <C 320_ELK> elc <C 0_STUK> stic <C 309_3> iii <C 19_DENARIUS> d <q> summa <q> L <q> s 
+<L 1115:2> <q> item <q> contra <C 20_JOHANNES> iha<A >n</A> <q> de <C 20_DORDRECHT> durd<A >ra</A>g <C 309_481,5> cccclxxxi't! <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <C 799_PRETER> p<A >reter</A> <C 309_3> iii <C 19_DENARIUS> d 
+<L 1115:3> <q> summa <q> cclxxxii <q> lib <q> xvii <q> s <q> ix <q> d 
+<L 1115:4> <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_300,5> ccc't! <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_12> xii <C 19_SOLIDUS> 't3s <q> summa <q> clxxx <q> lib <q> vi <q> s 
+<L 1115:5> <C 500_ITEM> it<A >em</A> <C 309_186> clxxxvi <C 14_BALK> balk<A >en</A> <C 700_TE> te <C 309_13,5> xiii't! <C 9_SOLIDUS> 't3s <q> summa <q> c <q> xxv <q> lib <q> xi <q> s 
+<L 1115:6> <C 500_ITEM> [it<A >em</A>] <q> [lxvi] <C 14_BALK> [balk<A >en</A>] <C 700_TE> te <q> [.....] <VN type=1> <q> summa <q> xxi <q> lib <q> xiiii <q> s 
+<L 1115:7> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 250_LADEN> laden <C 309_7> vii <C 19_LIBRA> lib <C 309_14> xiiii <C 19_SOLIDUS> 't3s <C 309_3> iii <C 19_DENARIUS> d 
+<L 1115:8> <C 700_TE> te <C 251_VOEREN> vorene <C 309_36> xxxvi <C 19_LIBRA> lib <C 309_5> v <C 19_SOLIDUS> 't3s <C 309_8> viii <C 19_DENARIUS> d 
+<L 1115:9> <C 251*+700+251#_-DOEN+TE+OP-> vptedone <C 309_11> xi <C 19_LIBRA> lib <C 309_15> xv <C 19_SOLIDUS> 't3s 
+<L 1115:10> <C 700_VAN> van <C 1_HOUT> houte <C 502_BINNENSLANDS> binslans <C 700_TE> te <C 251_VERVOEREN> v<A >er</A>uorene <C 309_5> v <C 19_LIBRA> lib 
+<L 1115:11> <C 471_DE> die <C 1_HEI> heie <C 700_TE> te <C 251_WACHTEN> wagtene <C 309_5> v <C 19_LIBRA> lib 
+<L 1115:12> <q> de <q> lingno <q> propter <C 14_TINGELEN> tingelen 
+<L 1115:13> <q> contra <C 20_HENDRIK> h<A >einri</A>c <C 20_SNAGGAARD-X> snag<A >ard</A> <C 309_800> dccc <C 11_BORD> barde <C 700_TE> te <C 309_3,5> iii't! <C 9_LIBRA> lib <q> summa <q> xxviii <q> lib 
+<L 1115:14> <q> contra <C 24_BARIJN> barinen <C 309_700> dcc <C 14_DUIG> dughen <C 700_TE> te <C 309_15> xv <C 19_SOLIDUS> 't3s <q> summa <q> v <q> lib <q> v <q> s 
+<L 1115:15> <q> item <q> dccl <C 700_TE> te <q> xiiii <q> s <q> summa <q> v <q> lib <q> v <q> s 
+<L 1115:16> <q> item <q> mdc <C 700_TE> te <q> ix <q> s <q> summa <q> vii <q> lib <q> xi <q> s 
+<L 1115:17> <q> item <q> contra <C 21_VOSJE> voskine <C 309_1200> mcc <C 14_DUIG> dughe<A >n</A> <C 700_TE> te <C 309_9> ix <C 19_SOLIDUS> 't3s <q> summa <q> v <q> lib <q> viii <q> s 
+<L 1115:18> <q> item <q> contra <C 20_WOUTER> w<A >outer</A> <C 1_KUIPER> cupere <C 309_600> dc <C 700_TE> te <C 309_16> xvi <C 19_SOLIDUS> 't3s <q> summa <q> iiii <q> lib <q> xvi <q> s 
+<L 1115:19> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_VOEREN> vorene <C 309_5> v <C 19_LIBRA> lib <C 309_13,5> xiii't! <C 9_SOLIDUS> 't3s 
+<L 1115:20> <C 500_ITEM> it<A >em</A> <C 700_VAN> van <C 1_ZAGEN> zaghene <C 14_BALK> balk<A >en</A> <C 621_DAARMEDE> dar+mede <C 273_TINGELEN> ghetingelt <C 230_ZIJN> was <C 309_13> xiii <C 19_LIBRA> lib 
+<L 1115:21> <q> Summa <q> mcccc <q> lib <q> xv <q> lib <q> v <q> s <q> i <q> d <VN type=1> 
+<L 1115:23> <q> de <q> feria <q> secunda <q> ante <C 29_GEORGIUS> ieorgii <q> vsque <q> ad <C 21_MAGDALENA> madalene <q> per <q> lxxii <q> dies. <q> qualibet 
+<L 1115:24> <q> die <q> operarii <q> lxx <C 700_TE> te <C 309_6> vi <C 19_DENARIUS> d <q> summa <q> cxxvi <q> lib 
+<L 1115:25> <q> item <q> de <C 21_MAGDALENA> madalene <q> vsque <q> ad <C 29_AEGIDIUS> egidii <q> .xxx. <q> dies. <q> qualibet <q> die <q> operarii <q> .lxx. 
+<L 1115:26> <C 700_TE> te <C 309_9> ix <C 19_DENARIUS> d <q> summa <q> lxxviii <q> lib <q> xv <q> s 
+<L 1115:27> <q> item <q> ab <q> augusto <q> vsque <q> ad <q> martini <q> per <q> xlviii <q> dies <q> qualibet <q> die <q> operarii 
+<L 1115:28> <q> .lxx. <C 700_TE> te <C 309_7> vii <C 19_DENARIUS> d <q> summa <q> xcvi <q> lib <q> v <q> s 
+<L 1115:29> <q> item <q> de <q> martini <q> vsque <q> ad <q> carnipriuium <q> operarii <q> xxi <q> lib <q> xiiii <q> s 
+<L 1115:30> <C 20_ARNOUT> arn<A >oud</A> <q> f <C 22_ARNOUT> noids <C 309_186> .clxxxvi. <q> dies <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xv't! 
+<L 1115:31> <C 20_WOUTER> w<A >outer</A> <VN type=1> <q> f <q> cxciiii <C 700_TE> te <q> xx <q> d <q> summa <q> xvi <q> lib <q> xl <q> d 
+<L 1115:32> <C 20_NICOLAAS> clais <C 21_HIDDE> hidde <C 309_194> cxciiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvi <q> lib <q> xl <q> d 
+<L 1115:33> <C 20_BOUDEWIJN> boud<A >en</A> <C 0_HAZELIJN> haselin <C 309_203> .cciii. <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvi <q> lib <q> xviii <q> s <q> iiii <q> d 
+<L 1115:34> <q> filius <q> suus <q> clxx <q> te <q> xvi <q> d <q> summa <q> xi <q> lib <q> vi <q> s <q> viii <q> d 
+<L 1115:35> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <C 20_HUBIJN-X> hubin <C 309_205> .ccv. <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvii <q> lib <q> xx <q> d 
+<L 1115:36> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <q> f <C 20_RIJKWARD> riq<A >uar</A>d <C 309_180> clxxx <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xv <q> lib 
+<L 1115:37> <C 20_BRUNO> bru<A >n</A>man <C 309_195> cxcv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvi <q> lib <q> v <VN type=1> <q> s 
+<L 1115:38> <C 20_JOHANNES> ha<A >n</A>nin <q> de <C 1_WAL> walle <C 309_194> cxciiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvi <q> lib <q> xl <q> d 
+<L 1115:39> <C 21_WILHELM> wille <C 20_GODE> godek<A >in</A> <C 309_205> ccv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvii <q> lib <q> xx <q> d 
+<L 1115:40> <C 20_RIJKWARD> riq<A >uar</A>d <q> f <C 22_WOUTER> weitins <C 309_181> clxxxi <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xv <q> lib <q> xx <q> d 
+<L 1115:41> <C 20_AEGIDIUS> gillis <C 22_WARMOND> waremons <C 309_180> clxxx <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xv <q> lib 
+<L 1115:42> <C 20_WOUTER> weitk<A >in</A> <C 0_KNUUT> knut <C 309_175> clxxv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xiiii <q> lib <q> xi <q> s <q> viii <q> d 
+<L 1115:43> <C 20_NICOLAAS> clais <q> f <C 22_WOUTER> w<A >outers</A> <C 309_175> clxxv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xiiii <q> lib <q> xi <q> s <q> viii <q> d 
+<L 1116:1> <C 20_HENDRIK> heinek<A >in</A> <q> f <C 22_WOUTER> w<A >outers</A> <C 309_204> cciiii <C 700_TE> te <C 309_16> xvi <C 19_DENARIUS> d <q> summa <q> xiii <q> lib <q> xii <q> s 
+<L 1116:2> <C 20_WILHELM> wille<A >m</A> <q> f <C 22_WILHELM> willek<A >ins</A> <C 309_194> cxciiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xvi <q> lib <q> xl <q> d 
+<L 1116:3> <C 20_WILHELM> willek<A >in</A> <C 1_WAGENMAKER> waghenmakere <C 309_175> clxxv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xiiii <q> lib <q> xi <q> s <q> viii <q> d 
+<L 1116:4> <C 20_LAMBERT> la<A >m</A>mek<A >in</A> <q> f <C 24_GEILE> ghieilen <VN type=1> <C 309_160> clx <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xiii <q> lib <q> vi <q> s <q> viii <q> d 
+<L 1116:5> <C 20_PETRUS> pit<A >er</A> <q> f <C 22_LAMBERT> la<A >m</A>mek<A >ins</A> <C 309_84> lxxxiiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> vii <q> lib 
+<L 1116:6> <C 21_JOHANNES> ha<A >n</A>ne <C 104_RIJK> rik<A >en</A> <C 309_84> lxxxiiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> vii <q> lib 
+<L 1116:7> <C 20_JOHANNES> ha<A >n</A>nin <C 26_GUITER> gut<A >ra</A> <C 309_85> lxxxv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> vii <q> lib <q> xx <q> d 
+<L 1116:8> <C 20_WILHELM> willin <C 0_VOSJE> vosk<A >in</A> <C 309_60> lx <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> v <q> lib 
+<L 1116:9> <C 20_RIJKWARD> riq<A >uar</A>d <q> f <C 24_ELISABETH> lisen <C 309_61> lxi <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> v <q> lib <q> xx <q> d 
+<L 1116:10> <C 20_THOMAS> mais <q> de <C 4_STRATEN> st<A >ra</A>ten <C 309_15> xv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> xxv <q> s 
+<L 1116:11> <C 20_JACOB> iacob <C 20_HEERMAAR-X> heremar <C 309_73> lxxiii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> vi <q> lib <q> xx <q> d 
+<L 1116:12> <C 20_LAMBERT> la<A >m</A>mek<A >in</A> <C 20_ARNOUT> noid <C 309_62> lxii <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> v <q> lib <q> xl <q> d 
+<L 1116:13> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <C 104_FRANK> vrank<A >en</A> <C 309_105> cv <C 700_TE> te <C 309_20> xx <C 19_DENARIUS> d <q> summa <q> ix <q> lib <q> v <q> s 
+<L 1116:14> <C 20_JOHANNES> ha<A >n</A>nin <q> f <C 22_ARNOUT> noids <C 309_230> ccxxx <C 700_TE> te <C 309_2> ii <C 19_SOLIDUS> 't3s <q> summa <q> xxiii <q> lib 
+<L 1116:15> <C 700+474_VAN+DE/HET> vanden <C 1_DIJK> dike <C 700_TE> te <C 251_MAKEN> makene <C 309_176> clxxvi <C 19_LIBRA> lib <C 309_15> xv <C 19_SOLIDUS> 't3s 
+<L 1116:16> <q> de <q> ferro <VN type=1> <q> .c.xv'hm. <C 700_TE> te <C 309_24> xxiiii <C 19_SOLIDUS> 't3s <q> summa <q> clxxx <q> lib 
+<L 1116:17> <q> Summa <q> m <q> lib <q> xxix <q> lib <q> xix <q> s <q> iiii <q> d 
+<L 1116:19> <C 0_SLUIS> slus <C 700_TE> te <C 251_RUIMEN> rumene <VN type=1> <C 309_32> xxxii <C 19_SOLIDUS> 't3s 
+<L 1116:20> <q> de <q> pontibus <q> factis <q> in <q> offisio 
+<L 1116:21> <C 700_TE> te <C 1_SCHEEPSTALE> scepstale <C 309_6> vi <C 11_PIJL> pile <C 700_TE> te <C 309_5> v <C 19_SOLIDUS> 't3s <q> summa 
+<L 1116:22> <C 500_ITEM> it<A >em</A> <C 309_3> iii <C 14_WELF> welfen <C 700_TE> te <C 309_4> iiii <C 19_SOLIDUS> 't3s <q> summa <q> xii <q> s 
+<L 1116:23> <C 500_ITEM> it<A >em</A> <C 309_8> viii <C 14_ONDERLAAG> onderlaghen <C 700_TE> te <C 309_4> iiii <C 19_SOLIDUS> 't3s <q> summa <q> xxxii <q> s 
+<L 1116:24> <C 500_ITEM> it<A >em</A> <C 309_30> xxx <C 14_PLANK> plank<A >en</A> <C 700_TE> te <C 251_DEKEN> decene <C 700_TE> te <C 309_2,5> ii't! <C 9_SOLIDUS> 't3s <q> summa <q> iii <q> lib <q> xv <q> s 
+<L 1116:25> <C 475+700_DE+TE> ter <C 1_BRUG> bruge <C 700_TE> te <C 22_LAMBERT> la<A >m</A>sins <C 0_OVERLANDER> ou<A >er</A>land<A >er</A> <C 309_4> iiii <C 11_STIJL> stile <C 309_16> xvi <C 19_SOLIDUS> 't3s 
+<L 1116:26> <C 500_ITEM> it<A >em</A> <C 309_2> ii <C 14_WELF> welfen <C 700_TE> te <C 309_3> iii <C 19_SOLIDUS> 't3s <q> summa <q> vi <q> s 
+<L 1116:27> <C 500_ITEM> it<A >em</A> <C 309_4> iiii <C 14_ONDERLAAG> onderlaghen <C 700_TE> te <C 309_4> iiii <C 19_SOLIDUS> 't3s <q> summa <q> xvi <q> s 
+<L 1116:28> <C 500_ITEM> it<A >em</A> <C 309_14> xiiii <C 14_PLANK> plank<A >en</A> <C 700_TE> te <C 251_DEKEN> decene <C 700_TE> te <C 309_2> ii <C 19_SOLIDUS> 't3s <q> summa <q> xxviii <q> s 
+<L 1116:29> <C 410_DIT> dit <C 0_HOUT> hout <C 700_TE> te <C 251_VOEREN> vorene <C 309_45> xlv <C 19_SOLIDUS> 't3s 
+<L 1116:30> <C 700_TE> te <C 251_LADEN> ladene <C 309_4> iiii <C 19_SOLIDUS> 't3s 
+<L 1116:31> <q> iiii <q> carpentarii <q> quilibet <q> vii <VN type=1> <q> dies <q> te <q> xx <q> d <q> summa <q> xlviii <q> s <q> iiii <q> d 
+<L 1116:32> <C 411_DEZE> dese <C 14_BRUG> brugen <C 700_TE> te <C 251_AARDEN> ardene <C 309_11> xi <C 19_SOLIDUS> 't3s 
+<L 1116:33> <q> de <q> ferro <q> cc <C 700_TE> te <q> xxiiii <q> s <q> summa <q> xlviii <q> s 
+<L 1116:34> <C 700_VAN> van <C 485_EEN> ere <C 1_GOOT> gote <C 700_TE> te <C 20_SNELLEGEM> snell<A >engem</A> <C 309_11> xi <C 19_SOLIDUS> 't3s 
+<L 1116:35> <C 700_VAN> van <C 485_EEN> ere <C 1_GOOT> gote <C 700_TE> te <C 20_ARNOUT> arn<A >oud</A> <C 2_PAK-X> pax <C 309_5> v <C 19_SOLIDUS> 't3s 
+<L 1116:36> <q> de <q> perditione <q> ex <q> denariis <q> acquisitis <q> ad <q> soluendum <q> predicta <q> ccclxx <q> lib 
+<L 1116:37> <C 20_JOHANNES> ha<A >n</A>nin <q> f <C 22_ARNOUT> noids <q> pro <q> salario <q> suo <q> iii <q> lib 
+<L 1116:38> <q> de <C 9_FRANCIJN> forseno <C 309_20> xx <C 19_SOLIDUS> 't3s 
+<L 1116:39> <C 0_SLUIS> slus <C 700_TE> te <C 251_VERSLAAN> v<A >er</A>slane <C 309_32> xxxii <C 19_SOLIDUS> 't3s 
+<L 1116:40> <C 411_DIE> die <C 11_GAT> gate <C 700_TE> te <C 251_STOPPEN> stopene <q> super <C 0_SLUIS> slus <C 309_4> iiii <q> carpentarii <q> xvi <q> s 
+<L 1116:41> <q> [xv] <q> [barde] <q> [ix] <C 19_SOLIDUS> ['t3s] 
+<L 1116:42> <q> [de] <q> [ferris] <q> [xviii] <q> [s] <VN type=1> 
+<L 1116:43> <q> Summa <q> cccxcvii <q> lib <q> vii <q> s <q> x <q> d 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.P.R.'>
+
+<L 1116:53> <C 251_VERSLAAN> v<A >er</A>slane 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+
+<L 1117:1> <q> Summa <q> per <q> totum <q> mmmdc <q> lib <q> lix <q> lib <q> xv <q> s 
+<L 1117:3> <q> sic <q> remanet <q> offisium <q> habens <q> vltra <q> lix <q> lib <q> preter <q> i <q> d 
+<L 1117:4> <q> item <q> de <q> offisio <q> in <q> arreragio <q> .cl. <q> lib <q> sic <q> debet <q> offisium <q> xci <q> lib <q> i <q> d 
+<L 1117:5> <q> item <q> debet <q> offisium <q> domino. <C 29_BOUDEWIJN> b<A >oidino</A>. <C 0_BROEKER> brok<A >er</A> <q> pro <q> salario <q> suo <q> xxxiii <q> lib 
+<L 1117:6> <C 500_ITEM> it<A >em</A> <C 29_BOUDEWIJN> boidino <C 0_BROEKER> brok<A >er</A> <C 309_28> xxviii <C 19_LIBRA> lib 
+<L 1117:7> <C 500_ITEM> it<A >em</A> <C 20_JOHANNES> iha<A >n</A> <q> f <C 24_SCHONE> sconen <C 309_28> xxviii <C 19_LIBRA> lib 
+<L 1117:8> <C 500_ITEM> it<A >em</A> <C 29_WOUTER> waltero <C 21_RIJKBOUD/RIJKBODE> ribode <C 309_45> xlv <C 19_LIBRA> lib 
+<L 1117:9> <C 500_ITEM> it<A >em</A> <C 20_NICOLAAS> clais <C 0_TEERNING> terning <C 309_5> v <C 19_LIBRA> lib 
+<L 1117:10> <q> sic <q> debet <q> offisium <q> ccxxv <q> lib <q> i <q> d 
+<L 1117:11> <q> per <q> hoc <q> habet <q> in <q> arreragio <q> cl <q> lib 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

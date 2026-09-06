@@ -1,0 +1,58 @@
+<header>
+<docId>2030</docId>
+<genre>L</genre>
+<bron>
+<bron_afk>Pl.gloss.</bron_afk>
+<bron_oms>Plantenglossarium uit Vlaams-Artesië of Frans-Vlaanderen</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1250' jaar_van='1226' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 334:12> <q> [Plantenglossarium] <q> [uit] <q> [Vlaams] <q> [Artesie] <q> [of] <q> [Frans-Vlaanderen] 
+<L 334:13> <q> Agrimonia <VN type=2> <q> ; <q> Artemesia <C 0_BIJVOET> biuot; <q> Acerra; <q> Aquileia <C 9_AKELEI> aquileia; <q> Alleluia 
+<L 334:14> <C 0_KOEKOEKSLOOK> kukuckes+loc; <q> Asidula <C 1_SURKEL> surcle; <q> Atriplex <C 1_MELDE> melde; <q> Arundo <C 0_RIET> rid; <q> Anetum 
+<L 334:15> <C 1_DILLE> dile <VN type=2> <q> ; <q> Apium <C 6_MERK> merka; <q> Alleum <C 0_LOOK> loc; <q> Absintium <C 1_ALSEM> alsne; <q> Apirrisium; 
+<L 334:16> <q> Balsamita; <C 9_BACCA> Bacca <C 6_BAAI> baia; <q> Beta <C 0_ROOMSKOOL> romescol <VN type=2> <q> ; <q> Biblus <C 1_BIES> bise; <q> bita<A >n</A>n<A >us</A>; <q> celidonia 
+<L 334:17> <C 11_SCHELWORTEL> scelworte; <q> Carica <C 1_MUUR> mure; <q> Cauda <q> caballina <C 0_KATTENSTAART> cattenstert; <q> Cepe <C 0_AJUIN> uniun; <q> Canaps 
+<L 334:18> <C 0_KENNEP> canep; <q> Carix <C 0_SCHAAFBIES> scaf+bise; <q> Cirpus <C 1_BIES> beze; <q> Cirm<A >us</A>; <q> Citisus <C 1_KLAVER> clauere; <q> Card<A >us</A> 
+<L 334:19> <C 0_DISTEL> ditel <VN type=2> <q> ; <q> Corimbus <q> fruct<A >us</A> <q> edere; <q> Ciminum <C 0_KOMIJN> cunmin <VN type=2> <q> ; <q> Colliandrum <VN type=2> <q> ; 
+<L 334:20> <q> Cerfoliu<A >m</A> <C 1_KERVEL> keruele; <q> Camamilla <C 1_HONDEBLOEM> hundeblome; <q> Cicuta; <q> Daucus <C 6_PASTINAAK> pastanaca; 
+<L 334:21> <q> cenescion <C 0_SINSOEN> scinsun; <q> enula; <q> edera <C 6_DRESEN> dresna; <q> erucus <C 0_WALRIK> walric; <q> ebulum <C 0_ADIK> adic; 
+<L 334:22> <q> fragum <C 1_AARDBEER> erdbeire; <q> fragifolium <C 0_AARDBEERBLAD> erdbeir+blat; <q> feniculum <C 0_VENKEL> uenecal; <q> fungus 
+<L 334:23> <C 0_BANET> banet; <q> filix <C 0_VAREN> uare<A >n</A>; <q> Gingiber <C 1_GINGEBAAR> gigeberre <VN type=2> <q> ; <q> gilconum <C 0_MIER> mire; <C 9_GALBANUM> galbanum 
+<L 334:24> <C 0_GALIGAAN> galega<A >n</A> <q> & <C 1_GALANGA> gala<A >n</A>ge; <q> genista <C 0_BRAAM> bra<A >m</A>; <q> gladiolus <C 0_LIS> lisc; <q> hinnula; <q> Jusquiamum 
+<L 334:25> <C 1_BEELDE> belne; <q> ysopu<A >m</A> <C 9_HYSOP> ysopo; <q> iuncus <C 1_BIES> bize; <q> Amigdalus <C 0_MANDELBOOM> madalbom <VN type=2> <q> ; <q> Auellana 
+<L 334:26> <C 11_HAZELNOOT> aselnote; <q> Acer <VN type=2> <C 0_SLEEDOORN> sledorn; <q> Acrile <VN type=2> <C 0_SLEE> sle; <q> Aln<A >us</A> <C 0_ELS> els; <q> Abies <C 0_DEN> dan; <q> gariofileta; 
+<L 334:27> <q> lanciolata <C 1_RIB> ribbe; <q> labrusca <C 6_BEVENEL> bouerella; <q> lactuca <C 1_LATUW> latue; <q> lappa <C 1_KLISSE> clithe; <q> lactarides 
+<L 334:28> <C 0_MELKWIED> melquid; <q> lupinum; <q> lilium <C 1_LELIE> lilie; <q> ligustrum <C 1_WIDEBINDE> widebinde; <q> libiscus <C 6_LAVAS> louesca; 
+<L 334:29> <q> lentiscus; <q> Muscus <C 0_MOS> mos; <C 29_MANDRAGORA> mandragora <C 6_ALRUIN> alruna; <q> moysica <VN type=2> <C 1_MUZEKE> museke; <q> malua 
+<L 334:30> <C 6_PAPPEL> papla; <q> mirica; <q> madiger <VN type=2> <C 0_KOOLSTOK> col+scot <VN type=2> <q> ; <q> maratrum <C 0_VENKEL> ueinekol <VN type=2> <q> ; <q> menstriastrum <VN type=2> 
+<L 334:31> <C 1_ROSSEMENT> ersminte; <q> morum; <q> marubium <C 0_MALROVE> marubie; <C 29*_MILLE-> mille <C 29#_-FOLIUM> folium <C 1_GARVE> garwe; <q> nepita 
+<L 334:32> <C 6_DAUWNETEL> daunettla <VN type=2> <q> ; <q> pilosella <C 1_MUISOOR> mushore; <q> piretrum <q> pet<A >ra</A> <VN type=2> <q> ; <q> porrum <C 0_PREI> poret; 
+<L 334:33> <C 9_PETROSILINUM> petrosilinum <C 1_PETERSELIE> persele; <q> pote<A >n</A>tilla <C 9_MILLEFOLIUM> mille+foliu<A >m</A>; <q> primula; <q> polipodium 
+<L 334:34> <C 0_BOOMVAREN> bo<A >m</A>+uarn; <q> papirus <C 1_BIES> bize; <q> plantago <C 6_WEEGBREE> wegabreda; <q> pulegiu<A >m</A> <q> albu<A >m</A> <VN type=1> <C 1_BOOG> boge; <q> papauer 
+<L 334:35> <C 0_MEKOPIJN> mecopi<A >n</A>; <q> rafanum <C 0_RADIK> radic; <C 9_SAXIFRAGA> saxifraga <C 6_STEENBREEK> ste<A >n</A>+breca; <q> sarpillum <C 6_KUNELLA> ku<A >n</A>nella; <q> saluea 
+<L 334:50> <q> de <q> glosse <q> uitgekrabd, <q> was <q> misschien <C 0_AGRIMONIE> agrimonie 
+<L 334:51> <q> d <q> en <q> e <q> onzeker 
+<L 334:52> <q> rome <q> col <q> met <q> bovengeschreven <q> s 
+<L 334:53> <q> lees <C 0_DISTEL> distel 
+<L 334:54> <q> lees <C 0_KOMIJN> cummin 
+<L 334:55> <q> de <q> glosse <C 1_HONDEBLOEM> hundeblome <q> uitgekrabd 
+<L 334:56> <q> lees <C 1_GINGEBAAR> gingeberre 
+<L 334:57> <q> lees <C 0_MANDELBOOM> mandalbom 
+<L 334:58> <q> hs <q> ater 
+<L 334:59> <q> hs <q> atrile 
+<L 334:60> <q> moyca <q> met <q> bovengeschreven <q> si 
+<L 334:61> <q> lees <q> maguder 
+<L 334:62> <q> lees <q> stoc 
+<L 334:63> <q> venekol <q> met <q> bovengeschreven <q> i 
+<L 334:64> <q> mentriastrum <q> met <q> bovengeschreven <q> s, <q> lees <q> mentastrum 
+<L 334:65> <q> daunet/tla <q> op <q> de <q> regelverspringing 
+<L 334:66> <q> lees <C 0_BERTRAM> pertram 
+<L 335:1> <C 1_SALIE> salge; <q> sauina <C 0_ZAVELBOOM> sauelbom; 
+<L 335:3> <q> sure <C 1_BRADE> brade; <q> veretri <C 0_TEERS> ters. 
+<end-datering  jaar_tot='1250' jaar_van='1226' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

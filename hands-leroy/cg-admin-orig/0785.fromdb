@@ -1,0 +1,45 @@
+<header>
+<docId>0785</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1287:10> <C 700_IN> in <C 20_OOSTBURG> ostb<A >urgh</A> <C 20_JOHANNES> jan <C 0_BALG> balch. <q> censuarius <q> x <q> 't3s. <q> de 
+<L 1287:11> <q> iii <q> l't3b. <q> vi, <q> 't3s. <q> pone <q> hic <q> .v. <q> l't3b. <q> pro <q> .iii. <q> l't3b. <q> vi <q> 't3s. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1287:16> <C 404_WIJ> Wie <C 21_HUGO> hugh<A >e</A> <C 700_VAN> van <C 20_BOEIGEM> boyenghem. <C 800_EN> & <C 20_JOHANNES> jan <C 0_MOND> mont <C 11_SCHEPEN> schepe<A >n</A>ne <C 474+700_DE/HET+VAN> vande<A >n</A> <C 104_VRIJ> vrie<A >n</A> <C 204_DOEN> doen 
+<L 1287:17> <C 700+251_TE+WETEN> tewetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lett<A >re</A>n <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> & <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 1287:18> <C 810_DAT> dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons <C 20_JOHANNES> jan <C 471_DE> die <C 0_BALG> balch. <C 20_JOHANNES> jan <C 0_STORM> storem. <C 0_OOM> oem <C 20_JOHANNES> jan. <C 800_EN> en<A >de</A> <C 21_HUGO> hugh<A >e</A> <q> .f. 
+<L 1287:19> <C 22_LAURENTIUS> lourens. <C 800_EN> en<A >de</A> <C 234_WORDEN> worden <C 111_WETTELIJK> wettelike <C 12_CIJNSER> censers <C 1+472_HEER+DE> s<A >er</A>e <C 22_JOHANNES> jans <C 700_VAN> van <C 21_WEVELSWALE> weuelswale 
+<L 1287:20> <C 2_KAPELAAN> capellaens <C 700_VAN> van <C 100_SINT> sint <C 22_SALVADOR> saluators <C 700_IN> in <C 21_BRUGGE> brucgh<A >e</A> <C 700+475_TE+DE> t<A >er</A> <C 1_KERK> kerke <C 0_BEHOEF> boef <C 700_VAN> van <C 100_SINT> sint <C 22_SALVADOR> saluators 
+<L 1287:21> <C 100_VOORZEID> vorseid <C 411_DEZE> dese <C 111_NAAST> naeste. <C 300_TIEN> tien. <C 10_JAAR> jaer <C 421_DIE> die <C 503_EERST> erst <C 204_KOMEN> come<A >n</A> <C 700_VAN> van. <C 304_TWEE> tveen. <C 14_GEMET> ymet<A >en</A> <C 2_LAND> lands 
+<L 1287:22> <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 320_MEE> me <C 700_ONDER> onder <C 0_BOOMGAARD> bongaerd <C 800_EN> & <C 0_LAND> land <C 271_LIGGEN> licghende <C 700+474_BINNEN+DE/HET> binde<A >n</A> <C 1_AMBACHT> ambocht<A >e</A> 
+<L 1287:23> <C 700_VAN> van <C 20_OOSTBURG> oestb<A >ur</A>gh <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 101_SINT> sinte <C 22_ELIGIUS> loys <C 800_EN> & <C 213_HETEN> heet <C 21_KOEN> coene <C 0_BOOMGAARD> boengaerd <C 700_MET> met 
+<L 1287:24> <C 484_EEN> ene<A >n</A> <C 1_MEETJE> medekine <C 610_DAARAAN> dar+[a]n <C 271_LIGGEN> licghend<A >e</A> <C 500_AL> al <C 800*_BEIDE> bede <C 0_BOOMGAARD> bongaerd <C 800#_EN> & <C 0_LAND> land <C 701_OM> o<A >m</A>me. 
+<L 1287:25> <C 300_DRIE> drie. <C 10_POND> pond <C 800_EN> &. <C 301_6> sesse. <C 11_SCHELLING> scheleg<A >he</A> <C 115_GOED> goed<A >er</A> <C 115_VLAAMS> vlams<A >cher</A> <C 11_PENNING> peneg<A >he</A> <C 322_ELK> elx <C 2_JAAR> jaers <C 700_TE> te 
+<L 1287:26> <C 251_GELDEN> ghelde<A >n</A>ne <C 471_DE> die <C 301_EEN> ene <C 0_HELFT> helt <C 700+324_TE+ELK> telke<A >n</A> <C 101_SINT> sinte <C 22_MARTIN> martins <C 1_MIS> messe <C 800_EN> & <C 471_DE> die <C 310_ANDER> and<A >er</A> <C 0_HELFT> helt 
+<L 1287:27> <C 700+251_TE+GELDEN> tegheldene <C 324+700_ELK+TE> telke<A >n</A> <C 101_SINT> sinte <C 24_MARIA> marie<A >n</A> <C 1_LICHTMIS> licht+messe <C 421_DIE> die <C 613_DAARNAAST> dar+naest <C 203_KOMEN> comt <C 411_DIE> die. <C 300_TIEN> tien. 
+<L 1287:28> <C 10_JAAR> jaer <C 110_VOORZEID> vorseid. <C 800_EN> En<A >de</A> <C 700_IN> in <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> des<A >er</A> <C 0_DING> dinc <C 810_DAT> dat <C 403_ZIJ> soe <C 100_VAST> vast <C 800_EN> & <C 101_GESTADE> ystad<A >e</A> 
+<L 1287:29> <C 211_BLIJVEN> bliue <C 550_ZO> so <C 214_HEBBEN> hebbe<A >n</A> <C 404_WIJ> wie <C 111_VOORZEID> vorseid<A >e</A> <C 11_SCHEPEN> scep<A >enne</A> <C 411_DEZE> dese <C 4_LETTER> lett<A >re</A>n <C 273_ZEGELEN> yseghelt <C 700_MET> met <C 454_ONS> onsen 
+<L 1287:30> <C 14_ZEGEL> zeghell<A >en</A> <C 101_UITHANGEND> huthanghend<A >e</A>. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 2+472_ZONDAG+DE> soendagh<A >es</A> <C 700_VOOR> vor <C 0_HALF> alf <C 20_APRIL> april. <q> anno 
+<L 1287:31> <q> domini <q> .M.cc.lxxx. <q> octauo. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

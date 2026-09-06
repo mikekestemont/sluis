@@ -1,0 +1,71 @@
+<header>
+<docId>0005</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='9' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 40:11> <C 471_DE> De <q> ghijfte <C 700+475_VAN+DE> vand<A >er</A> <q> h<A >er</A>lich<A >ei</A>t <C 700_VAN> va<A >n</A> <C 21_EKSAARDE> Exaerde. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.V.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 40:26> <C 29_ZZZ> T. <C 700_VAN> van <C 24_VLAANDEREN> vlaendr<A >en</A> <C 800_EN> ende <C 700_VAN> van <C 21_HENEGOUWEN> Henegouwe <C 1_GRAAF> Graue. <C 800_EN> ende <C 29_JOHANNA> Joh<A >ann</A>a <C 450_ZIJN> siin <C 0_WIJF> wijf 
+<L 40:27> <C 700_VAN> van <C 24_VLAANDEREN> vlaendr<A >en</A> <C 800_EN> ende <C 700_VAN> van <VN type=1> <C 21_HENEGOUWEN> henegouwe <C 1_GRAAFNEDE> Grauenede. <C 324_AL> allen <C 14_LIEDEN> lieden <C 411_DEZE> dese 
+<L 40:28> <C 101_PRESENT> presente <C 4_LETTER> l<A >ett</A>ren <C 271_ZIEN> siende <C 910_SALUUT> Saluut, <C 204_WETEN> Weten <C 321_AL> alle <C 11_LIEDEN> liede <C 810_DAT> dat <C 404_WIJ> wij <C 700_IN> in <C 470_HET> dat 
+<L 40:29> <C 0_AANSCHOUWEN> aenscouwen <C 472_DE/HET> des <C 102_GETROUW> ghetrouwes <C 0_DIENST> dienst <C 421_DIE> die <C 451_ONS> onse <C 101_GEMIND> gheminde <C 800_EN> Ende <C 101_GETROUW> ghetrouwe 
+<L 40:30> <C 21_RAAS> Rase <C 700_VAN> van <C 29_GAVERE> gauera <C 404_WIJ> ons <C 213_HEBBEN> heeft <C 274_DOEN> ghedaen <C 800_EN> ende <C 700_OM> om <C 471_DE> de <C 1_MIN> minne <C 421_DIE> die <C 404_WIJ> wij <C 700_TE> te <C 403_HIJ> hem 
+<L 40:31> <C 204_HEBBEN> hebben. <C 214_HEBBEN> hebben <C 404_WIJ> wij <C 273_CONSENTEREN> gheconsenteert <C 800_EN> ende <C 274_GEVEN> ghegheuen <C 24_RAAS> Rasen <C 454_ZIJN> sinen 
+<L 40:32> <C 104_OUD> ousten <C 1_ZOON> zone <C 424_DIE> Dien <C 403_HIJ> hi <C 220_WINNEN> wan <C 700_VAN> van <C 24_SOFIA> sophyen <C 454_ZIJN> zinen <C 1_WIJF> wiue <C 471_DE> de <C 421_WELK> welke <C 403_HIJ> hi <C 500_NU> nv <C 203_HEBBEN> heeft. 
+<L 40:33> <C 300_30> Derttich <C 11_BUNDER> boenre <C 4_WOESTIJN> woestinen <C 271_LIGGEN> ligghende <C 700_TE> te <C 21_HANSBEKE> hansbeke <C 800_EN> Ende <C 320_AL> al <C 451_ONS> onse 
+<L 40:34> <C 1_WOESTIJN> woestine <C 471_DE> de <C 421_WELK> welke <C 404_WIJ> wij <C 204_HEBBEN> hebben <C 700_IN> in <C 471_DE> de <C 1_OFFICIE> Officie <C 472_DE/HET> des <C 4_SCHOUTHEET> scouteeten <C 800_EN> Ende 
+<L 40:35> <C 2_BOSTEEL> bosteels <C 500_NOORDWAART> North+waert <C 271_LIGGEN> ligghende <C 700_VAN> van <C 21_LOKERESDAM> locresda<A >m</A>me <C 701_TOT> tote <C 475_DE/HET> der <C 1_STAD> stede <C 421_DIE> die <C 213_HETEN> heet 
+<L 40:36> <C 20_RIT-X> Rith <C 800_EN> Ende <C 700_VAN> van <C 301_ZEVEN> seuene <C 14_EIK> eeken <C 701_TOT> tote <C 2_HOORNTJE> hornekiins <C 4_STRAAT> straten. <C 700_VAN> van <C 404_WIJ> ons <C 800_EN> ende <C 700_VAN> van 
+<L 40:37> <C 454_ONS> onsen <C 14_NAKOMENDE> naco<A >m</A>meden <C 700_IN> in <C 1_LEEN> leene <C 501_EEUWELIJK> euwelike <C 800_EN> ende <C 500_VRIJ> vri <C 700_TE> te <C 251_HOUDEN> houdene. <C 820_GELIJK-DAT> ghelijc+dat 
+<L 40:38> <C 471_DE> de <C 101_VOORZEID> voreseide <C 21_RAAS> Rase <C 450_ZIJN> ziin <C 0_VADER> vader <C 450_ZIJN> ziin <C 0_LEEN> leen <C 700_VAN> van <C 404_WIJ> ons <C 203_HOUDEN> hout <C 800_EN> Ende <C 403_HET> het <C 200_ZIJN> e[s] <C 700_TE> te 
+<L 40:39> <C 251_WETEN> wetene <C 810_DAT> dat <C 700_IN> in <C 324_AL> allen <C 474_DE/HET> den <C 14_LAND> landen <C 801*_ALS> alse <C 500_WEL> wel <C 14_WOESTIJN> woestinen <C 801#_ALS> alse <C 11_LEEN> leene <C 800_EN> ende <C 801##_ALS> alse 
+<L 40:40> <C 14_HOFSTEDE> hoefsteden <VN type=1> <C 471_DE> de <C 421_WELK> welke <C 111_ANDER> andere <C 11_LIEDEN> liede <C 441_ZO-WIE> zo+wie <C 406_ZIJ> zi <C 214_ZIJN> ziin <C 704_BINNEN> binnen <C 474_DE/HET> den 
+<L 40:41> <C 104_VOORNOEMD> vorenoemden <C 4_TERMIJN> terminen <C 475_DE/HET> der <C 4_WOESTIJN> woestinen <C 474_DE/HET> den <C 104_VOORNOEMD> vernoemden <C 24_RAAS> Rasen 
+<L 40:42> <C 274_GEVEN> ghegheuen <C 271_LIGGEN> ligghende. <C 421_DIE> die <C 406_ZIJ> zi <C 500_NU> nv <C 204_BEZITTEN> besitten <C 800_EN> ende <C 204_POSSIDEREN> possideren <C 404_WIJ> ons <C 800_EN> ende <C 454_ONS> onsen 
+<L 40:43> <C 0_OOR> oer <C 101_AL> alle <C 451_ONS> onse <VN type=1> <C 0_RECHT> recht <C 800_EN> ende <C 101_AL> alle <C 471_DE> de <C 1_JUSTITIE> justicie <C 100_GEHEELLIJK> gheheelleec <VN type=1> <C 204_RESERVEREN> reserueren <C 404_WIJ> wij. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.V.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.V.R.'>
+
+<L 40:51> <C 709_VAN> va 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 40:52> <q> eyghi<A >n</A> <q> goed 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 40:53> <C 470_HET> dat 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.V.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.V.'>
+
+<L 41:1> <C 700_IN> Jn <C 411_DEZE> dese <C 2_DING> dincs <C 1_OORKONDE> oerconde <C 411_DEZE> dese <C 101_PRESENT> presente <C 4_LETTER> l<A >ett</A>ren <C 700_MET> met <C 474_DE/HET> den <C 14_MUNIMENT> munimenten 
+<L 41:2> <C 455_ONS> onser <C 11_ZEGEL> zeghele <C 214_HEBBEN> hebben <C 404+403_WIJ+ZIJ> wise <C 260_DOEN> doen <C 250_ROBOREREN> Roboreren <C 274_DOEN> Ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 41:3> <C 309_1230> dusentich.+tweehondert,+ende+.xxx. <C 700_IN> jn <C 471_DE> de <C 0_MAAND> maent <C 700_VAN> van <C 21_MAART> maerte. <C 472_DE/HET> des 
+<L 41:4> <C 0_ZATERDAG> Saterdaech <C 701_VOOR> vore <C 0_PALMZONDAG> palme+zondach <C 700_TE> te <C 21_RIJSEL> Risele 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.V.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='9' regiostatus='1'>
+<end-statushand  statushandkode='an'>

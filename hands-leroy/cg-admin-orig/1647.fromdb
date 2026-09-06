@@ -1,0 +1,64 @@
+<header>
+<docId>1647</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2471:11> <C 810_DAT> Dat <C 471_DE> die <q> honde <C 472_DE> des <C 14_HEER> h<A >er</A>en <C 700_VAN> va<A >n</A> <C 20_BRABANT> Brabant <C 500*_MAAR> maer <C 480_EEN> een <C 1_GISTE> gijste <C 700_VAN> va<A >n</A> <C 304_EEN> ene<A >n</A> <C 1_DAG> daghe 
+<L 2471:12> <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 305_EEN> eender <q> nacht <C 500#_NE> en <C 214_ZULLEN> selen <q> bliue<A >n</A> <C 700_IN> in <C 471_DE> de <q> abdien <C 700_VAN> va<A >n</A> <q> grymb<A >er</A>gen 
+<L 2471:13> <C 2+472_JAAR+HET> tsiaers. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='2'>
+<statushand  statushandkode='an'>
+
+<L 2471:15> <C 810_DAT> Dat 
+<L 2471:16> <C 472_DE> des <C 4_HERTOG> hertoghen <C 11_HOND> honde. <C 500*_MAAR> maer <C 481_EEN> eene <C 1_GISTE> giste <C 700_VAN> van <C 305_EEN> eere <C 0_NACHT> nacht <C 500#_NE> en <C 214_ZULLEN> sele<A >n</A> 
+<L 2471:17> <C 250_HEBBEN> hebbe<A >n</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='2'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+
+<L 2471:23> <q> .. <C 404_WIJ> Wi <VN type=1> <C 20_JOHANNES> jan <C 700_BIJ> bi <C 475_DE> der <C 4_GENADE> gheneden <VN type=1> <C 2_GOD> Gods. <C 1_HERTOG> hertoghe <C 700_VAN> van <C 21_LOTRIJK> Lothr<A >ike</A>, <C 700_VAN> van <C 20_BRABANT> brabant 
+<L 2471:24> <C 800_EN> ende <C 700_VAN> van <C 20_LIMBURG> Lymborch, <C 204_ONTBIEDEN> ontbieden <C 800_EN> ende <C 204_GEBIEDEN> ghebieden <C 320_AL> al <C 454_ONS> onsen <C 14_JAGER> jagheren <C 800_EN> ende 
+<L 2471:25> <C 501_ZONDERLING> sonderlinghe <C 324_ELK> elken, <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sijn <C 800_EN> ende <C 500+214+250_NA+ZULLEN+KOMEN> nacomenselen <VN type=1> <q> . <C 810_DAT> Dat <C 406_ZIJ> sie <C 502_JAARLIJKS> jaerlikes 
+<L 2471:26> <C 700_MET> met <C 454_HAAR> haren <C 14_HOND> honden <C 500*_MAAR> maer <C 481_EEN> eene <C 1_GISTE> giste <VN type=1> <q> , <C 700_VAN> van <C 304_EEN> eenen <C 1_DAG> daghe <C 800_EN> ende <C 700_VAN> van <C 305_EEN> eere 
+<L 2471:27> <C 0_NACHT> nacht <C 500#_NE> en <C 204_NEMEN> nemen, <C 700_IN> jn <VN type=1> <C 471_DE> die <C 1_ABDIJ> abdie <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen, <C 800_NOCH> noch <C 700_IN> in <C 440_NEGEEN> en+gheen <C 0_HOF> hof 
+<L 2471:28> <C 420_DAT> dat <C 700+415_TE+DIE> tiere <C 4_ABDIJ> abdie<A >n</A> <C 203_HOREN> hort <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_LAND> lande <C 700_VAN> van <C 24_GRIMBERGEN> Grimberghen <C 274_ZITTEN> gheseten <C 210_ZIJN> es, 
+<L 2471:29> <C 800_EN> ende <C 411_DIE> die <C 14_GISTE> gijsten <C 243_NEMEN> nemt <C 510_ZO> so <C 501_HOOFSLIJK> houesleke <C 700_ZONDER> sonder <C 0_OVERDAAD> ou<A >er</A>daet <C 810+403_DAT+HET> dats <C 464_ONS> ons <C 440_NIEMAND> niemen <C 700_VAN> van 
+<L 2471:30> <C 405_GIJ> v. <C 700_TE> te <C 251_BEKLAGEN> beclaghene <VN type=1> <C 560_NE> en <C 203_HEBBEN> heeft, <C 800_EN> Ende <C 810_OMDAT> ombe+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 440_MEN> men <C 410_DIT> dit <C 101_VAST> vaste 
+<L 2471:31> <C 201_HOUDEN> houde <C 500_IMMERMEER> emmermeer, <C 700_VAN> van <C 404_WIJ> ons <C 800_EN> ende <C 700_VAN> van <C 454_ONS> onsen <C 14_NAKOMELING> nacomelinghen, <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wi 
+<L 2471:32> <C 454_ONS> onsen <C 0_ZEGEL> zeghel <C 260_DOEN> doen <C 250_HANGEN> hanghen <C 701_AAN> ane <C 411_DEZE> dese <C 14_LETTER> lett<A >er</A>en <C 421_DIE> die <C 273_MAKEN> ghemaect <C 234_ZIJN> waren <C 800_EN> ende 
+<L 2471:33> <C 274_GEVEN> ghegheuen <C 700_IN> in <C 474_DE/HET> den <C 1_JAAR> jare <C 452_ONS> ons <C 4_HEER> heeren <VN type=1> <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scrijft. <C 300_DUIZENTIG-297> Ducentech,+Tuehondert,+ende+zeuene+ende+Neghentech 
+<L 2471:34> <C 472_DE> des <C 2_MAANDAG> manendaghes <C 701_VOOR> vore <C 101_SINT> sente 
+<L 2471:35> <C 22_PAULUS> pauwels <VN type=1> <C 1_DAG> daghe.. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='2'>
+
+<L 2471:51> <C 404_WIJ> Wj 
+<L 2471:52> <C 4_GENADE> ghenaden 
+<L 2471:53> <C 250_NAKOMEN> na+comen <C 214_ZULLEN> selen 
+<L 2471:54> <C 1_GISTE> gijste 
+<L 2471:55> <C 700_IN> in 
+<L 2471:56> <C 251_BEKLAGEN> bleclaghene <C 251_BEKLAGEN> beclaghene 
+<L 2471:57> <C 4_HEER> heren 
+<L 2471:58> <C 22_PAULUS> pawels 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='2'>
+<end-lokalisering  kanselarij='0' plaats_1='46' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

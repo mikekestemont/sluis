@@ -1,0 +1,57 @@
+<header>
+<docId>1556</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2342:10> <q> de <q> octo <q> solidis <q> quos <C 29_JOHANNES> Johannes <C 20_GALLIN-X> gallin <q> in 
+<L 2342:11> <q> straten <q> soluit. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2342:12> <C 700_VAN> van <q> viij <C 19_SOLIDUS> 't3s. <C 119_PARIJS> 't3p. <q> beset <C 700_OP> vp <C 480_EEN> een 
+<L 2342:13> <q> m. <C 271_LIGGEN> ligghen<A >de</A> <C 700_IN> in <q> strate<A >n</A>. <q> f. <q> Cxxvij'ho. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2342:16> <C 20_JOHANNES> Jan <C 700_VAN> van <C 20_MESSEM> mesheem <C 800_EN> en<A >de</A> <C 21_MARGARETA> magriete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 22_JOHANNES> jans <q> f <C 700_VAN> van <C 4_STRATEN> straten <C 224_GEVEN> ghauen 
+<L 2342:17> <C 1_GIFT> ghifte. <C 20_JOHANNES> Jan <C 21_GALLIN-X> galline <C 700_VAN> van <C 309_2> ii <C 11_LIJN> line <C 2_LAND> lands <C 500_LICHTELIJK> lichtelijc <C 320_MIN> min <C 800_OF> of <C 320_MEE> me. <C 410_DIT> Dit <C 224_BELOVEN> beloueden 
+<L 2342:18> <C 406_ZIJ> si <C 403_HIJ> heem <C 700_TE> te <C 251_WAREN> warne. <C 271_LIGGEN> Legghende <C 500_ZUID> suut <C 700_VAN> van <C 22_LAMBERT> lammins <C 2_GARENKOPER> garencop<A >er</A>s <C 500_OFWESTHALF> of+west+alf 
+<L 2342:19> <C 700_AAN> an <C 22_LAMBERT> lammins <C 2_GARENKOPER> garencop<A >er</A>s <C 0_LAND> land <C 800_EN> en<A >de</A> <C 500_AFOOST> of+oest <C 700_AAN> an <C 24_MARGARETA> magriete<A >n</A> <C 0_LAND> land <C 700_VAN> van 
+<L 2342:20> <C 4_SLIJPE> slipen. <C 701_TOT> Tote <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 203_DOEN> doet <C 20_JOHANNES> jan <C 20_GALLIN-X> gallin <C 510_ZO> so <C 321_VEEL> vele <C 700_VAN> van <C 463_HEM> sijns <C 412_ZELF> selues 
+<L 2342:21> <C 1_LAND> lande. <C 403+810_HET+DAT> Dats <C 309_EEN> .i. <C 0_GEMET> ymet <C 200_ZIJN> es. <C 700_VAN> Van <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_LAND> lande <C 550_ZO> so <C 230_WORDEN> ward <C 20_JOHANNES> jan <C 20_GALLIN-X> gallin 
+<L 2342:22> <C 1_CIJNSER> seinsere <C 22_JOHANNES> jans <C 700_VAN> van <C 20_MESSEM> mesheem <C 700_VAN> van <C 309_8> viij <C 19_SOLIDUS> 't3s <C 472+2_HET+JAAR> tsiaers <C 700_TE> te <C 104_ERFELIJK> herueliken <C 1_CIJNS> seinse <C 410_DIT> Dit 
+<L 2342:23> <C 101_VOORZEID> vorseide <C 0_LAND> land <C 203_GELDEN> gheelt <C 700_TE> te <C 1_KOOP> cope <C 800_EN> en<A >de</A> <C 700_TE> te <C 4_VERSTERFENIS> v<A >er</A>sterfnessen <C 309_EEN> .i. <C 0_POND> pond <C 2_WAS> was. <C 700_OVER> Over 
+<L 2342:24> <C 411_DEZE> dese <C 1_GIFT> ghifte <C 220_STAAN> stond <C 470+0_DE+HEER> deer <C 20_PETRUS> pieter <C 471_DE> die <C 1_POTTER> pottre <C 471_DE> de <C 1_PAAP> pape <C 700_VAN> van <C 101_SINT> sinte <C 22_ANDREAS> andries <C 800_EN> en<A >de</A> <C 471_DE> die 
+<L 2342:25> <C 11_PAROCHIAAN> prochiane <C 700_VAN> van <C 474_DE/HET> den <C 1_DORP> dorpe <C 20_LAMBERT> lamsin <C 700_VAN> van <C 475_DE/HET> der <C 1_MARE> mare <C 800_EN> en<A >de</A> <C 20_RIJKWARD> riquard <q> f <C 22_RIJKWARD> riquards <VN type=1> 
+<L 2342:26> <C 700_VAN> van <C 4_STRATEN> straten <C 800_EN> ende <C 20_LAMBERT> lammin <C 471_DE> die <C 1_GARENKOPER> garencopre <C 800_EN> en<A >de</A> <C 20_WILHELM> willem <C 0_DUBBEL> dopbel <C 800_EN> en<A >de</A> 
+<L 2342:27> <C 20_RIJKWARD> riquard <C 471_DE> die <C 1_VERS> verse <C 800_EN> en<A >de</A> <C 20_LAMBERT> lamsin <C 1_POPE-X> pope <C 800_EN> ende <C 20_JOHANNES> hannin <C 474+700_DE/HET+UIT> vten <C 1_RIET> riede. <C 810_OMDAT> Om+dat <C 20_JOHANNES> jan 
+<L 2342:28> <C 700_VAN> van <C 20_MESSEM> mesheem <C 201_WILLEN> wille <C 810_DAT> dat <C 440_MEN> men <C 411_DEZE> dese <C 1_VOORWAARDE> vorwarde <C 203_HOUDEN> houd <C 101_VAST> vaste <C 100_ZEKER> Seker <C 800_EN> en<A >de</A> 
+<L 2342:29> <C 101_GESTADE> ghestade. <C 550_ZO> So <C 213_HEBBEN> heeft <C 403_HIJ> hie <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_ZEGELEN> geseghelt <VN type=1> <C 700_MET> met <C 463_HEM> sijns <C 412_ZELF> selues <VN type=1> <C 1_ZEGEL> seghele 
+<L 2342:30> <C 101_UITHANGEND> huuthanghende. <C 800_EN> En<A >de</A> <C 213_HEBBEN> heeft <C 284_DOEN> jdaen <C 250_ZEGELEN> seghelen <VN type=1> <C 474_DE/HET> den <C 0_HEER> heer <C 21_PETRUS> pietre <C 474_DE/HET> den <C 1_POTTER> pottre 
+<L 2342:31> <C 474_DE/HET> den <C 1_PAAP> pape <C 700_VAN> van <C 101_SINT> sinte <C 22_ANDREAS> Andries. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> idaen <VN type=1> <C 472+2_DE+ZONDAG> tsoendaghes <C 700_VOOR> voer <C 0*_NIEUWE-> niewe <C 0#_-DAG> dach 
+<L 2342:32> <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 301_1200-NEGENTIG-EN-ZES> .m.cc.xc.+ende+sesse 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+
+<L 2342:54> <C 259_ZEGELEN> segheselen 
+<end-atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

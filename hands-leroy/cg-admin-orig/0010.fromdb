@@ -1,0 +1,26 @@
+<header>
+<docId>0010</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='60' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1253' jaar_van='1252' tijdsoort='6' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='60' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 50:18> <C 20_SIMON> Simon <C 22_MUISEN-X> musens <C 800_EN> ende <C 20_ALAN> alein <C 20_AKKEPOUT-X> ackepout <q> debent <C 21_JACOB> jacobe <C 474+1_DE+BINDER> de<A >n</A>bindere <C 309_5> .v. <C 19_LIBRA> lb. 
+<L 50:19> <C 700+251_TE+GELDEN> tegheldene <C 700+471_IN+DE> inde <C 0_MARKT> marcht <VN type=1> <C 700_TE> te <C 21_BRUGGE> brigghe. <C 800_EN> & <C 309_5> .v. <C 19_LIBRA> lb. <C 800_EN> & <C 309_6> .vi. <C 19_SOLIDUS> 't3s. <C 251+700_GELDEN+TE> tegheldene <C 700+471_IN+DE> inde 
+<L 50:20> <C 0_MARKT> marcht <C 700_TE> te <C 21_MESEN> mesine <C 320_ELK> helc <C 210_ZIJN> es <C 102_ANDER> anders <C 1_BORG> borghe <C 700_OVER> ouer <C 320+471+0_AL+DE+SCHULD> aldescout. <C 20_MOIS> Mois <C 471_DE> de 
+<L 50:21> <C 20_HARINGIER-X> haringhier <C 800_EN> & <C 20_MICHAEL> michielkin <C 471+1_DE+BRADER-X> debradere <q> debent <C 21_JACOB> jacobe <C 474+1_DE+BINDER> denbindere <C 309_11> .xi. <C 19_LIBRA> lb <C 800_EN> & 
+<L 50:22> <C 309_11> xi <C 19_SOLIDUS> 't3s. <C 800_EN> & <C 309_3> iii <C 19_DENARIUS> d <C 700+251_TE+GELDEN> tegheldene <C 700+471_IN+DE> inde <C 0_MARKT> marcht <C 700_TE> te <C 21_MESEN> mesine <C 320_ELK> helc <C 210_ZIJN> es <C 102_ANDER> anders <C 1_BORG> borghe <C 700_VAN> van 
+<L 50:23> <C 0+475+320_SCHULD+DE+AL> alderscout. <C 410_DIT> dit <C 204_KENNEN> kennen. <C 300_2> tue <C 11_SCHEPEN> scepene <q> de <C 21_IEPER> ypre <C 20_LAMBERT> lamb<A >er</A>t <q> de <C 24_SCHOTEN> scoten <C 800_EN> & <C 20_JOHANNES> johan 
+<L 50:24> <q> filius <C 21_ANDREAS> andree <q> actum <q> anno <q> domini <q> m'ho <q> cc'ho <q> l'ho <q> ij'ho <q> in <q> mense <q> aprilis 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='60' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1253' jaar_van='1252' tijdsoort='6' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='60' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,74 @@
+<header>
+<docId>1461</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='2' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='9' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2227:38> <C 410_DIT> Dit <C 210_ZIJN> es <C 471_DE> die <C 1_ZETTING> settinghe <C 474+700_DE/HET+VAN> vanden <C 14_DORP> dorpen <C 700+474_VAN+DE/HET> vanden <C 1_LAND> lande <C 700_VAN> van <C 20_AALST> aelst <C 800_EN> ende <C 471_DE> die 
+<L 2227:39> <C 1_GROOTTE> groete <C 700_VAN> van <C 324_ELK> elken <C 1_DORP> dorpe. <C 470+700_HET+IN> jnt <C 0_JAAR> jar <C 4+452_HEER+ONS> onseren <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scrift <C 309_1200-NEGENTIG-EN-VIJF> .m.cc.xc.+en<A >de</A>+[.v.] 
+<L 2227:41> <C 21_MERELBEKE> m<A >er</A>lebeke <C 800_EN> en<A >de</A> <C 24_LEMBERGE> Lemb<A >er</A>ghen. <C 309_60> lx. <C 19_LIBRA> lib 
+<L 2227:42> <C 21_LEDE> Leede. <C 309_54> Liiij. <C 19_LIBRA> lib 
+<L 2227:43> <C 21_WICHELEN> Wichline. <C 309_54> liiij. <C 19_LIBRA> lib 
+<L 2227:44> <C 20_SERKAMP> Tsercamp <C 800_EN> en<A >de</A> <C 21_IMPE> ympe. <C 309_12> xij <C 19_LIBRA> lib 
+<L 2227:45> <C 21_BURST> burste <C 21_BAMBURG> banbrughe <C 800_EN> en<A >de</A> <C 20_ZONNEGEM> zunnenghe<A >m</A> <C 309_24> xxiiij <C 19_LIBRA> lib 
+<L 2228:1> <C 21_HOFSTADE> hofstade. <C 309_36> xxxvi <C 19_LIBRA> lib 
+<L 2228:2> <C 21_NIEUWKERKE> Niewe+k<A >er</A>ke <C 309_24> xxiiij <C 19_LIBRA> lib 
+<L 2228:3> <C 471_DE> die <C 1_MEIERIJ> meierie <C 700_VAN> van <C 20_EREMBODEGEM> arenboudenghe<A >m</A>. <C 309_60> lx <C 19_LIBRA> lib 
+<L 2228:4> <C 21_MOORSEL> moersele <C 800_EN> en<A >de</A> <C 20_MESPELARE> mesplaer <C 309_8> viij <C 19_LIBRA> lib 
+<L 2228:5> <C 20_OKEGEM> Okenghem. <C 309_TIEN> x <C 19_LIBRA> lib 
+<L 2228:6> <C 101_SINT> sente <C 20_ANT> antelins <C 800_EN> en<A >de</A> <C 20_WOUBRECHTEGEM> woubrechtenghem <C 309_24> xxiiij <C 19_LIBRA> lib 
+<L 2228:7> <C 301_BEIDE> beede <C 471_DE> die <C 24_LIERDE> Lierden. <C 309_22> xxij <C 19_LIBRA> lib 
+<L 2228:8> <C 471_DE> die <C 0_HELFT> helft <C 700+415_VAN+DIE> vand<A >er</A>re <C 4_ZETTING> settinghen <C 220_ZIJN> was <C 700_TE> te <C 251_GELDEN> gheldene <C 700_TE> te <C 101_SINT> sente <C 22_MARTIN> martins <C 1_MIS> messe 
+<L 2228:9> <C 420_DAT> dat <C 274_LIJDEN> Leden <C 210_ZIJN> es. <C 800_EN> Ende <C 310+470_ANDER+DE> dand<A >er</A> <C 0_HELFT> helft <C 700_TE> te <C 101_SINT> sente <C 22_MARTIN> martins <C 1_MIS> messe <C 420_DAT> dat <C 500_NAAST> naest 
+<L 2228:10> <C 271_KOMEN> comende <C 210_ZIJN> es 
+<L 2228:12> <C 410_DIT> Dit <C 210_ZIJN> es <C 470+310_DE+ANDER> dand<A >er</A> <C 1_ZETTING> settinghe <C 800_EN> Ende <C 471_DE> die <C 1_GROOTTE> groete <C 700_VAN> van <C 324_ELK> elken <C 1_DORP> dorpe 
+<L 2228:13> <C 21_MERELBEKE> m<A >er</A>lebeke <C 800_EN> en<A >de</A> <C 21_LEMBERGE> lemb<A >er</A>ghe. <C 309_16> xvi <C 19_LIBRA> lib 
+<L 2228:14> <C 21_LEDE> Lede. <C 309_15> xv <C 19_LIBRA> lib 
+<L 2228:15> <C 21_WICHELEN> wichline <C 309_15> xv. <C 19_LIBRA> lib 
+<L 2228:16> <C 20_SERKAMP> Tsercamp <C 800_EN> en<A >de</A> <C 21_IMPE> ympe <C 309_3> iij <C 19_LIBRA> lib 
+<L 2228:17> <C 21_BURST> burste <C 21_BAMBURG> banb<A >ru</A>ghe <C 800_EN> en<A >de</A> <C 20_ZONNEGEM> zunnenghe<A >m</A>. <C 309_6> vi <C 19_LIBRA> lib 
+<L 2228:18> <C 21_HOFSTEDE> hofstade. <C 309_TIEN> x <C 19_LIBRA> lib 
+<L 2228:19> <C 21_NIEUWKERKE> Niewe+k<A >er</A>ke. <C 309_6> vi <C 19_LIBRA> lib 
+<L 2228:20> <C 471_DE> die <C 1_MEIERIJ> meierie <C 700_VAN> van <C 20_EREMBODEGEM> arenboudenghe<A >m</A> <C 309_30> xxx <C 19_LIBRA> lib <C 610_DAARAF> dar+af <C 274_VERLATEN> v<A >er</A>laten <C 309_TIEN> x <C 19_LIBRA> lib 
+<L 2228:21> <C 21_MOORSEL> moersele <C 800_EN> en<A >de</A> <C 20_MESPELARE> mesplaer. <C 309_40> xl <C 19_SOLIDUS> 't3s 
+<L 2228:22> <C 20_OKEGEM> Okenghe<A >m</A>. <C 309_40> xl <C 19_SOLIDUS> 't3s 
+<L 2228:23> <C 101_SINT> sente <C 20_ANT> antelins <C 800_EN> en<A >de</A> <C 20_WOUBRECHTEGEM> woubrechtengh<A >em</A> <C 309_6> vi <C 19_LIBRA> lib 
+<L 2228:24> <C 301_BEIDE> bede <C 471_DE> die <C 24_LIERDE> lierden. <C 309_8> viij <C 19_LIBRA> lib 
+<L 2228:25> <C 700_VAN> van <C 414_DEZE> desen <C 230_ZIJN> was <C 471_DE> die <C 0_DAG> dach <C 273_ZETTEN> gheset <C 700_TE> te <C 251_GELDEN> gheldene <C 700_TE> te <C 101_SINT> sente <C 22_ANDREAS> andries <C 1_MIS> messe <C 420_DAT> dat 
+<L 2228:26> <C 274_LIJDEN> leden <C 210_ZIJN> es 
+<L 2228:28> <C 700_VAN> van <C 414_DEZE> desen <C 14_ZETTING> settinghen <C 620*_DAAR-> daer <C 471_DE> die <C 0_DAG> dach <C 620#_-AF> af <C 274_LIJDEN> Leden <C 210_ZIJN> es. <C 213_HEBBEN> heft <C 20_POLANEN> polain <C 274_ONTVANGEN> ontfaen <C 700+470_IN+HET> jnt 
+<L 2228:29> <C 0_JAAR> jar <C 4+452_HEER+ONS> onseren <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scrift <C 309_1295> .m'ho.c'hoc'ho.xc.+en<A >de</A>+.v. <VN type=1> 
+<L 2228:30> <C 700_TE> te <C 21_MERELBEKE> m<A >er</A>lebeke <C 800_EN> en<A >de</A> <C 700_TE> te <C 24_LEMBERGE> lemb<A >er</A>ghen <C 309_46> xlvi <C 19_LIBRA> li't3b 
+<L 2228:31> <C 700_TE> Te <C 21_LEDE> lede. <C 309_42> xlij <C 19_LIBRA> lib 
+<L 2228:32> <C 700_TE> Te <C 21_WICHELEN> wichline <C 309_41> xli <C 19_LIBRA> lib 
+<L 2228:33> <C 700_TE> Te <C 20_SERKAMP> tsercamp <C 800_EN> en<A >de</A> <C 21+700_IMPE+TE> tympe <C 309_8> viij <C 19_LIBRA> lib <C 309_TIEN> x <C 19_SOLIDUS> 't3s 
+<L 2228:34> <C 21_BURST> burste <C 21_BAMBURG> banbrughe <C 800_EN> en<A >de</A> <C 20_ZONNEGEM> zunnenghe<A >m</A> <C 309_17> xvij <C 19_LIBRA> lib 
+<L 2228:35> <C 21_HOFSTEDE> hofstade. <C 309_27> xxvij <C 19_LIBRA> lib 
+<L 2228:36> <C 21_NIEUWKERKE> Niewe+k<A >er</A>ke. <C 309_16> xvi <C 19_LIBRA> lib 
+<L 2228:37> <C 471_DE> die <C 1_MEIERIJ> meierie <C 700_VAN> van <C 20_EREMBODEGEM> arenboudenghe<A >m</A>. <C 309_50> L <C 19_LIBRA> lib 
+<L 2228:38> <C 21_MOORSEL> moersele <C 800_EN> en<A >de</A> <C 20_MESPELARE> mesplaer <C 309_6> vj <C 19_LIBRA> lib 
+<L 2228:39> <C 101_SINT> sente <C 20_ANT> antelins <C 800_EN> en<A >de</A> <C 20_WOUBRECHTEGEM> woubrechtenghe<A >m</A> <C 309_16> xvi <C 19_LIBRA> lib <C 309_TIEN> x <C 19_SOLIDUS> 't3s 
+<L 2228:40> <C 20_OKEGEM> Okenghem <C 203_STAAN> staet <C 700_IN> in <C 0_RESPIJT> respijt <C 700+474_BIJ+DE/HET> biden <C 1_ONTVANGER> ontfangh<A >er</A>e <C 309_7> vij <C 19_LIBRA> lib <VN type=1> 
+<L 2228:41> <C 301_BEIDE> bede <C 471_DE> die <C 24_LIERDE> lierden <C 410_DAT> dat <C 210_MOETEN> moet <C 21_NICOLAAS> coele <C 471_DE> die <C 0_MEIER> meier <C 250_ONTVANGEN> ontfaen. <C 309_19> xix <C 19_LIBRA> lib <VN type=1> 
+<L 2228:42> <C 700_VAN> van <C 474+700_DE/HET+BUITEN> buten <C 14_VRIJHEID> vrieheden <C 309_13> xiij <C 19_LIBRA> lb <VN type=1> 
+<L 2228:43> <q> Somme <q> cclxxxiij <q> lb 
+<L 2229:1> <q> de <q> ce <q> donnet 
+<L 2229:2> <q> au <q> mil <q> & <q> dont <q> li <q> mil <q> a <q> conte <q> clij <q> lb 
+<L 2229:3> <q> al <C 21_HAGEMUTER-X> haghemutre <C 309_80> lxxx <C 19_LIBRA> lb 
+<L 2229:4> <q> pour <q> le <q> seruice <q> de <C 20_POLANEN> polain <q> x <q> lb 
+<L 2229:5> <q> Somme <q> cxlij <q> lb 
+<L 2229:6> <q> Ensi <q> doit <q> li <q> poulains <q> cxlj <q> lb 
+<L 2229:8> <C 704_BUITEN> buten <C 414_DEZE> desen <C 213_HEBBEN> heft <C 20_POLANEN> polain <C 274_HEFFEN> gheheuen <C 309_13> xiij <C 19_LIBRA> lib <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='2' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='8' regio_2='9' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

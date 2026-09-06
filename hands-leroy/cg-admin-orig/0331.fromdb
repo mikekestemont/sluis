@@ -1,0 +1,100 @@
+<header>
+<docId>0331</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 545:22> <C 403+200_HET+ZIJN> Hets <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen 
+<L 545:23> <C 250_LEZEN> lesen <C 810_DAT> dat <C 224_KOMEN> camen <C 700_VOOR> voer <C 471_DE> die <C 11_MAN> manne <C 452_MIJN> mijns <C 4_HEER> heren <C 22_GUIDO> ghyoets <C 4+472_GRAAF+DE> tsg<A >ra</A>uen <C 700_VAN> van 
+<L 545:24> <C 21_VLAANDEREN> vlaendre <C 800_EN> ende <C 0_MARKIES> marchis <C 700_VAN> van <C 20_NAMEN> namur. <C 20_RIJKWARD> Riquard <C 0_STANDAARD> standaert <C 800_EN> en<A >de</A> <C 21_MARGARETA> margriete <C 450_ZIJN> sijn 
+<L 545:25> <C 0_WIJF> wijf <C 800_EN> en<A >de</A> <C 700_VOOR> voer <C 454_MIJN> mine<A >n</A> <C 1_HEER> h<A >er</A>e <C 24_WOUTER> woutren <C 21_REIFIN-X> reinfine <C 414+700_DIE+TE> tien <C 4_TIJD> tiden <C 0_BALJUW> bailiou <C 700_VAN> van <C 474_DE/HET> den 
+<L 545:26> <C 104+0_BRUGS+AMBACHT> brugschenambochte <C 474_DE/HET> den <C 424_WELK> welken <C 471_DE> die <C 101_VOORZEID> voerseide <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 20_GUIDO> ghyoet <C 231_HEBBEN> hadde 
+<L 545:27> <C 273_ZETTEN> gheset <C 700_IN> in <C 451_ZIJN> sine <C 1_STAD> stede <C 700_MET> met <C 454_ZIJN> sine<A >n</A> <C 104_UITHANGEND> vthanghe<A >n</A>den <C 4_LETTER> lettren <C 841_ALS> alse <C 700_VAN> van <C 474_DE/HET> den <C 1_OCTROOI> ottroie 
+<L 545:28> <C 420_DAT> dat <C 403_HIJ> hie <C 274_DOEN> ghedaen <C 231_HEBBEN> hadde <C 700_VAN> van <C 300_30> dartich <C 14_GEMET> jmeten <C 2_LAND> lands <C 271_LIGGEN> licghende <C 475+700_DE+BINNEN> binder 
+<L 545:29> <C 4_PAROCHIE> prochien <C 700_VAN> van <C 101_SINT> sinte <C 22_JOHANNES> jhans <C 700_OP> vp <C 474+700_DE/HET+TE> ten <C 0_DIJK> dijc <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 320_MEE> me <C 421_DIE> die <C 20_RIJKWARD> riq<A >ua</A>rd 
+<L 545:30> <C 0_STANDAARD> standaert <C 220_HOUDEN> helt <C 700_TE> te <C 1_LEEN> lene <C 700_VAN> van <C 403_HIJ> hem <C 701_OM> o<A >m</A>me <C 700_TE> te <C 251_VERWANDELEN> v<A >er</A>wandelne <C 700_IN> in <C 4_ERF> eruen <C 700_IN> jn <C 415_DIE> diere 
+<L 545:31> <C 1_MANIER> maniere <C 810_DAT> dat <C 20_RIJKWARD> Riq<A >ua</A>rd <C 0_STANDAARD> standaert <C 250_ONTVANGEN> ontfanghen <C 231_ZULLEN> soude <C 700_VAN> van <C 403_HIJ> hem <C 700_TE> te <C 1_LEEN> lene <C 300_VIJFENDERTIG> vive+en<A >de</A>+dartich 
+<L 545:32> <C 11_GEMET> jmete <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 320_MEE> me <C 271_LIGGEN> ligghende <C 700_BIJ> bi <C 455_ZIJN> sire <C 1_WONING> woeninghe 
+<L 545:33> <C 700+474_TE+DE/HET> ten <C 1+104_HOEK+KWAAD> quadenhoeke <C 700_IN> in <C 471_DE> die <C 1_STAD> stede <C 700_VAN> van <C 474_DE/HET> den <C 114_VOORZEID> voerseiden <C 300_30> dartich <C 14_GEMET> jmeten <C 2_LAND> lands 
+<L 545:34> <C 471_DE> die <C 440_MEN> me<A >n</A> <C 250_VERWANDELEN> v<A >er</A>wandelen <C 231_ZULLEN> soude <C 700_IN> in <C 4_ERFACHTIGHEID> eruachticheden <C 800_EN> ende <C 701_OM> o<A >m</A>me <C 471_DE> die <C 300_VIJFENDERTIG> vive+en<A >de</A>+dartich 
+<L 545:35> <C 11_GEMET> jmete <C 2_LAND> lands <C 700_TE> te <C 251_VERWANDELEN> v<A >er</A>wandelne <C 700_IN> in <C 1_LEEN> lene. <C 800_EN> Ende <C 411_DIE> die <C 101_VOORZEID> voerseide <C 21_MARGARETA> margriete 
+<L 545:36> <C 22_RIJKWARD> riq<A >ua</A>rds <C 2_STANDAARD> standaerts <C 0_WIJF> wijf <C 220_NEMEN> nam <C 0_VOOGD> voecht <C 700_BIJ> bi <C 1_WET> wette <C 700_VAN> van <C 4+472_GRAAF+DE> tsg<A >ra</A>uen <C 14_MAN> mannen 
+<L 545:37> <C 701_OM> o<A >m</A>me <C 700_TE> te <C 251_DOEN> doene <C 411_DEZE> dese <C 11_STUK> sticke <C 700_BIJ> bi <C 4_NAAM> namen <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 20_WILHELM> willem <C 700_VAN> van <C 20_BONHEEM> boenhem 
+<L 545:38> <C 1_RIDDER> ruddre <C 800_EN> ende <C 510_DAAR> daer <C 230_ZIJN> was <C 273_BEKENNEN> bekennet <C 700_TE> te <C 4_WET> wetten <C 810_DAT> Dat <C 403_ZIJ> soe <C 510_ZO> so <C 700_TE> te <C 4_WET> wette<A >n</A> 
+<L 545:39> <C 273_VERVOOGDEN> v<A >er</A>uoeghet <C 230_ZIJN> was <C 810_DAT> dat <C 403_ZIJ> soe <C 500_WEL> wel <C 231_MOGEN> mochte <C 204_DOEN> doen <C 411_DEZE> dese <C 11_STUK> sticke <C 800_EN> en<A >de</A> <C 700_TE> te <C 4_WET> wetten. <C 800_EN> ende 
+<L 545:40> <C 510_DAAR> daer <C 230_ZIJN> was <C 273_BEKENNEN> bekennet <C 700_TE> te <C 4_WET> wetten <C 810_DAT> dat <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 21_WOUTER> woutre <C 20_REIFIN-X> reinfin <C 1_RIDDER> ruddre <C 0_BALJUW> Bailiou 
+<L 545:41> <C 100_VOORZEID> voerseit <C 0_MACHT> macht <C 221_HEBBEN> hadde <C 700_TE> te <C 251_DOEN> doene <C 411_DIE> die <C 111_VOORZEID> voerseide <C 11_STUK> sticke.. <C 610_DAARNA> Daer+na <C 550_ZO> so <C 224_KOMEN> camen 
+<L 545:42> <C 411_DIE> die <C 101_VOORZEID> voerseide <C 20_RIJKWARD> riquard <C 0_STANDAARD> standaert. <C 21_MARGARETA> margriete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 800_EN> en<A >de</A> <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 20_WILHELM> willem 
+<L 545:43> <C 700_VAN> van <C 20_BONHEEM> boenhem <C 1_RIDDER> ruddre <C 451_HAAR> hare <C 0_VOOGD> voeghet <C 800_EN> ende <C 224_DRAGEN> droeghen <C 411_DIE> die <C 111_VOORZEID> voerseide <C 300_30> dartich 
+<L 545:44> <C 11_GEMET> jmete <C 2_LAND> lands <C 421_DIE> die <C 0_LEEN> leen <C 234_ZIJN> waren <C 700_IN> in <C 14_HAND> handen <C 454_MIJN> minen <C 1_HEER> here <C 24_WOUTER> woutren <C 21_REIFIN-X> reinfine 
+<L 545:45> <C 1_RIDDER> ruddre <C 0_BALJUW> Bailiou <C 100_VOORZEID> voerseit <C 701_OM> o<A >m</A>me <C 700_TE> te <C 251_VERWANDELEN> v<A >er</A>wandelne <C 700_IN> in <C 4_ERFACHTIGHEID> eruachtichheden <C 700_BIJ> bi 
+<L 545:46> <C 4_WET> wetten <C 800_EN> ende <C 700_BIJ> bi <C 1_WIJSDOM> wijsdoeme <C 700_VAN> van <C 474_DE/HET> den <C 14_MAN> mannen <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets 
+<L 546:1> <C 4+472_GRAAF+DE> tsg<A >ra</A>uen <C 100_VOORZEID> voerseit. <C 800_EN> ende <C 20_RIJKWARD> Riquard <C 800_EN> ende <C 21_MARGARETA> margriete <C 800_EN> ende <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 20_WILHELM> willem 
+<L 546:2> <C 451_HAAR> hare <C 0_VOOGD> voeghet <C 100_VOORZEID> voerseit <C 224_HALMEN> halmeden <C 403_HIJ> hem <C 700_TE> te <C 4_WET> wetten <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORZEID> voerseiden <C 1_LEEN> lene 
+<L 546:3> <C 700_BIJ> bi <C 1_WIJSDOM> wijsdoeme <C 700_VAN> van <C 474_DE/HET> den <C 14_MAN> mannen <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets <C 472+4_DE+GRAAF> tsg<A >ra</A>uen <C 100_VOORZEID> voerseit. 
+<L 546:4> <C 800_EN> ende <C 510_DAAR> daer <C 224_WIJZEN> wiseden <C 471_DE> die <C 11_MAN> manne <C 452_MIJN> mijns <C 4_HEER> heren <C 22_GUIDO> ghyoets <C 472+4_DE+GRAAF> tsgrauen <C 100_VOORZEID> voerseit <C 800_EN> ende 
+<L 546:5> <C 700_TE> te <C 4_WET> wetten <C 810_DAT> dat <C 471_DE> die <C 20_RIJKWARD> riquard. <C 21_MARGARETA> m<A >ar</A>griete. <C 800_EN> en<A >de</A> <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 20_WILHELM> willem <C 451_HAAR> hare 
+<L 546:6> <C 0_VOOGD> voeghet <C 421_DIE> die <C 273_VOORZEGGEN> voerseit <C 214_ZIJN> sijn <C 510_ZO> so <C 501_WETTELIJK> wettelicke <C 704_BUITEN> buten <C 234_ZIJN> waren <C 274_GAAN> jghaen <C 412_DIE> dies <C 102_VOORZEID> voerseids 
+<L 546:7> <C 2_LEEN> leens. <C 800_EN> en<A >de</A> <C 810_DAT> dat <C 411_DIE> die <C 101_VOORZEID> voerseide <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 21_WOUTER> woutre <C 20_REIFIN-X> reinfin <C 1_RIDDER> ruddre <C 0_BALJUW> Bailiou 
+<L 546:8> <C 100_VOORZEID> voerseit <C 510_ZO> so <C 501_WETTELIJK> wettelicke <C 230_ZIJN> was <C 700+470_IN+HET> jnt <C 101_VOORZEID> voerseide <C 0_LEEN> leen <C 274_DOEN> ghedaen <C 810_DAT> dat <C 403_HIJ> hie <C 0_MACHT> macht 
+<L 546:9> <C 221_HEBBEN> hadde <C 410_DAT> dat <C 0_LEEN> leen <C 700_TE> te <C 251_VERWANDELEN> v<A >er</A>wandelne <C 700_IN> in <C 4_ERF> Eruen. <C 800_EN> ende <C 611_DAARMEDE> der+mede <C 700+251_TE+ERVEN> teruene <C 414_DIE> dien 
+<L 546:10> <C 104_VOORZEID> voerseiden <C 21_RIJKWARD> Riquarde. <C 800_EN> Ende <C 510_DAAR> daer <C 221_VERWANDELEN> v<A >er</A>wandelde <C 403_HIJ> hie <C 410_DAT> dat <C 101_VOORZEID> voerseide <C 0_LEEN> leen <C 700_IN> jn 
+<L 546:11> <C 4_ERF> eruen <C 800_EN> ende <C 403_HIJ> hie <C 220_DRAGEN> droech <C 411_DIE> die <C 1_ERF> Erue <C 700_IN> in <C 14_HAND> handen <C 21_RIJKWARD> Riquarde <C 1_STANDAARD> standaerde <C 800_EN> ende <C 403_HIJ> hie 
+<L 546:12> <C 220+600*_GEVEN+ER-> ghaffer <C 403_HIJ> hem <C 1_GIFT> ghifte <C 600#_-AF> of <C 501_WETTELIJK> wettelicke <C 700_VOOR> voer <C 471_DE> die <C 11_MAN> manne <C 452_MIJN> mijns <C 4_HEER> heren <C 22_GUIDO> ghyoets 
+<L 546:13> <C 4+472_GRAAF+DE> tsg<A >ra</A>uen <C 100_VOORZEID> voerseit. <C 800_EN> en<A >de</A> <C 700_VOOR> voer <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrihen. <C 500_VOORT> Voert <C 550_ZO> so <C 224_GEVEN> ghauen 
+<L 546:14> <C 411_DIE> die <C 101_VOORZEID> voerseide <C 20_RIJKWARD> riquard. <C 800_EN> ende <C 21_MARGARETA> margriete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 101_WETTELIJK> wettelicke <C 1_GIFT> ghifte <C 454_MIJN> minen 
+<L 546:15> <C 1_HEER> h<A >er</A>e <C 24_WOUTER> woutren <C 21_REIFIN-X> reinfine <C 1_RIDDER> ruddre <C 0_BALJUW> bailiou <C 100_VOORZEID> voerseit <C 700_VOOR> voer <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den 
+<L 546:16> <C 104_VRIJ> vrien <C 800_EN> ende <C 700_VOOR> voer <C 471_DE> die <C 10_MAN> man <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets <C 4+472_GRAAF+DE> tsgrauen <C 100_VOORZEID> voerseit <C 700_VAN> van <C 474_DE/HET> den 
+<L 546:17> <C 114_VOORZEID> voerseiden <C 300_VIJFENDERTIG> vive+ende+dartich <C 14_GEMET> jmeten <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 320_MEE> me <C 421_DIE> die <C 414+700_DIE+TE> tien 
+<L 546:18> <C 4_TIJD> tiden <C 1_ERF> Erue <C 234_ZIJN> waren <C 701_OM> o<A >m</A>me <C 471_DE> die <C 1_ERF> erue <C 700_TE> te <C 251_VERWANDELEN> v<A >er</A>wandelne <C 700_IN> jn <C 1_LEEN> lene <C 800_EN> ende <C 701_OM> o<A >m</A>me 
+<L 546:19> <C 810_DAT> dat <C 0_LEEN> leen <C 700_TE> te <C 251_HOUDEN> houdene <C 700_VAN> van <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 21_GUIDO> Ghyote <C 1_GRAAF> graue <C 100_VOORZEID> voerseit <C 700_IN> jn <C 471_DE> die <C 1_STAD> stede <C 700_VAN> van 
+<L 546:20> <C 474_DE/HET> den <C 114_VOORZEID> voerseiden <C 300_30> dartich <C 14_GEMET> jmeten <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 320_MEE> me <C 421_DIE> die <C 0_LEEN> leen <C 234_ZIJN> waren <C 620*_DAAR-> daer 
+<L 546:21> <C 500_NU> nu <C 1_ERF> Erue <C 620#_-AF> of <C 273_MAKEN> jmaect <C 210_ZIJN> es <C 510_ALZO> also <C 820+403_ALS+HET> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es. <C 800_EN> ende <C 406_ZIJ> sie <C 224_HALMEN> halmeden <C 403_HIJ> hem <C 700_TE> te 
+<L 546:22> <C 4_WET> wetten <C 700_VAN> van <C 474_DE/HET> den <C 114_VOORZEID> voerseiden <C 300_VIJFENDERTIG> vive+en<A >de</A>+dartich <C 14_GEMET> jmeten <C 2_LAND> lands. <C 700_VAN> van <C 424_WELK> welken 
+<L 546:23> <C 1_LAND> lande <C 403+203_HET+LIGGEN> leghets <C 301_13> dartiene <C 11_GEMET> jmete <C 800_EN> en<A >de</A> <C 300_EEN> een <C 1_LIJN> line <C 500_OFNOORDHALF> of+nordhalf <C 700_AAN> an <C 22_RIJKWARD> riquards 
+<L 546:24> <C 2_STANDAARD> standaerts <C 1_HOFSTEDE> hofstede. <C 800_EN> ende <C 300_VIERDEHALF> vierdalf <C 0_GEMET> jmet <C 213+403_HETEN+HET> hetets <C 20_GRIELENLAND> grielenland. <C 800_EN> en<A >de</A> <C 301_VIER> viere 
+<L 546:25> <C 11_GEMET> jmete <C 213_HETEN> heet <C 471_DE> die <C 0_RIETMEET> rietmaet. <C 800_EN> ende <C 301_VIER> viere <C 11_GEMET> jmete <C 213_HETEN> heet <C 0_ZEISLAND> zeesland. <C 800_EN> ende <C 700_IN> jn <C 471_DE> die <C 104_OUD> ouden 
+<L 546:26> <C 0_EE> .E. <C 403+203_HET+LIGGEN> leghets <C 301_7> zeuene <C 11_GEMET> jmete. <C 800_EN> ende <C 300_EEN> een <C 0_GEMET> jmet <C 410_DAT> dat <C 230_ZIJN> was <C 22_NICOLAAS> clais <C 22_WILHELM> willins <C 2_ZOON> soens. <C 800_EN> ende 
+<L 546:27> <C 301_TWEE> tve <C 11_GEMET> jmete <C 800_EN> ende <C 480+300_EEN+HALF> een+half <C 1_LIJN> line <C 410_DAT> dat <C 230_ZIJN> was <C 22_LAMBERT> lammi<A >n</A>s <C 22_GUITER> ghut<A >er</A>s <C 2_ZOON> soens. <C 800_EN> Ende <C 510_DAAR> daer 
+<L 546:28> <C 221_VERWANDELEN> v<A >er</A>wandelde <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 21_WOUTER> woutre <C 20_REIFIN-X> reinfin <C 1_RIDDER> ruddre <C 0_BALJUW> Bailiou <C 100_VOORZEID> voerseit <C 411_DIE> die <C 300_VIJFENDERTIG> vive+en<A >de</A>+dartich 
+<L 546:29> <C 11_GEMET> jmete <C 4_ERF> Eruen <C 700_IN> jn <C 1_LEEN> lene <C 701_OM> o<A >m</A>me <C 700_TE> te <C 251_HOUDEN> houdene <C 410_DAT> dat <C 0_LEEN> leen <C 700_VAN> van <C 454_MIJN> minen 
+<L 546:30> <C 1_HEER> h<A >er</A>e <C 21_GUIDO> Ghyote <C 1_GRAAF> g<A >ra</A>ue <C 100_VOORZEID> voerseit <C 700_IN> jn <C 471_DE> die <C 1_STAD> stede <C 700_VAN> van <C 474_DE/HET> den <C 114_VOORZEID> voerseiden <C 300_30> dartich 
+<L 546:31> <C 14_GEMET> jmeten <C 2_LAND> lands <C 620*_DAAR-> daer <C 1_ERF> erue <C 620#_-AF> of <C 273_MAKEN> jmaect <C 210_ZIJN> es <C 821+411_ALS+DIE> alse+die <C 403+421_HET+DIE> dies <C 0_MACHT> macht <C 221_HEBBEN> hadde. <C 800_EN> ende 
+<L 546:32> <C 700_BIJ> bi <C 1_WIJSDOM> wijsdoeme <C 700_VAN> van <C 474_DE/HET> den <C 14_MAN> mannen <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets <C 4+472_GRAAF+DE> tsg<A >ra</A>uen <C 100_VOORZEID> voerseit 
+<L 546:33> <C 800_EN> ende <C 700_TE> te <C 4_WET> wetten. <C 800_EN> ende <C 510_DAAR> daer <C 221_ERVEN> Eruede <C 450_MIJN> mijn <C 1_HEER> h<A >er</A>e <C 21_WOUTER> woutre <C 20_REIFIN-X> reinfin <C 1_RIDDER> ruddre 
+<L 546:34> <C 0_BALJUW> Bailiou <C 100_VOORZEID> voerseit <C 414_DIE> dien <C 104_VOORZEID> voerseiden <C 21_RIJKWARD> riquarde <C 700_MET> met <C 414_DIE> dien <C 1_LEEN> lene <C 701_OM> o<A >m</A>me <C 700_TE> te 
+<L 546:35> <C 251_HOUDEN> houdene <C 700_IN> jn <C 1_LEEN> lene <C 700_VAN> van <C 450_MIJN> mijn <C 1_HEER> here <C 21_GUIDO> Ghyote <C 1_GRAAF> graue <C 100_VOORZEID> voerseit <C 700_IN> jn <C 411_DIE> die <C 1_STAD> stede <C 700_VAN> van <C 474_DE/HET> den 
+<L 546:36> <C 104_VOORZEID> voerseiden <C 1_LEEN> lene <C 620*_DAAR-> daer <C 500_NU> nu <C 1_ERF> erue <C 620#_-AF> of <C 210_ZIJN> es <C 273_MAKEN> jmaect <C 510_ALZO> also <C 820+403_ALS+HET> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es <C 700_TE> te <C 4_WET> wetten 
+<L 546:37> <C 800_EN> ende <C 700_BIJ> bi <C 1_WIJSDOM> wijsdoeme <C 700_VAN> van <C 474_DE/HET> den <C 14_MAN> mannen <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets <C 4+472_GRAAF+DE> tsg<A >ra</A>uen 
+<L 546:38> <C 100_VOORZEID> voerseit <C 800_EN> ende <C 403_HIJ> hie <C 220+600*_GEVEN+ER-> ghaffer <C 403_HIJ> hem <C 1_GIFT> ghifte <C 600#_-AF> of <C 501_WETTELIJK> wettelicke <C 700_VOOR> voer <C 411_DIE> die <C 11_MAN> manne <C 452_MIJN> mijns 
+<L 546:39> <C 4_HEER> heren <C 22_GUIDO> ghyoets <C 472+4_DE+GRAAF> tsg<A >ra</A>uen <C 100_VOORZEID> voerseit <C 800_EN> ende <C 700_VOOR> voer <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrihen <C 800_EN> ende 
+<L 546:40> <C 403_HIJ> hie <C 220+403_HALMEN+HET> halmets <C 403_HIJ> hem <C 700_TE> te <C 4_WET> wetten.. <C 800_EN> Ende <C 810_BIJ-DIEN-DAT> bi+di+dat <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORZEID> voerseide <C 11_STUK> sticke 
+<L 546:41> <C 234_ZIJN> waren <C 700_VOOR> voer <C 404_WIJ> ons <C 274_DOEN> ghedaen <C 500_WEL> wel <C 800_EN> ende <C 700_TE> te <C 4_WET> wetten <C 404_WIJ> wie <C 21_WOUTER> woutre <C 20_REIFIN-X> reinfin <C 1_RIDDER> ruddre 
+<L 546:42> <C 0_BALJUW> Bailiou <C 700+414_TE+DIE> tien <C 4_TIJD> tiden <C 700_VAN> van <C 474_DE/HET> den <C 104+0_BRUGS+AMBACHT> brugschenambochte <C 100_VOORZEID> voerseit. <C 404_WIJ> wie <C 24_BOUDEWIJN> boude<A >n</A> <C 471_DE> die 
+<L 546:43> <C 1_BROEKER> broek<A >er</A>e.. <C 20_WILHELM> willem <C 700_VAN> van <C 20_BONHEEM> bonem <C 12_RIDDER> rudders.. <C 20_WILHELM> willem <C 471_DE> die <C 1_SCHOUTHEET> scoutete <C 14_SCHEPEN> scepenen <C 700_VAN> van 
+<L 546:44> <C 474_DE/HET> den <C 104_VRIJ> vrihen <C 800_EN> ende <C 10_MAN> man <C 452_MIJN> mijns <C 4_HEER> heren <C 22_GUIDO> ghyoets <C 472+4_DE+GRAAF> tsgrauen <C 100_VOORZEID> voerseit.. <C 21_HUGO> hughe 
+<L 546:45> <C 21_BOON> boene <C 1_RIDDER> ruddre.. <C 20_JOHANNES> jhan <C 700_VAN> van <C 21_WOUMEN> woeme.. <C 20_ROBERT> Robrecht <C 0+24_VROUW+BEATRIX> v<A >er</A>trisen <C 1_ZOON> soene.. <C 20_NICOLAAS> Colin 
+<L 546:46> <C 22_PETRUS> piet<A >er</A>s <C 1_ZOON> soene <C 11_MAN> manne <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en <C 22_GUIDO> ghyoets <C 4+472_GRAAF+DE> tsgrauen <C 100_VOORZEID> voerseit.. <C 21_BOUDEWIJN> Boudene 
+<L 547:1> <C 101+470_IJZEREN+DE> dyserine <C 1_RIDDER> ruddre. <C 20_OLIVIER> Oliuier <C 700_VAN> van <C 475_DE/HET> der <C 1_HAAG> haghe.. <C 20_JOHANNES> jhan <C 1_NIEUWMAAR> niemare.. <C 20_GERARD> Gherard <C 471_DE> die 
+<L 547:2> <C 0_WEVEL> weuel.. <C 20_JOHANNES> jhan <C 471_DE> die <C 1_BOEI-X> boye.. <C 21_WOUTER> woutre <C 22_BOUDEWIJN> boidins <C 1_ZOON> soene.. <C 21_HUGO> hughe <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe.. <C 800_EN> ende 
+<L 547:3> <C 20_ARNOUT> Arnoud <C 22_HENDRIK> heinemans <C 1_ZOON> soene <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrihen <C 810_BIJ-DIEN-DAT> bi+di+dat <VN type=1> <C 404_WIJ> wie <C 234_ZIJN> waren 
+<L 547:4> <C 274_ROEPEN> jroepen <C 700_OVER> ouer <C 411_DEZE> dese <C 11_STUK> sticke. <C 404_WIJ> wie <C 111_VOORZEID> voerseide <C 11_MAN> manne <C 861_ALS> alse <C 10_MAN> man <C 452_MIJN> mijns <C 4_HEER> h<A >er</A>en 
+<L 547:5> <C 22_GUIDO> ghyoets <C 472+4_DE+GRAAF> tsgrauen <C 100_VOORZEID> voerseit. <C 800_EN> Ende <C 404_WIJ> wie <C 111_VOORZEID> voerseide <C 14_SCHEPEN> scepenen <C 861_ALS> alse <C 14_SCHEPEN> scepenen <C 700_VAN> van 
+<L 547:6> <C 474_DE/HET> den <C 104_VRIJ> vrie<A >n</A> <C 810_OMDAT> o<A >m</A>me+dat <C 321_AL> alle <C 411_DIE> die <C 111_VOORZEID> voerseide <C 11_STUK> sticke <C 234_ZIJN> waren <C 274_DOEN> ghedaen <C 700_VOOR> voer <C 404_WIJ> ons 
+<L 547:7> <C 700_TE> te <C 4_WET> wetten <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 700_IN> jn 
+<L 547:8> <C 4_KENNIS> kennessen <C 510_ALZO> also <C 820_ALS> als <C 404+600_WIJ+EROVER> wiere+ouer <C 224_ZIJN> waren <C 403+820_HET+ALS> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es.. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 547:9> <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 451_ZIJN> sine <C 1_INCARNATIE> jncarnatie. <C 300_1280> tvelef+hondert+ende+tachtentich. 
+<L 547:10> <C 700_IN> jn <C 471_DE> die <C 0_MAAND> maent <C 421_DIE> die <C 440_MEN> men <C 203_HETEN> heet <C 20_LOUWMAAND> Laumaent 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

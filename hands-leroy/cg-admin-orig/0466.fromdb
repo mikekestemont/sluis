@@ -1,0 +1,22 @@
+<header>
+<docId>0466</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='2'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 707:14> <C 404_WIJ> Wi <C 20_FLORENTIUS> florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_GELOVEN> geloue<A >n</A> <C 700_MET> met <C 414_DEZE> desen <C 104_JEGENWOORDIG> jegenwordige<A >n</A> <C 1_BRIEF> briue 
+<L 707:15> <C 101_VAST> vaste <C 204_DOEN> doen <C 700_TE> te <C 250_HOUDEN> houden. <C 411_ALDUSGEDAAN> aldusgedane <C 1_VOORWAARDE> vorrewarde <C 821_ALS> alse <C 411_DEZE> dese <C 0_BRIEF> brief <C 203_HOUDEN> houdet. 
+<L 707:16> <C 620*_DAAR-> dar <C 411_DEZE> dese <C 620#_-DOOR> dur <C 274_STEKEN> gesteken <C 210_ZIJN> es. <C 274_GEVEN> gegeue<A >n</A> <C 700_IN> in <C 101_SINT> sente <C 24_GEERTRUIDA> Gerden <C 1_DAG> dage <C 700_TE> te <C 0_HALF> half <C 21_MAART> marte. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1283' jaar_van='1283' tijdsoort='1' tijdstatus='2'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

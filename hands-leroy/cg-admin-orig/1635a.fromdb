@@ -1,0 +1,34 @@
+<header>
+<docId>1635a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2446:18> <q> 't% <C 1_LETTER> Lett<A >er</A>e <C 22_JOHANNES> jans <C 700_VAN> van <C 21_ALMSVOET> almsuoete <C 621*_DAAR-> daer <C 403_HIJ> hi <C 621#_-MEDE> mede <C 221_LOVEN> louede <C 500_WEER> weder <q> [in] <C 700_TE> te <C 250*_-KOMEN> com<A >en</A> 
+<L 2446:19> <C 701_TOT> tote <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue. <C 820_ALS> als <C 403_HIJ> hi <C 220_ZIJN> was 
+<L 2446:20> <C 401_IK> Jc <C 20_JOHANNES> jan <C 700_VAN> van <C 21_ALMSVOET> almesuoete <C 1_KNAAP> Cnape <VN type=1> <C 201_OORKONDEN> orkonde <C 700_MET> [me]t <C 414_DEZE> dese[n] <C 1_BRIEF> brieue. <C 810_DAT> Dat <C 401_IK> ic 
+<L 2446:21> <C 273_GELOVEN> ghelouet <C 211_HEBBEN> hebbe <C 454_MIJN> minen <C 104_LIEF> lieuen <C 1_HEER> here, <C 21_JOHANNES> janne. <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> holland <C 700_VAN> van <C 20_ZEELAND> zeland 
+<L 2446:22> <C 800_EN> en<A >de</A> <C 1_HEER> here <C 700_VAN> [van] <C 20_FRIESLAND> vriesland. <C 810_DAT> Dat <C 401_IK> ic <C 700_TOT> tot <C 403_HIJ> hem <C 250_KOMEN> comen <C 210_ZULLEN> zal <C 1_ACHTDAG> achtaghe <C 700_NA> na <C 101_SINT> sinte 
+<L 2446:23> <C 22_ANDREAS> andries <C 1_DAG> daghe. <C 871_ALS> alse <C 700_BIJ> bi <C 403_HIJ> hem <C 700_TE> te <C 251_BLIJVEN> bliuene <C 700_IN> in <C 324_AL> allen <C 4_MANIER> manieren <C 820_ALS> [als] <C 401_IK> [ic] <C 700_BIJ> bi <C 403_HIJ> hem 
+<L 2446:24> <C 220_ZIJN> was <C 700_IN> in <C 101_SINT> sinte <C 22_MARTIN> martijns <C 1_AVOND> auonde <C 810_TOEN> doe <C 401_IK> ic <C 700_VAN> van <C 403_HIJ> hem <C 220_SCHEIDEN> sciet. <C 274_GEVEN> Ghegheuen <C 475+700_DE+TE> ter 
+<L 2446:25> <C 21_KAMPVEER> Campvere <C 700_OP> op <C 101_SINT> sinte <C 22_MARTIN> m<A >ar</A>tijns <C 1_AVOND> auonde <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 300_1297> .m'ho.+[cc'ho.]+seuen+en<A >de</A>+neghentich 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+<statushand  statushandkode='an'>
+
+<L 2446:51> <C 9_KNAAP> Cnake 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

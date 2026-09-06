@@ -1,0 +1,33 @@
+keep,drop,note
+122o.png,123o.png,same document
+138o.png,137o.png|139o.png,duplicates of 138o (named keep, not lowest)
+346o.png,347o.png|348o.png|349o.png,same document
+556o.png,554o.png|555o.png,retarget keep from 554o to 556o
+1176o.png,1177o.png,same document
+1218o.png,1219o.png|1220o.png|1221o.png|1222o.png|1223o.png,same documents 1218–1223
+1261o.png,1262o.png|1263o.png|1264o.png|1265o.png|1266o.png|1267o.png|1268o.png,same document
+1366o.png,1367o.png,same document
+1373o.png,1374o.png,same document
+1375o.png,1376o.png|1377o.png,same document
+1380o.png,1381o.png|1382o.png,same document
+1407o.png,1408o.png,same document
+1371o.png,1370o.png|1372o.png,same document; keep 1371o (slightly larger); retarget 1372o from 1370o
+1399o.png,1398o.png,same document; keep 1399o
+2o.png,4o.png,same-meta m2
+34o.png,33o.png,same-meta m33
+35o.png,36o.png|37o.png|38o.png|39o.png|40o.png|41o.png|42o.png|43o.png|44o.png,same-meta m35 keure van Middelburg
+45o.png,46o.png|47o.png|48o.png,same-meta m45
+50o.png,49o.png,same-meta m49
+51o.png,52o.png|53o.png|54o.png|55o.png|56o.png,same-meta m51 leenregister
+135o.png,134o.png,same-meta m134
+166o.png,167o.png,same-meta m166
+336o.png,337o.png,same-meta m336
+350o.png,351o.png|352o.png|353o.png|354o.png,same-meta m350
+416o.png,417o.png,same-meta m416
+545o.png,546o.png,same-meta m545
+563o.png,564o.png,same-meta m563
+573o.png,574o.png|575o.png|576o.png|577o.png|578o.png|579o.png|580o.png,same-meta m573
+1183o.png,1184o.png,same-meta m1183
+1193o.png,1192o.png,same-meta m1192
+1196o.png,1197o.png,same-meta m1196
+1229o.png,1228o.png,same-meta m1228

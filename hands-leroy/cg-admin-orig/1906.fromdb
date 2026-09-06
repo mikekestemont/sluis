@@ -1,0 +1,57 @@
+<header>
+<docId>1906</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2812:37> <C 700_VAN> van <C 0_ZUSTER> suster <q> anesen.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> ghecocht <q> ij <C 14_GEMET> ghe<A >meten</A> <q> C+ende+ij 
+<L 2812:38> <C 14_ROEDE> r<A >oeden</A> <q> mersch <C 700_IN> i<A >n</A> <C 480_EEN> een <C 1_STAD> stede <C 274_HETEN> gheheete<A >n</A> <C 0_KORKSMEERS> Corchs+mersch.- 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+
+<L 2812:39> <q> Dooresele <C 700_IN> in <C 21_DURME> durme. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2812:42> <C 401_IK> Jc <C 0_ZUSTER> suster <C 26_ADELHEID> adelisa <C 273_ZEGGEN> gheseit <C 1_ABDIS> abedesse <C 800_EN> en<A >de</A> <C 0+470_CONVENT+HET> tcouent <C 700_VAN> van <C 21_DOORZELE> dorencele <C 204_DOEN> doen <C 700_TE> te 
+<L 2812:43> <C 251_WETEN> wetene <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> dat <C 404_WIJ> wi 
+<L 2812:44> <C 214_HEBBEN> ebben <C 273_KOPEN> ghecocht <C 700_JEGEN> ieghen <C 21_ARNOUT> arnoude <C 472+0_DE+HEER> ser <C 22_PETRUS> pieters <C 1_ZOON> sone <C 800_EN> en<A >de</A> <C 20_WILHELM> willem <C 454_ZIJN> sinen <C 1_ZOON> sone 
+<L 2812:45> <C 300_2> tue <C 11_GEMET> ghemete <C 300_HONDERD> hondert <C 14_ROEDE> roede<A >n</A> <C 800_EN> en<A >de</A> <C 300_2> tue <C 14_ROEDE> roeden <C 1_MEERS> mersche <C 271_LIGGEN> lighende <C 700_IN> in <C 481_EEN> ene 
+<L 2812:46> <C 1_STAD> stede <C 421_DIE> die <C 440_MEN> me<A >n</A> <C 203_HETEN> heet <C 22_TORGSMEERS> torchs+merchs <C 700_OM> om <C 481_EEN> ene <C 100_ZEKER> seker <C 1_SOM> so<A >m</A>me <C 700_VAN> van <C 14_PENNING> peneghen 
+<L 2813:1> <C 471_DE> de <C 421_WELK> welke <C 406_ZIJ> hem <C 214_ZIJN> sijn <C 501_WETTELIJK> wettelike <C 274_VERGELDEN> uergolde<A >n</A> <C 700_MET> met <C 104_GEREED> ghereden <C 1_GELD> ghelde. <C 800_EN> en<A >de</A> <C 20_ARNOUT> arnout 
+<L 2813:2> <C 800_EN> en<A >de</A> <C 20_WILHELM> wille<A >m</A> <C 100_VOORZEID> vorseit <C 224*_-DRAGEN> droeghen <C 404_WIJ> ons <C 224#_OP-> up <C 700_IN> in <C 454_ONS> onsen <C 14_HAND> handen <C 414_DEZE> desen <C 104_VOORZEID> vorseide<A >n</A> 
+<L 2813:3> <C 2_MEERS> merchs. <C 800_EN> en<A >de</A> <C 224_BELOVEN> belouede<A >n</A> <C 404_WIJ> ons <C 251*_OP-> up <C 700_TE> te <C 251#_-HOUDEN> houdene <C 501_WETTELIJK> wettelike <C 700_VAN> va<A >n</A> <C 324_AL> alle<A >n</A> 
+<L 2813:4> <C 4_CALANGE> calaengen. <C 700_OVER> ouer <C 411_DEZE> dese <C 1_VOORWAARDE> vorwaerde <C 220_ZIJN> was <C 20_JACOB> iacob <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 24_MILMEN> milme<A >n</A> <C 800_EN> en<A >de</A> <C 20_GERLOF> gherolf 
+<L 2813:5> <C 22_HUGO> hughes <C 1_ZOON> sone <C 800_EN> en<A >de</A> <C 20_BOUDEWIJN> boidijn <C 700_VAN> van <C 21_ASSENEDE> hassnede <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 10_ASSENEDER> hassned<A >er</A> <C 0_AMBACHT> ambacht 
+<L 2813:6> <C 700+474_TE+DE> tie<A >n</A> <C 4_TIJD> tiden <C 800_EN> en<A >de</A> <C 110_ANDER> ander <C 111_GOED> goede <C 11_LIEDEN> liede. <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 0_KOOP> coep 
+<L 2813:7> <C 213_BLIJVEN> bliuet <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> ebben <C 404_WIJ> wi <C 414_DEZE> dese<A >n</A> <C 0_BRIEF> brief <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen 
+<L 2813:8> <C 1_ZEGEL> zeghele <C 101_UITHANGEND> huuthanghende. <C 800_EN> en<A >de</A> <C 204_BIDDEN> ghebeiden <C 474_DE> dien <C 104_VOORZEID> vorseide<A >n</A> <C 20_JACOB> iacob <C 800_EN> en<A >de</A> 
+<L 2813:9> <C 20_GERLOF> gherolf <C 800_EN> en<A >de</A> <C 21_BOUDEWIJN> boidine <C 810_DAT> dat <C 403+406_HIJ+ZIJ> sine <C 204_ZEGELEN> seghelen. <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 20_JACOB> iacob <C 800_EN> en<A >de</A> <C 20_GERLOF> gherolf <C 800_EN> en<A >de</A> 
+<L 2813:10> <C 20_BOUDEWIJN> boidijn <C 111_VOORZEID> vorseide <C 14_SCHEPEN> scepene<A >n</A> <C 700_BIJ> bi <C 4_BEDE> beide<A >n</A> <C 800_EN> en<A >de</A> <C 1_CONSENT> consente <C 700_VAN> van <C 304_BEIDE> beede<A >n</A> <C 14_PARTIJ> paertien 
+<L 2813:11> <C 214_HEBBEN> hebben <C 610_HIERAAN> hier+an <C 274_HANGEN> gheanghen <C 451_ONS> onse <C 11_ZEGEL> zeghele <C 700_IN> in <C 0_OORKONDSCHAP> orconscap <C 475_DE/HET> der <C 4_WAARHEID> wareden <C 800_EN> en<A >de</A> 
+<L 2813:12> <C 415_DEZE> deser <C 4_VOORWAARDE> vorwaerden <C 100_VOORZEID> vorseit. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 850_ALS> als <C 440_MEN> me<A >n</A> 
+<L 2813:13> <C 220_SCHRIJVEN> scref <C 300_DUIZENTIG-300> dusentech+en<A >de</A>+driehondert <C 2_WOENSDAG> woendaghes <C 700_NA> na <C 101_SINT> sente <C 22_LUCAS> lucs <C 0_DAG> dach 
+<L 2813:14> <C 1_EVANGELIST> ewangeliste 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='39' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,223 @@
+<header>
+<docId>1467</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2233:38> <q> .s. <q> m. <C 20_WALKIER-X> walkirs <C 700_IN> in <C 21_BRUGGE> brughe. 
+<end-datering  jaar_tot='1310' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 410_DIT> dit <C 210_ZIJN> es <C 480_EEN> een <q> saerter 
+<L 2233:39> <C 700_VAN> va<A >n</A> <C 21_BRUGGE> brugghe <C 700_VAN> va<A >n</A> <q> vele <q> dyuersche <C 14_PERCEEL> paerseele<A >n</A> <C 700_VAN> va<A >n</A> <q> re<A >n</A>ten. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2233:44> <C 404_WIJ> Wie <C 20_JOHANNES> ihan <C 20_HUBERT> hubrecht <C 20_JOHANNES> ihan <C 700_VAN> van <C 21_DUDZELE> dudzele <C 20_JOHANNES> ihan <C 0_SCHENKEL> scinkel <C 20_WOUTER> wouter <C 0_KANT> cant <C 800_EN> & <C 20_AEGIDIUS> gillis 
+<L 2233:45> <C 0_HOOFD> hoeft <C 14_SCHEPEN> scepene<A >n</A> <C 700_IN> in <C 21_BRUGGE> brugghe <C 810_TE-DIE-TIJD-DAT> te+dien+tiden+dat <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_MAKEN> ghemaect <C 230_ZIJN> was 
+<L 2233:46> <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> gonen <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen 
+<L 2234:1> <C 250_LEZEN> lesen <C 810_DAT> dat <C 220_KOMEN> quam <C 700_VOOR> voer <C 404_WIJ> ons <C 840_ALS> als <C 700_VOOR> voer <C 14_SCHEPEN> scepene<A >n</A> <C 20_ADELHARD> alart <C 0_LAM> lam <C 800_EN> & <C 20_JACOB> iacob <C 700_VAN> van <C 474_DE/HET> den 
+<L 2234:2> <C 1_GROENENDIJK-X> groenendike <C 11_VOOGD> voeghede <C 700_VAN> van <C 472+0_DE+HEER> ser <C 22_NICOLAAS> niclais <C 22_WALKIER-X> walkiers <C 800_EN> & <C 0_VROUW> ver <C 24_GEERTRUIDA> truden <C 452_ZIJN> siins <C 2_WIJF> wiifs 
+<L 2234:3> <C 10_KIND> kindre <C 20_NICOLAAS> clais <C 21_GRIELE> griele <C 800_EN> & <C 24_CLARA> claren <C 800_EN> & <C 224_GEVEN> ghauen <C 1_HALM> alme <C 800_EN> & <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder 
+<L 2234:4> <C 21_JOHANNES> ihanne <C 700_VAN> van <C 20_AARDENBURG> erdenborch <C 0_BROEDER> broeder <C 700_VAN> van <C 474_DE/HET> den <C 1_KLOOSTER> cloestre <C 700_VAN> van <C 474_DE/HET> den <C 14_FRERIN> frerinne<A >n</A> <C 700_VAN> van 
+<L 2234:5> <C 101_SINT> sinte <C 24_CLARA> claren <C 700_VAN> van <C 21_BRUGGE> brugghe <C 700+475_TE+DE> ter <C 4_ABDIS> abdessen <C 800_EN> & <C 2_CONVENT> couuents <C 0_BEHOEF> bouf <C 700_VAN> van <C 474_DE/HET> den 
+<L 2234:6> <C 104_VOORZEID> voerseiden <C 1_KLOOSTER> cloestre <C 700_VAN> van <C 300_30> dertich <C 11_POND> ponde <C 2+472_JAAR+HET> siaers <C 4_RENTE> renten <C 271_LIGGEN> ligghede <C 700_IN> in 
+<L 2234:7> <C 1_ERFACHTIGHEID> ervachtechede <C 800_EN> & <C 700_IN> in <C 14_HUIS> husen <C 410_DAT> dat <C 200_ZIJN> es <C 700_TE> te <C 251_WETEN> wetene <C 301_12> tuelue <C 10_POND> pont <C 2+472_JAAR+HET> siaers <C 800_EN> & <C 301_VEERTIEN> viertiene 
+<L 2234:8> <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 271_LIGGEN> ligghende <C 471+700_DE+IN> inde <C 1_STAD> stede <C 700_VAN> van <C 21_BRUGGE> brugghe. <C 300_VIJFENTWINTIG> viue+&+tuintich 
+<L 2234:9> <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 22_JACOB> iacops <C 22_BARTOEN-X> bertoens <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 471+700_DE+IN> inde 
+<L 2234:10> <C 1_NAALDESTRAAT> naeldestrate <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe, <C 700_AAN> an <C 470_HET> dat <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 700_AAN> an 
+<L 2234:11> <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 0_VROUW> ver <C 21_ROSA> rose <C 2_VISSER> visschers <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700+471_IN+DE> inde <C 1_NAALDESTRAAT> naeldestrate <C 800_EN> & <C 301_VIJF> viue 
+<L 2234:12> <C 11_HALLING> haleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 22_JACOB> iacops <C 0_HUIS> huus <C 700_VAN> van <C 474_DE/HET> den <C 1_HAMERTJE> hamerkine <C 620#_-OP> vp <C 203_STAAN> staet <C 471+700_DE+IN> inde 
+<L 2234:13> <C 1_NAALDESTRAAT> naeldestrate <C 800_EN> & <C 300_VIJFTIG> vichtich <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 22_WILHELM> willemets 
+<L 2234:14> <C 1_WEDUWE> wedewe <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700+471_IN+DE> inde <C 1_NAALDESTRAAT> naeldestrate <C 800_EN> & <C 301_VIER> viere <C 10_POND> pont <C 300_VIJFENTWINTIG> viue+&+tuintich 
+<L 2234:15> <C 11_PENNING> peneghe <C 320_MIN> miin <C 700_AAN> an <C 1_HUIS> huse <C 800_EN> & <C 700_AAN> an <C 1_LAND> lande <C 620*_DAAR-> daer <C 20_NICOLAAS> clais <C 700_VAN> van <C 101+22_SINT+OMAARS> sinthomars <C 620#_-OP> vp <C 221_WONEN> woende 
+<L 2234:16> <C 471+700_DE+IN> inde <C 21_ZAKWIJNSTRAAT> sacwinestrate <C 800_EN> & <C 300_DRIE> drie <C 10_POND> pont <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> scelegh<A >e</A> <C 0+470+700_HUIS+HET+AAN> anthuus <C 420_DAT> dat <C 0_MEESTER> meester <C 22_JOHANNES> ihans 
+<L 2234:17> <C 22_WALKIER-X> walkiers <C 230_ZIJN> was <C 471+700_DE+IN> inde <C 0_BRAAMBERG> braemberch <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant 
+<L 2234:18> <C 620*_DAAR-> daer <C 22_REINAARD> reinars <C 101_STENEN> stenine <C 1_LOVE> loue <C 620#_-OP> vp <C 203_STAAN> staet <C 700_VAN> van <C 20_BONHEEM> bonem <C 700_JEGEN> iheghen <C 0+472_HEER+DE> ser <C 22_DIEDERIK> diederix <C 700+474_UIT+DE/HET> vten 
+<L 2234:19> <C 1_BROEK> brouke <C 700_OVER> ouer <C 300_DRIE> drie <C 11_PENNING> peneghe <C 800_EN> & <C 301_EEN> ene <C 1_POITEVIJN> paiteuine <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 24_CHRISTINA> kerstine<A >n</A> 
+<L 2234:20> <C 2_SCHEPPER> sceppers <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 474+700_DE+BACHTEN> bachten <C 14_SMID> smede<A >n</A> <C 470+700_HET+OP> vpt <C 0_ZAND> sant <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 800_EN> & 
+<L 2234:21> <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 20_SOET> zoetin <C 2_APPELKOPER> appelcopers <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 474+700_DE+BACHTEN> bachten 
+<L 2234:22> <C 14_SMID> smeden <C 470+700_HET+OP> v[pt] <C 0_ZAND> sant <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_SCHILD> scilt <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 24_MARGARETA> margrieten 
+<L 2234:23> <C 22_DIETBOUD> dibbouts <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700+471_IN+DE> inde <C 1*_GELDHUIS-> ghilthuus <C 1#_-STRAAT> strate <C 800_EN> & <C 301_VEERTIEN> viertiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen 
+<L 2234:24> <C 0_HALLING> hallinc <C 700_AAN> an <C 22_GERARD> gherarts <C 22_BART-X> barts <C 0_HUIS> huus <C 230_ZIJN> was <C 700_BIJ> bi <C 101_SINT> sinte <C 22_CHRISTOFORUS> kerstoffels <C 800_EN> & <C 700_AAN> an <C 474_DE/HET> den <C 1_KELNER> [k]elnare 
+<L 2234:25> <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_HUIS> huse <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 104_OUD> ouden <C 0_PENNING> penninc; <C 800_EN> & 
+<L 2234:26> <C 301_17> seuentiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> halli<A >n</A>c <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700_AAN> an <C 1_HUIS> huse <C 800_EN> & <C 700_AAN> an 
+<L 2234:27> <C 1_LAND> lande <C 800_EN> & <C 700_AAN> an <C 0_STAL> stal <C 420_DAT> dat <C 0+472_HEER+DE> ser <C 22_GERWIJN> gheerwins <C 230_ZIJN> was <C 700_IN> in <C 472+0_DE+HEER> ser <C 22_GERWIJN> gheerwiins <C 1_STRAAT> strate <C 800_EN> & <C 301_6> sesse 
+<L 2234:28> <C 11_SCHELLING> sceleghe <C 800_EN> & <C 304_EEN> enen <C 104_OUD> ouden <C 0_PENNING> pe<A >n</A>ninc <VN type=1> <C 700_AAN> an <C 1_HUIS> huse <C 800_EN> & <C 700_AAN> an <C 1_LAND> lande <C 420_DAT> dat <C 440_MEN> men <C 203_HETEN> heet <C 700_TE> te <C 20_MALEVAUT> maeuleuaut 
+<L 2234:29> <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 800_EN> & <C 800_EN> & <C 0_DERDEDEEL> derdendeel <C 700_VAN> van <C 304_EEN> enen <C 1_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant 
+<L 2234:30> <C 620*_DAAR-> daer <C 22_LAMBERT> lamsins <C 0_HUIS> huus <C 700_VAN> van <C 20_ZERKEGEM> zerkenghem <C 620#_-OP> vp <C 203_STAAN> staet <C 700_IN> in <C 0+472_HEER+DE> ser <C 22_GERWIJN> gheerwins <C 1_STRAAT> strate <C 800_EN> & 
+<L 2234:31> <C 301_VIER> viere <C 11_PENNING> peneghe <C 800_EN> & <C 0+470_DERDEDEEL+HET> derdendeel <C 700_VAN> van <C 304_EEN> enen <C 1_PENNING> peneghe <C 700+470_AAN+HET> ant <C 0_LAND> lant <C 620*_DAAR-> daer <C 20_EGBERT> egghebrecht 
+<L 2234:32> <C 0_HUIS> huus <C 700_VAN> van <C 21_WARE> ware <C 620#_-OP> vp <C 203_STAAN> staet <C 700_IN> in <C 0+472_HEER+DE> ser <C 22_GERWIJN> gheerwiins <C 1_STRAAT> strate <C 800_EN> & <C 300_DRIE> drie <C 11_SCHELLING> sceleghe <C 800_EN> & <C 300_9> neghen 
+<L 2234:33> <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 1_HUIS> huse <C 800_EN> & <C 700_AAN> an <C 1_LAND> lande <C 420_DAT> dat <C 0+472_HEER+DE> ser <C 22_GERWIJN> gheerwiins <C 230_ZIJN> was <C 700_IN> in <C 0+472_HEER+DE> ser 
+<L 2234:34> <C 22_GERWIJN> gheerwiins <C 1_STRAAT> strate <C 800_EN> & <C 301_12> tuelue <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 0+700+470_LAND+AAN+HET> andlant <C 620*_DAAR-> daer <C 20_PETRUS> pieter 
+<L 2234:35> <C 2_PAKGAREN-X> pacgarnes <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_IN> in <C 0+472_HEER+DE> ser <C 22_GERWIJN> gheerwiins <C 1_STRAAT> strate <C 800_EN> & <C 300_7> seuen <C 11_PENNING> peneghe <C 700_AAN> an 
+<L 2234:36> <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 22_FILIPPUS> philips <C 2_WARGAREN> werregarnes <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_VOOR> voer <C 471_DE> die <C 14_FRERE> freren <C 800_EN> & <C 300_7> seuen 
+<L 2234:37> <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700+470+0_AAN+HET+LAND> andlant <C 620*_DAAR-> daer <C 0_MEESTER> meester <C 22_JOHANNES> ihans <C 22_WITBAARD-X> witbarts <C 0_HUIS> huus <C 620#_-OP> vp 
+<L 2234:38> <C 203_STAAN> staet <C 471+700_DE+IN> inde <C 0_BRAAMBERG> braemberch <C 800_EN> & <C 301_TWEE> tue <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer 
+<L 2234:39> <C 22_JACOB> iacobs <C 1_STOOF> stoue <C 620#_-OP> vp <C 203_STAAN> staet <C 700_VAN> van <C 474_DE/HET> den <C 1_WOLHUIS> wulluse <C 700_IN> in <C 471_DE> die <C 0_BRAAMBERG> braembeerch <C 800_EN> & <C 304_EEN> enen 
+<L 2234:40> <C 101_ENGELS> inghelsche <C 0_PENNING> penninc <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 20_PETRUS> pieter <C 22_TOBEL> tobels <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_IN> in <C 471_DE> die 
+<L 2234:41> <C 0_BRAAMBERG> braemberch <C 800_EN> & <C 300_7> seuen <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 20_JOHANNES> ihan <C 22_KATTIJN-X> cattins 
+<L 2234:42> <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 471+700_DE+IN> inde <C 0_BRAAMBERG> braemberch <C 800_EN> & <C 301_VIJFTIEN> vichtiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_SCHILD> scilt <C 700_AAN> an <C 470+0_HET+LAND> dlant 
+<L 2234:43> <C 620*_DAAR-> daer <C 20_JOHANNES> ihan <C 2_DORPER> dorpers <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700+474_IN+DE/HET> inden <C 0_BRAAMBERG> braemberch <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 700_AAN> an 
+<L 2234:44> <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 22_WOUTER> weitins <C 2_METSENAAR> metssenars <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_BIJ> bi <C 101_SINT> sinte <C 22_SALVADOR> saluatoirs <C 800_EN> & <C 301_VIJF> viue 
+<L 2234:45> <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 20_WILHELM> willem <C 22_BAROUD-X> berrouts <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_BIJ> bi <C 101_SINT> sinte <C 22_SALVADOR> saluatoirs 
+<L 2235:1> <C 800_EN> & <C 301_17> seuentiene <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 21_OSTE> oste <C 22_MALEI-X> maleis <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 301_17> seuentiene <C 11_PENNING> peneghe 
+<L 2235:2> <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 800_EN> & <C 700_AAN> an <C 0_LAND> lant <C 620*_DAAR-> daer <C 22_ANDREAS> andries <C 20_KWAADGEBUUR-X> quaetghebuur <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700+471_IN+DE> inde 
+<L 2235:3> <C 1_VOLDERSSTRAAT> vollestrate <C 300_20> tuintich <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 800_EN> & <C 301_VIJF> viue <C 10_PENNING> penegh <VN type=1> <C 700_AAN> an <C 0+470_LAND+HET> dlant 
+<L 2235:4> <C 470+0_DE+HEER> der <C 22_SIMON> simons <C 700_VAN> van <C 474_DE/HET> den <C 1_POEL> poele <C 1_HOVING> houinghe <C 210_ZIJN> es <C 700+470_OP+HET> vpt <C 0_ZAND> sant <C 800_EN> & <C 301_TWEE> tue <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant 
+<L 2235:5> <C 620*_DAAR-> daer <C 20_JOHANNES> ihan <C 471_DE> die <C 0_KAMERLING> camerlinc <C 620#_-OP> vp <C 221_WONEN> woende <C 700_BIJ> bi <C 22_MARTIN> martins <C 700_VAN> van <C 1_ESSE> esse <C 800_EN> & <C 301_VIJF> viue <C 14_POITEVIJN> poiteuinen 
+<L 2235:6> <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 20_PETRUS> pieter <C 0_DOEM-X> doem <C 620#_-OP> vp <C 221_WONEN> woende <C 700_BIJ> bi <C 22_MARTIN> martins <C 700_VAN> van <C 1_ESSE> esse <C 800_EN> & <C 301_TWEE> tue <C 11_PENNING> peneghe 
+<L 2235:7> <C 800_EN> & <C 304_ANDERHALF> onder+haluen <C 4_POITEVIJN> poiteuinen <C 0+470+700_LAND+HET+AAN> andlant <C 620*_DAAR-> daer <C 20_DIEDERIK> diederic <C 700+475_UIT+DE> vter <C 1_LAAN> lane <C 620#_-OP> vp <C 221_WONEN> woende 
+<L 2235:8> <C 471+700_DE+IN> inde <C 1_NOORDSTRAAT> noortstrate <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 20_JOHANNES> ihan <C 471_DE> die <C 1_KETELAAR> ketelare <C 620#_-OP> vp <C 203_WONEN> woent 
+<L 2235:9> <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700+0_AAN+LAND> a<A >n</A>lant <C 620*_DAAR-> daer <C 20_WILHELM> willem <C 1_MINNEBODE> mi<A >n</A>ne<A >n</A>bode 
+<L 2235:10> <C 14_HAL> hallen <C 620#_-OP> vp <C 204_STAAN> staen <C 700+471_IN+DE> inde <C 1_DOORSTRAAT> duerstrate <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 21_OGIVE> ogeue <q> .f. 
+<L 2235:11> <C 24_GONDA> go<A >n</A>nen <C 620#_-OP> vp <C 221_WONEN> woende <C 471+700_DE+IN> inde <C 1_DOORSTRAAT> duerstrate <C 800_EN> & <C 304_EEN> enen <C 104_ENGELS> inghelsche<A >n</A> <C 0_PENNING> pe<A >n</A>ninc <C 700_AAN> an <C 0+470_LAND+HET> dlant 
+<L 2235:12> <C 620*_DAAR-> daer <C 20_LAMBERT> la<A >m</A>min <C 0_SCHEERBAARD> scerebart <C 620#_-OP> vp <C 221_WONEN> woende <C 475+700_DE+BIJ> bider <C 0_VRIJDAGMARKT> vriindach+maerct <C 800_EN> & <C 301_17> seuentiene 
+<L 2235:13> <C 10_POND> pont <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_ACHT> achte <C 111_VLAAMS> vlaemsch<A >e</A> <C 11_PENNING> peneghe <C 271_LIGGEN> ligghende <C 474+700_DE/HET+BINNEN> binden 
+<L 2235:14> <C 1_AMBACHT> ambachte <C 700_VAN> van <C 21_BRUGGE> brugghe <C 700_IN> in <C 14_STAD> steden <C 421_DIE> die <C 440_MEN> men <C 610_HIERNA> hier+na <C 250_NOEMEN> noemen <VN type=1> <C 210_ZULLEN> sal <C 410_DAT> dat <C 200_ZIJN> es <C 700_TE> te 
+<L 2235:15> <C 251_WETEN> wetene <C 300_22> tue+&+tuintich <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_LAMBERT> lambrecht <q> .f. <C 22_DIEDERIK> diederix <C 1_WEDUWE> wedewe 
+<L 2235:16> <C 271_HOUDEN> houdende <C 230_ZIJN> was <C 700_TE> te <C 1_CIJNS> sense <C 700_VAN> van <C 414_DIE> dien <C 111_VOORZEID> vorseide <C 10_KIND> kindre <C 800_EN> & <C 300_DRIE> drie <C 10_POND> pont <C 800_EN> & <C 300_26> sesse+&+tuintich 
+<L 2235:17> <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 21_MARIA> marie <q> .f. <C 22_WOUTER> weitins <C 2_BROUWER> brauwers <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 700_TE> te 
+<L 2235:18> <C 1_CIJNS> sense <C 800_EN> & <C 301_VIER> viere <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_11> elleuene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat 
+<L 2235:19> <C 101+22_RODE+WOUTER> rodeweits <C 1_ZOON> sone <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_9> neghene <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_BOUDEWIJN> boudin 
+<L 2235:20> <C 0_KOOLZAAD> coelsaet <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_TWEE> tue <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_JOHANNES> ihan <C 471_DE> die <C 1_HEER> here <C 271_HOUDEN> houdende 
+<L 2235:21> <C 210_ZIJN> es <C 800_EN> & <C 300_VIJFTIG> vichtich <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 21_WOUTER> wouter+zoete <q> f. <C 20_LAMBERT> la<A >m</A>mekin <C 271_HOUDEN> houdende 
+<L 2235:22> <C 210_ZIJN> es <C 800_EN> & <C 301_VIJF> viue <C 11_HALLING> haleghe <C 700_AAN> an <C 0_LAND> lant <C 420_DAT> dat <C 20_PETRUS> pieter <q> .f. <C 22_BOUDEWIJN> boudins <q> .f. <C 24_DIEDE> teten <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & 
+<L 2235:23> <C 300_DRIE> drie <C 11_HALLING> haleghe <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poit<A >euine</A> <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 471_DE> die <C 101_VOORZEID> vorseide <C 0_MAN> man <C 271_HOUDEN> houdende 
+<L 2235:24> <C 210_ZIJN> es <C 800_EN> & <C 301_16> sestiene <C 11_PENNING> peneghe <C 800_EN> & <C 301_EEN> ene <C 1_POITEVIJN> poiteuine <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_JOHANNES> ihannin <q> .f. <C 22_BOUDEWIJN> boidins 
+<L 2235:25> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuene <C 700_AAN> an <C 0+470_LAND+HET> dlant 
+<L 2235:26> <C 420_DAT> dat <C 20_WILHELM> willem <q> .f. <C 102_RIJK> riix <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_11> elleuene <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_JOHANNES> ihannin 
+<L 2235:27> <C 20_HEGEL> heghel <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat 
+<L 2235:28> <C 20_LAMBERT> la<A >m</A>min <q> .f. <C 24_AGATHA> aghaten <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_7> seuene <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_BOUDEWIJN> boidin 
+<L 2235:29> <C 20_WITSTAART-X> wistert <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 21_MARGARETA> margriete <C 2_VLAMING> vlaminx 
+<L 2235:30> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_JOHANNES> ihan <C 20_JOHANNES> annoot <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & 
+<L 2235:31> <C 301_ACHT> achte <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_JOHANNES> ihan <C 1_BOEI-X> boie <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_30> dertich <C 11_SCHELLING> sceleghe <C 700_AAN> an 
+<L 2235:32> <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_JACOB> iacob <C 0_STOUTAARD-X> stoutart <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIER> viere <C 11_SCHELLING> sceleghe <C 800_EN> & <C 304_EEN> enen <C 0_SCHILD> scilt <C 700_AAN> an 
+<L 2235:33> <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 21_HUGO> hughe <q> .f. <C 20_ROBERT> robbrecht <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_VIERENVEERTIG> viere+&+viertich <C 11_PENNING> peneghe <C 800_EN> & 
+<L 2235:34> <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_NICOLAAS> clais <C 471_DE> die <C 0_MONNIK> moenc <C 800_EN> & <C 20_GIJS> ghiselin <C 471_DE> die <C 1_HERTOG> hertoghe 
+<L 2235:35> <C 271_HOUDEN> houdende <C 214_ZIJN> siin <C 800_EN> & <C 301_ACHT> achte <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant 
+<L 2235:36> <C 420_DAT> dat <C 20_WILHELM> willem <C 0_TONNETJE> tonekin <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_9> neghene <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_9> neghene <C 11_PENNING> peneghe 
+<L 2235:37> <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 21_MARGARETA> margriete <C 2_SCHEPPER> sceppers <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_26> sesse+&+tuintich <C 11_PENNING> peneghe 
+<L 2235:38> <C 800_EN> & <C 304_EEN> enen <C 0_SCHILD> scilt <C 700_AAN> an <C 0_LAND> lant <C 420_DAT> dat <C 20_JOHANNES> ihan <q> .f. <C 20_ARNOUT> arnout <q> .f <C 0_BIJLSTOK-X> bilstoc <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_33> drie+&+dertich 
+<L 2235:39> <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 21_HUGO> hughe <C 0_BALLING> ballinc <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_22> tue+&+tuintich 
+<L 2235:40> <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 104_TOURNOOIS> tornoisen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_DIEDERIK> dierkin <C 0_BAAS> bas <C 271_HOUDEN> houdende <C 210_ZIJN> es 
+<L 2235:41> <C 800_EN> & <C 301_16> sesse+tiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 104_TOURNOOIS> tornoisen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_WOUTER> weitin <q> .f. 
+<L 2235:42> <C 24_HENDRIK> heinen <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_6> sesse <C 11_SCHELLING> sceleghe <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an 
+<L 2235:43> <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_ERKEMBODO> erkenbout <C 700_VAN> van <C 21_LEUVEN> louene <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_19> neghentiene <C 11_PENNING> peneghe <C 800_EN> & 
+<L 2235:44> <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_BOUDEWIJN> boudin <C 20_ENGELRAM> inghelrauen <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_32> tue+&+dartich 
+<L 2235:45> <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_GOSWIJN> gosin <C 471_DE> die <C 1_SOPPER-X> soppre <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+
+<L 2235:52> <C 259_NOEMEN> noemem 
+<end-atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<L 2236:1> <C 301_19> neghentiene <C 11_PENNING> peneghe <C 800_EN> & <C 301_EEN> ene <C 0_HALLING> hallinc <C 700_AAN> an <C 0_LAND> lant <C 420_DAT> dat <C 20_NICOLAAS> clais <q> .f. <C 24_CLEMENTIA> cle<A >m</A>men 
+<L 2236:2> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIER> viere <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_REINBOUD> reinbout <q> .f. <C 22_HENDRIK> heins <C 1_WEDUWE> wedewe 
+<L 2236:3> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_20> tuintich <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_JOHANNES> jhan <C 0_KORTJE> cortkin <C 471_DE> die <C 0_KLERK> clerc 
+<L 2236:4> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_2> tue <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_LAMBERT> lammekin <C 22_BEMS-X> bems <C 1_WEDUWE> wedewe 
+<L 2236:5> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_7> seuene <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 21_CLEMENTIA> clemme 
+<L 2236:6> <C 20_JOHANNES> ha<A >n</A>nekin <C 22_HOELAARD-X> hoelarts <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_NICOLAAS> clais <C 471_DE> die 
+<L 2236:7> <C 101_WIT> witte <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_TIEN> tiene <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 21_HENDRIK> heine <C 20_CLEMENS> clement 
+<L 2236:8> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIER> viere <C 11_SCHELLING> sceleghe <C 800_EN> & <C 300_2> tue <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_WOUTER> wout<A >er</A> <C 1_SPRUIT> sprute 
+<L 2236:9> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_7> seuene <C 11_SCHELLING> sceleghe <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_NICOLAAS> clais <q> .f. 
+<L 2236:10> <C 22_WILHELM> willems <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_11> elleuene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen 
+<L 2236:11> <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_NICOLAAS> clais <C 20_MARTIN> martin <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_VIERENDERTIG> viere+&+dertich <C 11_PENNING> peneghe 
+<L 2236:12> <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_AGATHA> aghat <C 22_POOTAARD-X> poitarts <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_43> drie+&+viertich 
+<L 2236:13> <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_BOUDEWIJN> boudin <q> .f. <C 22_NICOLAAS> clais <C 0_HENGST> hinxt 
+<L 2236:14> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIJFTIEN> vichtiene <C 11_SCHELLING> sceleghe <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_JOHANNES> ihan 
+<L 2236:15> <C 0_BOTERMAN> boterman <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> sceleghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_PETRUS> pieter <C 20_WICHARD> wicart 
+<L 2236:16> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_9> neghene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 20_ROODAARD-X> roiart 
+<L 2236:17> <C 20_BOLIJN-X> bollin <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VIJF> viue <C 11_SCHELLING> sceleghe <C 800_EN> & <C 300_2> tue <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 1_POITEVIJN> poiteuine <C 700_AAN> an 
+<L 2236:18> <C 0+470_LAND+HET> dlant <C 420_DAT> dat <C 21_HUGO> hughe <q> .f. <C 22_DANIEL> daneels <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 301_VEERTIEN> viertiene <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen 
+<L 2236:19> <C 0_HALLING> hallinc <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 420_DAT> dat <C 20_WILHELM> willem <C 471_DE> die <C 101_LANG> langhe <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 800_EN> & <C 300_33> drie+&+dertich 
+<L 2236:20> <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 22_PETRUS> pieters <C 0_HUIS> huus <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe <C 620#_-OP> vp <C 220_STAAN> stoet <C 700_IN> in <C 20_AARDENBURG> erdenborch <C 800_EN> & 
+<L 2236:21> <C 300_DRIE> drie <C 11_PENNING> peneghe <C 700_AAN> an <C 0+470_LAND+HET> dlant <C 620*_DAAR-> daer <C 22_SANDER> sanders <C 1#+470_OUDE-+DE> doude <C 1*_-KLEEDSTOPPER> cleetstoppre <C 0_HUIS> huus <C 620#_-OP> vp <C 203_STAAN> staet <C 700_IN> in 
+<L 2236:22> <C 20_AARDENBURG> erdenborch <C 300_DRIE> drie <C 11_PENNING> peneghe <C 470+700_HET+AAN> ant <C 0_LAND> lant <C 620*_DAAR-> daer <C 21_IDE> ide <C 2_TAALMAN> talemans <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie 
+<L 2236:23> <C 11_PENNING> peneghe <C 700_AAN> an <C 470+0_HET+LAND> dlant <C 620*_DAAR-> daer <C 20_ARNOUT> arnout <C 20_MAGERMAN-X> magherma<A >n</A> <C 620#_-OP> vp <C 221_WONEN> woende <C 300_DRIE> drie <C 11_HALLING> haleghe <C 800_EN> & 
+<L 2236:24> <C 304_EEN> ene<A >n</A> <C 1_POITEVIJN> poit<A >euine</A> <C 470+700_HET+AAN> ant <C 0_LAND> lant <C 620*_DAAR-> daer <C 20_PETRUS> piet<A >er</A> <C 471_DE> die <C 0_HAMER> ham<A >er</A> <C 620#_-OP> vp <C 221_WONEN> woende <C 300_DRIE> drie <C 11_HALLING> haleghe 
+<L 2236:25> <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 20_VINKAARD-X> winkenart <C 221_WONEN> woende <C 300_2> tue <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 101_FRANK> vranke <C 221_WONEN> woende <C 300_2> tue 
+<L 2236:26> <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 1_BIES> biese <C 221_WONEN> woende <C 800_EN> & <C 300_9> neghen <C 11_PENNING> peneghe <C 20_DANIEL> danin <q> .f. <C 22_CORNELIS> neels. <C 301_VIJF> viue 
+<L 2236:27> <C 11_PENNING> peneghe <C 520_DAAR> daer <C 21_HUGO> hughe <C 0_BALLING> ballinc <C 221_WONEN> woende, <C 300_2> tue <C 11_PENNING> peneghe <C 20_BOUDEWIJN> boudin <q> .f. <C 22_WOUTER> wouters <C 800_EN> & 
+<L 2236:28> <C 300_2> tue <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 0_WIJNGAARD> wiinghaert <C 221_WONEN> woende <C 800_EN> & <C 300_4> vier <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_BOUDEWIJN> boidin <C 471_DE> die 
+<L 2236:29> <C 1_KUIPER> cupre <C 221_WONEN> woende <C 300_7> seuen <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 471_DE> die <C 0_BLOK> bloc <C 221_WONEN> woe<A >n</A>de <C 800_EN> & <C 301_VIER> viere 
+<L 2236:30> <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 1_BIES> biese <C 221_WONEN> woende <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 520_DAAR> daer 
+<L 2236:31> <C 20_MAAS> maes <C 471_DE> die <C 1_DRAUWER-X> drauwere <C 221_WONEN> woende <C 800_EN> & <C 301_ACHT> achte <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 520_DAAR> daer <C 20_LAMBERT> la<A >m</A>min 
+<L 2236:32> <C 1_SAS> sasse <C 203_WONEN> woent <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_JOHANNES> ihan <C 20_KNOPPING> cnoppinc <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe 
+<L 2236:33> <C 620*_DAAR-> daer <C 21_HUGO> hughe <C 0_DIERMART-X> diermart <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> enen <C 0_HALLING> hallinc <C 620*_DAAR-> daer 
+<L 2236:34> <C 20_WILHELM> willem <C 471_DE> die <C 4_SCHOUTHEET> scouteten <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_TWEE> tue <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_NICOLAAS> clais <C 20_VOLPOUD-X> volpout <C 620#_-OP> vp 
+<L 2236:35> <C 221_WONEN> woende <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 800_EN> & <C 300_DRIE> drie <C 11_POITEVIJN> poiteuine <C 620*_DAAR-> daer <C 20_AEGIDIUS> gillis <C 471_DE> die <C 1_SCHEPPER> sceppre <C 620#_-OP> vp <C 203_WONEN> woent 
+<L 2236:36> <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 21_AVE> aue <C 100_SLINK> slinx <C 620#_-OP> vp <C 203_WONEN> woent <C 800_EN> & <C 301_11> elleuene <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 21_DIEDE> diedele 
+<L 2236:37> <q> .f. <C 22_WILHELM> willems <q> .f. <C 24_ADELHEID> adelisen <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 21_HUGO> hughe <C 0_BALLING> ballinc 
+<L 2236:38> <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 300_2> tue <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_DIEDERIK> dierkin <C 22_SCHOUDEVOET-X> scoudevoets <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_VIJF> viue 
+<L 2236:39> <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_LAMBERT> lambrecht <q> .f. <C 20_LAMBERT> lambrecht <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 620*_DAAR-> daer 
+<L 2236:40> <C 20_HENDRIK> heinric <C 471_DE> die <C 0_MONNIK> moenc <C 620#_-OP> vp <C 221_WONEN> woende <C 300_7> seuen <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_PETRUS> pieter <C 471_DE> die <C 0_BALLING> ballinc <C 620#_-OP> vp 
+<L 2236:41> <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_WILHELM> willem <q> .f. <C 22_GERARD> gherarts <C 221_WONEN> woende <C 800_EN> & <C 301_VIJF> viue <C 11_HALLING> haleghe 
+<L 2236:42> <C 620*_DAAR-> daer <C 20_JOHANNES> ihan <C 471_DE> die <C 0_MONNIK> moenc <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_ARNOUT> arnout <C 700_VAN> van <C 21_HEILE> eyle 
+<L 2236:43> <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 300_2> tue <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_BOUDEWIJN> bouddin <C 0_ECHEL> egghel <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 304_EEN> ene<A >n</A> 
+<L 2236:44> <C 0_PENNING> penninc <C 620*_DAAR-> daer <C 21_CATHARINA> cateline <C 2_LAURENTIUS> lauwers <C 620#_-OP> vp <C 203_WONEN> woent <C 800_EN> & <C 300_EEN> een <C 0_TOURNOOIS> tornois <C 520_DAAR> daer <C 20_WILHELM> will<A >em</A> <C 700_VAN> van 
+<L 2236:45> <C 21_GISTEL> ghistele <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_HALLING> haleghe <C 520_DAAR> daer <C 20_JACOB> iacop <C 20_REEDWAART-X> redewaert <C 221_WONEN> woende <C 800_EN> & <C 301_VIJF> viue 
+<L 2236:46> <C 11_HALLING> haleghe <C 620*_DAAR-> daer <C 20_POPPE> poppin <C 620#_-OP> vp <C 203_WONEN> woent <C 800_EN> & <C 300_DRIE> drie <C 11_HALLING> haleghe <C 520_DAAR> daer <C 20_WILHELM> will<A >em</A> <C 471_DE> die <C 1_GARENKOPER> garencopre 
+<L 2237:1> <C 221_WONEN> woende <C 800_EN> & <C 300_2> tue <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_WILHELM> willem <C 0_PIJL> piil <C 221_WONEN> woende <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe <C 520_DAAR> daer 
+<L 2237:2> <C 21_MARIA> marie <C 2_OLIEPUT> olipuuts <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_WILHELM> willem <C 22_WERENBOUD> werenbouts <C 11_KIND> kindre 
+<L 2237:3> <C 224_WONEN> woenden <C 800_EN> & <C 301_VIJF> viue <C 11_HALLING> haleghe <C 520_DAAR> daer <C 22_WILHELM> willems <C 22_GARENKOPER> garnecopers <C 1_WEDUWE> wedewe <C 221_WONEN> woe<A >n</A>de <C 800_EN> & 
+<L 2237:4> <C 301_VIJF> viue <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_JACOB> iacop <q> .f. <C 20_REINOUD> reinout <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_7> seuene <C 11_PENNING> peneghe <C 620*_DAAR-> daer 
+<L 2237:5> <C 20_PETRUS> pieter <C 0_BALLING> ballinc <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_VIJF> viue <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_PETRUS> pieter <C 20_POPPE> poppin <C 620#_-OP> vp <C 221_WONEN> woende 
+<L 2237:6> <C 800_EN> & <C 301_VIER> viere <C 11_PENNING> peneghe <C 800_EN> & <C 304_EEN> ene<A >n</A> <C 0_HALLING> hallinc <C 620*_DAAR-> daer <C 21_HENDRIK> heine <C 20_KROSELIJN> croeselin <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_VIER> viere 
+<L 2237:7> <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_AEGIDIUS> gillis <C 471_DE> die <C 1_GORTER> gurtre <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 300_DRIE> drie <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_WILHELM> will<A >em</A> <q> .f. 
+<L 2237:8> <C 22_GERARD> gherarts <C 620#_-OP> vp <C 221_WONEN> woende <C 800_EN> & <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_WILHELM> will<A >em</A> <q> .f. <C 22_SIMON> moenins <C 620#_-OP> vp <C 221_WONEN> woende 
+<L 2237:9> <C 800_EN> & <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 520_DAAR> daer <C 20_NICOLAAS> clais <C 471_DE> die <C 101_RIJK> rike <C 203_WONEN> woent <C 800_EN> & <C 300_20> tuintich <C 11_PENNING> peneghe <C 520_DAAR> daer 
+<L 2237:10> <C 20_BOUDEWIJN> boidin <C 471_DE> die <C 1_APPELKOPER> appelcopre <C 203_WONEN> woent <C 301_TIEN> tiene <C 11_PENNING> peneghe <C 520_DAAR> daer <C 21_HUGO> hughe <C 0_BALLING> ballinc <C 203_WONEN> woent <C 800_EN> & 
+<L 2237:11> <C 300_9> neghen <C 11_PENNING> peneghe <C 620*_DAAR-> daer <C 20_WILHELM> will<A >em</A> <C 471_DE> die <C 101_HOOFS> houessche <C 620#_-OP> vp <C 203_WONEN> woent <C 800_EN> & <C 300_9> neghen <C 11_PENNING> peneghe 
+<L 2237:12> <C 520_DAAR> daer <C 20_KAARDEVAAK-X> cardeuaec <C 221_WONEN> woende <C 800_EN> & <C 301_7> seuene <C 11_PENNING> peneghe <C 20_WILHELM> will<A >em</A> <C 0_BALLING> ballinc <C 800_EN> & <C 301_7> seuene 
+<L 2237:13> <C 11_PENNING> peneghe <C 20_NICOLAAS> clais <C 1_PISE-X> pise <C 700_IN> in <C 474_DE/HET> den <C 0_DAM> dam <C 20_ARNOUT> arnout <C 700_VAN> van <C 301_VIJF> viue <C 301_VIJF> viue <C 11_HALLING> haleghe <C 301_VIJF> viue 
+<L 2237:14> <C 11_PENNING> peneghe <C 20_WILHELM> will<A >em</A> <C 20_LOREWART-X> lorewart <C 301_VIJF> viue <C 11_HALLING> haleghe <C 20_WOUTER> wout<A >er</A> <C 0_KLOFHAMER-X> clofham<A >er</A> <C 300_DRIE> drie <C 11_PENNING> peneghe 
+<L 2237:15> <C 20_MAAS> maes <C 0_MARANT-X> marant <VN type=1> <C 800_EN> & <C 301_6> sesse <C 11_PENNING> peneghe <C 470+700_HET+AAN> ant <C 0_LAND> lant <C 620*_DAAR-> daer <C 20_WILHELM> will<A >em</A> <C 471_DE> die <C 1_SCHEPPER> sceppre <C 620#_-OP> vp <C 203_WONEN> woent 
+<L 2237:16> <C 471_DE> de <C 421_WELK> welke <C 1_RENTE> rente <C 100_VOORZEID> vorseit <C 20_ADELHARD> alart <C 0_LAM> lam <C 800_EN> & <C 20_JACOB> iacop <C 700_VAN> van <C 474_DE/HET> den <C 1_GROENENDIJK-X> groenendike <C 14_VOOGD> vogheden 
+<L 2237:17> <C 110_VOORZEID> vorseit <C 214_HEBBEN> hebben <C 273_GELOVEN> ghelouet <C 474_DE/HET> den <C 104_VOORZEID> vorseide<A >n</A> <C 0_BROEDER> broeder <C 21_JOHANNES> ihanne <C 475+700_DE+TE> [ter] <C 105_VOORZEID> [vor]seider 
+<L 2237:18> <C 1_ABDIS> abdesse <C 800_EN> & <C 2_CONVENT> couvents <C 0_BEHOEF> bouf <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> warne <C 861_ALS> alse <C 14_VOOGD> vogheden <C 700_JEGEN> iheghen <C 324_ELK> elken 
+<L 2237:19> <C 1_MENS> mensche <C 700+454_TE+HAAR> taren <C 104_VRIJ> vrien <C 1_EIGENDOM> eghin+dome <C 800_EN> & <C 403+220_HET+ZIJN> wart <C 810_DAT> dat <C 700_VAN> van <VN type=1> <C 415_DEZE> deser <C 101_VOORZEID> vorseide <C 1_RENTE> rente 
+<L 2237:20> <C 221_KOMEN> quame <C 1_VERHOGING> verhoghinghe <C 999_ZZZ> [...]senesse <VN type=1> <C 800_OF> of <C 1_BETERING> beteringhe <C 20_ADELHARD> alart <C 800_EN> & <C 20_JACOB> iacop 
+<L 2237:21> <C 14_VOOGD> voghede<A >n</A> <C 110_VOORZEID> vorseit <C 800_NO> no <C 20_NICOLAAS> clais <C 800_NO> no <C 21_CLARA> clare <C 800_EN> ne <C 320_NEGEEN> ne+gheen <C 700_VAN> van <C 0+472_HEER+DE> ser <C 22_NICOLAAS> niclais <C 22_WALKIER-X> walk<A >ier</A>s 
+<L 2237:22> <C 10_KIND> kindre <C 800_EN> & <C 21+0_GEERTRUIDA+VROUW> vertrude <C 452_ZIJN> siins <C 2_WIJF> wiifs <C 800_NO> no <C 475_DE/HET> der <C 115_VOORZEID> vorseider <C 15_KIND> kind<A >er</A> <C 0_OOR> oer <C 560_NE> nen <C 234_MOGEN> mocht[en] 
+<L 2237:23> <C 0_RECHT> [r]echt <C 250_EISEN> heesschen <C 800_NO> no <C 250_CALANGEREN> calengiere<A >n</A> <C 700_AAN> an <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_VERHOOG> verhoghe <C 800_NO> no 
+<L 2237:24> <C 1_VERBETERING> verbeteringhe <C 421_DIE> die <C 700_VAN> van <C 415_DIE> diere <C 105_VOORZEID> vorseider <C 1_RENTE> rente <C 250_KOMEN> come<A >n</A> <C 231_MOGEN> machte <C 701_IN> inne <C 445_GEEN> ghere 
+<L 2237:25> <C 1_MANIER> maniere <C 800_EN> & <C 411_DEZE> dese <C 1_GIFT> ghifte <C 100_VOORZEID> vorseit <C 224_GEVEN> ghauen <C 406_ZIJ> sie <C 403+820_HET+ALS> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es <C 700+475_BIJ+DE> bider <C 1_REDEN> redene <C 810_DAT> dat 
+<L 2237:26> <C 1_JONKVROUW> ionfre <C 21_GRIELE> griele <C 475_DE/HET> der <C 115_VOORZEID> vorseider <C 15_KIND> kinder <C 0_ZUSTER> zuster <C 700+474_IN+DE/HET> inden <C 104_VOORZEID> vorseiden <C 1_KLOOSTER> cloostre 
+<L 2237:27> <C 274_BEGEVEN> begheue<A >n</A> <C 210_ZIJN> es <C 840_ALS> als <C 700_OVER> ouer <C 451_HAAR> hare <C 1_VERSTERFENIS> versteruenesse <C 700_VAN> van <C 452_HAAR> haers <C 2_VADER> vaders <C 800_EN> & <C 455_HAAR> hare <C 0_MOEDER> moeder 
+<L 2237:28> <C 0_DOOD> doet <C 800_EN> & <C 700_BIJ> bi <C 1_RAAD> rade <C 700_VAN> van <C 14_SCHEPEN> scepene<A >n</A> <C 800_EN> & <C 610_HIERBIJ> hier+bi <C 210_ZIJN> es <C 471_DE> die <C 1_ABDIS> abdesse <C 800_EN> & <C 0_CONVENT> couvent <C 100_VOORZEID> voerseit 
+<L 2237:29> <C 100_SCHULDIG> sculdech. <C 700_TE> te <C 251_GELDEN> gheldene <C 320+471_AL+DE> alde <C 1_RENTE> rente <C 800_EN> & <C 320_AL> al <C 474_DE/HET> den <C 0_KOST> cost <C 421_DIE> die <C 701_UIT> vte <C 415_DIE> diere <C 101_VOORZEID> vorseide 
+<L 2237:30> <C 1_RENTE> rente <C 250_GAAN> ghaen <C 210_ZULLEN> sal <C 700_IN> in <C 1_OORKONDSCHAP> orconscepe <C 800_EN> & <C 700_IN> in <C 1_KENNIS> kennesse <C 700_VAN> van <C 320_AL> al <C 420_DAT> dat <C 510_HIER> hier <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es 
+<L 2237:31> <C 404_WIJ> wie <C 20_JOHANNES> ihan <C 20_HUBERT> hubrecht <C 800_EN> & <C 20_JOHANNES> ihan <C 700_VAN> van <C 21_DUDZELE> dudzele <C 800_EN> & <C 20_JOHANNES> ihan <C 0_SCHENKEL> scinkel <C 20_WOUTER> wouter <C 0_KANT> cant <C 800_EN> & <VN type=1> 
+<L 2237:32> <C 20_AEGIDIUS> gillis <C 0_HOOFD> hoeft <C 14_SCHEPEN> scepene<A >n</A> <C 500+273_VOREN+NOEMEN> voren+ghenoemet <C 214_HEBBEN> hebben <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_ZEGELEN> gheseghelt 
+<L 2237:33> <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele <C 101_UITHANGEND> huuthanghende <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 2237:34> <C 810_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 450_ZIJN> siin <C 0_INCARNATIOEN> incarnation <C 300_DUIZENTIG-295> dusentich+tue+hondert+viue+&+neghentich 
+<L 2237:35> <C 472+2_DE+WOENSDAG> suonsdaghes <C 705_NAAR> naer <C 101_SINT> sinte <C 22_NICOLAAS> niclaus <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+
+<L 2237:51> <C 20_MARANT-X> maraut 
+<end-atlas_kenmerk  atlas_kenmerkkode='.R.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,31 @@
+<header>
+<docId>1687</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2525:31> <C 0_HEER> haer <C 20_GIJSBERT> ghisebr<A >echt</A> <C 700_VAN> va<A >n</A> <C 21_ABKOUDE> abecwoude; <C 0_HEER> haer 
+<L 2525:32> <C 20_JOHANNES> jan <C 700_VAN> van <C 24_ZUILEN> zulen; <C 0_HEER> h<A >aer</A> <C 20_SPLINTER> splint<A >er</A> <C 700_VAN> va<A >n</A> <C 20_BEUZEKOM> bosichem; <C 0_HEER> [haer] <C 20_GIJSBERT> ghisebr<A >echt</A> <C 700+474_UIT+DE/HET> vte<A >n</A> <C 21_GOOI> goye; 
+<L 2525:33> <C 0_HEER> haer <C 20_DIEDERIK> diederic <C 700_VAN> van <C 24_ZUILEN> zulen; <q> [willaem] <C 700_VAN> van <C 21_BLOKHOVEN> bloehoue; <C 20_SWEDER> sued<A >er</A> <C 700_VAN> va<A >n</A> <C 24_VIANEN> viane<A >n</A>; <C 20_JOHANNES> jan 
+<L 2525:34> <C 700_VAN> van <C 24_LINSCHOTEN> linscote<A >n</A>. 
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2525:35> <C 1_LETTER> lett<A >er</A>e <C 475_DE/HET> der <C 1_VERBINTENIS> verbindenesse <C 700+474_UIT+DE/HET> vte<A >n</A> <C 1_LAND> lande <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 700_TEGEN> teghe<A >n</A> <q> dit <q> woord 
+<L 2525:36> <q> doorgestreept <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> va<A >n</A> <C 20_HOLLAND> holl<A >ant</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

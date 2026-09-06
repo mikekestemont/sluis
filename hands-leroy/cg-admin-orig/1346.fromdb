@@ -1,0 +1,54 @@
+<header>
+<docId>1346</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2093:37> <C 20_HENDRIK> heinric <q> f <C 22_HENDRIK> heinrix <C 1_RENTE> rente <C 309_3> iii <C 11_GEMET> ymete.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> Jn <C 21_NIEUWMUNSTER> niemonstre. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2093:42> <q> .. <C 404_WIJ> Wie <C 20_IWEIN> ywein <C 700_VAN> van <C 21_BOEKEMARE> buekemare <C 1_RIDDER> rudd<A >er</A>e. <C 20_DIEDERIK> diederic <C 471_DE> die <C 0_VOS> vos. <C 20_JOHANNES> jan <C 700+474_VAN+DE/HET> vanden 
+<L 2093:43> <C 1_ZAND> zande. <C 20_HENDRIK> heynric <C 0_SCHAAFSCHACHT> scaueschat. <C 20_HENDRIK> heynric <C 471_DE> die <C 101_GROOT> grote. <C 20_IWEIN> weynin <C 700_VAN> van <C 21_VARSENARE> v<A >ar</A>snare. 
+<L 2093:44> <C 21_HUGO> hug<A >he</A> <q> f. <q> domini <C 22_HUGO> hugs. <C 800_EN> En<A >de</A> <C 20_AEGIDIUS> gillis <C 700_VAN> van <C 20_EERNEGEM> ernegheem <C 10_SCHEPEN> scepen <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrien 
+<L 2093:45> <C 204_DOEN> doen <C 700+251_TE+WETEN> tewetene <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 2093:46> <C 810_DAT> dat <C 220_KOMEN> qua<A >m</A> <C 700_VOOR> vor <C 404_WIJ> ons <C 20_HENDRIK> heynric <q> .f. <C 22_HENDRIK> heynrix <C 800_EN> en<A >de</A> <C 220_GEVEN> gaf <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 21_ARNOUT> arn<A >oude</A> 
+<L 2094:1> <C 21_BRANTIJN-X> b<A >ra</A>ntine <C 475+700_DE+TE> t<A >er</A> <C 4_ABDIS> abdessen <C 472+700+800_HET+TE+EN> ens <C 2_CONVENT> couents <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sinte <C 24_CLARA> claren <C 700_IN> in <C 21_BRUGGE> brughe <C 700_VAN> van 
+<L 2094:2> <C 304_DRIE> drien <C 14_GEMET> ymeten <C 2_LAND> lans <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 320_MEE> me <C 271_LIGGEN> lichende <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_AMBACHT> ambochte 
+<L 2094:3> <C 800_EN> en<A >de</A> <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_NIEUWMUNSTER> nieumonstre <C 800_EN> en<A >de</A> <C 213_HETEN> heet <C 471_DE> die <C 0_MEERS> marchs <C 704_BENOORDEN> benorden 
+<L 2094:4> <C 22_HENDRIK> heynrix <C 1_HOFSTEDE> hofstede <C 100_VOORZEID> vorseit <C 800_EN> en<A >de</A> <C 471+700_DE+AAN> andie <C 1_WESTZIJDE> westside <C 700_VAN> van <C 20_LAMBERT> lammin <q> .f. <C 22_GUITER> ghut<A >er</A>s 
+<L 2094:5> <C 10_KIND> kinder <C 1_LAND> lande. <C 800_EN> En<A >de</A> <C 403_HIJ> hie <C 221_WEDDEN> wedde <C 403_HIJ> hem <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vorseyde <C 0_LAND> lant <C 700+4_TE+WET> tewetten <C 700_TE> te 
+<L 2094:6> <C 251_WAREN> warne <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> lant <C 800_EN> en<A >de</A> <C 101_KWIJT> quite <C 0_LAND> lant <C 700_MET> met <C 455_ZIJN> siere <C 105_RECHT> rechter <C 0_SCHULD> sculd <C 704_JEGEN> jeghen 
+<L 2094:7> <C 324_ELK> elken <C 1_MENS> mensce <C 700+475_TE+DE> t<A >er</A> <C 4_ABDIS> abdessen <C 472+700+800_HET+TE+EN> ens <C 2_CONVENT> couents <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit. <C 800_EN> En<A >de</A> <C 20_ARNOUT> arn<A >oud</A> 
+<L 2094:8> <C 20_BRANTIJN-X> b<A >ra</A>ntin <C 100_VOORZEID> vorseit <C 220*+403_-GEVEN+HET> ghauet <C 220#_WEDER-> weder <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 21_HENDRIK> heynrike <C 104+700_ERFELIJK+TE> t<A >er</A>ueliken <C 1_CIJNS> cense 
+<L 2094:9> <C 700_OM> om <C 300_28> achte+en<A >de</A>+twintich <C 11_SCHELLING> sceleghe <C 800_EN> en<A >de</A> <C 300_9> neghen <C 11_PENNING> peneghe <C 115_GOED> goeder 
+<L 2094:10> <C 115_VLAAMS> vlaemscer <C 11_PENNING> peneghe <C 322_ELK> elx <C 2_JAAR> jaers <C 700+251_TE+GELDEN> tegheldene <C 700+324_TE+ELK> telken <C 101_SINT> sinte <C 22_MARTIN> m<A >ar</A>tins <C 1_MIS> messe. 
+<L 2094:11> <C 800_EN> En<A >de</A> <C 810_OMDAT> om+dat <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 10_SCHEPEN> scepen <C 224_ZIJN> waren <C 700_OVER> ouer <C 411_DEZE> dese <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 800_EN> en<A >de</A> 
+<L 2094:12> <C 404_WIJ> wie <C 204_WILLEN> willen <C 810+403_DAT+ZIJ> datse <C 100_VAST> vast <C 211_BLIJVEN> bliue <C 100_ZEKER> seker <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 2094:13> <C 700_IN> in <C 4_KENNIS> kennessen <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seghelen <C 111_UITHANGEND> vuthanghende. <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 2094:14> <C 274_DOEN> ghedaen <C 472+2_DE+ZATERDAG> sat<A >er</A>daghes <C 700_NA> na <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_DAG> daghe <C 2_MIDZOMER> middels+zom<A >er</A>s <q> anno <q> domini 
+<L 2094:15> <q> m'ho <q> cc'ho <q> Nonogesimo <q> quarto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

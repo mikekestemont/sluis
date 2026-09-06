@@ -1,0 +1,74 @@
+<header>
+<docId>0945</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='76' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1465:9> <C 700_IN> jn <q> eclo 
+<L 1465:10> <C 700_VAN> van <C 474_DE/HET> den <q> woestinen <q> Actum <q> m'ho <q> ij'hc <q> xc'ho. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='76' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1465:15> <C 404_WIJ> Wi <C 14_SCHEPEN> scepene<A >n</A> <C 700_IN> jn <C 20_MALDEGEM> maldenghe<A >m</A> <C 20_LAMBERT> la<A >m</A>b<A >re</A>th <C 0_HALLING> hallinc <C 20_WILHELM> willem <q> .f. <C 24_MARGARETA> mag<A >ri</A>eten 
+<L 1465:16> <C 20_JOHANNES> jan <C 0+24_VROUW+BEATRIX> vert<A >ri</A>sen <C 1_ZOON> soene <C 20_WILHELM> willem <C 0_SCHUINAARD-X> scunard <C 800_EN> en<A >de</A> <C 20_DIEDERIK> dirkin <C 471_DE> de <C 101_VROED> vroede <C 204_DOEN> Doen <C 700_TE> te 
+<L 1465:17> <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goene<A >n</A> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> Dat 
+<L 1465:18> <C 221_KOMEN> q<A >ua</A>me <C 700_VOOR> vor <C 404_WIJ> ons <C 20_BOUDEWIJN> boidin <C 471_DE> de <C 21_GEITER-X> ghetre <C 800_EN> en<A >de</A> <C 20_GEERTRUIDA> ghertrud <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen 
+<L 1465:19> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 700_VAN> va<A >n</A> <C 20_KAPRIJKE> cap<A >ri</A>c <C 0_MEESTER> meest<A >er</A> <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_HUIS> huse 
+<L 1465:20> <C 700_IN> in <C 21_BRUGGE> brugghe <C 472+700+2_HET+TE+HOSPITAAL> thospitaels <C 0_BEHOEF> boef <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_JOHANNES> jans <C 1_HUIS> huse <C 700_IN> in <C 21_BRUGGE> brugghe <C 700_VAN> va<A >n</A> <C 301_VIJF> viue 
+<L 1465:21> <C 11_BUNDER> buunre <C 4_WOESTIJN> woestine<A >n</A> <C 320_MIN> min <C 309_37,5> .xxxvii't!. <C 14_ROEDE> roeden <C 800_EN> en<A >de</A> <C 320_ELK> elc <C 1_BUNDER> buunre <C 700_MET> met 
+<L 1465:22> <C 300+14_12+PENNING> tuelpeneghen <C 472+4_DE+GRAAF> sgrauen <C 1_SCHULD> sculde <C 2_JAAR> jaers <C 800_EN> en<A >de</A> <C 500_TOEN> doe <C 403+224_HET+GAAN> ghincens <C 20_BOUDEWIJN> boid<A >in</A> <C 800_EN> en<A >de</A> <C 450_ZIJN> siin 
+<L 1465:23> <C 0_WIJF> wiif <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> 
+<L 1465:24> <C 800_EN> en<A >de</A> <C 403+224_HET+WEDDEN> weddens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne. <C 500_VOORT> vort <C 550_ZO> soe <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 404_WIJ> ons 
+<L 1465:25> <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORZEID> vorseit <C 26_WOUTER> wout<A >ra</A> <C 471_DE> de <C 21_GEITER-X> ghetre <C 800_EN> en<A >de</A> <C 21_ISABELLA> bele <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen 
+<L 1465:26> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 2+700+472_SPITAAL+TE+HET> tspetaels <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> <C 480+300_EEN+HALF> ene<A >n</A>+alue<A >n</A> 
+<L 1465:27> <C 1_BUNDER> buunre <C 4_WOESTIJN> woestine<A >n</A> <C 800_EN> en<A >de</A> <C 26_WOUTER> w<A >outra</A> <C 800_EN> en<A >de</A> <C 21_ISABELLA> bele <C 100_VOORZEID> vorseit <C 800_EN> en<A >de</A> <C 20_FRANCISCUS> soikin 
+<L 1465:28> <C 800_EN> en<A >de</A> <C 20_ELISABETH> liiskin <C 451_ZIJN> sine <C 10_STIEFKIND> stiefkinder <C 700_VAN> va<A >n</A> <C 480+300_EEN+HALF> ene<A >n</A>+alue<A >n</A> <C 1_BUNDER> buunre <C 4_WOESTIJN> woestine<A >n</A> <C 800_EN> en<A >de</A> <C 320_ELK> elc 
+<L 1465:29> <C 1_BUNDER> buunre <C 700_MET> met <C 309_12> .xii. <C 19_DENARIUS> d <C 2_JAAR> jaers <C 472+4_DE+GRAAF> tscrauen <C 1_SCHULD> sculde <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 550_ZO> soe <C 220+406+403_GAAN+ZIJ+HET> ghincsiis <C 501_WETTELIJK> wettelike 
+<L 1465:30> <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> <C 800_EN> en<A >de</A> <C 224+403_WEDDEN+HET> weddens 
+<L 1465:31> <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne. <C 500_VOORT> vort <C 550_ZO> soe <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 404_WIJ> ons <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORZEID> vorseit 
+<L 1465:32> <C 21_LAMBERT> la<A >m</A>me <C 22_STEFANUS> steuens <C 1_ZOON> soene <C 800_EN> en<A >de</A> <C 21_BEATRIX> trise <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte 
+<L 1465:33> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 2+700+472_SPITAAL+TE+HET> tspetaels <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> <C 304_2> tueen <C 14_GEMET> himete<A >n</A> <C 800_EN> en<A >de</A> 
+<L 1465:34> <C 480+300_EEN+HALF> een+alf <C 4_WOESTIJN> woestine<A >n</A> <C 700_MET> met <C 415_ALZULK> alsulker <C 105_VOORZEID> vorseider <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 550_ZO> soe <C 406+220+403_ZIJ+GAAN+HET> ghincsiis 
+<L 1465:35> <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> <C 800_EN> en<A >de</A> 
+<L 1465:36> <C 224+403_WEDDEN+HET> weddens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne. <C 500_VOORT> vort <C 550_ZO> soe <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 404_WIJ> ons <C 14_SCHEPEN> scepene<A >n</A> 
+<L 1465:37> <C 110_VOORZEID> vorseit <C 21_SIEGER> zeghere <C 2_LAM> la<A >m</A>s <C 1_ZOON> soene <C 700_MET> met <C 0+475_MOND+DE> dermont <C 800_EN> en<A >de</A> <C 21_ADELHEID> alise <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen 
+<L 1465:38> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 2+472+700_SPITAAL+HET+TE> tspetaels <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> <C 304_2> tueen 
+<L 1465:39> <C 14_GEMET> himeten <C 800_EN> en<A >de</A> <C 700_VAN> va<A >n</A> <C 309_225> cc+en<A >de</A>+xxv <C 14_ROEDE> roeden <C 4_WOESTIJN> woestine<A >n</A> <C 800_EN> en<A >de</A> <C 700_MET> met <C 415_ALZULK> alsulker 
+<L 1465:40> <C 105_VOORZEID> vorseider <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 550_ZO> soe <C 403+406+220_HET+ZIJ+GAAN> ghincsiis <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder 
+<L 1465:41> <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> <C 800_EN> en<A >de</A> <C 224+403_WEDDEN+HET> weddens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne 
+<L 1465:42> <C 500_VOORT> vort <C 550_ZO> soe <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 404_WIJ> ons <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORZEID> vorseit <C 20_HENDRIK> heinric <C 0+24+1_VROUW+MABELIA+ZOON> v<A >er</A>mabensoene <C 800_EN> en<A >de</A> 
+<L 1465:43> <C 0+21_VROUW+MABELIA> v<A >er</A>mabe <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> 
+<L 1465:44> <C 304_EEN> henen <C 1_GEMET> himete <C 1_WOESTIJN> woestine <C 800_EN> en<A >de</A> <C 700_MET> met <C 415_ALZULK> alsulker <C 105_VOORZEID> vorseider <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 550_ZO> soe 
+<L 1465:45> <C 403+406+220_HET+ZIJ+GAAN> ghincsiis <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> 
+<L 1465:46> <C 800_EN> en<A >de</A> <C 224+403_WEDDEN+HET> weddens <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <C 500_VOORT> vort <C 550_ZO> soe <C 220_KOMEN> quam <C 700_VOOR> vor <C 404_WIJ> ons 
+<L 1466:1> <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORZEID> vorseit <C 20_MATHILDE> machtild <C 22_LAMBERT> la<A >m</A>mes <C 0_DOCHTER> docht<A >er</A> <C 0+475+700_MOND+DE+MET> mett<A >er</A>mont <C 800_EN> en<A >de</A> <C 220_GEVEN> gaf 
+<L 1466:2> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 2+472+700_SPITAAL+HET+TE> tspetaels <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> <C 304_VIJF> viue<A >n</A> 
+<L 1466:3> <C 14_GEMET> himete<A >n</A> <C 4_WOESTIJN> woestine<A >n</A> <C 800_EN> en<A >de</A> <C 700_MET> met <C 415_ALZULK> alsulker <C 105_VOORZEID> vorseider <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 550_ZO> soe <C 220_GAAN> ghinc 
+<L 1466:4> <C 403+403_HET+ZIJ> soes <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> 
+<L 1466:5> <C 800_EN> en<A >de</A> <C 406+220_ZIJ+WEDDEN> wedder <C 403_HIJ> hem <C 700_TE> te <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne. <C 500_VOORT> vort <C 550_ZO> soe <C 224_KOMEN> q<A >ua</A>men <C 700_VOOR> vor <C 14_SCHEPEN> scepene<A >n</A> 
+<L 1466:6> <C 110_VOORZEID> vorseit <C 20_WILLAARD> willaerd <C 700_VAN> van <C 475_DE/HET> der <C 24_PIET-X> pieten <C 800_EN> en<A >de</A> <C 20_MATHILDE> machtild <C 450_ZIJN> siin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> <C 224_GEVEN> gauen 
+<L 1466:7> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 700_VAN> va<A >n</A> <C 304_2> tueen <C 14_GEMET> himeten <C 4_WOESTIJN> woestinen 
+<L 1466:8> <C 700_MET> m<A >et</A> <C 415_ALZULK> alsulker <C 105_VOORZEID> vorseider <C 0_SCHULD> scult <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 550_ZO> soe <C 406+403+220_ZIJ+HET+GAAN> ghincsiis <C 501_WETTELIJK> wettelike <C 504_TEBUITEN> te+buten 
+<L 1466:9> <C 800_EN> en<A >de</A> <C 0_BROEDER> broeder <C 20_WILHELM> willem <C 100_VOORZEID> vorseit <C 501_WETTELIJK> wettelike <C 504_TEBINNEN> te+binne<A >n</A> <C 800_EN> en<A >de</A> <C 403+224_HET+WEDDEN> weddens <C 403_HIJ> hem <C 700_TE> te 
+<L 1466:10> <C 1_WET> wette <C 700_TE> te <C 251_WAREN> waerne <C 800_EN> en<A >de</A> <C 320+410_AL+DIT> aldit <C 472+700+2_HET+TE+SPITAAL> spetaels <C 0_BEHOEF> boef <C 100_VOORZEID> vorseit. <C 800_EN> en<A >de</A> <C 320_AL> al <C 411_DEZE> dese <C 101_VOORZEID> vorseide 
+<L 1466:11> <C 1_WOESTIJN> woestine <C 203_LIGGEN> leghet <C 474+702_DE/HET+BINNEN> binsden <C 1_AMBACHT> ambachte <C 700_VAN> van <C 20_MALDEGEM> malde<A >n</A>ghe<A >m</A> <C 500_NOORDOOST> nort+oest <C 474+700_DE/HET+VAN> vanden 
+<L 1466:12> <C 1_MEET> made <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 321_AL> alle <C 411_DEZE> dese <C 14_STUK> sticken <C 700_VOOR> vor <C 404_WIJ> ons <C 234_ZIJN> waren <C 274_DOEN> ghedaen <C 550_ZO> Soe <C 214_HEBBEN> hebben 
+<L 1466:13> <C 404_WIJ> wi <C 411_DEZE> dese <C 4_LETTER> lett<A >er</A>en <C 273_ZEGELEN> ghezeghelt <C 101_UITHANGEND> huutanghende <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeglen <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 1466:14> <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> scriif <C 450_ZIJN> siin <C 0_INCARNATIOEN> incaernacioen <C 300_1290> .m'ho.+cc'ho+en<A >de</A>+neghentich 
+<L 1466:15> <C 472+2_DE+ZONDAG> sondaghes <C 700_NAAR> naer <C 101_SINT> sente <C 22_PETRUS> pieters <C 800_EN> en<A >de</A> <C 101_SINT> sente <C 22_PAULUS> pauwels 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='76' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='76' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,66 @@
+<header>
+<docId>1877</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2781:20> <C 410_DIT> Dit <C 210_ZIJN> es <C 0+470_GOED+HET> tgoed <C 420_DAT> dat <C 203_BEHOREN> behoord <C 474+700_DE/HET+TE> te<A >n</A> <C 14_HOF> houe<A >n</A>. <C 319_1300> xiij'ho 
+<L 2781:21> <C 700+474_TE+DE/HET> Ten <C 1_HOF> houe <C 700_VAN> va<A >n</A> <C 21_ZUIENKERKE> zue<A >n</A>k<A >er</A>ke <C 203_BEHOREN> behoord <C 309_531> .v'hc+xxxi <C 19_MENSURA> 't3m <C 102_EIGEN> eghins <C 2_LAND> lands. <C 800_EN> en<A >de</A> <C 309_30> xxx 
+<L 2781:22> <C 19_MENSURA> 't3m <C 2_PROOSTLAND> proefst+la<A >n</A>ds. <C 610_DAARAF> daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met <C 4_TARWE> taerwe<A >n</A> <C 309_175> C+lxxv <C 19_MENSURA> 't3m. <C 700_MET> met <C 1_LENTEKOREN> lenti<A >n</A>+coorne 
+<L 2781:23> <C 309_200> .ij'hc <C 19_MENSURA> 't3m. <C 470+310_HET+ANDER> tander <C 210_ZIJN> es <C 1_WEIDE> wede <C 800_EN> en<A >de</A> <C 1_BRAAK> brake. <C 500_ITEM> jte<A >m</A> <C 510_DAAR> daer <C 200_ZIJN> es <C 309_EEN> .i. <C 0_MERRIEPAARD> merie+paerd. 
+<L 2781:24> <C 500_ITEM> jte<A >m</A> <C 309_24> xxiiij <C 14_MERRIE> merie<A >n</A> <C 800_EN> en<A >de</A> <C 309_3> iij <C 14_VEULTJE> velke<A >n</A>. <C 500_ITEM> jte<A >m</A> <C 309_62> lxij <C 115_MELK> melker <C 14_KOE> coen. <C 800_EN> en<A >de</A> <C 309_34> xxxiiij 
+<L 2781:25> <C 115_GELD> ghelder <C 14_BEEST> beeste<A >n</A>. <C 500_ITEM> jte<A >m</A> <C 309_30> xxx <C 10_ZWIJN> zuijn. <C 500_ITEM> jte<A >m</A> <C 309_120> Cxx <C 115_OUD> oud<A >er</A> <C 10_SCHAAP> scaep. <C 309_150> Cl <C 10_LAM> la<A >m</A>mer. 
+<L 2781:26> <C 700+474_TE+DE/HET> Te<A >n</A> <C 1_HOF> houe <C 700+475_TE+DE> t<A >er</A> <C 1_WESTSCHUUR> west+scure <C 203_BEHOREN> behord <C 309_190> Cxc <C 19_MENSURA> 't3m <C 2_LAND> lands. <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met 
+<L 2781:27> <C 4_ROG> rugghe<A >n</A> <C 309_60> lx <C 19_MENSURA> 't3m <C 700_MET> met <C 1_LENTEKOREN> lenti<A >n</A>+coorne <C 309_40> xl <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 2_HOOILAND> hoy+lands <C 309_16> xvi <C 19_MENSURA> 't3m. <C 470+310_HET+ANDER> ta<A >n</A>der <C 210_ZIJN> es 
+<L 2781:28> <C 1_WEIDE> wede. <C 700_VAN> va<A >n</A> <C 414_DEZE> dese<A >n</A> <C 114_VOORZEID> vors<A >eiden</A> <C 11_LAND> lande <C 203_GELDEN> ghelt <C 440_MEN> me<A >n</A> <C 700_TE> te <C 4_SCHULD> sculden <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> va<A >n</A> 
+<L 2781:29> <C 21_KNESSELARE> knesselare <C 309_55> lv <C 10_HOED> hoed <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 1_VIERTAL> viertale <C 4_EVEN> euene<A >n</A> <C 322_ELK> elx <C 2_JAAR> iaers. <C 800_EN> en<A >de</A> <C 309_3> iij <C 19_LIBRA> lb <C 4_RENTE> re<A >n</A>te<A >n</A> 
+<L 2781:30> <C 700_IN> in <C 114_ANDER> anderen <C 14_STAD> steden. <VN type=1> <C 500_ITEM> Jte<A >m</A> <C 510_DAAR> daer <C 214_ZIJN> zijn <C 309_2> .ij <C 14_MOLEN> moelne<A >n</A> <C 800_EN> en<A >de</A> <C 309_4> iiij <C 11_MOLENPAARD> moelnepaerde. 
+<L 2781:31> <C 500_ITEM> jte<A >m</A> <C 309_8> viij <C 14_MERRIE> merie<A >n</A> <C 309_EEN> .i. <C 0_KACHTEL> kachtel <C 800_EN> en<A >de</A> <C 309_26> xxvi <C 115_MELK> melker <C 14_KOE> coen. <C 500_ITEM> jte<A >m</A> <C 309_18> xviij <C 115_GELD> ghelder 
+<L 2781:32> <C 14_BEEST> beesten. <C 500_ITEM> jte<A >m</A> <C 309_7> vij <C 10_ZWIJN> zuijn. <C 500_ITEM> jtem <C 309_HONDERD> C <C 10_SCHAAP> scaep. 
+<L 2781:33> <C 474+700_DE/HET+TE> Te<A >n</A> <C 1_HOF> houe <C 700+474_TE+DE/HET> te<A >n</A> <C 1_BRIEL> briele <C 203_BEHOREN> behoord <C 309_94> xciiij <C 19_MENSURA> 't3m <C 2_LAND> la<A >n</A>ds. <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met 
+<L 2781:34> <C 4_ROG> rugghen. <C 309_28> xxviij <C 19_MENSURA> 't3m. <C 700_MET> met <C 4_EVEN> euene<A >n</A> <C 309_17> xvij <C 19_MENSURA> 't3m. <C 470+310_HET+ANDER> tander <C 210_ZIJN> es <C 0_HOOILAND> hoy+land <C 800_EN> en<A >de</A> <C 1_WEIDE> wede. 
+<L 2781:35> <C 500_ITEM> Jte<A >m</A> <C 510_DAAR> daer <C 214_ZIJN> zijn <C 309_7> vij <C 14_MERRIE> merie<A >n</A> <C 500_ITEM> jte<A >m</A> <C 309_24> xxiiij <C 115_MELK> melker <C 14_KOE> coen <C 800_EN> en<A >de</A> <C 309_11> xi <C 115_GELD> gheld<A >er</A> 
+<L 2781:36> <C 14_BEEST> beesten. <C 500_ITEM> jte<A >m</A> <C 309_97> xcvij <C 10_SCHAAP> scaep. <C 500_ITEM> jte<A >m</A> <C 309_6> vi <C 10_ZWIJN> zuijn. 
+<L 2781:37> <C 474+700_DE/HET+TE> Te<A >n</A> <C 1_HOF> houe <C 700_TE> te <C 0_DONK> do<A >n</A>c <C 203_BEHOREN> behoord <C 309_HONDERD> .C. <C 19_MENSURA> 't3m <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 309_50> .l. <C 11_BUNDER> buunre <C 2_VELD> velds <C 610_DAARAF> Daer+of 
+<L 2781:38> <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met <C 4_ROG> rugghe<A >n</A> <C 309_20> xx <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 700_MET> met <C 4_EVEN> euene<A >n</A> <C 309_32> xxxij <C 19_MENSURA> 't3m. <C 500_ITEM> jte<A >m</A> <C 510_DAAR> daer 
+<L 2781:39> <C 204_BEHOREN> behore<A >n</A> <C 309_6> .vi. <C 14_MERRIE> merie<A >n</A>. <C 500_ITEM> jtem <C 309_26> xxvi <C 115_MELK> melker <C 14_KOE> coen. <C 500_ITEM> jte<A >m</A> <C 309_8> viij <C 111_GELD> ghelde <C 14_BEEST> beeste<A >n</A>. 
+<L 2781:40> <C 500_ITEM> jte<A >m</A> <C 309_110> .C.x. <C 10_SCHAAP> scaep. <C 500_ITEM> jte<A >m</A> <C 309_2> ij <C 11_VARKEN> vaerkine. 
+<L 2781:41> <C 700+474_TE+DE/HET> Te<A >n</A> <C 1_HOF> houe <C 700_TE> te <C 20_OEDELEM> oedelem <C 203+403_BEHOREN+HET> behoords <C 309_73> lxxiij <C 19_MENSURA> 't3m <C 2_LAND> lands. <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met 
+<L 2781:42> <C 4_ROG> rugghe<A >n</A> <C 800_EN> en<A >de</A> <C 700_MET> met <C 4_TARWE> taerwe<A >n</A> <C 309_16> .xvi <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 309_30> xxx <C 19_MENSURA> 't3m <C 700_MET> met <C 1_LENTEKOREN> lenti<A >n</A>+coorne. <C 800_EN> en<A >de</A> 
+<L 2781:43> <C 470+310_HET+ANDER> tander <C 210_ZIJN> es <C 1_WEIDE> wede. <C 500_ITEM> jtem <C 510_DAAR> daer <C 204_BEHOREN> behore<A >n</A> <C 309_4> iiij <C 14_MERRIE> merie<A >n</A>. <C 500_ITEM> jte<A >m</A> <C 309_12> xij <C 115_MELK> melker <C 14_KOE> coen 
+<L 2781:44> <C 800_EN> en<A >de</A> <C 309_4> iiij <C 12_STERKER> st<A >er</A>kers. <C 500_ITEM> jte<A >m</A> <C 309_70> lxx <C 10_SCHAAP> scaep <C 500_ITEM> jtem <C 309_2> .ij <C 11_VARKEN> vaerkine 
+<L 2781:45> <C 474+700_DE/HET+TE> Ten <C 1_HOF> houe <C 700_VAN> va<A >n</A> <C 24_TRENTEN> tere<A >n</A>te<A >n</A>. <C 203_BEHOREN> behoerd <C 309_80> .lxxx <C 19_MENSURA> 't3m <VN type=1> <C 102_EIGEN> eghins <C 2_LAND> lands. <C 800_EN> en<A >de</A> <C 309_18> xviij <C 19_MENSURA> 't3m 
+<L 2782:1> <C 0_PROOST> proefst. <C 610_DAARAF> Daer+of <C 210_ZIJN> es. <C 273_ZAAIEN> ghezait <C 700_MET> met <C 4_TARWE> taerwen <C 309_31> xxxi <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_LENTEKOREN> lenti<A >n</A>+coorne 
+<L 2782:2> <C 309_40> xl <C 19_MENSURA> 't3m. <C 310+470_ANDER+HET> tander <C 210_ZIJN> es <C 1_BRAAK> brake <C 800_EN> en<A >de</A> <C 1_WEIDE> wede <C 500_ITEM> jte<A >m</A> <C 510_DAAR> daer <C 214_ZIJN> zijn <C 309_5> .v. <C 14_MERRIE> merie<A >n</A> <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 0_HENGST> hinxt. 
+<L 2782:3> <C 500_ITEM> jte<A >m</A> <C 309_16> xvi <C 115_MELK> melker <C 14_KOE> coen <C 500_ITEM> jte<A >m</A> <C 309_8> viij <C 12_STERKER> st<A >er</A>kers. <C 500_ITEM> jte<A >m</A> <C 309_98> xcviij <C 10_SCHAAP> scaep. <C 500_ITEM> jte<A >m</A> <C 309_7> vij <C 10_ZWIJN> zuijn. 
+<L 2782:4> <C 700+474_TE+DE/HET> Te<A >n</A> <C 1_MOER> moere <C 203_BEHOREN> behoord <C 309_307> iij'hc+vij <C 19_MENSURA> 't3m <C 2_LAND> lands <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghesait <C 700_MET> met <C 4_ROG> rugghe<A >n</A> 
+<L 2782:5> <C 309_48> xlviij <C 19_MENSURA> 't3m <C 800_EN> en<A >de</A> <C 700_MET> met <C 4_EVEN> euene<A >n</A> <C 309_95> xcv <C 19_MENSURA> 't3m. <C 470+310_HET+ANDER> ta<A >n</A>der <C 210_ZIJN> es <C 1_WEIDE> wede <C 800_EN> en<A >de</A> <C 1_WOESTIJN> woestine. <C 500_ITEM> Jte<A >m</A> 
+<L 2782:6> <C 510_DAAR> daer <C 204_ZIJN> zijn <C 309_TIEN> .x. <C 14_MERRIE> merie<A >n</A> <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 0_HENGST> hinxt <C 500_ITEM> jte<A >m</A> <C 309_39> xxxix <C 111_MELK> melke <C 14_KOE> coen <C 800_EN> en<A >de</A> <C 309_23> xxiii 
+<L 2782:7> <C 115_GELD> ghelder <C 14_BEEST> beesten <C 500_ITEM> jte<A >m</A> <C 309_108> Cviij <C 115_OUD> ouder <C 10_SCHAAP> scaep <C 800_EN> en<A >de</A> <C 309_130> Cxxx <C 10_LAM> la<A >m</A>mer 
+<L 2782:8> <C 700_TE> Te <C 20_SNELLEGEM> snelle<A >n</A>gh<A >em</A> <C 203_BEHOREN> behoord <C 309_65> lxv <C 19_MENSURA> 't3m <C 2_LAND> lands <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met <C 4_ROG> rugghe<A >n</A> 
+<L 2782:9> <C 309_13> xiij <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_LENTEKOREN> le<A >n</A>ti<A >n</A>+corne <C 309_30> xxx <C 19_MENSURA> 't3m <C 500_ITEM> jte<A >m</A> <C 510_DAAR> daer <C 204_ZIJN> sijn <C 309_14> xiiij <C 115_MELK> melker <C 14_KOE> coen 
+<L 2782:10> <C 800_EN> en<A >de</A> <C 309_7> vij <C 12_STERKER> st<A >er</A>kers. <C 309_4> iiij <C 11_PAARD> paerde. <C 309_66> lxvi <C 10_SCHAAP> scaep 
+<L 2782:11> <C 700_TE> Te <C 24_WENDUINE> weindune<A >n</A> <C 203_BEHOREN> behoord <C 309_22,5> xxij't! <C 102_EIGEN> eghins <C 2_LAND> lands <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 203_GELDEN> ghelt <C 320_ELK> elc <C 0_GEMET> ghemet 
+<L 2782:12> <C 309_3,5> iij't! <C 9_SOLIDUS> 't3s. <C 105_GOED> goed<A >er</A> <C 4_PAAI> paye<A >n</A>. <C 800_EN> En<A >de</A> <C 309_50> .l. <C 19_MENSURA> 't3m <C 2_PROOSTLAND> proefst+lands <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 203_GELDEN> ghelt <C 320_ELK> elc <C 0_GEMET> ghemet 
+<L 2782:13> <C 309_8,5> viij't! <C 9_SOLIDUS> 't3s <C 105_GOED> goed<A >er</A> <C 4_PAAI> payen <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 700_MET> met <C 4_TARWE> taerwe<A >n</A> <C 309_16> .xvi. <C 19_MENSURA> 't3m. <C 800_EN> en<A >de</A> <C 700_MET> met 
+<L 2782:14> <C 1_LENTEKOREN> lenti<A >n</A>+corne <C 309_36> xxxvi <C 19_MENSURA> 't3m <C 500_ITEM> jtem <C 510_DAAR> daer <C 204_ZIJN> sijn <C 309_5> .v. <C 14_MERRIE> merien. <C 500_ITEM> jte<A >m</A> <C 309_12> xij <C 111_MELK> melke <C 14_KOE> coen <C 309_4> iiij 
+<L 2782:15> <C 12_STERKER> st<A >er</A>kers. <C 309_80> lxxx <C 10_SCHAAP> scaep. <C 309_2> ij <C 10_ZWIJN> zuijn. 
+<L 2782:16> <C 700_TE> Te <C 20_MALDEGEM> maldenghem <C 203_BEHOREN> behoord <C 4_RENTE> rente<A >n</A> <C 309_73> .lxxiij. <C 19_LIBRA> lb <C 309_4> .iiij <C 19_SOLIDUS> 't3s <C 309_ANDERHALF> i't! <C 9_DENARIUS> d. <C 700+101_TE+SINT> tsente <C 22_PETRUS> piet<A >er</A>s <C 700_TE> te 
+<L 2782:17> <C 20_GENT> ghe<A >n</A>t <C 309_20> xx <C 19_LIBRA> lb. <C 700_IN> jn <C 1_CIJNS> ceinse <C 309_45> xlv <C 19_LIBRA> lb. <C 700+470_IN+HET> jnt <C 101_VRIJ> vrihe <C 309_12> xij <C 19_LIBRA> lb <C 700_IN> in <C 14_TIEND> tiende<A >n</A> <C 309_40> xl <C 19_LIBRA> lb. <C 610_HIERAF> Hier+of 
+<L 2782:18> <C 440+203_MEN+GELDEN> gheltm<A >en</A> <C 500_WEER> wed<A >er</A> <C 309_22> xxii <C 19_LIBRA> lb <VN type=1> <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 0_KOST> cost <C 474+700_DE/HET+VAN> vanden <C 1_HOSPITAAL> hospitale 
+<L 2782:19> <C 700_TE> Te <C 20_OOSTKAMP> orsca<A >m</A>p <C 203_BEHOREN> behoord <C 309_163> C.lxiij <C 19_MENSURA> 't3m <C 309_2> ij <C 14_LIJN> line<A >n</A> <C 2_LAND> lands <C 610_DAARAF> Daer+of <C 210_ZIJN> es <C 273_ZAAIEN> ghezait <C 309_24> xxiiij 
+<L 2782:20> <C 19_MENSURA> 't3m <C 700_MET> met <C 104_HARD> harde<A >n</A> <C 1_KOREN> coorne <C 800_EN> En<A >de</A> <C 700_MET> met <C 1_LENTEKOREN> lenti<A >n</A>+coorne <C 309_35> xxxv <C 19_MENSURA> 't3m. <C 309_4> iiij <C 14_MERRIE> merie<A >n</A>. <C 309_21> xxi 
+<L 2782:21> <C 115_MELK> melker <C 14_KOE> coen <C 309_12> xij <C 115_GELD> ghelder <C 14_BEEST> beeste<A >n</A>. <C 309_80> lxxx <C 10_SCHAAP> scaep. <C 309_2> ij <C 10_ZWIJN> zuijn. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

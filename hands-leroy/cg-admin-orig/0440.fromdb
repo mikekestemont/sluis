@@ -1,0 +1,73 @@
+<header>
+<docId>0440</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='90' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='90' plaats_2='' regio_1='5' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 683:18> <q> mesire <C 20_FLORENTIUS> florens <q> de <q> hainau <q> donne 
+<L 683:19> <q> terres <q> alabie <q> de <C 20_NOORDDIJK> nortdijc <q> en <C 21_ZEELAND> zelande <q> sur <q> certaines <q> deuises. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 683:25> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 700_VAN> van <C 24_HENEGOUWEN> henegouen <C 1_RIDDER> riddre <C 204_MAKEN> maken <C 100_KOND> Cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die 
+<L 683:26> <C 411_DEZE> dese <C 4_LETTER> lettren <C 250_ZIEN> sien <C 214_ZULLEN> solen <C 800_EN> en<A >de</A> <C 204_HOREN> horen <C 810_DAT> dat <C 404_WIJ> wi <C 320_AL> al <C 470_HET> dat <C 0_GOED> goet <C 420_DAT> dat <C 404_WIJ> wi <C 204_HEBBEN> hebben <C 700_IN> in 
+<L 683:27> <C 20_NOORDBEVELAND> nortbeuelant <C 700_TE> te <C 21_WISSEKERKE> wissenkerke <C 700_TE> te <C 20_GEERSDIJK> Gherolfsdijc <C 800_EN> en<A >de</A> <C 700_TE> te <C 24_KAMPEN> Campen <C 420_DAT> dat <C 404_WIJ> wi 
+<L 683:28> <C 224_KOPEN> kogthen <C 702_JEGENS> jeghens <C 471_DE> die <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 470_HET> dat <C 0_CONVENT> couent <C 700_VAN> van <C 20_RIJNSBURG> Reinsburgh <C 420_DAT> dat <C 406_ZIJ> hem 
+<L 683:29> <C 274_AANKOMEN> anComen <C 230_ZIJN> was <C 700_VAN> van <C 474_DE/HET> den <C 14_DOCHTER> doghtren <C 4+472_HEER+DE> sar<A >en</A> <C 24_HUGO> hughen <C 22_GOUWER-X> gouwers. <C 274_GEVEN> ghegheuen 
+<L 683:30> <C 214_HEBBEN> hebben <C 475_DE/HET> der <C 4_ABDIS> abdessen <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 1_CONVENT> Couente <C 700_VAN> va<A >n</A> <C 20_NOORDDIJK> nortdijc <C 700_IN> in <C 20_NOORDBEVELAND> nortbeuelant <C 700_IN> jn 
+<L 683:31> <C 105_RECHT> reghter <C 4_AALMOES> alemoesenen <C 501_EEUWELIJK> Ewelike <C 700_TE> te <C 251_HEBBEN> hebbene <C 800_EN> en<A >de</A> <C 700_TE> te <C 251_BEZITTEN> besittene. <C 800_EN> En<A >de</A> <C 611_HIEROM> hier+ombe 
+<L 683:32> <C 550_ZO> soe <C 210_ZULLEN> sal <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 700_VAN> van <C 20_NOORDDIJK> nortdijc <C 800_EN> en<A >de</A> <C 451_HAAR> hore <C 0_CONVENT> couent <C 403_ZIJ> si <C 800_EN> en<A >de</A> 
+<L 683:33> <C 451_HAAR> hore <C 11_NAKOMELING> nacomelinghe <C 250_GEVEN> gheuen <C 700+474_TE+DE/HET> ten <C 314_EERST> eersten <C 104+1_WIT+DONDERDAG> wittendonnersdaghe <C 421_DIE> die <C 203_KOMEN> comet. 
+<L 683:34> <C 300_EEN> een. <C 0_POND> pont. <C 100_HOLLANDS> holl<A >ants</A>. <C 700_TE> te <C 451_HAAR> hore <C 4_POORT> porten <C 700_IN> in <C 4_AALMOES> alemoesenen <C 800_EN> en<A >de</A> <C 480_EEN> een <C 310_ANDER> ander. 
+<L 683:35> <C 0_POND> pont. <C 100_HOLLANDS> holl<A >ants</A>. <C 704_BINNEN> binnen <C 414_DEZE> desen <C 1_JAAR> jare <C 475+700_DE+TE> ter <C 4_KOSTERIJ> costerien <C 614_DAARBINNEN> daer+binnen. <C 800_EN> en<A >de</A> <C 411_DEZE> dese 
+<L 683:36> <C 301_TWEE> tue. <C 10_POND> pont. <C 214_ZULLEN> solen <C 250_STAAN> staen <C 501_EEUWELIJK> ewelike <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 214_ZULLEN> solen <C 406_ZIJ> si <C 250_GEVEN> gheuen <C 322_ELK> elkes <C 2_JAAR> jares. <C 614_HIERBOVEN> Hier+bouen 
+<L 683:37> <C 210_ZULLEN> sal <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 470_HET> dat <C 0_CONVENT> Coue<A >n</A>t <C 700_NA> na <C 451_ONS> onse <C 0_DOOD> doet <C 704_BINNEN> binnen <C 474_DE/HET> den 
+<L 683:38> <C 1_JAAR> jare <VN type=1> <C 250_MAKEN> maken <C 800_EN> en<A >de</A> <C 250_OPHEFFEN> vpheffen <C 481_EEN> ene <C 1_KAPELLERIJ> Capelrie <C 704_BINNEN> binnen <C 451_HAAR> hore <C 4_FERMERIE> fermerien <C 800_EN> en<A >de</A> 
+<L 683:39> <C 601+210_ERTOE+ZULLEN> salre+toe <C 250_GEVEN> gheuen. <C 300_TIEN> tien. <C 10_POND> pont. <C 110_HOLLANDS> holl<A >ants</A>. <C 322_ELK> elkes <C 2_JAAR> jares <C 501_EEUWELIJK> ewelike <C 271_STAAN> staende <C 700_IN> in <C 471_DE> die. 
+<L 683:40> <C 1_EER> Ere <C 455_ONS> onser <C 4_VROUW> vrouen. <C 614_HIERBOVEN> hier+bouen <C 700_NA> na <C 451_ONS> onse <C 0_DOOD> doet <C 550_ZO> soe <C 210_ZULLEN> sal <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse 
+<L 683:41> <C 250_GEVEN> gheuen <C 474_DE/HET> den <C 1_CONVENT> Couente <C 614_DAARBINNEN> daer+binnen <C 301_DRIE> drie <C 10_POND> pont <C 110_HOLLANDS> holl<A >ants</A>. <C 322_ELK> elkes <C 2_JAAR> jares <C 501_EEUWELIJK> ewelike 
+<L 683:42> <C 700_TE> te <C 4_PITANTIE> petansen. <C 300_EEN> een <C 0_POND> pont <C 810_ALS> als <C 440_MEN> mi <C 203_DOEN> doet <C 451_ONS> onse <C 1_JAARGETIJDE> jaerghetide. <C 800_EN> en<A >de</A> <C 470_HET> dat <C 310_ANDER> ander <C 0_POND> pont 
+<L 683:43> <C 700_IN> in <C 455_ONS> onser <C 4_VROUW> vrouen <C 1_DAG> daghe <C 850_ALS> als <C 406_ZIJ> si <C 273_BOODSCHAPPEN> gheboetscept <C 230_ZIJN> was. <C 800_EN> en<A >de</A> <C 470_HET> dat <C 311_DERDE> derde <C 0_POND> pont <C 700_IN> in 
+<L 683:44> <C 455_ONS> onser <C 4_VROUW> vrouen <C 1_DAG> daghe <C 700_TE> te <C 104_HALF> haluen <C 21_OOGST> oegste. <C 704_BOVEN> bouen <C 324_AL> allen <C 414_DEZE> desen <C 210_ZULLEN> sal <C 471_DE> die <C 101_VOORZEID> vorseide 
+<L 683:45> <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 470_HET> dat <C 0_CONVENT> coue<A >n</A>t <C 403+210_HET+ZIJN> est <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <VN type=1> <C 204_MAKEN> maken <C 0_TESTAMENT> testame<A >n</A>t <C 801_OF> ofte <C 0_ONRECHT> onreght 
+<L 684:1> <C 204_WEERWIJZEN> weder+wisen. <C 204_GELDEN> ghelden <C 700_VAN> va<A >n</A> <C 454_ONS> onsen <C 1_TESTAMENT> testam<A >en</A>te <C 801_OF> ofte <C 1_ONRECHT> onreghte <C 704_BINNEN> binnen <C 304_DRIE> drien 
+<L 684:2> <C 14_JAAR> jaren. <C 300_VEERTIG> vierthich. <C 10_POND> pont. <C 110_HOLLANDS> holl<A >ants</A>. <C 322_ELK> elkes <C 2_JAAR> jares. <C 301_13> dertiene. <C 10_POND> pont. <C 11+300_SCHELLING+6> zesscele. <C 800_EN> en<A >de</A>. 
+<L 684:3> <C 301_ACHT> agthe. <C 11_PENNING> penninghe. <C 221_ZIJN> ware <C 500_OOK> oec <C 810_DAT> dat <C 404_WIJ> wi <C 480_NEGEEN> negheen <C 0_TESTAMENT> testam<A >en</A>t <C 801_OF> ofte <C 0_ONRECHT> onreght <C 700_OP> vp 
+<L 684:4> <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 451_HAAR> hore <C 0_CONVENT> couent <C 224_WIJZEN> wiseden. <C 550_ZO> soe <C 234_ZULLEN> souden <C 406_ZIJ> si <C 471_DE> die 
+<L 684:5> <C 111_VOORZEID> vorseide. <C 300_VEERTIG> vierthich. <C 10_POND> pont. <C 704_BINNEN> binne<A >n</A> <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_TERMIJN> t<A >er</A>mine <C 250_GELDEN> ghelden <C 700_BIJ> bi <C 474_DE/HET> den 
+<L 684:6> <C 1_RAAD> rade <C 472_DE/HET> des <C 2_GARDIAAN> gardians <C 700_VAN> van <C 20_MIDDELBURG> middelburgh <C 800_EN> en<A >de</A> <C 472_DE/HET> des <C 2_GARDIAAN> gardians <C 700_VAN> van <C 21_ZIERIKZEE> zirixe. <C 800_EN> En<A >de</A> 
+<L 684:7> <C 810_OMDAT> ombe+dat <C 404_WIJ> wi <C 1_ABDIS> abdesse <C 800_EN> en<A >de</A> <C 0_CONVENT> couent <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_NOORDDIJK> nordike <C 700_IN> in <C 20_NOORDBEVELAND> nortbeuelant <C 410_DIT> dit <VN type=1> 
+<L 684:8> <C 101_VOORZEID> vorseide <C 0_GOED> goet <C 420_DAT> dat <C 404_WIJ> ons <C 471_DE> die <C 101_VOORZEID> vorseide <C 0_HEER> har <C 20_FLORENTIUS> Florens <C 274_GEVEN> ghegheuen <C 213_HEBBEN> heuet <C 500_AL> al <C 510_ZO> soe 
+<L 684:9> <C 403+820_HET+ALS> alst <C 274_LIGGEN> gheleghen <C 210_ZIJN> es <C 700_IN> in <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_AMBACHT> ambugthe <C 700_IN> in <C 21_WISSEKERKE> wissenkerke <C 700_IN> in <C 20_GEERSDIJK> gherolfs+dijc 
+<L 684:10> <C 800_EN> en<A >de</A> <C 700_IN> in <C 24_KAMPEN> Campen <C 700_IN> in <C 14_TIEND> tienden <C 800_EN> en<A >de</A> <C 700_IN> in <C 1_LAND> lande <C 700_MET> met <C 104_GEMEEN> ghemenen <C 1_RAAD> rade <C 700_VAN> van 
+<L 684:11> <C 454_ONS> onsen <C 1_KAPITTEL> Capitele <C 274_ONTVANGEN> ontfanghen <C 214_HEBBEN> hebben. <C 550_ZO> soe <C 204_GELOVEN> ghelouen <C 404_WIJ> wi <C 700_VOOR> vor <C 404_WIJ> ons <C 800_EN> en<A >de</A> <C 700_VOOR> vor 
+<L 684:12> <C 451_ONS> onse <C 11_NAKOMELING> nacomelinghe <C 321_AL> alle <C 471_DE> die <C 11_DING> dinghe <C 700_TE> te <C 251_HOUDEN> houdene <C 421_DIE> die <C 274_SCHRIJVEN> ghescreuen <C 214_ZIJN> sijn <C 700_IN> in 
+<L 684:13> <C 414_DEZE> desen <C 1_BRIEF> brieue <C 800_EN> en<A >de</A> <C 501_GETROUWELIJK> ghetrouwelike <C 611_DAARMEDE> daer+mede <C 251*_VOORT-> vort <C 700_TE> te <C 251#_-VAREN> varne. <C 800_EN> En<A >de</A> <C 810_OMDAT> ombe+dat 
+<L 684:14> <C 411_DEZE> dese <C 10_DING> dinc <C 110_VAST> vast <C 214_BLIJVEN> bliuen <C 800_EN> en<A >de</A> <C 111_GESTADE> ghestade <C 550_ZO> soe <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 700_AAN> an <C 411_DEZE> dese <C 0_BRIEF> brief 
+<L 684:15> <C 454_ONS> onsen <C 9_ZEGEL> seghen <C 274_HANGEN> ghehanghen <C 501_GEMEEN> ghemene <C 700_MET> met <C 474_DE> dien <C 1_ZEGEL> seghele <C 452_MIJN> mins <C 0_HEER> har <C 22_FLORENTIUS> Florens 
+<L 684:16> <C 700_VAN> van <C 24_HENEGOUWEN> henegouen. <C 471_DE> die <C 421_WELK> wilke <C 0_BRIEF> brief <C 273_MAKEN> ghemaket <C 800_EN> en<A >de</A> <C 274_GEVEN> ghegheuen <C 700_IN> jn <C 452_ONS> ons <C 4_HEER> heren 
+<L 684:17> <C 1_JAAR> jare. <C 301_DUIZENTIG-280-EN-2> dusentich.+tue.+hundert+tacthich.+en<A >de</A>.+tue. <C 472_DE/HET> des <C 2_ZATERDAG> zaterdaghes <C 700_NA> na <C 101_SINT> sinte 
+<L 684:18> <C 24_BAVO> bauen <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 684:51> <C 470_HET> dat 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='90' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='90' plaats_2='' regio_1='5' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

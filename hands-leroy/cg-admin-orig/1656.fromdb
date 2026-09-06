@@ -1,0 +1,59 @@
+<header>
+<docId>1656</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='116' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2481:12> <C 410+200_DIT+ZIJN> dits <C 474+700_DE/HET+VAN> vande<A >n</A> <q> goede <C 700_VAN> van <C 21_KESTERBEEK> kest<A >er</A>beke <q> neven <C 21_SOLLENBERG> tsollenberghe.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2481:13> <C 20_JOHANNES> jan <C 700_VAN> va<A >n</A> <q> halle <q> .xiij. <C 19_LIBRA> lb.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 700_VAN> van <q> xj <C 14_DAGWANT> dachwand<A >en</A> 
+<L 2481:14> <C 2_LAND> lants <q> soe <C 700_IN> in <C 1_LAND> lande <C 14_HOFSTEDE> hofstaden <C 800*_EN> en <C 14_VIJVERSTAD> vijuersteden <C 274_LIGGEN> gelegen <C 700_TE> te <C 21_KESTERBEEK> kestebeke. 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2481:17> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen.. <C 452_MIJN> mijns <C 4_HEER> heren <C 472+0_DE+HEER> ser <C 20_APOLLONIUS?> lonijs <C 700_VAN> van. <C 20_AA> AA. <C 700_VAN> van <C 101_SINT> sente <C 22_PETRUS> peters <C 1_LEEUW> leuwe, 
+<L 2481:18> <C 204_MAKEN> maken <C 100_KOND> Cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 420_DIE> di <C 411_DEZE> dese <C 14_LETTER> letteren <C 214_ZULLEN> selen <C 250_HOREN> horen <C 801_OCHTE> ochte <C 250_ZIEN> sijn, <C 810_DAT> dat 
+<L 2481:19> <C 20_HENDRIK> heirec <C 421+440_DIE+MEN> dimen <C 203_HETEN> heet <C 24_HOENTJE-X> huneken <C 471_DE> de <C 0_KLERK> clerc <C 700_VAN> van <C 21_BRUSSEL> brusele, <C 213_HEBBEN> heeft <C 274_VERKRIJGEN> vercreghen, <C 861_ALS> alse 
+<L 2481:20> <C 100_STERFELIJK> steerflec <C 0_LAAT> laet <C 475+700_DE+TE> ter <C 15_HUISARME> huessaermer <C 0_BEHOEF> boef <C 700+475_VAN+DE> vander <C 4_KAPEL> Capellen <C 700_BIJ> bi <C 21_BRUSSEL> brusele, <C 704_TEGEN> seghen 
+<L 2481:21> <C 20_IMBERT> imbrechte <C 472+0_DE+HEER> ser <C 2_WIJD> wijts <C 1_ZOON> sone <C 504_WIJLEN> wilen <C 230_ZIJN> was <C 700_VAN> van <C 21_KESTERBEEK> kest<A >er</A>beke, <C 300_11> eellef <C 10_DAGWANT> dachwant, 
+<L 2481:22> <C 500_LUTTEL> lett<A >er</A> <C 320_MIN> min <C 801_OCHTE> ochte <C 325_MEER> meer, <C 800*_ONDER> onder <C 700_IN> in <C 1_LAND> lande <C 800#_EN> en<A >de</A> <C 700_IN> in <C 14_VIJVERSTAD> viuerstaden, <C 800##_EN> ende <C 700_IN> in 
+<L 2481:23> <C 14_HOFSTEDE> hoefstaden, <C 700_IN> in <C 321_AL> alle <C 474_DE/HET> den <C 4_GELEGE> ghe+leghen <C 800_EN> ende <C 321+700_AL+TE> talle <C 474_DE/HET> den <C 1_RECHT> Rechte <C 810_DAT> dat, <C 470_HET> dat 
+<L 2481:24> <C 101_VOORGENOEMD> voreghenu<A >m</A>de <C 0_GOED> goit <C 274_LIGGEN> ghe+leghen <C 210_ZIJN> es <C 700+471_IN+DE> inde <C 101_VOORGENOEMD> vore+ghenuemde <C 0_STAD> stat <C 700_TE> te 
+<L 2481:25> <C 21_KESTERBEEK> kest<A >er</A>beke, <C 800_EN> ende <C 700_MET> met <C 474_DE/HET> den <C 1_HUIS> huse <C 420_DAT> dat <C 700_OP> op <C 470_HET> dat <C 100_VOORGENOEMD> voreghenuemt <C 0_GOED> goit <C 203_STAAN> steet. 
+<L 2481:26> <C 800_EN> Ende <C 510_ALZO> also <C 810_DAT> dat <C 471_DE> de <C 101_VOORGENOEMD> voreghenuemde <C 20_HENDRIK> heirec <C 24_HOENTJE-X> huneken <C 700_IN> in <C 410_DIT> dit <C 101_VOORGENOEMD> voreghenuemde 
+<L 2481:27> <C 0_GOED> goit <C 210_ZIJN> es <C 273_ERVEN> gheerft <C 860_ALS> als <C 100_STERFELIJK> sterflec <C 0_LAAT> laet <C 475+700_DE+TE> ter <C 115_VOORGENOEMD> voreghenuemder <C 15_HUISARME> husaermer <C 0_BEHOEF> boef <C 500_WEL> wel 
+<L 2481:28> <C 800_EN> en<A >de</A> <C 101_WETTELIJK> wettelecke, <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORGENOEMD> voreghenuemde<A >n</A> <C 21_IMBERT> imbrechte, <C 800_EN> ende <C 700_BIJ> bi 
+<L 2481:29> <C 4_MANIS> maennessen <C 452_MIJN> mijns <C 4_HEER> heren <C 472+0_DE+HEER> ser <C 20_APOLLONIUS?> lonijs <C 0_MEIER> meier <C 700_VAN> van. <C 20_AA> AA. <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 454_ONS> onsen 
+<L 2481:30> <C 1_WIJSDOM> wijsdomme. <C 800_EN> En<A >de</A> <C 810_DAT> dat <C 611_DAARTOE> daer+touwe <C 221_DOEN> dede <C 471_DE> de <C 101_VOORGENOEMD> vore+ghenuemde <C 20_IMBERT> imbrecht 
+<L 2481:31> <C 800*_BEIDE> beide <C 0_HAND> hant <C 800#_EN> en<A >de</A> <C 0_MOND> mont, <C 800_EN> en<A >de</A> <C 420+440_DAT+AL> aldat <C 403_HIJ> hi <C 100_SCHULDIG> sculdech <C 230_ZIJN> was <C 700_TE> te <C 251_DOEN> done <C 800_EN> Ende <C 510_ALZO> al+so 
+<L 2481:32> <C 810_DAT> dat <C 611_HIERTOE> hijr+touwe <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_VAN> van <C 321_AL> alle <C 14_STUK> stucken <C 440_AL> al <C 420_DAT> dat <C 0_RECHT> Recht <C 221_WIJZEN> wijsde <C 800_EN> Ende 
+<L 2481:33> <C 810_OMDAT> ombe+dat, <C 810_DAT> dat <C 411_DEZE> dese <C 11_DING> dinghe <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 100_ONGESTOORD> onghestoert <C 214_ZULLEN> selen <C 260_BLIJVEN> bliuen. <C 501_DAAROM> daer+ombe 
+<L 2481:34> <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 14_SCHEPEN> scepenen, <C 700_IN> in <C 1_GETUIGENIS> ghetuchnesse, <C 454_ONS> onsen <C 104_GEMEEN> ghe+meinen <C 0_ZEGEL> seghel <C 414_DEZE> desen 
+<L 2481:35> <C 104_TEGENWOORDIG> seghenwerdeghen <C 4_LETTER> letteren <C 274*_AAN-> ane <C 274#_-HANGEN> ghehanghe<A >n</A> <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghe+daen <C 700_IN> in <C 0_JAAR> jaer 
+<L 2481:36> <C 452_ONS> ons <C 4_HEER> heren <C 300_DUIZENTIG-297> dusentech,+tuehondert+ende+seuene+ende+neghentech <C 700_IN> in <C 474_DE/HET> den 
+<L 2481:37> <C 20_SPROKKELMAAND> sprokelmaent. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='116' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

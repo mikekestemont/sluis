@@ -1,0 +1,25 @@
+<header>
+<docId>0106</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 196:10> <q> carta 
+<L 196:11> <q> reddituum <q> in <C 109_SINT> s<A >an</A>c<A >t</A>e <q> kat<A >er</A>ine <q> in <q> ostb<A >ur</A>g <q> qui <q> empti <q> fuerunt <q> contra 
+<L 196:12> <q> coppinu<A >m</A> <C 20_MALIJN> malin. <q> Copia <q> facta <q> est.- <q> pertinet <q> ad <q> capellaniam 
+<L 196:13> <C 29_AEGIDIUS> Egid<A >ii</A> <q> dops.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> Nunc <C 29_WILHELM> w<A >illelmi</A> <q> de <q> thielt. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

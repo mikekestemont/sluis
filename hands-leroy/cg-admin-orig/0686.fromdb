@@ -1,0 +1,43 @@
+<header>
+<docId>0686</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='45' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1138:34> <C 700_VAN> van <C 300_DRIE> drie <C 11_SPADE> spade <C 2_LAND> lands <C 271_LIGGEN> liggende <C 700+471_IN+DE> inde <C 1_POLDER> polre <C 700_VAN> van <q> niewe <q> frankendic 
+<L 1138:35> <C 273_KOPEN> ghecoct <C 702_TEGEN> tieghe<A >n</A>s <C 21_HUGO> hu<A >ghe</A> <q> de <C 1_VOLDERSSTRAAT> wulrest<A >ra</A>te.- <C 999_ZZZ> .k.lv. <q> De <C 309_3> .iij. 
+<L 1138:36> <C 19_SPADE> spadis <q> jacentibus <q> in <q> noua <C 20_VRANKENDIJK> frankendijc <q> emptis <q> erga <C 29_HUGO> hughone<A >m</A> <q> de 
+<L 1138:37> <C 1_VOLDERSSTRAAT> uulrestrate <q> oppidanum <C 109_GANDENSIS> gande<A >n</A>se<A >m</A> <q> m <q> cc <q> lxxxvj <C 29_LAURENTIUS> laurencij. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1138:42> <C 401_IK> Jc <C 21_HUGO> hughe <C 475+700_DE+VAN> vander <C 1_VOLDERSSTRAAT> wlre+strate <C 0_POORTER> porter <C 700_VAN> van <C 20_GENT> ghent <C 800_EN> ende <C 21_HEILE> hele <C 450_MIJN> mijn <C 0_WIJF> wif 
+<L 1138:43> <C 204_GEVEN> gheuen <C 700+251_TE+KENNEN> tekenne <C 321_AL> alle <C 471+411_DE+GENE> deghene <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 1138:44> <C 810_DAT> Dat <C 404_WIJ> wi <C 214_HEBBEN> ebben <C 273_VERKOPEN> vercocht <C 475_DE/HET> Der <C 1_KERK> kerke <C 475+700_DE+VAN> vander <C 20_DOEST> does <C 701_OM> o<A >m</A>me <C 481_EEN> ene <C 100_ZEKER> zeker <C 1_SOM> summe 
+<L 1138:45> <C 700_VAN> van <C 11_PENNING> penighe <C 620*_DAAR-> daer <C 404_WIJ> ons <C 100_GENOEG> ghenoech <C 620#_-AF> of <C 210_ZIJN> es <C 274_DOEN> ghedaen <C 300_DRIE> Drie <C 11_SPADE> spade <C 2_LAND> lands <C 700_MET> met 
+<L 1138:46> <C 324_AL> allen <C 1_RECHT> rechte <C 420_DAT> dat <C 404_WIJ> wi <C 600_DAARIN> der+in <C 204_HEBBEN> ebben <C 800_OF> of <C 214_ZULLEN> sullen <C 250_HEBBEN> ebben <C 271_LIGGEN> ligghende <C 471+700_DE+IN> inde <C 1_POLDER> polre 
+<L 1139:1> <C 700_VAN> van <q> niwe <q> frankendic <C 471+700_DE+IN> inde <C 0_NOORDWESTHOEK> nortwest+hoec. <C 800_EN> Ende <C 810_OMDAT> o<A >m</A>me+dat <C 404_WIJ> wi <C 201_WILLEN> wille <C 810_DAT> Dat 
+<L 1139:2> <C 470_DE> di <C 101_VOORZEID> vorseide <C 1_KERK> kerke <C 213_BLIJVEN> bliuet <C 100_ONGEMOED> onghemoet <C 800_EN> en<A >de</A> <C 700_ZONDER> sonder <C 1_CALANGE> kalainge, <C 550_ZO> so <C 201_BELOVEN> beloue <C 404_WIJ> wi 
+<L 1139:3> <C 403_ZIJ> hare <C 0_WARANT> warant <C 700_TE> te <C 251_DOEN> doene <C 704_JEGEN> ieghen <C 321_ELK> helke <C 1_MENS> mensghe. <C 800_EN> Ende <C 401_IK> jc <C 104_VOORSPROKEN> vorsproken <C 21_HUGO> hughe 
+<L 1139:4> <C 211_HEBBEN> ebbe <C 411_DEZE> dese <C 4_LETTER> lettren <C 700_OVER> ouer <C 401_IK> mi <C 800_EN> en<A >de</A> <C 700_OVER> ouer <C 450_MIJN> mijn <C 0_WIJF> wif <C 273_ZEGELEN> ghezeghelt <C 101_UITHANGEND> huut+hanghe<A >n</A>de 
+<L 1139:5> <C 700_MET> met <C 454_MIJN> minen <C 0_ZEGEL> zeghel. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 1139:6> <C 850+440_ALS+MEN> alsmen <C 220_SCHRIJVEN> screef <q> .m'ho.cc'ho. <q> octogesimo <q> sexto <C 472+2_DE+WOENSDAG> suondaghes <C 701_VOOR> vore <C 101_SINT> sente <C 22_LAURENTIUS> laurens 
+<L 1139:7> <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1286' jaar_van='1286' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='45' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

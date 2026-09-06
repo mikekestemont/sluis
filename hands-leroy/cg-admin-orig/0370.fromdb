@@ -1,0 +1,43 @@
+<header>
+<docId>0370</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 589:17> <q> Confirmatio <C 29_FLORENTIUS> Florentii <q> comitis <C 29_HOLLANDIA> hollandie 
+<L 589:18> <q> omnium <q> predesessorum <q> de <q> theloneis <q> et <q> libertatibus.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 589:19> <q> Confirmatio <C 29_FLORENTIUS> florentii <q> comitis <C 29_HOLLANDIA> hollandie <q> de <q> thelonei <q> libertate. <q> xi. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 589:25> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_DOEN> doen <C 100_KONDIG> cundich <C 320_AL> al <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen 
+<L 589:26> <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 801_OF> ofte <C 250_HOREN> horen. <C 810_DAT> dat <C 404_WIJ> wi <C 700_DOOR> doer <C 455_ONS> onser <C 15_VOORVOORDER> vorvorder <C 14_ZIEL> sielen 
+<L 589:27> <C 204_GECONFIRMEREN> gheconfirmeren <C 800_EN> ende <C 101_STAD> stade <C 204_HOUDEN> houden <C 320_AL> al <C 455_ONS> onser <C 15_OUDER> ouder <C 1_LETTER> lettre <C 421_DIE> die <C 471_DE> die <C 11_MONNIK> monike 
+<L 589:28> <C 700_VAN> van <C 474_DE/HET> den <C 14_DUIN> dunen <C 204_HEBBEN> hebben <C 700_OP> op <C 4_VRIJHEID> vrieden. <C 871_ALS> alse <C 700_VAN> van <C 4_TOL> tollen <C 100_VRIJ> vri <C 700_TE> te <C 250_VAREN> varen <C 700_IN> in <C 454_ONS> onsen 
+<L 589:29> <C 1_LAND> lande. <C 800_EN> en<A >de</A> <C 700_OP> vp <C 451_ONS> onse <C 1_GELEIDE> gheleide <C 406+540_ZIJ+ZO-WAAR> so+warsi <C 704_BINNEN> binnen <C 454_ONS> onsen <C 1_LAND> lande <C 204_ZIJN> sin <C 800_OF> of <C 451_HAAR> hare 
+<L 589:30> <C 14_BODE> boden <C 700_MET> met <C 454_HAAR> haren <C 1_GOED> goede. <C 700_IN> Jn <C 0_OORKONDSCHAP> orcontscap <C 700_VAN> van <C 415_DEZE> deser <C 1_VESTING> vestinghe <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wi 
+<L 589:31> <C 414_DEZE> desen <C 0_BRIEF> brief <C 260_DOEN> doen <C 250_ZEGELEN> seghelen <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele. <C 700_IN> jn <C 474_DE/HET> den <C 0_JAAR> iar <C 452_ONS> onses <C 4_HEER> heren 
+<L 589:32> <C 300_DUIZEND-281> dusent+tve+hondert+en<A >de</A>+ene+ende+tachtich <C 472_DE/HET> des <C 2_DONDERDAG> donrsdaghes <C 700_NA> na <C 101_SINT> sente 
+<L 589:33> <C 22_LAMBERT> lambrechts <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

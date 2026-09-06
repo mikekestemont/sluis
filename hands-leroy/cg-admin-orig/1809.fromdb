@@ -1,0 +1,18 @@
+<header>
+<docId>1809</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2693:31> <q> littera <C 19_FRIES> f<A >ri</A>sonu<A >m</A> 
+<L 2693:32> <q> compromissionis <q> in <q> comitem <C 29_HAINONIA> haynonie <q> de <q> fore <q> facto <q> quod <q> fecerunt 
+<L 2693:33> <q> contra <q> Comitem <C 21_HOLLANDIA> holl<A >andie</A>. <q> in <q> bello <q> de <C 24_VRONEN> vroene<A >n</A>. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

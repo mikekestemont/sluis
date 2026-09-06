@@ -1,0 +1,45 @@
+<header>
+<docId>0514</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='87' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 753:18> <C 700_VAN> van <C 21_NEVELE> neuele. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 753:24> <C 401_IK> Jc <C 21_WOUTER> woutre <C 1_HEER> here <C 700_VAN> van <C 21_NEVELE> Neuele <C 1_BURGGRAAF> borchgraue <C 700_VAN> van <C 21_KORTRIJK> corterike <C 200_DOEN> doe <C 700+251_TE+WETEN> tewetene <C 320_AL> al 
+<L 753:25> <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 204_ZIEN> zien <C 800_EN> ende <C 214_HOREN> hoeren <C 810_DAT> dat <C 411_DIE> die <C 475+700_DE+VAN> vander <C 4_FERMERIE> fermerien 
+<L 753:26> <C 700_VAN> van <C 455_ONS> onser <C 4_VROUW> vrouwen <C 700_OP> vp <C 1+470_OOIE+DE> doie <C 700_TE> te <C 20_GENT> ghend <C 700_IN> in <C 101_SINT> sente <C 22_JOHANNES> Jhans <C 1_PAROCHIE> progghie <C 214_HEBBEN> hebben 
+<L 753:27> <C 273_KOPEN> ghecocht <C 800_EN> ende <C 274_KRIJGEN> ghecreghen <C 500_WEL> wel <C 800_EN> ende <C 501_WETTELIJK> wettelike <C 800_EN> ende <C 700_BIJ> bi <C 454_MIJN> minen <C 104_GOED> goeden 
+<L 753:28> <C 1_WIL> wille <C 700_JEGEN> ieghen <C 455_MIJN> mire <C 4_VROUW> vrouwen <C 0_VROUW> ver <C 24_JOHANNA> jehanen <C 452_MIJN> mins <C 0_HEER> her <C 22_RUTGER> rogiers <C 1_WEDUWE> wedue <C 700_VAN> van 
+<L 753:29> <C 20_MOESKROEN> moscheroen <C 451_HAAR> hare <C 1_DUWARIE> douairie <C 800_EN> ende <C 440*_ZO-WAT> soe+wat <C 11_RECHT> rechte <C 440#_ZO> soe <C 403_ZIJ> soe <C 221_HEBBEN> hadde <C 700_AAN> an <C 309_30> .xxx. 
+<L 753:30> <C 11_BUNDER> bunre <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 500_LUTTEL> lettel <C 325_MEER> meer <C 271_LIGGEN> ligghende <C 700_IN> in <C 20_NOORDHOUT> noerthout <C 421+440_DIE+MEN> diemen 
+<L 753:31> <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 700_VAN> van <C 401_IK> mi <C 800_EN> ende <C 700_AAN> an <C 471_DE> de <C 1_RENTE> rente <C 421_DIE> die <C 700_TE> te <C 414_DEZE> desen <C 104_VOORZEID> vorseiden <C 1_LAND> lande 
+<L 753:32> <C 221_BEHOREN> behoerde <C 800_EN> Ende <C 610_HIEROVER> hier+ouer <C 224_STAAN> stoeden <C 451_MIJN> mine <C 10_MAN> man <C 700_BIJ> bi <C 4_MANING> maninghen <C 700_VAN> van <C 454_MIJN> minen 
+<L 753:33> <C 0_BALJUW> bailliu <C 21_WOUTER> wout<A >re</A> <C 700+474_VAN+DE/HET> vanden <C 1_EG> hecke. <C 20_GOSWIJN> Gosin <C 475+700_DE+VAN> vander <C 4_POEKE> pouken. <C 20_FRANCISCUS> Soikin <C 700_VAN> van <C 1_HAM> hamme. 
+<L 753:34> <C 20_BERNHARD> bernard <C 475+700_DE+VAN> vander <C 1_WOESTIJN> woestine. <C 20_HENDRIK> heineman <C 700_VAN> van <C 20_MEIGEM> meyghem, <C 20_FRANCISCUS> Soikin <C 700_VAN> van 
+<L 753:35> <C 21_HANSBEKE> hansebeke, <C 20_GOSWIJN> Gosin <C 700+475_VAN+DE> vander <C 4_EIK> eken, <C 800_EN> ende <C 21_WOUTER> woutre <C 700+475_VAN+DE> vander <C 4_EIK> eken. <C 800_EN> Ende <C 810_OMDAT> ombe+dat 
+<L 753:36> <C 401_IK> ic <C 201_WILLEN> wille <C 810_DAT> dat <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_DING> dinghe <C 214_ZIJN> sin <C 274_HOUDEN> gehouden <C 101_VAST> vaste <C 800_EN> ende <C 101_GESTADE> ghestade 
+<L 753:37> <C 501_ERFELIJK> eruelike <C 550_ZO> soe <C 210+403+401_HEBBEN+HET+IK> hebbics <C 414_DEZE> desen <C 114_VOORZEID> vorseiden <C 14_LIEDEN> lieden <C 274_GEVEN> ghegeuen <C 451_MIJN> mine <C 101_UITHANGEND> vte+hanghende 
+<L 753:38> <C 4_LETTER> lettren <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_MIJN> minen <C 104_PROPER> propren <C 1_ZEGEL> zeghele. <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 753:39> <C 274_DOEN> ghedaen <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 474+700_DE/HET+VAN> vanden <C 1_INCARNATIOEN> jncarnatione <C 452_ONS> ons <C 4_HEER> heren <C 309_1283> .m'ho.cc'ho.lxxx'hoiij. <C 700_IN> in 
+<L 753:40> <C 21_LOUWMAAND> loumaende <q> ---- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='87' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

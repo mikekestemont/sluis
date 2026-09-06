@@ -1,0 +1,55 @@
+<header>
+<docId>0219</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 390:19> <q> Moer.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 390:20> <q> Censa <C 700_VAN> van <C 301_TWEE> twee <C 12_BUNDER> buners <q> moers. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 390:25> <C 404_WIJ> Wie <C 20_JOHANNES> Jan <C 411_DIE> die <C 0_MEESTER> meester. <C 20_LAMBERT> Lammin <C 475+700_DE+VAN> vander <VN type=1> <C 1_WERF> weerue. <C 20_DIEDERIK> Dierkin <C 700+474_VAN+DE/HET> vanden 
+<L 390:26> <C 1_MOERWEG> moerweghe. <C 20_JOHANNES> Jan <C 22_JACOB> Jacobs <C 1_ZOON> zoene <C 800_EN> en<A >de</A> <C 21_HUGO> hughe <C 700+475_UIT+DE> vter <C 0_MEET> meed <C 14_SCHEPEN> Schepennen 
+<L 390:27> <C 474+700_DE/HET+VAN> vanden <C 1_MOER> moere <C 204_DOEN> Doen <C 700+251_TE+WETEN> tewetenne <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> Goenen <C 421_DIE> die <C 411_DEZE> deze <C 4_LETTER> lettren 
+<L 390:28> <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lezen. <C 810_DAT> Dat <C 700_VOOR> voer <C 404_WIJ> ons <C 224_KOMEN> quamen <C 20_ARNOUT> arnoud <q> .filius. <C 22_ARNOUT> arnouds 
+<L 390:29> <C 800_EN> en<A >de</A> <C 20_JOHANNES> Jan <q> .filius. <C 24_ADELBURG> alebuerghen <C 800_EN> ende <C 224_WEDDEN> wedden <C 700_OP> vp <C 440_AL> al <C 420_DAT> dat <C 406_ZIJ> sie <C 204_HEBBEN> hebben <C 704_BINNEN> binnen 
+<L 390:30> <C 474_DE/HET> den <C 1_SCHEPENDOM> Schependoeme <C 700+474_VAN+DE/HET> vanden <C 1_MOER> moere <C 800_EN> ende <C 320_ELK> elc <C 700_OVER> over <C 320_AL> al <C 100_SCHADELOOS> Scadeloes 
+<L 390:31> <C 251+700_HOUDEN+TE> tehoudenne <C 474_DE/HET> den <C 1_HEER> here <C 21_GODFRIED> Godeuarde <C 0_KAPELAAN> capellaen <C 700_VAN> van <C 100_SINT> Sint <C 22_SALVADOR> Saluatoers <C 700_IN> in 
+<L 390:32> <C 21_BRUGGE> brucghe <C 475+700_DE+TE> ter <C 0_GEMEENTOCHT> ghemeentucht <C 0_BEHOEF> boef <C 700+475_VAN+DE> vander <C 1_KERK> kerke <C 700_VAN> van <C 100_SINT> Sint <C 22_SALVADOR> Saluatoers <C 100_VOORZEID> vorzeit 
+<L 390:33> <C 474+700_DE/HET+VAN> vanden <C 304_TWEE> tveen <C 14_BUNDER> buenren <C 2_MOER> moers <C 421_DIE> die <C 471_DE> de <C 101_VOORZEID> voerzeide <C 1_HEER> here <C 20_GODFRIED> Godeuart <C 221_KOPEN> cochte 
+<L 390:34> <C 704_TEGEN> tjeghen <C 21_PETRUS> pietre <C 24_ADELBURG> alebuerghen <C 1_ZOON> zoene <C 475+700_DE+TE> ter <C 105_VOORZEID> voerzeider <C 0_GEMEENTOCHT> ghemeentucht <C 0_BEHOEF> boef, 
+<L 390:35> <C 800_EN> ende <C 620*_DAAR-> daer <C 411_DIE> die <C 101_VOORZEID> voerzeide <C 20_PETRUS> pieter <C 800_EN> ende <C 21_AVE> auesoete <C 450_ZIJN> ziin <C 0_WIJF> wiif <C 800_EN> ende <C 20_BOUDEWIJN> bouden <C 450_ZIJN> ziin 
+<L 390:36> <C 1_ZOON> zoene <C 620#_-AF> of <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 474_DE/HET> den <C 104_VOORZEID> voerzeiden <C 1_HEER> here <C 21_GODFRIED> Godeuarde <C 475+700_DE+TE> ter 
+<L 390:37> <C 105_VOORZEID> voerzeider <C 0_GEMEENTOCHT> ghemeentucht <C 0_BEHOEF> boef <C 800_EN> Ende <C 411_DEZE> deze <C 101_VOORZEID> voerz[eide] <C 1_WEDDING> weddinghe <C 224_DOEN> daden 
+<L 390:38> <C 411_DIE> die <C 101_VOORZEID> voerzeide <C 20_ARNOUT> arnoud <C 800_EN> ende <C 20_JOHANNES> jan <C 700_OVER> over <C 474_DE/HET> den <C 104_VOORZEID> voerzeiden <C 21_PETRUS> pietre <C 810+600*_IN-DIEN-DAT+DAAR-> in+dien+datter 
+<L 390:39> <C 414_DIE> dien <C 104_VOORZEID> voerzeiden <C 474_DE/HET> den <C 1_HEER> h<A >er</A>e <C 21_GODFRIED> Godevarde <C 800_OF> jof <C 475_DE/HET> der <C 0_GEMEENTOCHT> ghemeentucht <C 100_VOORZEID> voerzeit 
+<L 390:40> <C 1_SCHADE> scade <C 800_OF> jof <C 0_KOST> cost <C 600#_-AF> of <C 221_KOMEN> quame <C 700_VAN> van <C 412_DIE> dies <C 22_PETRUS> pieters <C 4_HALF> aluen, <C 800_OF> jof <C 24_AVE> auesoeten <C 4_HALF> haluen <C 452_ZIJN> ziins 
+<L 390:41> <C 2_WIJF> wiifs, <C 800_OF> j[o]f <C 22_BOUDEWIJN> boudens <C 452_ZIJN> siins <C 2_ZOON> soens, <C 800_OF> jof <C 700_VAN> van <C 454_HAAR> haren <C 4_SCHULD> scouden. <C 810_DAT> dat <C 403+406_HET+ZIJ> sies 
+<L 390:42> <C 274_HOUDEN> ghehouden <C 234_ZIJN> waren <C 700_TE> te <C 251_VOLDOEN> vuldoene. <C 700_IN> Jn <C 0_OORKONDSCHAP> orcondscheip <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dinghen 
+<L 390:43> <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 4+700_KENNIS+TE> tekennessen <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_BEZEGELEN> bezeghelt <C 700_MET> met <C 454_ONS> onzen 
+<L 390:44> <C 114_UITHANGEND> vthanghenden <C 14_ZEGEL> zeghelen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 440+850_MEN+ALS> alsmen 
+<L 391:1> <C 220_SCHRIJVEN> screef <C 300_1277> .m.+cc.+zeuen+ende+seuentich. <C 474+700_DE/HET+OP> vpten <C 314_ZESTE> zesten <C 0_DAG> dach <C 700_VAN> van 
+<L 391:2> <C 101_INGANGEND> jngangh[en]de <C 21_MAART> marte. <C 410_DIT> Dit <C 230_ZIJN> was <C 2+472_ZONDAG+DE> Soendaghes <C 700_NA> na <C 20_GROOTVASTENAVOND> Grote+vastenauend. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,43 @@
+<header>
+<docId>1165</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='94' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='94' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1796:9> <C 101_JONG> jonghe <C 20_JOHANNES> jan <C 471_DE> de <C 0_WEVEL> weivel <C 700_IN> in <C 471_DE> de <C 1_PAROCHIE> prochie <C 20_CATHARINA> k<A >ateline</A>+west 
+<L 1796:10> <C 700_IN> jn <C 22_WOUTER> woter+mans <C 0_AMBACHT> a<A >m</A>bocht. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1796:13> <C 404_WIJ> Wi <C 20_EUSTACHIUS> stasin <C 471_DE> die <C 0_HAMER> hamer. <C 20_DIEDERIK> diederic <q> f. <C 22_JOHANNES> hannekins <C 20_JACOB> iacop <C 101_IJZEREN> yserine <C 20_JOHANNES> hannin <C 20_SAIWIN-X> saywin 
+<L 1796:14> <C 800_EN> ende <C 20_JACOB> iacop <C 700_VAN> van <C 474_DE/HET> den <C 1_ZAND> zande <C 10_SCHEPEN> scepen <C 700_IN> in <C 21_OOSTENDE> ostende <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den 
+<L 1796:15> <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> of. <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat. <C 220_KOMEN> quam <C 700_VOOR> vor. <C 404_WIJ> ons. 
+<L 1796:16> <C 20_JOHANNES> ihan <C 471_DE> die <C 0_WEVEL> weuel <C 800_EN> ende <C 20_JOHANNES> ihan <C 0_STIER> stier <C 10_KIND> kinder <C 11_VOOGD> voechde <C 800_EN> ende <C 224_VERDELEN> verdeelden 
+<L 1796:17> <C 501_ONDERLING> onderlanghe <C 501_WETTELIJK> wettelicke. <C 800_EN> Ende <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 11_VOOGD> vochde <C 224_GEVEN> gaven <C 101_WETTELIJK> wettelicke 
+<L 1796:18> <C 1_GIFT> ghifte <C 20_JOHANNES> ihan <C 474_DE/HET> den <C 0_WEVEL> weuel <C 100_VOORZEID> vorseit <C 840_ALS> als <C 700_VAN> van <C 475_DE/HET> der <C 15_KIND> kinder <C 4_HALF> haluen. <C 700_VAN> van <C 11+300_GEMET+TIEN> tieneimete 
+<L 1796:19> <C 2_LAND> lands. <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 800_OF> of. <C 320_MIN> min. <C 271_LIGGEN> ligghende <C 704_BINNEN> Binnen <C 452+1_MIJN+HEER> minshere <C 22_WOUTER> woutermans. 
+<L 1796:20> <C 1_AMBACHT> ambochte. <C 800_EN> ende <C 704_BINNEN> bi<A >n</A>nen <C 475_DE/HET> der <C 1_PAROCHIE> prochie <C 700_VAN> van <C 101_SINT> sinte <C 20_CATHARINA> katelinen+west. <C 800_EN> Ende <C 471_DE> de 
+<L 1796:21> <C 111_VOORZEID> vorseide <C 11_VOOGD> voechde <C 224_WEDDEN> wedden <C 21_JOHANNES> ihanne <C 100_VOORZEID> vorseit <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> land <C 0_WEG> wech <C 800_EN> ende <C 0_LAND> land 
+<L 1796:22> <C 800_EN> ende <C 101_KWIJT> quite <C 0_LAND> land. <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0_SCHULD> scult. <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne <C 700_JEGEN> ieghen <C 324_ELK> elken 
+<L 1796:23> <C 1_MENS> mensche <C 800_EN> Ende <C 810_OMDAT> o<A >m</A>me+dat <C 404_WIJ> wi <C 111_VOORZEID> vorseide <C 10_SCHEPEN> scepen <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 0_DING> dinc <C 211_BLIJVEN> bliue 
+<L 1796:24> <C 100_VAST> vast. <C 800_EN> ende <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 700_IN> in <C 4_KENNIS> kennessen <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_ZEGELEN> ghezeghelt 
+<L 1796:25> <C 700_MET> met. <C 454_ONS> onsen <C 11_ZEGEL> zegle <C 101_UITHANGEND> wuthanghende <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 472+2_DE+VRIJDAG> surinen+daechs <C 700_NA> na 
+<L 1796:26> <C 24_SINKSEN> sincsen <q> anno <q> domini <q> m'ho <q> cc'ho <q> Nonagesimo <q> secundo 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='94' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1292' jaar_van='1292' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='94' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

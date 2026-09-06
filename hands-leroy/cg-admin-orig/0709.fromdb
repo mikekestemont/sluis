@@ -1,0 +1,25 @@
+<header>
+<docId>0709</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1190:35> <C 20_JACOB> Coppin <C 20_GELDOLF> ghildolf <C 220_OPGEVEN> gaf+vp <C 0_BROEDER> broeder <C 24_HUGO> hughen <C 700_VAN> van <C 20_OOSTBURG> Oestborch, <C 472+2+700_HET+HUIS+TE> shuis <C 0_BEHOEF> bouf 
+<L 1190:36> <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> ihans <C 0_HUIS> huis <C 700_IN> in <C 21_BRUGGE> Brucghe, <C 470+320_HET+AL> alt <C 0_RECHT> recht, <C 800_EN> ende <C 320_AL> al <C 471_DE> die <C 0_MACHT> macht, <C 421_DIE> die <C 403_HIJ> hie 
+<L 1190:37> <C 221_HEBBEN> hadde, <C 700_AAN> an <C 474_DE/HET> den <C 1_CHARTER> chaertre, <C 620*_DAAR-> daer <C 411_DEZE> dese <C 1_CHARTER> chaertre <C 620#_-AAN> an <C 273_HECHTEN> ghehecht <C 210_ZIJN> es, <C 410_DIT> dit <C 204_KENNEN> ke<A >n</A>nen 
+<L 1190:38> <C 10_SCHEPEN> scepen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien.. <C 20_OLIVIER> Oliuier <C 700_VAN> van <C 475_DE/HET> der <C 1_HAAG> haghe.. <C 21_HUGO> hughe <C 700_VAN> van <C 474_DE/HET> den <C 1_HOF> houe.. 
+<L 1190:39> <C 20_THOMAS> domaes <C 471_DE> die <C 0_HOND> hont,.. <C 800_EN> ende <C 20_HENDRIK> heinrich <C 471_DE> die <C 101_GROOT> grote.. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_OP> vp <C 474_DE/HET> den 
+<L 1190:40> <C 0_INGANG> jnganc <C 700_VAN> van <C 21_MAART> marthe.. <q> anno <q> domini <q> m'ho <q> cc'ho <q> lxxx'ho <q> sexto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

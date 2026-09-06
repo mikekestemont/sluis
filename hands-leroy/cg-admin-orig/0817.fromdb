@@ -1,0 +1,52 @@
+<header>
+<docId>0817</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1325:9> <C 700_IN> jn <q> bredene <C 0+470_HEER+DE> d<A >er</A> <C 20_WOUTER> weitijn <q> porrewaghen <q> xlv 
+<L 1325:10> <q> mensure.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> van <q> .xlv. <q> 't3m. <C 2_LAND> lands <C 271_LIGGEN> liggh<A >ende</A> <C 700_IN> in <q> breden. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1325:15> <C 20_WOUTER> Weitiin <C 20_PORREWAGEN> porwaghen <C 800_EN> & <C 20_MARIA> maria <C 450_ZIJN> siin <C 0_WIJF> wiif <C 224_GEVEN> gauen <C 700_IN> in <C 4_AALMOES> alemoessene<A >n</A> <C 474_DE/HET> den 
+<L 1325:16> <C 24_SCHAMELHUISWEEK> scamelhuesweken <C 700_IN> in <C 21_BRUGGE> brucghe <C 300_VIJFENVEERTIG> vive+ende+viirtich <C 11_GEMET> jmete <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min 
+<L 1325:17> <C 800_OF> jof <C 320_MEE> me <C 271_LIGGEN> licghende <C 701_BINNEN> binne <C 472+0_DE+HEER> ser <C 22_WOUTER> wout<A >er</A>mans <C 1_AMBACHT> ambochte. <C 700_VAN> van <C 20_GENT> ghent <C 800_EN> & <C 700+475_BINNEN+DE> binder 
+<L 1325:18> <C 1_PAROCHIE> prochghie <C 700_VAN> van <C 21_BREDENE> bredene <C 700_MET> met <C 475+320_DE/HET+AL> alder <C 1_HUIZING> husinghe <C 421_DIE> die <C 610_DAAROP> daer+up <C 500_NU> nu <C 203_STAAN> staet. <C 421+470_WELK+HET> twilke 
+<L 1325:19> <C 0_LAND> lant <C 201_HEBBEN> hebbe <C 500_NU> nu <C 700_TE> te <C 1_CIJNS> cense. <C 20_THOMAS> masiin <q> .f. <C 22_WOUTER> weits <C 480+300_EEN+HALF> een+half <C 0_GEMET> jmet <C 800_EN> & <C 309_TIEN> .x. <C 14_ROEDE> roeden. 
+<L 1325:20> <C 20_ELISABETH> lisemoet <C 0_KOUS> cous. <C 300_VIJF> viif <C 14_LIJN> linen <C 309_17> xvii. <C 14_ROEDE> roeden. <C 21_HENDRIK> heine <C 20_KWART> quaerd <C 309_2> .ij. <C 14_LIJN> linen <C 309_8,5> .viii't!. 
+<L 1325:21> <C 14_ROEDE> roeden. <C 20_BOUDEWIJN> boud<A >en</A> <q> .f. <C 24_OLIVIA> oliuen <C 309_4> .iiij. <C 14_LIJN> linen <C 309_12> .xii. <C 14_ROEDE> roede<A >n</A>. <C 20_HENDRIK> heinric <C 20_BART-X> bart <C 309_6> .vi. <C 11_GEMET> jmete 
+<L 1325:22> <C 309_23> .xxiii. <C 14_ROEDE> roeden. <C 20_JOHANNES> hannek<A >in</A> <q> .f. <C 21_JOHANNES> hanne <q> .f <C 21_CLEMENTIA> clemme <C 309_2,5> .ii't!. <C 1_LIJN> line <C 309_63,5> lxiii't!. <C 14_ROEDE> roeden. 
+<L 1325:23> <C 20_JOHANNES> ha<A >n</A>nek<A >in</A> <C 20_REINBOUD> reinboud <C 309_33> .xxxiij. <C 11_GEMET> jmete <C 309_2,5> .ii't!. <C 14_LIJN> lin<A >en</A>. <C 800_EN> Ende <C 700+414_VAN+DEZE> vandesen <C 114_VOORZEID> voerseiden 
+<L 1325:24> <C 309_45> .xlv. <C 14_GEMET> jmeten <C 2_LAND> lants <C 224_GEVEN> gaue<A >n</A> <C 471_DE> die <C 101_VOORZEID> voerseide <C 20_WOUTER> weitiin <C 20_PORREWAGEN> porwaghe<A >n</A> <C 800_EN> & <C 20_MARIA> maria <C 450_ZIJN> siin 
+<L 1325:25> <C 0_WIJF> wiif <C 101_WETTELIJK> wetlike <C 1_GIFT> ghifte <C 474_DE/HET> den <C 0_HEER> h<A >er</A> <C 21_MATTE'S1US> mathewese <C 1_HOOFD> houede. <C 800_EN> & <C 474_DE/HET> den <C 20_ADELHARD> alard <C 0_LAM> lam 
+<L 1325:26> <C 11_VOOGD> voeghede <C 800_EN> & <C 12_BEREKKER> bereck<A >er</A>s <C 475_DE/HET> der <C 11_SCHAMELHUISWEEK> scamelhuusweke <C 700_IN> in <C 21_BRUGGE> brucghe <C 420_DAT> dat <C 440_MEN> men <C 203_HETEN> heit 
+<L 1325:27> <C 472+2_DE+HEILIGEGEEST> selechtsgheists <C 700+475_TE+DE> ter <C 11_SCHAMELHUISWEEK> scamelhuusweke <C 0_BEHOEF> boef <C 800_EN> & <C 700_TE> te <C 454_HAAR> haren <C 104_VRIJ> vrien <C 1_EIGENDOM> eghiindome 
+<L 1325:28> <C 700_MET> met <C 455_ZIJN> siere <C 105_RECHT> recht<A >er</A> <C 0_SCHULD> scult <C 620*+403_DAAR-+HET> daert <C 620#_-MEDE> mede <C 274_LADEN> gheladen <C 210_ZIJN> is. <C 410_DIT> dit <C 204_KENNEN> kennen <C 11_SCHEPEN> scepenne 
+<L 1325:29> <C 474+700_DE/HET+VAN> vande<A >n</A> <C 104_VRIJ> vrien <C 700_IN> in <C 20_BRUGGEAMBACHT> bruchambocht. <C 21_BOUDEWIJN> boudene <C 700_VAN> van <C 21_DUDZELE> dudsele. <C 20_JOHANNES> jhan <C 700_VAN> van <C 1_POEL> poele. 
+<L 1325:30> <C 20_DIEDERIK> th<A >iederi</A>c <C 0_VOS> vos. <C 20_REINWARD> Reinvaerd <C 0_PORIJN-X> poriin. <C 20_HENDRIK> heinric <C 0_SCHAAFSCHACHT> scaueschact. <C 20_OLIVIER> oliuier <C 475+700_DE+VAN> vand<A >er</A> 
+<L 1325:31> <C 1_HAAG> haghe. <C 800_EN> & <C 21_HUGO> hughe <C 700+474_UIT+DE/HET> vten <C 1_HOF> houe. <C 475_DE/HET> der <C 425_WELK> wilker <C 11_ZEGEL> seghelle <C 204_HANGEN> hanghe<A >n</A> <C 700_AAN> an <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 1325:32> <C 700_IN> in <C 1_OORKONDSCHAP> orsconscepe <VN type=1> <C 700_VAN> van <C 414_DEZE> desen <C 14_DING> dinghen. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 2+472_VRIJDAG+DE> svriindaghes <C 700_VOOR> voer 
+<L 1325:33> <C 325_AL> alre <C 111_SINT> sinte <C 1_MIS> messe. <q> anno <q> domini <q> .M'ho. <q> cc'ho. <q> Octuagesimo <q> octauo <q> ----- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1288' jaar_van='1288' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

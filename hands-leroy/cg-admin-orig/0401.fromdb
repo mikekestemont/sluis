@@ -1,0 +1,27 @@
+<header>
+<docId>0401</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 630:15> <C 20_FLORENTIUS> Florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 203_GROETEN> groit <C 471_DE> die <C 11_SCHEPEN> scepene <C 800_EN> ende <C 471_DE> die <C 11_RAADSMAN> raitsma<A >n</A>ne <C 700_VAN> van 
+<L 630:16> <C 20_DELFT> delf <C 404_WIJ> Wi <C 204_ONTBIEDEN> onbeden <C 405_GIJ> v <C 800_EN> en<A >de</A> <C 204+403_WILLEN+HET> wille<A >n</A>t <C 810_DAT> dat <C 405_GIJ> ghi <C 700_VAN> van <C 1_JAAR> jare <C 700+1_TE+JAAR> tejare <C 203_KIEZEN> keset <C 300_2> tue 
+<L 630:17> <C 111_WETACHTIG> wittachte <VN type=1> <C 11_MAN> manne <C 421_DIE> die <VN type=1> <C 701_TOT> tote <C 472_DE/HET> des <C 2_SPITAAL> spittales <C 1_GOED> goede <C 204_ZIEN> sien <C 800_EN> en<A >de</A> <C 701_TOT> tote <C 474_DE/HET> den <C 1_HUIS> huse 
+<L 630:18> <C 810_DAT> dat <C 470_HET> dat <C 0_GOED> goit <C 560_NIET> neit <C 501_ONREDELIJK> onredelike <C 273*_VOORT-> vort <C 213_WORDEN> wert <C 273#_-BRENGEN> gebracht <C 800_OF> of <C 273_VERTEREN> uerteirt <C 220_ZIJN> War <C 500_OOK> oec <C 440_IEMAND> eman 
+<L 630:19> <C 421_DIE> die <C 810_DAT> dat <C 221_WEERSTAAN> weder+stode <C 550_ZO> so <C 201_ONTBIEDEN> onbede <C 404_WIJ> wi <C 454_ONS> onsen <C 0_BALJUW> bailgu <C 810_DAT> dat <C 403_HIJ> hi <C 410_DAT> dat <C 200_AFDOEN> of+doe <C 510_ALZO> also 
+<L 630:20> <C 501_VER> u<A >er</A>re <C 820_ALS> als <C 403_HIJ> hem <C 471_DE> die <C 301_TWEE> tue <C 110_GEKOREN> gecoren <C 504+204_TEVOREN+BRENGEN> teuorenbrengen <C 274_GEVEN> Gegeue<A >n</A> <C 472_DE/HET> des 
+<L 630:21> <C 2_MAANDAG> manendages <C 810_NADAT> na+dat <C 440_MEN> men <C 203_ZINGEN> singet <C 29_MISERICORDIA-DOMINI> Mis<A >eri</A>c<A >or</A>dia+d<A >omi</A>nj <C 700_IN> jn <C 474_DE/HET> den <C 14_JAAR> jaren <C 452_ONS> onses 
+<L 630:22> <C 4_HEER> heren <C 300_1000-282> dusent+Tuehondert+tueentachtich <VN type=1> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

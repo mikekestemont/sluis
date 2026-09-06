@@ -1,0 +1,43 @@
+<header>
+<docId>0715</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1198:9> <C 1_LETTER> Lett<A >er</A>e <C 4_HEER> hare<A >n</A> <C 22_SWEDER> zueders <C 700_VAN> van <C 21_ABKOUDE> abecode <C 621*_DAAR-> dar <C 403_HIJ> hi <C 621#_-MEDE> mede <C 220_VERTIEN> vertheg <C 470_HET> dat <C 0_HUIS> huus 
+<L 1198:10> <C 700_TE> te <C 21_MONTFOORT> mo<A >n</A>tuorde. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1198:19> <C 484_EEN> Enen <C 104_EDEL> edelen <C 1_HEER> here. <C 800_EN> ende <C 484_EEN> enen <C 104_MACHTIG> machtighen, <C 454_MIJN> minen <C 1_HEER> here <C 4_HEER> haren <C 21_FLORENTIUS> Florense 
+<L 1198:20> <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant. <C 401_IK> Jc <C 20_SWEDER> sveder <C 700_VAN> van <C 21_ABKOUDE> abcoude <C 450_UW> ju <C 0_MAN> man <C 800_EN> ende <C 450_UW> iu <C 0_RIDDER> ridder, 
+<L 1198:21> <C 201_ONTBIEDEN> ombiede <C 405_GIJ> v <C 454_MIJN> minen <C 0_DIENST> dienst. <C 1_HEER> Here <C 401_IK> ic <C 201_DOEN> doe <C 405_GIJ> v <C 410_DAT> dat <C 251+700_WETEN+TE> tewetene, <C 810_DAT> dat <C 401_IK> mi <C 20_HENDRIK> henric <C 471_DE> die 
+<L 1198:22> <C 1_ROVER> rouere <C 100_GENOEG> ghenoech <C 213_HEBBEN> hevet <C 274_DOEN> ghedaen <C 474+700_DE/HET+VAN> vanden <C 1_HUIS> huse <C 700_VAN> van <C 21_MONTFOORT> montforde. <C 800_EN> ende <C 213_HEBBEN> hevet 
+<L 1198:23> <C 401_IK> mi <C 100_ZEKER> zeker <C 274_DOEN> ghedaen. <C 700_VAN> van <C 300_VIJFTIENHONDERD> viifthien+hondert <C 14_POND> ponden <C 800_EN> ende <C 300_90> neghentich 
+<L 1198:24> <C 14_POND> ponden <C 800_EN> ende <C 300_6> zes <C 11_SCHELLING> scillinghe <C 115_HOLLANDS> hollanscher <C 14_PENNING> penninghen, <C 421_DIE> die <C 401_IK> ic <C 700+470_OP+HET> oppet <C 0_HUIS> huus 
+<L 1198:25> <C 221_HEBBEN> hadde. <C 800_EN> ende <C 700+470_OP+HET> oppet <C 0_GOED> goet <C 420_DAT> dat <C 610_DAARTOE> daer+tho <C 203_BEHOREN> behoert. <C 800_EN> Ende <C 201_GELIEN> ghelie <C 320_AL> al <C 273_BETALEN> betalet <C 700_VAN> van 
+<L 1198:26> <C 325_AL> aller <C 0_SCHULD> scout, <C 421_DIE> die <C 401_IK> ic <C 700_OP> op <C 470_HET> dat <C 0_HUIS> huus <C 221_HEBBEN> hadde <C 700_VAN> van <C 20_MONTFOORT> montfort <C 800_EN> ende <C 201_WILKEUREN> wilcore <C 410_DAT> dat <C 700_MET> met 
+<L 1198:27> <C 414_DEZE> desen <C 1_BRIEF> brieve <C 101_UITHANGEND> vthanghede, <C 810_DAT> dat <C 401_IK> ic <C 700_OP> op <C 0+470_HUIS+HET> thuus <C 700_VAN> van <C 21_MONTFOORT> montforde <C 800_NOCH> noch <C 700+470_OP+HET> oppet <C 0_GOED> goet, 
+<L 1198:28> <C 420_DAT> dat <C 610_DAARTOE> daer+to <C 203_BEHOREN> behoert, <C 560_NIET> niet <C 325_MEER> meer <C 700_TE> te <C 251_SPREKEN> sprekene <C 560_NE> en <C 201_HEBBEN> hebbe. <C 800_EN> Ende <C 201_SCHELDEN> schelde <C 321_AL> alle 
+<L 1198:29> <C 14_LETTER> letteren <C 700_TE> te <C 455_MIJN> mire <C 1_OORBAAR> orbare <C 481_NEGEEN> en+ghene <C 0_MACHT> macht <C 700_TE> te <C 250_HEBBEN> hebben, <C 620_DAARAF> daer+af <C 401_IK> ic <C 441_ENIG> enighe <C 1_TAAL> tale 
+<L 1198:30> <C 510_HIERNAMAALS> hier+na+mals <C 250_MAKEN> maken <C 231_MOGEN> mochte. <C 700_IN> in <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieve. <C 274_GEVEN> ghegheven <C 700_IN> in 
+<L 1198:31> <C 452_ONS> ons <C 4_HEER> heren <C 1_JAAR> iare <C 300_1287> tvelfhondert+ende+zeven+en+tachtich <C 472_DE/HET> des <C 2_DINSDAG> dinxdaghes 
+<L 1198:32> <C 475+700_DE+NA> nader <C 1_OCTAAF> octave <C 700_VAN> van <C 24_PASEN> paschen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

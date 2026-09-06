@@ -1,0 +1,62 @@
+<header>
+<docId>0335</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 550:19> <C 20_WOUTER> wout<A >er</A> <C 20_FRANCISCUS> soikin.- 
+<L 550:20> <C 700_IN> jn <C 21_DUDZELE> dudzele <C 700_IN> in <C 21_ZUIENKERKE> zue<A >n</A>kerke.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> dudzeele.- 
+<end-datering  jaar_tot='1400' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<L 550:21> <q> iij <q> wt+ghenome<A >n</A> <C 21_ROESBRUGGE> roedsb<A >rugghe</A>. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 550:26> <C 20_REINWARD> Reinuert <C 20_PORIJN-X> porin. <C 20_JOHANNES> jhan <C 471_DE> die <C 0_WEVEL> weuel. <C 20_AEGIDIUS> Gillis <C 22_DIEDERIK> diedrics <C 1_ZOON> soene. <C 20_IWEIN> Weinin <C 700_VAN> van 
+<L 550:27> <C 21_VARSENARE> varsena<A >re</A>. <C 20_THOMAS> domaes <C 471_DE> die <C 0_HOND> hont <C 21_WOUTER> woutre <C 22_BOUDEWIJN> boidins <C 1_ZOON> soene. <C 800_EN> ende <C 20_JOHANNES> hannoet 
+<L 550:28> <C 0_KAASJE> casekin. <C 404_WIJ> Wie <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrihen <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den 
+<L 550:29> <C 414_GENE> ghoenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> Dat <C 224_KOMEN> camen <C 700_VOOR> voer <C 404_WIJ> ons 
+<L 550:30> <C 21_MARGARETA> margriete <C 22_WOUTER> wout<A >er</A>s <C 22_WILHELM> willekins <C 2_ZOON> soens <C 0_WIJF> wijf <C 800_EN> ende <C 21_WOUTER> woutre <C 22_WILHELM> willekins <C 1_ZOON> soene <C 451_HAAR> hare 
+<L 550:31> <C 0_MAN> man <C 800_EN> ende <C 224_GEVEN> ghauen <C 501_WETTELIJK> wettelicke <C 700_TE> te <C 1_CIJNS> chense <C 0_BROEDER> broeder <C 21_LAMBERT> lambrechte <C 700_VAN> van <C 101_SINT> sinte 
+<L 550:32> <C 24_CLARA> claren <C 475+700_DE+TE> ter <C 4_ABDIS> abdessen <C 0_BEHOEF> boef <C 800_EN> ende <C 472+2+700_HET+CONVENT+TE> tsconuents <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sinte <C 24_CLARA> claren <C 700_IN> in 
+<L 550:33> <C 21_BRUGGE> brucghe; <C 300_DRIE> drie <C 11_GEMET> jmete <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> een+half <C 0_GEMET> jmet <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 320_MEE> me. <C 700_TE> te 
+<L 550:34> <C 415_DIE> diere <C 105_VOORZEID> voerseider <C 24_MARGARETA> margrieten <C 1_LIJF> liue <C 701_OM> o<A >m</A>me <C 304_EEN> ene<A >n</A> <C 104_VLAAMS> vlaemschen <C 0_PENNING> penni<A >n</A>g <C 322_ELK> elx 
+<L 550:35> <C 2_JAAR> jaers <C 800_EN> Ende <C 470_HET> dat <C 411_ZELF> zelue <C 0_LAND> land <C 223_HOUDEN> helt <C 411_DIE> die <C 101_VOORZEID> voerseide <C 21_MARGARETA> margriete <C 412_DIE> dies <C 22_WOUTER> wout<A >er</A>s <C 0_WIJF> wijf 
+<L 550:36> <C 700_TE> te <C 4_BIJLEVING> bileuinghen <C 700_VAN> van <C 21_FRANCISCUS> soykine <C 454_HAAR> haren <C 314_EERST> eersten <C 0_MAN> man. <C 800_EN> Ende <C 410_DIT> dit <C 0_LAND> land <C 203_LIGGEN> leghet 
+<L 550:37> <C 474+700_DE/HET+BINNEN> binden <C 14_PAROCHIE> prochien <C 700_VAN> van <C 21_DUDZELE> dudzele. <C 700_VAN> van <C 21_UITKERKE> vtkerke <C 800_EN> ende <C 700_VAN> van <C 21_ZUIENKERKE> zuenkerke <C 510_ALZO> also <C 403+820_HET+ALS> alst 
+<L 550:38> <C 403_ZIJ> hare <C 203_GEVALLEN> gheuallet <C 700_IN> in <C 1_DEEL> dele <C 704_JEGEN> ieghen <C 24_GRIELE> grielen <C 455_HAAR> harre <C 0_DOCHTER> dochter. <C 800_EN> Ende <C 700_VAN> van <C 320_AL> al <C 414_DIE> dien 
+<L 550:39> <C 114_VOORZEID> voerseiden <C 11_LAND> lande <C 213_WORDEN> word <C 411_DIE> die <C 101_VOORZEID> voerseide <C 0_BROEDER> broeder <C 20_LAMBERT> lambrecht <C 100_WETTELIJK> wettelic <C 1_CIJNSER> chensere 
+<L 550:40> <C 415_DIE> diere <C 24_MARGARETA> m<A >ar</A>grieten <C 800_EN> en<A >de</A> <C 22_WOUTER> wout<A >er</A>s <C 452_HAAR> haers <C 2_MAN> mans <C 841_ALS> alse <C 700_VAN> van <C 475_DE/HET> der <C 4_ABDIS> abdessen <C 4_HALF> halue<A >n</A> 
+<L 550:41> <C 800_EN> & <C 472+2_HET+CONVENT> tsconuents <C 4_HALF> haluen <C 100_VOORZEID> voerseit <C 700_TE> te <C 415_DIE> dier <C 105_VOORZEID> voerseider <C 24_MARGARETA> m<A >ar</A>griete<A >n</A> <C 1_LIJF> liue <C 701_OM> o<A >m</A>me 
+<L 550:42> <C 304_EEN> enen <C 104_VLAAMS> vlaemschen <C 0_PENNING> pe<A >n</A>ni<A >n</A>g <C 322_ELK> elx <C 2_JAAR> jaers <C 510_ALZO> also <C 403+820_HET+ALS> alst <C 273_VOORZEGGEN> voerseit <C 210_ZIJN> es <C 800_EN> Ende <C 810_OMDAT> o<A >m</A>me+dat 
+<L 550:43> <C 404_WIJ> wie <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORZEID> voerseit <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DIE> die <C 101_VOORZEID> voerseide <C 0_CIJNS> chens <C 211_BLIJVEN> bliue <C 100_VAST> vast <C 800_EN> ende 
+<L 550:44> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 700_IN> jn 
+<L 550:45> <C 4_KENNIS> kennessen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 451_ZIJN> sine 
+<L 550:46> <C 1_INCARNATIE> jncarnatie <C 300_1280> tvelef+hondert+ende+tachtentich <C 472+2_DE+VRIJDAG> tsvrinendaghes <C 700_VOOR> voer <C 101_SINT> sinte 
+<L 551:1> <C 22_PETRUS> piet<A >er</A>s <C 1_DAG> daghe <C 700+475_TE+DE> ter <C 1+105_ZZZ+KOUDEMIS> coudermesse 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,36 @@
+<header>
+<docId>1748</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='122' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2613:9> <q> De <q> iiij'ho'hr <q> s <q> quos <q> arn<A >oud</A> <q> cobboud.- 
+<L 2613:10> <C 700_IN> in <q> oestkerke. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2613:15> <q> .. <C 20_ARNOUT> Arnoud <C 20_KOBOLD> Cobboud <C 230_WORDEN> word <C 100_WETTELIJK> wettelic <C 0_HOOFDMAN> hoofman, <C 0_DANS> Dans <C 24_FRANK> franken <C 2_POORTWAARDER> portwarders 
+<L 2613:16> <C 475+700_DE+VAN> vander <C 20_DOEST> does <C 700+475_TE+DE> ter <C 1_POORT> poorte <C 0_BEHOEF> bouf <C 475+700_DE+VAN> vander <C 20_DOEST> does; <C 700_VAN> van <C 300_4> vier <C 14_SCHELLING> sceleghen <C 114_VLAAMS> vlaemscen 
+<L 2613:17> <C 2+472_JAAR+HET> siaers <C 105_ERFELIJK> erueliker <C 4_RENTE> renten <C 273_BEZETTEN> beset <C 700_OP> vp <C 301_VIJF> viue <C 14_LIJN> linen <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 325_MEER> meer 
+<L 2613:18> <C 271_LIGGEN> licghende <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_OOSTKERKE> oestkerke <C 700_ZUIDOVER> suud+ouer <C 474_DE/HET> den <C 0_WEG> wech <C 421_DIE> die <C 203_STREKKEN> strecket 
+<L 2613:19> <C 700_VAN> van <C 21_DUDZELE> dudsele <C 700*_TE> te <C 21_EIENBRUGGE> eyenbrucghe <C 700#_WAART> waerd, <C 500_OFZUIDHALF> of+suuthalf <C 610_DAARAAN> daer+an <C 203_LIGGEN> leghet <C 22_JOHANNES> jans <C 0_LAND> land 
+<L 2613:20> <C 474+700_DE/HET+UIT> vten <C 1_HEM> hemme, <C 800_EN> en<A >de</A> <C 22_JOHANNES> jans <q> f <C 24+0_LIDEWIJ+VROUW> v<A >er</A>liedwiuen <C 0_LAND> land, <C 700_OFWESTHALF> of+westhalf <C 20_JOHANNES> jan <q> f <C 22_AEGIDIUS> gillis 
+<L 2613:21> <C 4_WEDUWE> wedewen <C 0_LAND> land, <C 410_DIT> Dit <C 204_KENNEN> kennen <C 14_SCHEPEN> scepenen <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrien <C 450_MIJN> miin <C 1_HEER> here <C 20_JOHANNES> jan <C 700_VAN> van 
+<L 2613:22> <C 1_POEL> poele, <C 800_EN> en<A >de</A> <C 450_MIJN> miin <C 1_HEER> h<A >er</A>e <C 20_DIEDERIK> diederic <C 471_DE> die <C 0_VOS> vos <C 12_RIDDER> rudders. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 2613:23> <C 2+472_ZATERDAG+DE> tsaterdaeghs <C 700_NA> na <C 24_PASEN> paesscen. <q> anno <q> domini <q> .m'ho.cc'ho. <q> Nonagesimo. <q> Nono. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='122' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

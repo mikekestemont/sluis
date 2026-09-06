@@ -1,0 +1,53 @@
+<header>
+<docId>1702</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='105' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2549:41> <C 20_ANSELM> Anselm <C 700_VAN> van <C 20_AALMEERS> alemersch.- 
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2549:42> <q> de <q> capellania <C 29_WOUTER> walteri <C 20_LEDENARD-X> ledenart.- <q> De <q> .xxiiij. <C 11_BUNDER> bunre <C 2_LAND> lants <C 700_IN> in <C 471_DE> de 
+<L 2549:43> <C 1_PAROCHIE> p<A >ro</A>chghie <C 700_VAN> va<A >n</A> <C 20_IZEGEM> ysenghe<A >m</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.Q.'>
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2550:5> <C 204_WETEN> Weten <C 321_AL> olle <C 471_DE> de <C 411_GENE> gone <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> siin, <C 800_EN> en<A >de</A> <C 421_DIE> die <C 214_ZULLEN> sullen <C 250_ZIJN> siin, <C 810_DAT> dat <C 20_WILHELM> willem <C 20_MAS-X> masch 
+<L 2550:6> <C 0+472_HEER+DE> ser <C 22_WILHELM> willems <C 22_MAS-X> masch <C 1_ZOON> zone. <C 800_EN> En<A >de</A> <C 20_JOHANNES> ihan <C 20_MAS-X> masch <C 0+472_HEER+DE> ser <C 22_BOUDEWIJN> boidins <C 22_MAS-X> masch <C 1_ZOON> zone, 
+<L 2550:7> <C 224_WERPEN> worpen <C 0_HALM> halm, <C 800_EN> en<A >de</A> <C 1_GIFT> ghifte, <C 800_EN> en<A >de</A> <C 224_WEDDEN> wedden <C 1_WAARSCHAP> waerschepe, <C 700_NA> na <C 475_DE/HET> der <C 1_COSTUME> costume, 
+<L 2550:8> <C 800_EN> en<A >de</A> <C 700_NA> na <C 475_DE/HET> der <C 1_USAGE> vsage <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande, <C 474_DE/HET> den <C 0_HEER> her <C 24_WOUTER> woutren <C 21_LEDENARD-X> ledenarde <C 0_KAPELAAN> caplaen <C 700_VAN> van 
+<L 2550:9> <C 101_SINT> sente <C 24_FARAHILDE> verilden <C 700_TE> te <C 20_GENT> ghent. <C 700_TE> te <C 455_ZIJN> sire <C 4_KAPELLERIJ> capelrien <C 0_BEHOEF> behoef, <C 700_VAN> van <C 100_AL> ol <C 475_DE/HET> der 
+<L 2550:10> <C 4_ERFACHTIGHEID> eruachtecheden <C 421_DIE> die <C 406_ZIJLIEDEN> hemleden <C 220_VERSTERVEN> verstaerf <C 700_VAN> van <C 0_MEESTER> meester <C 21_FOLKERT> volkre <C 21_MAS-X> masche <C 421_DIE> die 
+<L 2550:11> <C 230_ZIJN> was <C 0_KANUNNIK> caneunec <C 700_VAN> van <C 21_DOORNIK> dorneke. <C 410_DAT> dat <C 200_ZIJN> es <C 700_TE> te <C 251_WETEN> wetene <C 700_VAN> van <C 309_24> .xxiiij. <C 11_BUNDER> bunre <C 2_LAND> lands 
+<L 2550:12> <C 500_LUTTEL> lettel <C 320_MIN> min, <C 800_OF> of <C 500_LUTTEL> lettel <C 325_MEER> meer, <C 420_DAT> dat <C 203_LIGGEN> leghet <C 700_IN> in <C 471_DE> de <C 1_PAROCHIE> prochghie <C 700_VAN> van <C 20_IZEGEM> ysenghem. <C 800_EN> en<A >de</A> 
+<L 2550:13> <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> land <C 203_GELDEN> ghelt <C 322_ELK> elkes <C 2_JAAR> iaers <C 309_8> .viij. <C 19_LIBRA> 't3l't3b <C 800_EN> en<A >de</A> <C 309_7> .vij. <C 19_SOLIDUS> 't3s <C 102_GOED> goeds <C 2_PAAIMENT> paiiements. 
+<L 2550:14> <C 800_EN> ende <C 411_DEZE> dese <C 1_RENTE> rente <C 213_HETEN> heeth <C 471_DE> de <C 1_RENTE> rente <C 700_VAN> van <C 474_DE/HET> den <C 1_HEMELDAL> hemeldale. <C 800_EN> En<A >de</A> <C 411_DEZE> dese <C 111_VOORZEID> vorseide 
+<L 2550:15> <C 14_PERSOON> personen <C 20_WILHELM> willem, <C 800_EN> en<A >de</A> <C 20_JOHANNES> ihan <C 224_BELOVEN> beloueden <C 810_DAT> dat <C 406_ZIJ> si <C 505_NIMMERMEER> ne<A >m</A>mermeer <C 700_VAN> van <C 414_DEZE> desen 
+<L 2550:16> <C 1_DAG> daghe <C 500_VOORTWAART> vortwaert <C 440_ENIG> enech <C 0_RECHT> recht <C 610_DAARAAN> der+an <C 250_EISEN> eeschen <C 560_NE> ne <C 234_ZULLEN> zouden. <C 410_DIT> dit <C 203_KENNEN> kennet 
+<L 2550:17> <C 20_STEFANUS> steuen <C 0_HOUWEEL> houweel <C 0_BALJUW> bailiu <C 700_VAN> van <C 474_DE/HET> den <C 1_OOSTAMBACHT> oest+ambachte <C 700_VAN> van <C 21_IEPER> ypre. <C 800_EN> En<A >de</A> <C 410_DIT> dit <C 204_KENNEN> kennen 
+<L 2550:18> <C 14_SCHEPEN> schepenen <C 700_VAN> van <C 474_DE/HET> den <C 414_ZELF> seluen <C 1_AMBACHT> ambachte. <C 20_ANSELM> anselm <C 700_VAN> van <C 20_AALMEERS> alemersch. <C 20_JOHANNES> jhan <C 700_VAN> van 
+<L 2550:19> <C 475_DE/HET> der <C 0_ELST> elst. <C 20_SIMON> symoen <C 700_VAN> van <C 475_DE/HET> der <C 1_MANDER> mandre. <C 21_WOUTER> woutre <C 700_VAN> van <C 475_DE/HET> der <C 1_STRAAT> strate. <C 20_HENDRIK> heinric <C 471_DE> de <C 1_GRAAF> graue. 
+<L 2550:20> <C 800_EN> ende <C 20_EGE> egghelin. <C 410_DIT> Dit <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 309_1298> .m.cc.+ende+.xcviij. 
+<L 2550:21> <C 472+2_DE+DINSDAG> sdicendaghes <C 700_NA> na <C 101_SINT> sente <C 22_DIONYSIUS> deniis <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1298' jaar_van='1298' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='105' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

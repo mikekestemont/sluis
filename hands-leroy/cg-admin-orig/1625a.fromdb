@@ -1,0 +1,40 @@
+<header>
+<docId>1625a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2426:20> <q> Voorburch.- 
+<L 2426:21> <q> hubrecht <C 700+471_VAN+DE> vande <C 1_WERF> werue.- 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1700' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 0_LEENBRIEF> Leenbrieff <q> 1297. 
+<end-datering  jaar_tot='1700' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2426:27> <C 20_JOHANNES> Jan <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> holl<A >ant</A> <C 700_VAN> van <C 20_ZEELAND> zelant. <C 800_EN> ende <C 1_HEER> here <C 700_VAN> van <C 20_FRIESLAND> vrieslant. <C 20_OGIER> oedgier <C 474+700_DE/HET+UIT> vten 
+<L 2426:28> <C 1_HOEK> hoeke. <C 454_ZIJN> sinen <C 0_BALJUW> baeliu <C 700_VAN> van <C 20_NOORDHOLLAND> northollant. <C 910_SALUUT> saluit. <C 404_WIJ> wi <C 204_ONTBIEDEN> onbieden <C 405_GIJ> v. <C 810_DAT> dat <C 405_GIJ> ghi 
+<L 2426:29> <C 21_HUBERT> hubrechte <C 700_VAN> van <C 474_DE/HET> den <C 1_WERF> werue. <C 203_HOUDEN> hout <C 700_IN> in <VN type=1> <C 1_BEZIT> besitte <C 700_VAN> van <C 414_ZULK> sulken <C 1_GOED> goede. <C 820_ALS> als <C 403_HIJ> hi <C 220_ZIJN> was 
+<L 2426:30> <C 700_BIJ> bi <C 452_ONS> ons <C 4_HEER> heren <C 4_TIJD> tide<A >n</A> <C 452_ONS> ons <C 2_VADER> vaders <C 810_TOEN> doe <C 403_HIJ> hi <C 220_ZIJN> was <C 700_IN> jn <C 454_ZIJN> sinen <C 104_LAATST> lesten <C 1_LIJF> liue. <C 800_EN> en<A >de</A> <C 403_HIJ> hi 
+<L 2426:31> <C 250_BETOGEN> betoeghen <C 210_MOGEN> mach <C 700_MET> met <C 454_ZIJN> sinen <C 104_OPEN> opene<A >n</A> <C 1_BRIEF> brieue. <C 274_GEVEN> ghegheue<A >n</A> <C 472_DE/HET> des <C 2_VRIJDAG> vridaghes <C 700_NA> na 
+<L 2426:32> <C 455_ONS> onser <C 4_VROUW> vrouwen <C 0_DAG> dach <C 700_TE> te <C 104_MIDDEN> midden <C 21_OOGST> oechste <C 470+700_HET+IN> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 319_1297> .m'ho.+cc'ho.+xcvij'ho. 
+<L 2426:33> <C 700+475_TE+DE> t<A >er</A> <C 1_VEER> v<A >er</A>e 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

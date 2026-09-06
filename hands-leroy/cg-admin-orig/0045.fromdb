@@ -1,0 +1,52 @@
+<header>
+<docId>0045</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 102:26> <q> m <q> cc <q> lxvij <q> sabbato 
+<L 102:27> <q> ante <q> philippi <q> & <q> iacobi <q> de <q> .xxv. <q> s <q> parisis <q> perpetui <q> redditus <q> in <C 21_LISSEWEGE> lisseweghe 
+<L 102:28> <q> cum <q> vna <q> lb <q> cere <q> pro <q> releuio <q> nobis <q> collatis <q> a <q> domino <C 29_AEGIDIUS> Egidio <q> presbitero 
+<L 102:29> <q> sancti <q> jacobi <C 109_BRUGS> brug<A >ensis</A>.- <q> littere <q> tres.- 
+<L 102:30> <C 29_NICOLAAS> Nich<A >olaus</A> <C 0_BALLING> balling <q> .xxv. <q> s <q> in <q> sancti <q> domini. <C 29_AEGIDIUS> Egid<A >ii</A> 
+<L 102:31> <q> presbiteri <q> sancti <q> iacobi. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1267' jaar_van='1267' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 102:38> <C 20_NICOLAAS> Clais <q> f <C 22_JOHANNES> joh<A >ann</A>is <C 2_BALLING> ballings <C 800_EN> & <C 26_HEILE> heylsota <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 224_VERKOPEN> vercochte<A >n</A> <C 21_WOUTER> wout<A >er</A>soete 
+<L 102:39> <C 0_SCHENKEL> scinkel <C 301_ACHT> achte <C 14_LIJN> linen <C 2_LAND> lands <C 421_DIE> die <C 204_LIGGEN> licgen <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochghie <C 700_VAN> van <C 21_LISSEWEGE> lisseweghe 
+<L 102:40> <C 620#_DAAR-> daer <C 471_DE> die <C 20_NICOLAAS> clais <C 620*_-OP> vp <C 203_WONEN> woent <C 704_NEVEN> neven <C 412_DIE> dies <C 22_NICOLAAS> clais <C 1_LEEN> lene <C 500_OFOOSTHALF> of+oest+alf. <C 800_EN> & <C 224_GEVEN> gauen <C 414_DIE> dien <VN type=1> 
+<L 102:41> <C 24_WOUTER> wout<A >er</A>soete<A >n</A> <C 101_WETTELIJK> wettelike <VN type=1> <C 1_GIFT> ghifte <C 700_VAN> van <C 414_DIE> dien <C 1_LAND> lande. <C 800_EN> & <C 403+224_HET+WEDDEN> weddent <C 403_HIJ> hem <C 700_TE> te 
+<L 102:42> <C 251_WAREN> warne <C 101_KWIJT> quite <C 0_LAND> lant <C 800_EN> & <C 100_VRIJ> vri <C 0_LAND> lant <C 700_TE> te <C 104_VRIJ> vrien <C 1_EIGENDOM> heghindoeme <C 800_EN> Ende <C 471_DE> die <C 21_WOUTER> wout<A >er</A>soete 
+<L 102:43> <C 220#_-GEVEN> gaf <C 220*_WEDER-> weder <C 414_DIE> dien <C 21_NICOLAAS> claise <C 800_EN> & <C 24_HEILE> heylsote<A >n</A> <C 454_ZIJN> sinen <C 1_WIJF> wiue <C 470_HET> dat <C 411_ZELF> selue <C 0_LAND> lant <C 701_OM> omme <C 300_VIJFENTWINTIG> viue+end+tuintich 
+<L 102:44> <C 11_SCHELLING> sceleghe <C 502_JAARLIJKS> jarlics <C 700+251_TE+GELDEN> tegheldene <C 414_DIE> dien <C 24_WOUTER> wout<A >er</A>soeten <C 471_DE> die <C 301_EEN> ene 
+<L 103:1> <C 0_HELFT> helt <C 700_TE> te <C 101_SINT> sinte <C 1_BAAFSMIS> bamesse <C 800_EN> & <C 471_DE> die <C 311_ANDER> andere <C 0_HELFT> helt <C 700_TE> te <VN type=1> <C 1_MIDWINTER> medewintre <C 700_TE> te <C 104_ERFELIJK> Erueliken 
+<L 103:2> <C 1_CIJNS> cense. <C 800_EN> & <C 701_OM> omme <C 300_EEN> een <C 0_POND> pont <C 2_WAS> was <C 700_TE> te <C 1_KOOP> cope <C 800_EN> & <C 700_TE> te <C 4_VERSTERFENIS> v<A >er</A>terfnessen. <VN type=1> <C 410_DIT> Dit <C 204_KENNEN> kenne<A >n</A> 
+<L 103:3> <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 403+624#_HET+DAAR-> dart <C 624*_-VOREN> voren <C 274_DOEN> ghedaen <C 230_ZIJN> was <C 450_MIJN> mijn <C 1_HEER> here <C 20_LAMBERT> lamb<A >re</A>t <C 471_DE> die 
+<L 103:4> <C 0_HAMER> ham<A >er</A> <C 6_RIDDER> ruddra. <C 20_WOUTER> wout<A >er</A> <C 471_DE> de <C 0_WEVEL> weuel. <C 20_DIEDERIK> th<A >iederi</A>c <q> f <C 22_BOUDEWIJN> boudens. <C 20_THOMAS> domaes <C 471_DE> die <C 0_HOND> hont. 
+<L 103:5> <C 20_BOUDEWIJN> boidin <C 471_DE> de <C 1_BROEKER> brok<A >er</A>e. <C 20_HUGO> hugo <q> f <C 22_WILLAARD> willards <C 800_EN> & <C 22+0_HUGO+ZOON> hughesoen. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt 
+<L 103:6> <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 450_ZIJN> siin <C 0_INCARNATIOEN> incarnation <C 319_1267> m'ho+cc'ho+lxvii'ho <C 700_OP> vp <C 474_DE> den 
+<L 103:7> <C 0_ZATERDAG> sat<A >er</A>dach <C 701_VOOR> vore <C 1_MEIDAG> meyedaghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+
+<L 103:51> <C 0_HALF> alf <C 21_MAART> marte 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1267' jaar_van='1267' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,26 @@
+<header>
+<docId>0202</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 369:37> <C 410_DIT> Dit <C 200_ZIJN> es <C 700_VAN> va<A >n</A> <q> xl <C 19_SOLIDUS> 't3s <C 472+2_HET+JAAR> siaers <C 700_IN> jn <q> ziesele <C 421_DIE> die <q> arn<A >oud</A> <q> snauward <q> galt. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1451' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 369:38> <C 411_DEZE> dese <q> rente <C 700_VAN> van <q> xl <C 19_SOLIDUS> 't3s <C 119_PARIJS> par<A >isis</A> <C 2+472_JAAR+HET> ts<A >iaer</A>s <C 820_GELIJK> ghelijc <C 414_DEZE> desen <q> zaerter <C 0_MENTIOEN> maencioen 
+<L 369:39> <q> maect <q> heeft <q> mattheus <q> ghiselin <q> ghecocht <q> jeghen <C 411_DIE> die <C 475+700_DE+VAN> vand<A >er</A> <q> potterye <C 700_IN> jn 
+<L 369:40> <C 21_BRUGGE> brughe <C 800_EN> en<A >de</A> <C 200_ZIJN> es <C 700_IN> in <q> voorme <C 700_VAN> van <q> visselinghe <C 700_VAN> van <q> ander <q> renten <C 421_DIE> die <C 470_HET> tgodshuus 
+<L 369:41> <C 700+475_VAN+DE> vand<A >er</A> <q> potterye <q> heeft <C 700_VAN> van <q> mattheus <C 273_VOORZEGGEN> voors<A >eit</A>. 
+<end-datering  jaar_tot='1500' jaar_van='1451' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

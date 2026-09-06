@@ -1,0 +1,48 @@
+<header>
+<docId>1561</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2347:35> <q> de <q> lxxv <C 14_ROEDE> R<A >oeden</A> <q> terre <q> empte <q> erga <q> petrum 
+<L 2347:36> <q> bolin <q> in <q> sancte <q> katerine <q> de <q> dam <q> quam <q> emptor <q> dedit <q> in <q> elemosinam 
+<L 2347:37> <q> coram <q> presbitero <q> de <q> strat<A >en</A>. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 470+700_HET+IN> jnt <C 0_AMBACHT> ambocht <C 700_VAN> van <q> hoeskerke <C 800_EN> en<A >de</A> <C 700_IN> jn 
+<L 2347:38> <C 101_SINT> s<A >in</A>te <q> kath<A >elinen</A> <C 474_DE/HET> bute<A >n</A> <q> da<A >m</A>me <C 700_VAN> van <q> lxxv <C 14_ROEDE> R<A >oeden</A> <C 2_LAND> lands. <C 700_IN> in <C 101_SINT> s<A >inte</A> 
+<L 2347:39> <q> kateline<A >n</A> <C 700_BIJ> bij <q> da<A >m</A>me <C 700_VAN> va<A >n</A> <q> lxxv <C 14_ROEDE> roeden <C 2_LAND> lands <q> f. <q> CC'holiij'ho. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2348:9> <C 20_PETRUS> pieter <C 20_BOLIJN-X> bolin <C 800_EN> ende <C 26_CATHARINA> katerina <C 450_ZIJN> zijn <C 0_WIJF> wijf <C 224_GEVEN> gauen <C 101_WETTELIJK> wettelike <C 1_GIFT> gifte <C 20_BOUDEWIJN> bouden <q> filio 
+<L 2348:10> <C 21_KAREL> line <C 700_VAN> van <C 300_VIJFENZEVENTIG> viue+en<A >de</A>+seuentich <C 14_ROEDE> roeden <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer <C 271_LIGGEN> liggende 
+<L 2348:11> <C 700+470_IN+HET> int <C 0_AMBACHT> ambocht <C 700_VAN> van <C 21_OOSTKERKE> oestk<A >er</A>ke <C 800_EN> en<A >de</A> <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 101_SINT> sinte <C 24_CATHARINA> katerinen <C 474+700_DE/HET+TE> ten 
+<L 2348:12> <C 21_DAMME> damme <C 700_AAN> an <C 471_DE> die <C 1_OOSTZIJDE> oestzide <C 700_VAN> van <C 475_DE/HET> der <C 11_MONNIK> moneke <C 0_LAND> land <C 700_VAN> van <C 100_SINT> sint <C 20_ANDREAS> andries 
+<L 2348:13> <C 271_STREKKEN> streckende <C 474+700_DE/HET+VAN> vanden <C 0_WATERGANG> waterganc <C 500_NOORDWAART> nord+ward <C 474+700_DE+TOT> toten <C 1_DIJK> dike <C 800_EN> ende <C 471_DE> die <C 101_VOORZEID> voerseide 
+<L 2348:14> <C 20_PETRUS> pieter <C 800_EN> en<A >de</A> <C 21_CATHARINA> katerine <C 224_WEDDEN> wedden <C 474_DE/HET> den <C 104_VOORZEID> voerseiden <C 20_BOUDEWIJN> bouden <C 470_HET> dat <C 101_VOORZEID> voerseide <C 0_LAND> land 
+<L 2348:15> <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> warne <C 0_WEG> wech <C 800_EN> en<A >de</A> <C 0_LAND> land <C 800_EN> en<A >de</A> <C 101_KWIJT> quite <C 0_LAND> land <C 700_JEGEN> jogen <C 324_ELK> elken 
+<L 2348:16> <C 1_MENS> mensche <C 700_TE> te <C 454_ZIJN> sinen <C 104_VRIJ> vrien <C 1_EIGENDOM> egindoeme <C 410_DIT> dit <C 204_KENNEN> kennen <C 11_SCHEPEN> scepene <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien 
+<L 2348:17> <C 20_ARNOUT> arnoud <q> filius <C 22_HENDRIK> heinemans <C 20_WILHELM> willem <C 700_VAN> van <C 20_KLEIEM> cleihem <C 20_THOMAS> domaes <C 471_DE> die <C 0_HOND> hont <C 20_HUGO> hugo <C 700_VAN> van 
+<L 2348:18> <C 474_DE/HET> den <C 1_HOF> houe <C 20_ARNOUT> arnoud <C 20_BRANTIJN-X> brantin <C 20_HENDRIK> henric <C 471_DE> die <C 101_GROOT> groete <C 20_JOHANNES> jan <C 0_AKET> aket <C 800_EN> en<A >de</A> <C 20_WOUTER> wouter <C 700_VAN> van 
+<L 2348:19> <C 20_CADZAND> caedzant <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 2+472_ZATERDAG+DE> saterdages <C 700_VOOR> voer <C 101_SINT> sinte <C 22_VINCENTIUS> vincens <C 0_DAG> dach <C 440+810_MEN+ALS> alsmen 
+<L 2348:20> <C 203_SCHRIJVEN> scriuet <q> anno <q> domini <q> m'ho <q> cc'ho <q> nonagesimo <q> sexto 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

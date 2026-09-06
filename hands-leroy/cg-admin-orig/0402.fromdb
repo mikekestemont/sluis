@@ -1,0 +1,34 @@
+<header>
+<docId>0402</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 630:36> <C 475+700_DE+VAN> vander <C 0_BORGTOCHT> bortocht 
+<L 630:37> <C 702_JEGENS> ieghens <C 471_DE> die <C 21_DUKING-X> dukinghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<statushand  statushandkode='an'>
+
+<L 630:44> <C 20_FLORENTIUS> Florens <C 1_GRAAF> graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 203_GROETEN> groet <C 471_DE> die <C 10_SCHEPEN> scepen <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 0_RAAD> raet <C 700_VAN> van <C 20_DORDRECHT> dordrecht 
+<L 630:45> <C 861_ALS> alse <C 451_ZIJN> sine <C 111_TROUW> truwe <C 11_LIEDEN> lude <C 404_WIJ> wi <C 204_BIDDEN> bidden <C 405_GIJ> v <C 810_DAT> dat <C 405_GIJ> ghi <C 203_VERZEKEREN> versekert <C 700_VOOR> vor <C 300_DUIZEND> dusent <C 800_OF> of <C 700_TUSSEN> tuisken 
+<L 630:46> <C 300_DUIZEND> dusent <C 10_POND> pont <C 800_EN> en<A >de</A> <C 304_EEN> enen <C 0_PENNING> penni<A >n</A>g <C 540_ZO-WAAR> so+war <C 405_GIJ> v <C 0_HEER> har <C 21_GIJS> ghise <C 800_EN> en<A >de</A> <C 0_HEER> har <C 20_WILHELM> willaem 
+<L 631:1> <C 204_VERMANEN> vermanen <C 800_EN> en<A >de</A> <C 204_WIJZEN> wisen. <C 800_EN> ende <C 440_WAT> wat <C 10_KOST> cost <C 800_EN> en<A >de</A> <C 440_WAT> wat <C 11_SCHADE> scade <C 421_DIE> die <C 405_GIJ> ghi <C 700_BIJ> bi <C 415_DEZE> deser 
+<L 631:2> <C 0_BORGTOCHT> borghtocht <C 203_NEMEN> nemet <C 610*_DAAR-> dar <C 210_ZULLEN> sal <C 401_IK> ic <C 100_SCHADELOOS> scadeloes <C 610#_-AF> of <C 250_HOUDEN> houden <C 700_IN> in <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> desen 
+<L 631:3> <C 1_BRIEF> brieue <C 421_DIE> die <C 230_WORDEN> wart <C 274_SCHRIJVEN> ghescreuen <C 700_IN> in <C 474_DE/HET> den <C 0_JAAR> jar <C 452_ONS> ons <C 4_HEER> heren <C 309_1282> .m.cc.+en<A >de</A>+lxxxij. <C 472_DE/HET> des 
+<L 631:4> <C 2_DINGDAG> dingsdaghes <C 700_VOOR> vor <C 101_SINT> sente <C 22_MARCUS> marcus <C 0_DAG> dagh. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1282' jaar_van='1282' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

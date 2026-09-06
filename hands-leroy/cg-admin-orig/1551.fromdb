@@ -1,0 +1,55 @@
+<header>
+<docId>1551</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2337:31> <C 700_BIJ> bi <C 24_TROYEN> t<A >ro</A>yen <C 700_IN> i<A >n</A> <C 101_SINT> s<A >ente</A> <C 22_JOHANNES> jans <C 9_PAROCHIE> p<A >ro</A>ch <q> sic?.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 2337:32> <q> piet<A >er</A> <C 700_VAN> van <q> houde<A >n</A>gee<A >m</A> <q> xx <C 19_SOLIDUS> 't3s.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> xx <C 19_SOLIDUS> 't3s <q> pa<A >iments</A> <C 700_OP> op 
+<L 2337:33> <q> neckerspoel <C 700_BIJ> by <C 24_TROYEN> troeyen. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2337:40> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 475_DE/HET> der <C 4_HEIDE> eyden <C 700_BUITEN> buten <C 21_MECHELEN> machline <C 20_HENDRIK> heinric <C 20_GOEDGEBUUR-X> goetghebur <C 20_ARNOUT> arnout 
+<L 2337:41> <C 700_VAN> van <C 20_SCHIPVOORT-X> scepuort <C 20_WOUTER> wout<A >er</A> <C 700_VAN> van <C 21_GISTEL> ghestele <C 204_GROETEN> gruten <C 800_EN> en<A >de</A> <C 204_DOEN> doen <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den 
+<L 2337:42> <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> siin <C 800_EN> en<A >de</A> <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 20_AEGIDIUS> gielis <C 700_VAN> van <C 474_DE/HET> den <C 114_KRANK> cranken <C 213_HEBBEN> heft 
+<L 2337:43> <C 274_KRIJGEN> ghec<A >re</A>gen <C 700+474_TE+DE/HET> ten <C 114_KRANK> cranken <C 14_BEGIJN> beghinen <C 0_BEHOEF> bouf <C 700_IN> in <C 471_DE> de <C 0_STAD> stat <C 700_JEGEN> jegen <C 21_PETRUS> pietere <C 700_VAN> van 
+<L 2337:44> <C 20_OUWEGEM> houdengem <C 300_20> tuintech <C 11_SCHELLING> scellinge <C 2+472_JAAR+HET> siaers <C 501_ERFELIJK> erfleke <C 415_ALZULK> alse+selker <C 4_MUNT> munten <C 821_ALS> alse <C 700+414_TE+DIE> tien 
+<L 2337:45> <C 4_TIJD> tiden <C 101_GENGE> ghinge <C 800_EN> en<A >de</A> <C 101_GAAF> gaue <C 210_ZIJN> es <C 440+810_MEN+ALS> alsm<A >en</A> <C 0_CIJNS> tsens <C 210_ZIJN> es <C 100_SCHULDIG> sculdech <C 700_TE> te <C 251_GEVEN> gheuene <C 700_OP> op <C 480_EEN> heen 
+<L 2337:46> <C 1_BUNDER> buunre <C 2_LAND> lants <C 420_DAT> dat <C 20_JOHANNES> ian <C 22_NICOLAAS> claeus <C 1_ZOON> sone <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 700_TE> te <C 22_PETRUS> pieters <C 0_BEHOEF> bouf <C 700_VAN> van 
+<L 2338:1> <C 20_OUWEGEM> houdengem <C 800_EN> en<A >de</A> <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 700_BIJ> bi <C 24_TROYEN> troien <C 800_EN> en<A >de</A> <C 414_DEZE> desen <C 0_CIJNS> tsens <C 414_DIE> dien <C 440+210_MEN+ZULLEN> salm<A >en</A> 
+<L 2338:2> <C 250_GELDEN> ghilden <C 703_NAAST> naest <C 300_13> dertien <C 11_SCHELLING> scellinge <C 800_EN> en<A >de</A> <C 300_2> tue <C 11_KAPOEN> capune <C 601*+421_ER-+DIE> diere <C 504_VOREN> voren <C 601#_-UIT> hute <C 204_GAAN> gaen 
+<L 2338:3> <C 800_EN> en<A >de</A> <C 414_DEZE> desen <C 104_VOORNOEMD> vornomden <C 0_CIJNS> tsens <C 411_DIE> die <C 210_ZULLEN> sal <C 250_GELDEN> ghilden <C 411_DEZE> dese <C 101_VOORNOEMD> vonomde <VN type=1> <C 20_JOHANNES> ian <C 801_OF> ofte <C 440_WIE> wie 
+<L 2338:4> <C 421_DIE> die <C 411_DEZE> dese <C 0_ERFELIJKHEID> erfliicheit <C 271_HOUDEN> houdende <C 210_ZIJN> es <C 500_HALF> alf <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> ians <C 1_MIS> misse <C 800_EN> en<A >de</A> <C 500_HALF> alf <C 700_TE> te 
+<L 2338:5> <C 1_KERSTAVOND> kersauonde <C 800_EN> en<A >de</A> <C 700_IN> in <C 414_DEZE> desen <C 104_VOORNOEMD> vornomden <C 0_CIJNS> tsens <C 550_ZO> so <C 210_ZIJN> es <C 274_KOMEN> com<A >en</A> <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde 
+<L 2338:6> <C 20_AEGIDIUS> gielis <C 700_MET> met <C 4_MANIS> manessen <C 472+2_DE+RECHTER> srechters <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_WIJSDOM> wiisdoeme <C 475_DE/HET> der <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> 
+<L 2338:7> <C 500_BEHOUDELIJK> behoudenlec <C 324_ELK> elken <C 0_MAN> man <C 454_ZIJN> sinen <C 1_RECHT> rechte <VN type=1> <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat <C 410_DIT> dit <C 100_WAAR> waer <C 800_EN> en<A >de</A> 
+<L 2338:8> <C 101_GESTADE> ghestade <C 210_ZULLEN> sal <C 260_BLIJVEN> bliuen <C 550_ZO> so <C 210+600*+404_HEBBEN+ER-+WIJ> hebwiere <C 404_WIJ> wi <C 111_VOORNOEMD> vornomde <C 14_SCHEPEN> scepenen <C 451_ONS> onse <C 1_ZEGEL> seghele 
+<L 2338:9> <C 600#_-AAN> an <C 274_HANGEN> gheangen <C 411_DEZE> dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsm<A >en</A> <C 203_SCHRIJVEN> scriift 
+<L 2338:10> <C 309_1200> .mcc. <C 10_JAAR> jaer <C 800_EN> en<A >de</A> <C 309_96> xcvi <C 2_DINSDAG> disen+dags <C 700_NA> na <C 101_SINT> sinte <C 22_NICOLAAS> Niclaeus <C 0_DAG> dach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

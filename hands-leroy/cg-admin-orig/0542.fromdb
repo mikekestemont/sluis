@@ -1,0 +1,78 @@
+<header>
+<docId>0542</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 792:35> <C 700_VAN> van <C 20_GEERVLIET> Gheruliet <C 800_EN> en<A >de</A> <C 700_VAN> van 
+<L 792:36> <C 14_MAKELAARDIJ> makelardien.- 
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> van <q> tollen+vry <C 700_TE> te <q> varen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 792:44> <C 404_WIJ> Wj; <C 20_FLORENTIUS> Florens, <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> Hollant <C 204_MAKEN> maken <C 100_KOND> kont <C 800_EN> ende <C 100_KENLIJK> kenleec <C 321_AL> alle <C 474_DE> dien 
+<L 792:45> <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> horen. <C 810_DAT> Dat <C 404_WIJ> wi <C 700_BIJ> bi <C 454_ONS> onsen <C 104_VRIJ> vrihen 
+<L 792:46> <C 1_WIL> wille <C 800_EN> ende <C 700_BIJ> bi <C 1_RAAD> Rade <C 452_ONS> ons <C 2_RAAD> Raets. <C 454_ONS> onsen <C 114_LIEF> lieuen <C 114_GETROUW> ghetrouwen <C 14_POORTER> portren <C 700_VAN> van, 
+<L 793:1> <C 20_DORDRECHT> Dordrecht <C 701_OM> omme <C 104_MENIGVOUD> menichfouden <C 104_GETROUW> ghetrouwen <C 0_DIENST> dienst <C 421_DIE> die <C 406_ZIJ> si <C 504_DIKKE> dicken 
+<L 793:2> <C 501_VLIJTELIJK> vliteleke <C 800_EN> ende <C 501_GETROUWELIJK> ghetrouweleke <C 454_ONS> onsen <C 14_VOORDER> vordren, <C 800_EN> ende <C 404_WIJ> ons, <C 274_DOEN> ghedaen <C 214_HEBBEN> hebben, 
+<L 793:3> <C 800_EN> en<A >de</A> <C 500_ALTOOS> altoes <C 100_GEREED> ghereet <C 214_ZIJN> sijn <C 700_TE> te <C 251_DOEN> doene, <C 701_TOT> Tote <C 321_AL> alle <C 475_DE/HET> der <C 110_ANDER> ander <C 14_VRIJHEID> vriheden <C 800_EN> ende 
+<L 793:4> <C 14_PRIVILEGE> priuilegien <C 421_DIE> die <C 406_ZIJ> si <C 501_WETTELIJK> witteleke <C 800_EN> ende <C 501_REDELIJK> Redenleke <C 700_AAN> an <C 451_ONS> onse <C 14_VOORDER> vordren <C 800_EN> ende <C 700_AAN> an 
+<L 793:5> <C 404_WIJ> ons <C 274_VERWERVEN> verworuen <C 214_HEBBEN> hebben, <C 411_ALDUSGEDAAN> aldusghedane <C 11_VRIJHEID> vrihede <C 214_HEBBEN> hebben <C 274_GEVEN> ghegheuen.. <C 810_DAT> Dat 
+<L 793:6> <C 406_ZIJ> si <C 501_EEUWELIJK> eweleke <C 800_EN> ende <C 500_ALTOOS> altoes <C 700_VAN> van <C 101_ALLERHANDE> alrehande <C 1_GOED> goede, <C 800_EN> en<A >de</A> <C 700_VAN> van <C 325_AL> alre 
+<L 793:7> <C 14_KOOPMANSCHAP> Coepmanscepen, <C 700_IN> jn <C 440_WAT> wat, <C 11_SCHIP> Scepe, <C 800_OF> iof <C 700_OP> op <C 440_WAT> wat <C 11_BODEM> bodeme <C 406_ZIJ> si <C 214_ZIJN> sijn <C 100_VRIJ> vri <C 800_OF> iof 
+<L 793:8> <C 101_TOLBAAR> tholnebare, <C 451_HAAR> hare <C 0_GOED> goet <C 203_LIGGEN> leghet, <C 701_TOT> Tote. <C 20_GEERVLIET> Gheruliet. <C 800_EN> ende <C 701_TOT> tote, <C 26_STRIENEMONDE> Strienemonda, 
+<L 793:9> <C 800_EN> en<A >de</A> <C 500_OVERAL> ouer+al <C 500_ANDERSWAAR> anders+waer <C 700_IN> jn <C 455_ONS> onser <C 0_GRAAFSCHAP> grauescap <C 800_EN> ende <C 700_IN> in <C 320_AL> al <C 454_ONS> onsen <C 1_LAND> lande, 
+<L 793:10> <C 100_TOLVRIJ> tholne+vri <C 250_VAREN> varen <C 214_ZULLEN> sullen <C 800_EN> ende <C 101_KWIJT> quite. <C 700+810_ZONDER+DAT> sonder+dat <C 406_ZIJ> si <C 700_TE> te, <C 20_AMMERS> Ammers. <C 700_TE> te 
+<L 793:11> <C 20_MOORDRECHT> Mordrecht. <C 700_TE> te <C 20_NIEMANDSVRIEND> Niemansfrient. <C 800_EN> ende <C 700_TE> te, <C 21_ALMSVOET> Almesvoete, <C 1_TOL> tholne <C 250_GEVEN> gheuen <C 214_ZULLEN> sullen 
+<L 793:12> <C 821_ALS> alse <C 451_HAAR> hoere <C 14_HANDVEST> hantvasten <C 204_HOUDEN> houden, <C 421_DIE> die <C 406_ZIJ> si <C 700_VAN> van <C 454_ONS> onsen <C 14_VOORDER> vordren <C 800_EN> en<A >de</A> <C 700_VAN> van <C 404_WIJ> ons 
+<L 793:13> <C 610_DAARAF> daer+of <C 204_HEBBEN> hebben. <C 800_EN> Ende <C 700_VAN> van <C 1_BROOD> brode, <C 800_EN> ende <C 700_VAN> van <C 1_BROODGELD> broet+ghelde. <C 700_VAN> van <C 1_WIJN> wine. <C 800_EN> ende 
+<L 793:14> <C 700_VAN> van <C 1_WIJNGELD> wijn+ghelde. <C 420_DAT> dat <C 471_DE> die <C 1_HEER> here <C 700_VAN> van <C 21_STRIENE> striene, <C 800_EN> ende <C 470_HET> dat <C 0_KIND> kint <C 700_VAN> van <C 21_PUTTEN> pytte. <C 700_VAN> van 
+<L 793:15> <C 454_ONS> onsen <C 114_VOORZEID> vorseiden <C 14_POORTER> portren <C 224_PLEGEN> plaghen <C 700_TE> te <C 251_NEMEN> nemene, <C 800_EN> en<A >de</A> <C 700_TE> te <C 260_DOEN> doen <C 251_NEMEN> nemene <C 700_VAN> van 
+<L 793:16> <C 1_BAKENGELD> bakijn+ghelde <C 800_OF> iof <C 700_VAN> van <C 1_GELEIDE> gheleede <C 821_ALS> alse <C 406_ZIJ> si <C 224_ZEGGEN> segheden <C 610_DAARAF> daer+of <C 214_ZULLEN> sullen <C 406+404_ZIJ+WIJ> wise 
+<L 793:17> <C 501_EEUWELIJK> eweleke <C 100_VRIJ> vri <C 250_HOUDEN> houden <C 800_EN> ende <C 101_KWIJT> quite. <C 500_VOORT> Vort <C 550_ZO> so <C 560_NE> ne <C 214_ZULLEN> sullen <C 404_WIJ> wi; <C 800_NOCH> noch <C 441_NIEMAND> niemene <C 700_VAN> van 
+<L 793:18> <C 404_WIJ> onser <C 4_WEG> weghen <C 464_ONS> ons <C 505_NIMMERMEER> nemmermeer <C 250_ONDERWINDEN> onderwinden <C 700_VAN> van <C 101_GENERHANDE> gheenrehande 
+<L 793:19> <C 4_MAKELAARDIJ> makelardien, <C 800_NOCH> noch <C 700_VAN> van <C 1_SAMENKOOP> samecope <C 704_BINNEN> binnen <C 20_DORDRECHT> Dordrecht <C 251*_WEG-> wech <C 700_TE> te <C 251#_-GEVEN> gheuene, 
+<L 793:20> <C 800_NOCH> noch <C 700_TE> te <C 251_VERKOPEN> vercopene. <C 800_NOCH> noch <C 700_TE> te <C 251_VERHUREN> verhurene. <C 800_NOCH> noch <C 700_TE> te <C 251_VERLENEN> verleenene. <C 801_NEWAAR> Neware <C 810_DAT> dat 
+<L 793:21> <C 320_ELK> elc <C 0_MAN> man <C 421_DIE> die <C 100_GOED> goet <C 0_MAN> man <C 800_EN> ende <C 1_POORTER> portre <C 210_ZIJN> es <C 463_HEM> hem <C 611_DAARAAN> daer+ane <C 250_GENEREN> gheneren <C 210_ZULLEN> sal <C 821_ALS> alse, 
+<L 793:22> <C 14_SCHEPEN> Scepenen <C 800_EN> ende <C 0_RAAD> Raet. <C 700_MET> met <C 454_ONS> onsen <C 0_BALJUW> Baeliu, <C 800_OF> iof <C 700_MET> met <C 454_ONS> onsen <C 1_RECHTER> Rechtere, <C 204_KEUREN> koren, 
+<L 793:23> <C 204_VISIEREN> fisieren. <C 800_EN> en<A >de</A> <C 204_OVEREENDRAGEN> ouer+een+draghen. <C 800_EN> Ende <C 610_DAARTOE> daer+thoe <C 204_GELOVEN> ghelouen <C 404_WIJ> wi <C 454_ONS> onsen 
+<L 793:24> <C 114_VOORZEID> vorseiden <C 14_POORTER> portren. <C 810_DAT> dat <C 404_WIJ> wi <C 406_ZIJ> hem, <C 14_SCHEPEN> Scepenen, <C 800_EN> ende <C 11_RAADSMAN> Raetsmanne <C 250_MAKEN> maken <C 800_EN> ende 
+<L 793:25> <C 250_ZETTEN> setten <C 214_ZULLEN> sullen <C 700_IN> in <C 475+320_DE/HET+AL> alder <C 4_MANIER> manieren <C 850_DAT> dat <C 451_ONS> onse <C 1_HEER> here <C 451_ONS> onse <C 0_VADER> vader <C 14_SCHEPEN> Scepenen <C 800_EN> ende 
+<L 793:26> <C 11_RAADSMAN> Raetsmanne <C 220_PLEGEN> plach <C 700_TE> te <C 251_ZETTEN> settene, <C 800_EN> ende <C 403_HET> het <C 700_BIJ> bi <C 454_ZIJN> sinen <C 4_TIJD> tyden <C 700_IN> in <C 20_DORDRECHT> Dordrecht <C 220_PLEGEN> plach 
+<L 793:27> <C 700_TE> te <C 261_WEZEN> wesene. <C 500_VOORT> Vort <C 440_ZO-WAT> so+wat <C 11_MAN> manne, <C 700+1+500_TE+LAND+WAART> te+landeward <C 704_BINNEN> binnen <C 20_ZUIDHOLLAND> Zuutholland, 
+<L 793:28> <C 444_ENIG> eneghen <C 1_POORTER> portre <C 700_VAN> van, <C 20_DORDRECHT> Dordrecht, <C 441_ENIGERHANDE> enegherande <C 0_SCHULD> sculd, <C 100_SCHULDIG> sculdech <C 210_ZIJN> es, <C 421_DIE> die <C 701_VOOR> vore, 
+<L 793:29> <C 301_VIER> viere, <C 14_SCHEPEN> scepenen, <C 800_OF> iof <C 701_VOOR> vore <C 320_MEE> mee <C 700_VAN> van <C 20_DORDRECHT> Dordrecht <C 273_MAKEN> ghemaect <C 210_ZIJN> es, <C 800_EN> en<A >de</A> <C 471_DE> die <C 0_SCHULD> sculd 
+<L 793:30> <C 560_NIET> niet <C 560_NE> ne <C 203_BETALEN> betaeld <C 700_TE> te <C 414_ZULK> sulken <C 1_DAG> daghe <C 820+403_ALS+HET> alst <C 274_SPREKEN> ghesproken <C 210_ZIJN> es. <C 411_DIE> die <C 0_SCHULD> sculd <C 210_ZULLEN> sal <C 451_ONS> onse 
+<L 793:31> <C 0_BALJUW> baeliu <C 700_VAN> van <C 20_ZUIDHOLLAND> Zuutholland <C 441_WIE> wie <C 810_DAT> dat <C 403_HIJ> hi <C 700_BIJ> bi <C 4_TIJD> tyden <C 210_ZIJN> es <C 250_INPANDEN> in+panden <C 700_VAN> van <C 454_ZIJN> sinen 
+<L 793:32> <C 104_GEREED> ghereetsten <C 1_GOED> goede, <C 403+820_HET+GELIJK-OF> ghelike+ioft <C 700+475_BINNEN+DE> binder <C 4_VRIJHEID> vriheden <C 700_VAN> van <C 20_DORDRECHT> Dordrecht <C 221_ZIJN> ware. 
+<L 793:33> <C 810_OMDAT> Omme+dat <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORSCHREVEN> vorscreuene <C 14_VRIJHEID> vriheden <C 800_EN> ende <C 11_PUNT> ponte <C 100_VAST> vast <C 800_EN> en<A >de</A> 
+<L 793:34> <C 101_GESTADE> ghestade <C 214_BLIJVEN> bliuen, <C 800_EN> en<A >de</A> <C 406+404_ZIJ+WIJ> wise <C 454_ONS> onsen <C 114_VOORZEID> vorseiden, <C 14_POORTER> portren <C 501_EEUWELIJK> eweleke <C 250_HOUDEN> houden 
+<L 793:35> <C 214_WILLEN> willen <C 700_ZONDER> sonder <C 101_ENIGERHANDE> enegherande <C 0_ARGLIST> arghelijst. <C 550_ZO> So <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 406_ZIJ> hem <C 414_DEZE> desen <C 0_BRIEF> brief 
+<L 793:36> <C 274_GEVEN> ghegheuen <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> Seghele. <C 471_DE> Die <C 14_OORKONDE> orkonden <C 421_DIE> die <C 610_HIEROVER> hier+ouer 
+<L 793:37> <C 224_ZIJN> waren, <C 410_DAT> dat <C 234_ZIJN> waren. <C 1_HEER> here, <C 20_GERARD> Gherard <C 475+700_DE+VAN> vander <C 1_WATERING> wateringhe, <C 800_EN> en<A >de</A> <C 1_HEER> here, <C 20_WOLFHARD> wlfard 
+<L 793:38> <C 700_VAN> van <C 21_BORSELE> barsele, <C 14_RIDDER> Riddren. <C 800_EN> en<A >de</A> <C 0_MEESTER> meester <C 20_GERARD> Gherard <C 700_VAN> van <C 20_LEIDEN> leyden <C 451_ONS> onse <C 0_KLERK> clerc. <C 411_DEZE> Dese 
+<L 793:39> <C 0_BRIEF> brief <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700_IN> jn <C 471_DE> die <C 1_HAAG> haghe. <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren. <C 300_1000-284> Dusent.+tuee+hondert+viere+en<A >de</A>+tachtich 
+<L 793:40> <C 10_JAAR> jaer, <C 472_DE/HET> des <C 2_WOENSDAG> woens+daghes <C 700_NA> na <C 301_ACHT> achte <C 700_NA> na <C 24_PINKSTEREN> pinxtren. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

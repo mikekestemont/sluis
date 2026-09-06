@@ -1,0 +1,37 @@
+<header>
+<docId>0864</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1384:24> <q> littera <q> .xx. <q> s <q> assignate <q> ad <q> .ij. 
+<L 1384:25> <q> virgas <q> cum <q> .'t!. <q> moers <q> vna <q> cum <q> terra <q> iacenti <q> in <C 20_LANGEDAM> langhedam. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1384:30> <C 324_AL> allen <C 474+414_DE+GENE> denghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettere<A >n</A> <C 214_ZULLEN> soelen <C 250_ZIEN> zien <C 800_EN> ende <C 250_HOREN> horen <C 250_LEZEN> lesen <C 404_WIJ> .Wi. 
+<L 1384:31> <C 14_SCHEPEN> scepene<A >n</A> <C 700_VAN> van <C 20_HULST> hulst <C 21_HUGO> hughe <C 700+475_VAN+DE> vand<A >er</A> <C 24_BAARLE> barlen <C 20_MICHAEL> michiel <C 700_VAN> van <C 20_MEERDONK> m<A >er</A>donc <C 800_EN> ende <C 20_JOHANNES> ian 
+<L 1384:32> <C 0_SMOUT> smout <C 100+204_KOND+MAKEN> make<A >n</A>cont <C 810_DAT> dat <C 21_CHRISTINA> cristine <C 22_WOUTER> woits <C 210+100_ZIJN+SCHULDIG> essculdich <C 21_HUGO> hughe <C 21_KETOUD-X> ketoude <C 1_POORTER> port<A >er</A>e 
+<L 1384:33> <C 700_IN> in <C 20_HULST> hulst <C 309_20> .xx. <C 19_SOLIDUS> sol <C 472+2_HET+JAAR> tiaers <C 501_EEUWELIJK> ewelike <C 271_STAAN> stanede <VN type=1> <C 700_OP> up <C 300_DERDEHALF> dordalf <C 14_ROEDE> roden <C 2_MOER> moers <C 700+474_MET+DE/HET> mette<A >n</A> 
+<L 1384:34> <C 1_LAND> lande <C 271_LIGGEN> ligghende <C 700+474_IN+DE/HET> inden <C 20*_LANGE-> langhen <C 20#_-DAM> daem <C 800_EN> ende <C 251+700_GELDEN+TE> tegheldene <C 700_TE> te <C 324_ELK> elken <C 101_SINT> sente 
+<L 1384:35> <C 1_BAAFSMIS> bamesse <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 454_ZIJN> sine<A >n</A> <C 1_OOR> hore <C 420_DAT> dat <C 700_NA> na <C 403_HIJ> hem <C 250_KOMEN> comen <C 210_ZULLEN> sal <C 800_EN> ende <C 810_OMDAT> o<A >m</A>me+dat 
+<L 1384:36> <C 410_DIT> dit <C 100_VAST> vast <C 210_ZULLEN> sal <C 260_BLIJVEN> bliue<A >n</A> <C 800_EN> ende <C 101_GESTADE> ghestade <C 214+403_HEBBEN+HET> ebbent <C 404_WIJ> wi. <C 14_SCHEPEN> scepene<A >n</A> <C 110_VOORNOEMD> vorenoemet 
+<L 1384:37> <C 273_ZEGELEN> ghezeghelt <C 101_UITHANGEND> vteanghende <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> seghelen <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 0_JAAR> iaer 
+<L 1384:38> <C 452_ONS> ons <C 4_HEER> heren <C 851_ALS> alse <C 440_MEN> men <C 220_SCHRIJVEN> scrief <q> anno <q> domini <q> m'ho <q> cc'ho <q> lxxx'ho <q> nono 
+<L 1384:39> <q> secunda <q> ante <q> natiuitatem <q> ihoannis <q> baptiste 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1289' jaar_van='1289' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='59' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

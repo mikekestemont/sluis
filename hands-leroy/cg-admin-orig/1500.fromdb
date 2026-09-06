@@ -1,0 +1,63 @@
+<header>
+<docId>1500</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2284:21> <C 20_IMBERT> Ympin <C 471_DE> de <C 1_SCHEERDER> scerre <C 203+470_HOUDEN+HET> houdet <C 0_WEERSCHRIFT> wederscrift.- 
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 309_VIERWERFTWINTIG> iiijxx <C 21_VOORDE> Voorde <q> C. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2284:28> <C 204_WETEN> Weten <C 321_AL> alle <C 471_DE> de <C 411_GENE> ghene <C 421_DIE> die <C 204_ZIJN> siin <C 800_EN> ende <C 421_DIE> die <C 700_TE> te <C 251_KOMEN> comene <C 204_ZIJN> siin. <C 810_DAT> Dat <C 20_PETRUS> peter <C 700_VAN> van 
+<L 2284:29> <C 474_DE/HET> den <C 1_BROEK> broke <C 213_HEBBEN> heeft <C 273_KOPEN> ghecocht <C 500_WEL> wel <C 800_EN> ende <C 501_WETTELIJK> wettelike <C 700_JEGEN> jeghen <C 21_HENDRIK> heynricke <C 700_VAN> van 
+<L 2284:30> <C 20_BERCHEM> berchem. <C 309_6> vi <C 10_DAGWANT> dachwant <C 2_LAND> lants <C 421_DIE> die <C 274_LIGGEN> gheleghen <C 214_ZIJN> siin <C 700_IN> jn <C 471_DE> de <C 1_PAROCHIE> p<A >ro</A>chie <C 700_VAN> van <C 21_VOORDE> vorde, 
+<L 2284:31> <C 470+300_DE+EEN> deen <C 100_HALF> half <C 1_BUNDER> bunre <C 700_OP> op <C 20+470_EIKJE?+HET> theecskin <C 620_DAARAF> dar+af <C 810_DAT> dat <C 471_DE> de <C 1_VROUW> vrouwe <C 700_VAN> van <C 474_DE/HET> den <C 1_DAL> dale <C 700_VAN> van <C 474_DE/HET> den 
+<L 2284:32> <C 304_EEN> enen <C 1_DAGWANT> dachwande <C 474_DE/HET> den <C 0_SCHOOF> scoef <C 203_HEBBEN> heeft <C 800_EN> en<A >de</A> <C 20_ARNOUT> arnout <C 700_VAN> van <C 20_UFFEGEM?> hufflighem <C 700_VAN> van <C 474_DE/HET> den 
+<L 2284:33> <C 104_ANDER> andren <C 1_DAGWANT> dachwande <C 474_DE/HET> den <C 0_SCHOOF> scoef, <C 800_EN> en<A >de</A> <C 470+310_DE+ANDER> dander <C 1_BUNDER> bunre <C 700_OVER> ou<A >er</A> <C 0_WILGENBROEK> wilghenb<A >ro</A>c <C 620_DAARAF> dar+af 
+<L 2284:34> <C 810_DAT> dat <C 20_ARNOUT> arnout <C 700_VAN> van <C 20_UFFEGEM?> hufflighem <C 500_OOK> oec <C 474_DE/HET> den <C 0_SCHOOF> scoef <C 213_HEBBEN> heeft, <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 700_OM> om <C 481_EEN> ene <C 1_SOM> so<A >m</A>me 
+<L 2284:35> <C 700_VAN> van <C 14_PENNING> peni<A >n</A>cgen <C 421_DIE> die <C 20_PETRUS> peter <C 100_VOORZEID> vorseit <C 21_HENDRIK> heynricke <C 100_VOORGENOEMD> vorghenoemt <C 500_WEL> wel <C 800_EN> en<A >de</A> 
+<L 2284:36> <C 501_WETTELIJK> wettelike <C 213_HEBBEN> heeft <C 274_VERGELDEN> v<A >er</A>golden, <C 800_EN> en<A >de</A> <C 700_IN> jn <C 411_DEZE> dese <C 309_6> .vi. <C 10_DAGWANT> dachwant <C 2_LAND> lants <C 100_VOORZEID> vorseit <C 550_ZO> so <C 210_ZIJN> es 
+<L 2284:37> <C 20_PETRUS> peter <C 100_VOORGENOEMD> vorghenoemt <C 273_ERVEN> gheerft <C 500_WEL> wel <C 800_EN> ende <C 700_TE> te <C 1_WET> wette <C 800_EN> ende <C 213+600*_HEBBEN+DAAR-> heefter <C 320_AL> al <C 600#_-AF> af <C 274_DOEN> ghedaen 
+<L 2284:38> <C 420_DAT> dat <C 403_HIJ> hi <C 100_SCHULDIG> sculdech <C 230_ZIJN> was <C 700_TE> te <C 251_DOEN> doene <C 700_BIJ> bi <C 1_WET> wette; <C 500_VOORT> vort <C 550_ZO> so <C 213_HEBBEN> heeft <C 20_PETRUS> peter <C 100_VOORZEID> vorseit 
+<L 2284:39> <C 274_GEVEN> ghegheuen <C 21_HENDRIK> heynricke <C 100_VOORGENOEMD> vorghenoemt <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 451_HAAR> oere <C 411_DEZE> dese <C 111_VOORZEID> vorseide 
+<L 2284:40> <C 309_6> .vi. <C 10_DAGWANT> dachwant <C 2_LAND> lants <C 700_TE> te <C 251_HOUDEN> houdene <C 700_IN> jn <C 104_ERFELIJK> erfeliken <C 1_PACHT> pachte <C 700_VAN> van <C 24_PETRUS> petren <C 100_VOORZEID> vorseit <C 800_EN> en<A >de</A> 
+<L 2284:41> <C 700_VAN> van <C 454_ZIJN> sinen <C 1_OOR> oere <C 700_OM> om <C 309_4> .iiij. <C 19_LIBRA> lib <C 472+2_HET+JAAR> siars <C 700_VAN> van <C 415_ALZULK> alselk<A >er</A>e <C 4_MUNT> munten <C 821_ALS> alse <C 101_GENGE> ghinghe <C 800_EN> en<A >de</A> 
+<L 2284:42> <C 101_GAAF> gaue <C 210_ZULLEN> sal <C 260_ZIJN> siin <C 704_BINNEN> binnen <C 21_GERAARDSBERGEN> gh<A >er</A>oustb<A >er</A>ge <VN type=1> <C 322_ELK> elkes <C 2_JAAR> iars <C 324+700_ELK+TE> telken <C 1_TERMT> termte <C 850_DAT> dat <C 440_MEN> men 
+<L 2284:43> <C 411_DEZE> dese <C 1_RENTE> rente <C 100_VOORGENOEMD> vorghenoemt <C 100_SCHULDIG> sculdech <C 210_ZIJN> es <C 700_TE> te <C 251_GELDEN> gheldene, <C 200+410_ZIJN+DAT> dats <C 700_TE> te <C 251_VERSTAAN> v<A >er</A>stane <C 322_ELK> elkes 
+<L 2284:44> <C 2_JAAR> jars <C 501_EEUWELIJK> euweleke <C 700+474_TE+DE/HET> ten <C 314_EERST> ersten <C 1_DAG> daghe <C 700_VAN> van <C 21_MEI> meye; <C 231_ZIJN> ware <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 20_HENDRIK> heynric 
+<L 2284:45> <C 100_VOORZEID> vorseit <C 403_HIJ> hi <C 801_OF> ofte <C 450_ZIJN> siin <C 0_OOR> oer <C 560_NIET> niet <C 560_NE> ne <C 221_GELDEN> gholde <C 24_PETRUS> petren <C 100_VOORGENOEMD> vorghenoemt <C 403_HIJ> hem <C 801_OF> ofte <C 454_ZIJN> sinen 
+<L 2285:1> <C 1_OOR> oere <C 471_DE> de <C 101_VOORZEID> vorseide <C 1_RENTE> rente <C 322_ELK> elkes <C 2_JAAR> iars <C 501_EEUWELIJK> euweleke <C 700+324_TE+ELK> telken <C 1_TERMT> termte <C 820_GELIJK-DAT> ghelic+dat <C 504_VOREN> voren 
+<L 2285:2> <C 274_SCHRIJVEN> ghescreuen <C 210_ZIJN> es, <C 550_ZO> so <C 231_MOGEN> mochte <C 20_PETRUS> peter <C 100_VOORZEID> vorseit <C 403_HIJ> hi <C 801_OF> ofte <C 450_ZIJN> siin <C 0_OOR> oer <C 451_ZIJN> sine <C 0_HAND> hant <C 250_SLAAN> slaen <C 700_AAN> an 
+<L 2285:3> <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 700_IN> jn <C 100_AL> al <C 474_DE/HET> den <C 4_GELEGE> ghelaghen <C 850+403_DAT+HET> dat <C 221_LIGGEN> laghe <C 700_NA> na <C 471_DE> de <C 0_WET> wet <C 700_VAN> van <C 474_DE/HET> den <C 1_DORP> dorpe 
+<L 2285:4> <C 700_VAN> van <C 21_VOORDE> vorde, <C 800_EN> ende <C 403+250_HET+HOUDEN> houdent <C 501_EEUWELIJK> euweleke <C 501_PAISIEVELIJK> paisiuelleke <C 861_ALS> alse <C 450_ZIJN> sin <C 101_PROPER> p<A >ro</A>pre <C 1_ERF> erue 
+<L 2285:5> <C 700_ZONDER> sonder <C 1_WEDERZEGGEN> wedersecghene <C 700_VAN> van <C 441_IEMAND> jemene <C 841_ALS> alse <C 620_WAARBIJ> warbi <C 810_DAT> dat <C 471_DE> de <C 101_VOORZEID> vorseide <C 20_HENDRIK> heinric <C 403_HIJ> hi 
+<L 2285:6> <C 800_NO> no <C 450_ZIJN> siin <C 0_OOR> oer <C 505_NIMMERMEER> nemb<A >er</A>mer <C 500_WEER> weder <C 250_HERHEBBEN> herhebben <C 560_NE> en <C 231_MOGEN> mochte <C 800_NO> no <C 101_NEGENERHANDE> ne+gherehande 
+<L 2285:7> <C 0_RECHT> recht <C 600_DAARAAN> der+an <C 250_CLAMEREN> clameren <C 560_NE> en <C 231_MOGEN> mochte, <C 700_OVER> Ouer <C 411_DEZE> dese <C 14_VOORWAARDE> vorworden <C 224_ZIJN> waren, <C 20_LAURENTIUS> lourens 
+<L 2285:8> <C 700_VAN> van <C 20_BERCHEM> berchem. <C 20_IMBERT> ympin <C 471_DE> de <C 1_SCHEERDER> scerre. <C 21_JOHANNES> hanne <C 471_DE> de <C 0_SMID> smet. <C 20_GERARD> Gherart <C 700_VAN> van <C 475_DE/HET> der <C 4_HAAG> haghen. 
+<L 2285:9> <C 20_BOUDEWIJN> boidin <C 471_DE> de <C 0_VIJK-X> viic. <C 20_PETRUS> peter <C 471_DE> de <C 0_MEERSMAN> m<A >er</A>sman <C 800_EN> ende <C 20_PETRUS> peter <C 700_VAN> van <C 20_NEDERWIJK> nederwiic <C 861_ALS> alse <C 14_SCHEPEN> scepenen 
+<L 2285:10> <C 700_VAN> van <C 21_VOORDE> vorde. <C 700+470_IN+HET> jnt <C 0_JAAR> jar <C 452_ONS> ons <C 4_HEER> heren <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scriift <C 309_1200-VIERWERFTWINTIGENZESTIEN> .m.cc..iiij'hx'hx+&+xvi. <C 700_IN> jn <C 471_DE> de <C 0_MAAND> maent 
+<L 2285:11> <C 700_VAN> van <C 21_MEI> meye.... 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

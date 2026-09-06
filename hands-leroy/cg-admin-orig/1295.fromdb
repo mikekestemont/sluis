@@ -1,0 +1,39 @@
+<header>
+<docId>1295</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1967:36> <C 404_WIJ> Wij <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 700_VAN> van <C 20_ZEELAND> zelant <C 800_EN> en<A >de</A> <C 1_HEER> here <C 700_VAN> van <C 20_FRIESLAND> [vri]eslant 
+<L 1967:37> <C 204_GROETEN> groeten <C 321_AL> alle <C 471_DE> die <C 411_GENE> ghene <C 414_DEZE> desen <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 800_EN> en<A >de</A> 
+<L 1967:38> <C 204_MAKEN> maken <C 406_ZIJ> hem <C 410_DAT> dat <C 100_KOND> cont. <C 800_EN> en<A >de</A> <C 100_KENLIJK> kenleec. <C 810_DAT> Dat <C 404_WIJ> wij <C 204_GELOVEN> ghel[ouen] <C 700_MET> met <C 105_GOED> goeder 
+<L 1967:39> <C 4_TROUW> trouwen <C 700_IN> in <C 414_DEZE> desen <C 104_JEGENWOORDIG> ieghenwordechen <C 1_BRIEF> brieue, <C 455_ONS> onser <C 105_GEMEEN> ghemeenre <C 0_POORT> port <C 700_VAN> van 
+<L 1967:40> <C 20_DORDRECHT> Dordrecht, <C 421_DIE> die <C 0_HOUDER> houder <C 210_ZIJN> es <C 700_VAN> van <C 414_DEZE> dese[n] <C 1_BRIEF> [brie]ue, <C 700+475_VAN+DE> vander <C 0_BORGTOCHT> bortocht, <C 421_DIE> die <C 403_ZIJ> si <C 700_VOOR> voer 
+<L 1967:41> <C 404_WIJ> ons <C 274_DOEN> ghedaen <C 213_HEBBEN> heeft, <C 21_RICHOLD> Rycoude <C 700_VAN> van <C 20_NOORDELOOS> noerdeloes <C 454_ONS> onsen <C 1_KNAAP> knape, <C 800_EN> en<A >de</A> <C 454_ZIJN> sijnen 
+<L 1967:42> <C 14_ERFNAAM> arfnamen <C 230_ZIJN> w[aer] <C 410_DAT> [dat] <C 1_ZAAK> sake, <C 810_DAT> dat <C 403_HIJ> sijns <C 221_GEBREKEN> ghebrake, <C 801_OF> jofte <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die 
+<L 1967:43> <C 22_RICHOLD> Rycouts <C 1_HANDVEST> hantveste <C 203_BRENGEN> brenghet, <C 841_ALS> alse <C 700_VAN> van, <C 300_DUIZEND> Dusent <C 14_POND> ponden <C 115_NIEUW> nyew[er] 
+<L 1967:44> <q> [...]er <C 11_PENNING> penninghe, <C 700_VAN> van <C 22_RICHOLD> rycouts <C 1_HUIZING> husinghe <C 704_BINNEN> binnen <C 20_DORDRECHT> Dordrecht. 
+<L 1967:45> <C 500_VOORT> Vo[ert] <C 700+475_VAN+DE> vander <C 0_BORGTOCHT> bortocht, <C 421_DIE> die <C 403_ZIJ> si <C 700_VOOR> voer <C 404_WIJ> ons <C 274_DOEN> ghedaen <C 213_HEBBEN> heeft 
+<L 1967:46> <q> [...]n <C 1_TOLLENAAR> tolnare <C 700_VAN> van <C 20_GEERVLIET> Gheervliet, <C 841_ALS> alse <C 700_VAN> van <C 300_200> Tveen+hondert 
+<end-statushand  statushandkode='mn'>
+
+<statushand  statushandkode='an'>
+
+<L 1968:1> <C 14_POND> pond[en] <C 800_EN> en<A >de</A> <C 304_60> tsestenchen, <C 115_VLAAMS> vlaemscher <C 11_PENNING> penninghe, <C 810_DAT> Dat <C 404_WIJ> wij, <C 471_DE> die 
+<L 1968:2> <C 101_VOORZEID> [voersei]de <C 101_GEMEEN> ghemeene <C 0_POORT> port <C 700_VAN> van <C 20_DORDRECHT> dordrecht, <C 700_VAN> van <C 415_DEZE> deser <C 0_BORGTOCHT> bortocht <C 100_SCHADELOOS> scadeloes 
+<L 1968:3> <C 214_ZULLEN> sullen <C 250_HOUDEN> houden. <C 700_IN> Jn <C 1_OORKONDE> orconde <C 414_DEZE> desen <C 1_BRIEF> brieue, <C 421_DIE> [d]ie <C 230_WORDEN> w[art] <C 274_GEVEN> ghegheven <C 470+700_HET+IN> jnt <C 0_JAAR> jaer 
+<L 1968:4> <C 452_ONS> ons <C 4_HEER> heren. <C 300_DUIZEND-293> Dusent.+tvehondert.+drie+en<A >de</A>+neghentich. <C 472_DE> des <C 2+310_DAG+ANDER> and<A >er</A>daghes 
+<L 1968:5> <C 700_NA> na <C 101_SINT> sente <C 22_THOMAS> Thomaes <C 0_DAG> dach. <C 472_DE/HET> des <C 2_APOSTEL> apostels. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

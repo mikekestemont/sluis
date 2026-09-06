@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "n": 6,
+    "source": "sluis-queries"
+  },
+  "images": {
+    "Bu\u0308dingen1r.png": {
+      "source": "images/additional/Bu\u0308dingen1r.jpg",
+      "page_size": [
+        1696,
+        1110
+      ],
+      "bbox": [
+        104,
+        8,
+        1693,
+        1079
+      ],
+      "crop_size": [
+        1589,
+        1071
+      ],
+      "stretch": {
+        "p2": 9.0,
+        "p98": 239.0,
+        "span": 230.0,
+        "applied": 1
+      }
+    },
+    "Bu\u0308dingen1v.png": {
+      "source": "images/additional/Bu\u0308dingen1v.jpg",
+      "page_size": [
+        1675,
+        1095
+      ],
+      "bbox": [
+        66,
+        1,
+        1675,
+        1063
+      ],
+      "crop_size": [
+        1609,
+        1062
+      ],
+      "stretch": {
+        "p2": 22.0,
+        "p98": 240.0,
+        "span": 218.0,
+        "applied": 1
+      }
+    },
+    "Genois-1327a.png": {
+      "source": "images/additional/Genois-1327a.jpg",
+      "page_size": [
+        3546,
+        2019
+      ],
+      "bbox": [
+        278,
+        159,
+        3512,
+        1776
+      ],
+      "crop_size": [
+        3234,
+        1617
+      ],
+      "stretch": {
+        "p2": 75.0,
+        "p98": 202.0,
+        "span": 127.0,
+        "applied": 1
+      }
+    },
+    "Genois-1327b.png": {
+      "source": "images/additional/Genois-1327b.jpg",
+      "page_size": [
+        4336,
+        2413
+      ],
+      "bbox": [
+        290,
+        121,
+        4176,
+        2235
+      ],
+      "crop_size": [
+        3886,
+        2114
+      ],
+      "stretch": {
+        "p2": 78.0,
+        "p98": 206.0,
+        "span": 128.0,
+        "applied": 1
+      }
+    },
+    "Genois-1327c.png": {
+      "source": "images/additional/Genois-1327c.jpg",
+      "page_size": [
+        2483,
+        2468
+      ],
+      "bbox": [
+        22,
+        43,
+        2465,
+        2422
+      ],
+      "crop_size": [
+        2443,
+        2379
+      ],
+      "stretch": {
+        "p2": 37.0,
+        "p98": 202.0,
+        "span": 165.0,
+        "applied": 1
+      }
+    },
+    "RA-800r.png": {
+      "source": "images/additional/RA-800r.jpg",
+      "page_size": [
+        2573,
+        3231
+      ],
+      "bbox": [
+        53,
+        57,
+        2567,
+        3077
+      ],
+      "crop_size": [
+        2514,
+        3020
+      ],
+      "stretch": {
+        "p2": 73.0,
+        "p98": 200.0,
+        "span": 127.0,
+        "applied": 1
+      }
+    }
+  }
+}

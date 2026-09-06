@@ -1,0 +1,45 @@
+<header>
+<docId>1319</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1993:8> <C 700_OP> vp <C 471_DE> die <C 1_HAVEN> havenne <C 700_AAN> an <C 471_DE> die <C 1_LANDZIJDE> lantside <C 560_NIET> niet <C 700_TE> te 
+<L 1993:9> <C 251_TIMMEREN> ti<A >m</A>merne. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1294' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1993:19> <q> [...] <C 11_RAADSMAN> Raedsmanne, <C 700_IN> jn <C 20_DORDRECHT> Dordrecht, <C 204_MAKEN> maken <C 100_KOND> Cont, <C 800_EN> en<A >de</A> 
+<L 1993:20> <C 101_KENLIJK> kenleke <C 320_AL> al <C 474_DE/HET> den <q> [...] <C 800_EN> en<A >de</A> <C 250_HOREN> ho<A >er</A>en <C 250_LEZEN> lesen, <C 810_DAT> Dat <C 404_WIJ> wi <C 700_BIJ> bi 
+<L 1993:21> <C 104_GEMEEN> ghemeenen <C 1_RAAD> Rade <C 800_EN> en<A >de</A> <C 700_OM> om <C 1_OORBAAR> orba<A >er</A>e <C 455_ONS> onser <q> [...]e 
+<L 1993:22> <C 250+700_GEDUREN+TE> teghedu<A >er</A>en, <C 500+810_ALZO+DAT> al+soe+dat <C 441_NIEMAND> Niemene <C 11_HUIZING> husinghe <C 250_ZETTEN> setten <C 560_NE> ne <C 210_ZULLEN> sal, <C 800_NOCH> noch <C 290_DOEN> doen 
+<L 1993:23> <q> [...]e <C 1_LANDZIJDE> lantside, <C 700_VAN> van <C 22_NICOLAAS> Claes <C 104_VROED> Vroeden <C 1_BUUR> bure <C 474+700#_DE+TOT> toten <C 1_TOREN> torne <C 700*_TOE> toe <C 421_DIE> die 
+<L 1993:24> <C 203_STAAN> staet <q> [...] <C 105_GROOT> [gr]oeter <C 4_KERK> kerken <C 700#_WAART> wart <C 700_OP> op <C 471_DE> die <C 1_BOETE> boete <C 700_VAN> van <C 300_TIEN> Tien, 
+<L 1993:25> <C 14_POND> ponden, <C 700_VAN> van <C 494_DE> dien <q> [...] <C 411_DEZE> [de]se <C 0_BRIEF> brief <C 274_GEVEN> ghegheuen <C 230_ZIJN> was. <C 800_EN> Ende <C 471_DE> die 
+<L 1993:26> <C 11_HUIS> huse <C 800_OF> jof <C 11_HUIZING> husinghe, <C 421_DIE> die <C 500_NU> nv <C 475+700_DE+TE> ter <q> [...] <C 100_GETIMMERD> gheti<A >m</A>mert <C 204_STAAN> staen, <C 411_DIE> die 
+<L 1993:27> <C 214_ZULLEN> sollen <C 260_ZIJN> sijn <C 274_AFBREKEN> of+ghebroken <C 800_EN> en<A >de</A> <C 475+700_DE+VAN> vander <C 1_HAVEN> hauene <q> [...]e 
+<L 1993:28> <C 1_MEIDAG> meydaghe <C 421_DIE> die <C 503_NAAST> naest <C 271_TOEKOMEN> toe+comende <C 210_ZIJN> es, <C 800_EN> en<A >de</A> <C 300_ACHT> acht <C 11_DAG> daghe <C 610_DAARNA> daer+na 
+<L 1993:29> <q> [...] <C 491_DIE> die <C 204_STAAN> staen <C 700_VOOR> voer <C 471_DE> die <C 11_MINDERBROEDER> mijnrebrod<A >er</A>e <C 700*+475_TE+DE> ter <C 4_VISBRUG> visbrugghen <C 700#_TOE> toe; 
+<L 1993:30> <C 406+230_ZIJ+BLIJVEN> bleu<A >er</A>e <q> [...]en <C 250_STAAN> staen <C 700_OP> op <C 471_DE> die <C 101_VOORZEID> vorseide <C 1_HAVEN> hauene <C 411_DIE> die <C 440+230_MEN+ZULLEN> soudmen 
+<L 1993:31> <C 250_AFBREKEN> of+breken <C 700+475_MET+DE> mett<A >er</A> <q> [...] <C 1_OORKONDE> [o]rkonde <C 414_DEZE> desen <C 14_STUK> sticken <C 421_DIE> die 
+<L 1993:32> <C 274_VOORSCHRIJVEN> vorscreue<A >n</A> <C 214_STAAN> staen <C 101_VAST> vaste <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <q> [...] <C 0_BRIEF> [br]ief <C 273_BEZEGELEN> beseghelt 
+<L 1993:33> <C 700_MET> met <C 455_ONS> onser <C 1_STAD> stede <C 1_ZEGEL> seghele. <C 421_DIE> Die <C 274_GEVEN> ghegheuen <C 230_ZIJN> was <q> [...] <C 300_193> hondert.+drie+en<A >de</A>+Neghentich. 
+<L 1993:34> <C 10_JAAR> jaer <C 455_ONS> onser <C 4_VROUW> vrouwen <C 1_AVOND> auon[de] <q> [...] <q> [...] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

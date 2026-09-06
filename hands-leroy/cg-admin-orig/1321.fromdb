@@ -1,0 +1,36 @@
+<header>
+<docId>1321</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1293' tijdsoort='6' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1995:16> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> hollant, <C 700_VAN> van <C 20_ZEELAND> zelant <C 800_EN> ende <C 1_HEER> here <C 700_VAN> van <C 20_FRIESLAND> vreislant. 
+<L 1995:17> <C 204_MAKEN> maken <C 100_KOND> kont <C 700_MET> met <C 414_DEZE> thesen <C 1_BRIEF> brieue <C 810_DAT> dat <C 700_VOOR> voir <C 404_WIJ> ons <C 224_KOMEN> quamen, <C 0_HEER> har <C 20_WILHELM> willaem <C 700_VAN> van 
+<L 1995:18> <C 21_EGMOND> egmunde, <C 20_GERARD> Gherart <C 700_VAN> van <C 20_VELZEN> velsen <C 20_GERARD> Gherart <C 4_HEER> haren <C 22_WOUTER> wouters <C 1_ZOON> sone <C 800_EN> ende <C 111_GOED> goede 
+<L 1995:19> <C 11_LIEDEN> liede <C 502_ANDERS> anders, <C 800_EN> ende <C 224_ZEGGEN> segheden <C 404_WIJ> ons <C 475+700_DE+MET> metter <C 1_WAARHEID> war[e]de <VN type=1> <C 810_DAT> dat <C 20_WILHELM> willaem <C 700_VAN> van 
+<L 1995:20> <C 20_HAARLEM> harlem <C 4_HEER> haren <C 22_SIMON> simons <C 1_ZOON> sone <C 700_VAN> van <C 20_HAARLEM> harlem <C 700_MET> met <C 105_GOED> goeder <C 1_DENKENIS> denkenesse <VN type=1> <q> , <C 470_HET> dat 
+<L 1995:21> <C 1_NOORDEIND> nortende <C 700_VAN> van <C 20_SCHERMER> scermer, <C 24_MIJZEN> mizen, <C 800_EN> ende <C 20_URSEM> vrsem <C 700_MET> met <q> [horen] <C 1_GERECHT> [ghe]rechte <C 210_ZULLEN> sel 
+<L 1995:22> <C 250_HOUDEN> houden <C 700_TE> te <C 1_LEEN> leene <C 700_VAN> van <C 21_GERARD> Gherarde <C 474_DE/HET> den <C 1_KIND> kinde <C 700_VAN> van <C 21_VOORNE> vorne <C 500_DAN> dan <C 700_VAN> van <C 404_WIJ> ons <C 800_EN> en<A >de</A> 
+<L 1995:23> <C 411_DEZE> [dese] <C 101_VOORGENOEMD> [voir]+ghenomede <C 20_GERARD> gherart <C 410_DIT> dit <C 411_ZELF> selue <C 0_GOED> goet <C 700_VAN> van <C 404_WIJ> ons <C 210_ZULLEN> sel <C 250_HOUDEN> houden, <C 700_IN> Jn 
+<L 1995:24> <C 1_OORKONDE> oircunde <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieue <C 421_DIE> die <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700_IN> jn <C 471_DE> die <C 1_HAAG> hagh[e] <C 472_DE/HET> des 
+<L 1995:25> <C 314+2_DERDE+DAG> derdendaghes <C 700_IN> jn <C 21_APRIL> aprelle <C 700_IN> jn <C 474_DE> dein <C 14_JAAR> jaren <C 452_ONS> onses <C 4_HEER> heiren <VN type=1> <C 300_1000-293> Dusent+Tue+hond[ert+ende]+d[r]ei+ende+Negentich. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<statushand  statushandkode='an'>
+
+<L 1995:53> <C 4_HEER> heren 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1293' tijdsoort='6' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

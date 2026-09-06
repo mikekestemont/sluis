@@ -1,0 +1,59 @@
+<header>
+<docId>0135</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='2'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 254:12> <C 101_SINT> SENTE: <C 22_JOHANNES> [JA]NS: <C 0_HUIS> [H]VES: <C 700_VAN> [V]AN: 
+<L 254:13> <C 20_GENT> GHENT. 
+<end-datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='2'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 472+0_DE+HEER> ser <C 20_SANDER> sanders <C 700_VAN> van <C 474_DE/HET> den 
+<L 254:14> <q> boengarde.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 700_IN> in <C 471_DE> de <C 1_BOOMGAARDSTRAAT> boegaert+strate. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 254:20> <C 1_HEER> Here <C 20_GIJSBERT> Ghiselbrecht <C 0+472_HEER+DE> ser <C 22_HUGO> hughes <C 1_ZOON> sone <C 800_EN> ende <C 1_HEER> here <C 20_FILIPPUS> filips <C 474+700_DE/HET+UIT> vten <C 1_HOF> houe <C 421_DIE> die 
+<L 254:21> <C 11_VOOGD> voghede <C 214_ZIJN> sijn <C 700_VAN> van <C 474_DE/HET> den <C 1_HOSPITAAL> hospitale <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_JOHANNES> jans <C 0_HUIS> hues <C 700_VAN> va<A >n</A> <C 20_GENT> ghent <C 800_EN> en<A >de</A> <C 471_DE> de 
+<L 254:22> <C 1_MEESTEREGGE> meestrigghe <C 800_EN> ende <C 471_DE> die <C 11_BROEDER> broedere. <C 800_EN> en<A >de</A> <C 471_DE> de <C 11_ZUSTER> sustere <C 700_VAN> va<A >n</A> <C 414_DIE> dien <C 414_ZELF> seluen <C 0_HUIS> hues 
+<L 254:23> <C 204_MAKEN> maken <C 100_KENLIJK> kenlic <C 800_EN> en<A >de</A> <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 411_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 254:24> <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 801_OF> ofte <C 250_HOREN> horen <C 250_LEZEN> lesen. <C 810_DAT> dat <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_HUIS> hues <C 210_ZIJN> es <C 100_SCHULDIG> schuldech <C 474_DE/HET> den 
+<L 254:25> <C 0+21_HEER+ALEXANDER> hersanderse <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_BOOMGAARD> boengarde <C 309_9> .ix. <C 19_SOLIDUS> sol. <C 2+472_JAAR+HET> siaers <C 700_TE> te <C 454_ZIJN> sinen <C 1_LIJF> liue <C 700_TE> Te <C 251_GELDEN> gheldene 
+<L 254:26> <C 322_ELK> elkes <C 2_JAAR> iars <C 700_TE> te <C 24_SINKSEN> tsincsenen. <C 800_EN> en<A >de</A> <C 811_ALS> alse <C 403_HIJ> sijns <C 203_GEBREKEN> ghebreket <C 550_ZO> soe <C 210+470_ZIJN+HET> eist <C 0_HUIS> hues <C 101_KWIJT> quite 
+<L 254:27> <C 700_VAN> va<A >n</A> <C 415_DIE> diere <C 1_RENTE> rente. <C 421_DIE> die <C 510_HIER> hier <C 210_ZIJN> es <C 273_VOORZEGGEN> vorseit. <C 800_EN> Ende <C 700_OVER> ouer <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_RENTE> rente <C 213_HEBBEN> heuet 
+<L 254:28> <C 403_HIJ> hi <C 274_GEVEN> ghe+gheven <C 414_DIE> dien <C 104_VOORZEID> vorseiden <C 0_HUIS> hues, <C 481_EEN> ene <C 1_HOFSTEDE> hofstede <C 421_DIE> die <C 203_GELDEN> gheldet <C 309_9> .ix. <C 19_SOLIDUS> sol. 
+<L 254:29> <C 500_JAARLIJK> iarlijc. <C 421_DIE> die <C 203_LIGGEN> leghet <C 700_OVER> ouer <C 21_SCHELDE> schelde <C 470+700_HET+IN> int <C 0_BOOMGAARDSTRAATJE> boengartstratekin, <C 700_NAAST> naest <C 485_EEN> ere <C 4_HOFSTEDE> hofsteden 
+<L 254:30> <C 421+472_DIE+DE> dies <C 2*_HEILIGE-> helechs <C 2#_-GEEST> gheestes <C 210_ZIJN> es <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans <C 700_VAN> va<A >n</A> <C 20_GENT> ghent. <C 700_IN> jn <C 471_DE> de <C 1_ZIJDE> zide <C 700*+474_TE+DE> ten <C 14_RAAM> ramen 
+<L 254:31> <C 700#_WAART> wart. <C 800_EN> Ende <C 411_DIE> die <C 411_ZELF> selue <C 101_VOORZEID> vorseide <C 1_HOFSTEDE> hofstede <C 213_HEBBEN> heuet <C 403_HIJ> hi <C 274_DOEN> ghedaen <C 414_DIE> dien <C 104_VOORZEID> vorseiden 
+<L 254:32> <C 0_HUIS> hues <C 700_IN> in <C 4_POSSESSIE> possessien <C 501_EEUWELIJK> ewelike <C 700_TE> te <C 251_BEZITTEN> besittene <C 700_IN> in <C 4_AALMOES> alemoesenen <C 700_OVER> ouer <C 451_ZIJN> sine <C 1_ZIEL> ziele. 
+<L 254:33> <C 800_EN> En<A >de</A> <C 810_OMDAT> ombe+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 411_DEZE> dese <C 11_DING> dinghe <C 214_ZIJN> sijn <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 550_ZO> so 
+<L 254:34> <C 404+210_WIJ+HEBBEN> hebwi <C 411_DEZE> dese <C 4_LETTER> lettren <C 273_ZEGELEN> gheseghelt <C 474+700_DE/HET+MET> metten <C 1_ZEGEL> zeghele <C 700_VAN> va<A >n</A> <C 414_DIE> dien <C 104_VOORZEID> vorseiden 
+<L 254:35> <C 1_HOSPITAAL> hospitale <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_JOHANNES> jans <C 0_HUIS> hues <C 700_VAN> va<A >n</A> <C 20_GENT> ghent. <C 800_EN> en<A >de</A> <C 700+474_MET+DE/HET> metten <C 14_ZEGEL> zeghelen <C 0+472_HEER+DE> ser 
+<L 254:36> <C 22_GIJSBERT> ghiselbrechts <C 0+472_HEER+DE> ser <C 22_HUGO> hughes <C 1_ZOON> sone. <C 800_EN> en<A >de</A> <C 0+472_HEER+DE> ser <C 22_FILIPPUS> filips <C 700+474_UIT+DE/HET> vten <C 1_HOF> houe. <C 410_DIT> Dit <C 230_ZIJN> was 
+<L 254:37> <C 273_MAKEN> ghemaket <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 319_1273> .m'ho.+cc'ho.+en<A >de</A>+.lxxiij'ho. <C 700_OP> vp <C 474_DE/HET> den <C 0_ZONDAG> zondach <C 700_NA> na 
+<L 254:38> <C 24_SINKSEN> tsincsenen <q> - 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1273' jaar_van='1273' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

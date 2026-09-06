@@ -994,7 +994,26 @@ document.addEventListener("keydown", e => {
     if (e.key === "x") pickCorpusNone(c.id);
   }
 });
+(function openFromUrl() {
+  const params = new URLSearchParams(location.search);
+  let pid = (params.get("photo") || location.hash.replace(/^#/, "") || "").trim();
+  pid = pid.replace(/\.png$/i, "");
+  if (!pid) return;
+  if (params.get("clear") === "1" || params.get("reset") === "1") {
+    delete marks[pid];
+    save();
+  }
+  mode = "photo";
+  filter = "all";
+  const sel = document.getElementById("filter");
+  if (sel) sel.value = "all";
+  setBtns();
+  const xs = photoList();
+  const i = xs.findIndex(p => p.id === pid);
+  cur = i >= 0 ? i : 0;
+})();
 render();
+document.getElementById("snip")?.focus();
 </script>
 """
 

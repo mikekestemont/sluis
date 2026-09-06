@@ -1,0 +1,54 @@
+<header>
+<docId>1908</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2815:19> <C 474+700_DE/HET+VAN> Vanden <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <q> vrede <q> breken. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2815:25> <q> .. <C 320+474_AL+DE/HET> Alden <C 414_GENE> gene<A >n</A> <C 421_DIE> de <C 414_DEZE> desen <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> solen <C 800_OF> of <C 250_HOREN> hore<A >n</A> <C 250_LEZEN> lesen, <C 210_DOEN> do <C 404_WIJ> wi <C 250_VERSTAAN> verstaen.. 
+<L 2815:26> <C 1_SCHULD> Scoute.. <C 10_SCHEPEN> Scepen. <C 471+800_DE+EN> ente <C 0_RAAD> raet <C 475_DE/HET> der <C 0_STAD> stat <C 700_VAN> va<A >n</A> <C 20_UTRECHT> vtrecht, <C 810_DAT> dat <C 404_WIJ> wi <C 411_DEZE> dese <C 11_KEUR> kore, <C 421_DIE> de <C 510_HIER> hir 
+<L 2815:27> <C 274_BESCHRIJVEN> bescreue<A >n</A> <C 214_STAAN> staen, <C 273_MAKEN> gemaket <C 214_HEBBEN> hebben, <C 700_BIJ> bi <C 104_GEMEEN> gemene<A >n</A> <C 1_RAAD> rade, <C 700_DOOR> dor <C 470+4_HET+BEST> tbesten <C 1_WIL> wille, 
+<L 2815:28> <C 203_KRONEN> croent <C 440_IEMAND> iman, <C 810_DAT> dat <C 1_VREDE> vrede <C 274_BREKEN> gebroken <C 210_ZIJN> si, <C 510_ZO> so <C 214_ZULLEN> solen <C 471_DE> de <C 14_OUDERMAN> ouderma<A >n</A>nen <C 250_NEMEN> neme<A >n</A> 
+<L 2815:29> <C 406_ZIJ> hom <C 304_VIJF> viuen <C 700+475_UIT+DE> vter <C 0_STAD> stat <C 0_RAAD> raet, <C 471_DE> de <C 301_VIJF> viue <C 214_ZULLEN> solen <C 610_DAARAF> dar+of <C 471_DE> de <C 0_WAARHEID> wareit <C 250_ONDERVINDEN> onder+vinden 
+<L 2815:30> <C 704_BINNEN> binne<A >n</A> <C 14+300_DAG+ACHT> achtdage<A >n</A> <C 700_VAN> van <C 474_DE/HET> den <C 1_DAG> dage <C 850_DAT> dat <C 406_ZIJ> si <C 610_DAARTOE> dar+to <C 274_NEMEN> genome<A >n</A> <C 214_ZIJN> sijn. <C 800_EN> en<A >de</A> 
+<L 2815:31> <C 204+403_BRENGEN+HET> brengent <C 500_WEER> weder <C 474+700_DE/HET+IN> inden <C 0_RAAD> raet, <C 811_OF> ofte <C 1_VREDE> vrede <C 274_BREKEN> gebroke<A >n</A> <C 210_ZIJN> si. <C 800_EN> en<A >de</A> <C 431_WIE> we <C 410_DAT> dat <C 274_DOEN> gedaen 
+<L 2815:32> <C 211_HEBBEN> hebbe, <C 214_MOGEN> mogen <C 406_ZIJ> si <C 403+452_HET+HAAR> shors <C 250_OVEREENDRAGEN> ou<A >er</A>een+dragen. <C 800_MAAR> mer <C 560_NE> en <C 214_MOGEN> mogen <C 406_ZIJ> si <C 560_NIET> niet <C 250_OVEREENDRAGEN> ouereen+drage<A >n</A> 
+<L 2815:33> <C 420_WAT> wat <C 471_DE> de <C 101_MEEST> meeste <C 1_PARTIJ> p<A >ar</A>tie <C 700_VAN> van <C 474_DE/HET> den <C 304_VIJF> viue<A >n</A> <C 110_VOORGENOEMD> vorgenoemt <C 203_VOORTBRENGEN> vortbrengt <C 410_DAT> dat 
+<L 2815:34> <C 210_ZULLEN> sel <C 101_STAD> stade <C 260_WEZEN> wesen, <C 410+441_DIT+ZO-WIE> so+wedit <C 700_VAN> van <C 414_DEZE> desen <C 300_VIJF> vijf <C 14_MAN> ma<A >n</A>nen, <C 560_NIET> niet <C 250_DOEN> doen <C 560_NE> en <C 231_WILLEN> woude, 
+<L 2815:35> <C 414_DIE> den <C 210_ZULLEN> sel <C 440_MEN> me<A >n</A> <C 250_HOUDEN> houden, <C 700_VOOR> vor <C 474_DE/HET> den <C 414_ZELF> selue<A >n</A> <C 421_DIE> de <C 474_DE/HET> den <C 1_VREDE> vrede <C 220_BREKEN> brac <q> 't% <C 500_VOORT> Vort <C 203_TIJGEN> tiet <C 471_DE> de 
+<L 2815:36> <C 0_RAAD> raet <C 700_VAN> van <C 475_DE/HET> der <C 0_STAD> stat <C 403_HET> des <C 440_IEMAND> yman, <C 810_DAT> dat <C 403_HIJ> hi <C 611_DAARMEDE> dar+mede <C 220_ZIJN> was, <C 700_MET> met <C 1_RAAD> rade <C 800_OF> of <C 700_MET> mit <C 1_DAAD> dade, 
+<L 2815:37> <C 520_DAAR> dar <C 1_VREDE> vrede <C 274_BREKEN> gebroken <C 210_ZIJN> si, <C 510_ZO> so <C 210_ZULLEN> sel <C 471_DE> de <C 411_GENE> gene, <C 421+440_DIE+MEN> demen <C 403_HET> des <C 203_BETIJGEN> betiet, <C 250_ZWEREN> sueren <C 700_MET> mit <C 300_VIER> vijr 
+<L 2815:38> <C 114_GOED> gueden <C 14_MAN> ma<A >n</A>nen, <C 421_DIE> de <C 471_DE> de <C 0_RAAD> raet <C 700_VAN> van <C 475_DE/HET> der <C 0_STAD> stat <C 610_DAARTOE> dar+to <C 203_NEMEN> nemt, <C 810_DAT> dat <C 403_HIJ> hi <C 100_ONSCHULDIG> onsculdich 
+<L 2815:39> <C 210_ZIJN> is, <C 2_RAAD> raets <C 800_EN> en<A >de</A> <C 2_DAAD> daets <C 810_DAT> dat <C 471_DE> de <C 1_VREDE> vrede <C 274_BREKEN> gebroken <C 230_ZIJN> was <C 611_HIERMEDE> hir+mede <C 210_ZIJN> is <C 403_HIJ> hi <C 100_KWIJT> quijt. <q> 't% 
+<L 2815:40> <C 220_ZIJN> Waer <C 440_ENIG> enich <C 0_MAN> man, <C 421_DIE> de <C 444_EEN> ene<A >n</A> <C 1_VREDE> vrede <C 221_BREKEN> brake, <C 220_ZIJN> waer <C 810_DAT> dat <C 403_HIJ> hi <C 100_DOOD> doet <C 231_BLIJVEN> bleue, <C 621*_DAAR-> dar <C 403+403_HIJ+HIJ> hine 
+<L 2815:41> <C 621#_-AAN> ane <C 221_BREKEN> brake, <C 810_DAT> dat <C 403+440+231_HIJ+MEN+ZULLEN> soude<A >m</A>me<A >n</A> <C 250_RECHTEN> rechte<A >n</A> <C 700_AAN> an <C 454_ZIJN> sine<A >n</A> <C 0_HALS> hals, <C 403+421_HET+DIE> deet <C 274_DOEN> gedaen <C 231_HEBBEN> hadde, 
+<L 2815:42> <C 810_HOE-DAT> hoe+dat <C 403+403_HIJ+HIJ> hine <C 502_ANDERS> anders <C 221_BREKEN> brake, <C 810_DAT> dat <C 403+403_HIJ+HIJ> hine <C 221_STOTEN> stiete <C 801_OF> ofte <C 221_SLAAN> sloge, <C 801_OF> ofte <C 221_WONDEN> wonde, <C 410_DAT> dat 
+<L 2815:43> <C 221_GAAN> genghe, <C 700_AAN> an <C 451_ZIJN> sine <C 0_HAND> hant, <C 474_DE/HET> den <C 414_GENE> gene<A >n</A> <C 421_DIE> de <C 410_DAT> dat <C 221_DOEN> dede. <q> 't% <C 220_ZIJN> Waer <C 500_OOK> oec <C 440_IEMAND> ima<A >n</A> <C 421_DIE> de <C 474_DE/HET> den 
+<L 2815:44> <C 104_ANDER> andren <C 221_JAGEN> iaghede, <C 800_EN> en<A >de</A> <C 403+403_HIJ+HIJ> hine <C 800_WEDER> weder <C 221_STOTEN> stiete <C 800_NOCH> noch <C 560_NE> en <C 221_SLAAN> sloge, <C 800_EN> en<A >de</A> <C 403_HIJ> hi <C 610_DAARAF> daer+of 
+<L 2815:45> <C 274_BEDRAGEN> bedrage<A >n</A> <C 234_WORDEN> worden, <C 810+403_DAT+HET> dat <C 700+474_BINNEN+DE/HET> binne<A >n</A> <C 1_VREDE> vrede <C 273_GESCHIEDEN> gesciet <C 231_ZIJN> ware, <C 411_DIE> de <C 221_VERBEUREN> verboerde <C 309_5> .v. <C 19_LIBRA> lib. <q> 't% 
+<L 2815:46> <C 220_ZIJN> Waer <C 440_ENIG> enich <C 0_MAN> man <C 421+440_DIE+MEN> demen <C 221_EISEN> eyscede, <C 700_VAN> van <C 0_TUIG> tuech <C 700_TE> te <C 251_DOEN> done, <C 800_EN> en<A >de</A> <C 421_DIE> de <C 560_NIET> niet <C 250_ZWEREN> sueren 
+<L 2816:1> <C 560_NE> en <C 231_WILLEN> woude, <C 800_NOCH> noch <C 250_TUIGEN> tughen, <C 821_ALS> alse <C 403_HIJ> hi <C 100_SCHULDIG> sculdich <C 230_ZIJN> waer <C 700_TE> te <C 251_DOEN> done, <C 411_DIE> de <C 221_VERBEUREN> verboerde 
+<L 2816:2> <C 414_ZULK> sulken <C 1_KEUR> kore, <C 821_ALS> alse <C 471_DE> de <C 414_GENE> gene<A >n</A> <C 250_VERBEUREN> verbore<A >n</A> <C 231_ZULLEN> soude, <C 424_DIE> den <C 403_HIJ> hi <C 250_BETUIGEN> betugen <C 231_ZULLEN> soude, <C 811_OF> ofte 
+<L 2816:3> <C 403_HIJ> hi <C 274_BEDRAGEN> bedragen <C 231_WORDEN> worde. <C 810_OPDAT> Opdat <C 410_DIT> dit <C 101_STAD> stade <C 800_EN> ende <C 101_VAST> vaste <C 211_BLIJVEN> bliue, <C 550_ZO> so <C 210_HEBBEN> heb <C 404_WIJ> wi. <C 1_SCHULD> Scoute. 
+<L 2816:4> <C 10_SCHEPEN> Scepe<A >n</A>. <C 471+800_DE+EN> ente <C 0_RAAD> raet <C 100_VOORGENOEMD> vorgenoemt, <C 455_ONS> onser <C 0_STAD> stat <C 0_ZEGEL> segel <C 700_AAN> an <C 414_DEZE> desen <C 0_BRIEF> brief <C 274_DOEN> gedaen. <C 410_DIT> Dit 
+<L 2816:5> <C 221_GESCHIEDEN> geschiede <C 700+474_IN+DE/HET> inden <C 4_JAAR> iaren <C 452_ONS> ons <C 4_HEER> here<A >n</A>. <C 300_1000-300> dusent.+drehondert, <C 700_OP> op <C 325+2_AL+GOD> alregoets 
+<L 2816:6> <C 14_HEILIG> heilege<A >n</A> <C 0_AVOND> auont... 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='127' plaats_2='' regio_1='3' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

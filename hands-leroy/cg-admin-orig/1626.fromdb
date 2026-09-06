@@ -1,0 +1,45 @@
+<header>
+<docId>1626</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2428:10> <q> xxxiiij <C 19_SOLIDUS> 't3s <C 110_LEUVENS> lo<A >uensch</A> <C 700_VAN> van <q> erue. 
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2428:17> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 475_DE/HET> der <C 4_HEIDE> eyden <C 704_BUITEN> buten <C 21_MECHELEN> machline <C 20_HENDRIK> heinric <C 20_GOEDGEBUUR-X> goetghebur <C 20_ARNOUT> arnout 
+<L 2428:18> <C 700_VAN> van <C 20_SCHIPVOORT-X> scepuort <C 20_JACOB> jacob <C 20_WOLVERIK-X> wulueric <C 204_GROETEN> gruten <C 800_EN> en<A >de</A> <C 204_DOEN> doen <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen 
+<L 2428:19> <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> siin <C 800_EN> en<A >de</A> <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 220_KOMEN> quam <C 700_VOOR> vor <C 404_WIJ> ons <C 800_EN> en<A >de</A> <C 700_VOOR> vor <C 474_DE/HET> den <C 1_RECHTER> rechtre 
+<L 2428:20> <C 20_WOUTER> wout<A >er</A> <C 440+421_MEN+DIE> diemen <C 203_HETEN> heet <C 700+24_VAN+HAREN> van+haren <C 800_EN> en<A >de</A> <C 20_JOHANNES> jan <C 450_ZIJN> siin <C 1_ZOON> sone <C 800_EN> en<A >de</A> <C 214_HEBBEN> hebben <C 274_OPDRAGEN> op+ghedragen 
+<L 2428:21> <C 309_34> .xxxiiii. <C 11_SCHELLING> scellinge <C 115_LEUVENS> louents<A >cher</A> <C 11_PENNING> penninge <C 101_ERFELIJK> erfliicke <C 0_CIJNS> tsens <C 2+472_JAAR+HET> siaers 
+<L 2428:22> <C 21_STEFANUS> steuene <C 700_VAN> van <C 474_DE/HET> den <C 21_ECHELPOEL> hachgelpoele <C 700_TE> te <C 455_ZIJN> siere <C 0_ZUSTER> sust<A >er</A> <C 0_BEHOEF> bouf <C 24_CATHARINA> katelinen <C 700_OP> op <C 480_EEN> heen 
+<L 2428:23> <C 1_ERF> erue <C 420_DAT> dat <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 700_VAN> van <C 472+0_DE+HEER> ser <C 20_JACOB> iacob <C 22_WOLVERIK-X> wuluerix <C 1_MUUR> mure <C 700*_TE> te <C 21_NEKKERSPOEL> neckerspoele <C 700#_WAART> waert 
+<L 2428:24> <C 500_VOORT> vort <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde <C 21_CATHARINA> kateline <C 221_STERVEN> storue <C 700_ZONDER> sonder <C 1_GEBOORTE> gheborte <C 550_ZO> so 
+<L 2428:25> <C 231_ZULLEN> soude <C 20_AEGIDIUS> gielis <C 451_HAAR> hare <C 101_WETTIG> wittege <C 1_MOMBER> monbore <C 250_HEBBEN> hebben <C 700_AAN> an <C 471_DE> de <C 301_EEN> ene <C 0_HELFT> helft <C 450_ZIJN> siin <C 0_LIJFTOCHT> liif+tocht 
+<L 2428:26> <C 800_EN> en<A >de</A> <C 700_MET> met <C 4_WILKEUR> wilcoren <C 472_DE/HET> des <C 102_VOORNOEMD> vornommens <C 22_STEFANUS> steuens <C 800_EN> en<A >de</A> <C 24_CATHARINA> katelinen <C 455_ZIJN> siere <C 0_ZUSTER> sust<A >er</A> 
+<L 2428:27> <C 800_EN> en<A >de</A> <C 414_DEZE> desen <C 104_VOORNOEMD> vornomden <C 0_CIJNS> tsens <C 414_DIE> dien <C 210+440_ZULLEN+MEN> salm<A >en</A> <C 250_GELDEN> ghilden <C 471_DE> de <C 301_EEN> ene <C 0_HELFT> helft <C 700_TE> te 
+<L 2428:28> <C 1_KERSTAVOND> kersauonde <C 800_EN> en<A >de</A> <C 470+310_DE+ANDER> dander <C 0_HELFT> helft <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> jans <C 1_MIS> misse <C 800_EN> en<A >de</A> <C 700_IN> in <C 414_DEZE> desen 
+<L 2428:29> <C 104_VOORNOEMD> vornomden <C 0_CIJNS> tsens <C 550_ZO> so <C 210_ZIJN> es <C 274_KOMEN> comen <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde <C 20_STEFANUS> steuen <C 700_TE> te <C 24_CATHARINA> katelinen <C 0_BEHOEF> bouf 
+<L 2428:30> <C 455_ZIJN> siere <C 0_ZUSTER> suster <C 700_MET> met <C 1_VONNIS> vonnesse <C 700_MET> met <C 4_MANIS> manessen <C 472+2_DE+RECHTER> srechters <C 800_EN> en<A >de</A> <C 700_MET> met <C 1_WIJSDOM> wiisdoeme 
+<L 2428:31> <C 475_DE/HET> der <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 500_BEHOUDELIJK> behoudenlec <C 324_ELK> elken <C 0_MAN> man <C 454_ZIJN> sinen <C 1_RECHT> rechte <C 800_EN> en<A >de</A> <C 810_OMDAT> om+dat 
+<L 2428:32> <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 210_ZULLEN> sal <C 260_BLIJVEN> bliuen <C 550_ZO> so <C 210+600*+404_HEBBEN+ER-+WIJ> hebwiere <C 404_WIJ> wi <C 111_VOORNOEMD> vornomde <C 14_SCHEPEN> scepenen 
+<L 2428:33> <C 451_ONS> onse <C 1_ZEGEL> segele <C 600#_-AAN> an <C 274_HANGEN> gheangen <C 411_DEZE> dese <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 2428:34> <C 850+440_ALS+MEN> alsmen <C 203_SCHRIJVEN> scriift <C 309_1200> .mcc. <C 10_JAAR> jaer <C 800_EN> en<A >de</A> <C 309_97> .xcvii. <C 472+2_DE+VRIJDAG> sfrindags <C 700_NA> na <C 101_SINT> sente <C 22_JOHANNES> ians <C 0_DAG> dach <C 101_UITGANGEND> huut+ganc+en<A >de</A> 
+<L 2428:35> <C 20_OOGST> oust 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1297' jaar_van='1297' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

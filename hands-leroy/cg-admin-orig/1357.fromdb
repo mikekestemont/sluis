@@ -1,0 +1,42 @@
+<header>
+<docId>1357</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2116:9> <C 700_VAN> van <q> .xl. <C 19_SOLIDUS> 't3s. <C 119_PARIJS> par. <C 471+700_DE+AAN> ande 
+<L 2116:10> <C 101_NIEUW> nieubrucghe <C 421_DIE> die <C 500_NU> nv <C 213_HETEN> heet <C 471_DE> de <C 1_FREREMINEURBRUG> fremeneure<A >n</A>+brucghe.- <C 700_AAN> an <C 471_DE> de 
+<L 2116:11> <C 1_FREREMINEURBRUG> frem<A >en</A>uere<A >n</A>+brugghe <q> xx <C 19_SOLIDUS> 't3s. <C 119_PARIJS> 't3p. <C 700_TE> te <C 1_BAAFSMIS> bam<A >esse</A> <C 800_EN> en<A >de</A> <q> xx <C 19_SOLIDUS> 't3s. <C 119_PARIJS> 't3p. <C 700_TE> te <C 21+0_MAART+HALF> alfmaerte. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2116:16> <C 403_HET> Het <C 210_ZIJN> sij <C 100_KOND> cont <C 800_EN> en<A >de</A> <C 100_KENLIJK> kenlech <C 321_AL> alle <C 474_DE/HET> de<A >n</A> <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sijn <C 800_EN> en<A >de</A> <C 610_HIERNA> hijrna 
+<L 2116:17> <C 250_WEZEN> wesen <C 214_ZULLEN> sullen. <C 810_DAT> Dat <C 0_VROUW> v<A >er</A> <C 21_ELISABETH> lisebette. <C 0+472_HEER+DE> ser <C 22_SIMON> symoens <C 22_MULOK> mulox <C 0_DOCHTER> dochter <C 213_HEBBEN> heeft 
+<L 2116:18> <C 273_VERKOPEN> vercocht <C 309_40> .xl. <C 19_SOLIDUS> 't3s. <C 2+472_JAAR+HET> siaers <C 501_EEUWELIJK> heweleke <C 271_STAAN> staende <C 474_DE/HET> den <C 0*_HEILIGE-> heleghe<A >n</A> <C 0#_-GEEST> gheest <C 700_VAN> va<A >n</A> <C 101_SINT> sente 
+<L 2116:19> <C 22_NICOLAAS> niclaus <C 700_TE> te <C 20_GENT> ghent <C 700_OP> vp <C 100_HALF> alf <C 471_DE> de <C 1_ERF> heerve <C 800_EN> en<A >de</A> <C 700_OP> vp <C 100_HALF> alf <C 0+470_HUIS+HET> thuus. <C 420_DAT> dat <C 203_LIGGEN> leeght <C 704_BACHTEN> bachten 
+<L 2116:20> <C 22_WILHELM> willems <C 22_SCHANDELEIN-X> scandeleins <C 700_OP> vp <C 471_DE> de <C 21_LEIE> leie <C 700_AAN> an <C 471_DE> de <C 101_NIEUW> niewe <C 1_BRUG> brugghe. <C 700_OP> vp <C 474_DE/HET> den <C 0_HORNIK> hoernich 
+<L 2116:21> <C 700+475_VAN+DE> vander <C 1_STEEG> steghe <C 471_DE> de <C 1_ZIJDE> side <C 700*_TE> te <C 0_JONKVROUW> jonfro <C 24_TRUIN> trunen <C 1_BRUG> brugghe <C 700#_WAART> waert. <C 411_DEZE> Dese <C 309_40> .xl. <C 19_SOLIDUS> 't3s. <C 440+210_MEN+ZULLEN> salmen 
+<L 2116:22> <C 250_GELDEN> ghelden <C 700_TE> te <C 304_2> tuen <C 14_TIJD> tide<A >n</A> <C 474+700_DE/HET+VAN> vanden <C 1_JAAR> jare. <C 700_TE> te <C 0_HALF> alf <C 21_MAART> maerte <C 309_20> .xx. <C 19_SOLIDUS> 't3s. <C 800_EN> en<A >de</A> <C 700_VOOR> voer <C 101_SINT> sente 
+<L 2116:23> <C 22_BAVO> baefs <C 0_DAG> dach <C 470+310_DE+ANDER> dander <C 309_20> .xx. <C 19_SOLIDUS> 't3s. <C 274_VERGELDEN> vergolden <C 700_TE> te <C 261_ZIJN> sine. <C 412_DAT> Des <C 221_GELOVEN> ghelouede <C 0_WAARSCHAP> waerscap <C 20_FRANCISCUS> soi 
+<L 2116:24> <C 700_VAN> van <C 21_MERENDREE> merendere. <C 800_EN> En<A >de</A> <C 0_VROUW> v<A >er</A> <C 21_ELISABETH> lisebette <C 221_GELOVEN> ghelouede <C 403_HIJ> em <C 100_SCHADELOOS> scadeloes <C 700_TE> te <C 251_HOUDEN> audene <C 700_OP> vp 
+<L 2116:25> <C 440_AL> al <C 420_DAT> dat <C 403_ZIJ> soe <C 203_HEBBEN> heeft. <C 700_IN> Jn <C 1_OORKONDSCHAP> hoerc<A >on</A>scepe <C 861_ALS> alse <C 111_ERFACHTIG> heervachteghe <C 11_LIEDEN> liede. <C 474_DE/HET> den <C 1_HEER> h<A >er</A>e 
+<L 2116:26> <C 21_JOHANNES> janne <C 701_UIT> hute <C 20_MERE?> merham. <C 800_EN> en<A >de</A> <C 21_FILIPPUS> philipse <C 701_UIT> hute <C 20_MERE?> merham <C 454_ZIJN> sine<A >n</A> <C 0_BROEDER> broeder. <C 800_EN> En<A >de</A> 
+<L 2116:27> <C 21_AEGIDIUS> gillise <C 472+0_DE+HEER> ser <C 22_WILHELM> willems <C 1_ZOON> sone <C 475+700_DE+VAN> vander <C 1_LAAK> lake <C 800_EN> ende <C 21_PETRUS> pietre <C 472+0_DE+HEER> ser <C 22_GREGORIUS> juris <C 22_BREEDBAARD-X> brebaerts <C 1_ZOON> sone. 
+<L 2116:28> <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_CARNATIOEN> caernation <C 452_ONS> hons <C 4_HEER> heren <C 851_ALS> alse <C 440_MEN> men <C 220_SCHRIJVEN> screef <C 309_1294> .m.cc.+en<A >de</A>+.xciiij. 
+<L 2116:29> <C 10_JAAR> jaer <C 700_IN> jn <C 101_SINT> sente <C 22_BAVO> baefs <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,45 @@
+<header>
+<docId>1903</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='81' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2810:11> <C 309_1300> 1300 
+<L 2810:12> <C 20_BOUDEWIJN> baudouin <q> de <q> Romersualle <q> cheuallier. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2810:16> <C 404_WIJ> Wj <C 20_JOHANNES> Jan <C 700_BIJ> bi <C 475_DE/HET> der <C 4_GENADE> ghenaden <C 2_GOD> gods <VN type=1> <C 0_ABT> abt <C 101_SINT> sente <C 24_MARIA> marien <C 1_KLOOSTER> cloestre <C 700_IN> in 
+<L 2810:17> <C 20_MIDDELBURG> Middelburch. <C 21_HUGO> Hughe <C 700_VAN> van <C 21_BIGGENKERKE> biggenkerke. <C 21_HUGO> hughe <C 22_ADELHARD> alards <C 1_ZOON> zone <C 20_WILHELM> willem <C 800_EN> En<A >de</A> 
+<L 2810:18> <C 20_PETRUS> pieter <C 700+475_UIT+DE> uter <C 4_BOET> boeden <C 800_EN> En<A >de</A> <C 20_JACOB> jacob <C 22_REISER> Reysers <C 1_ZOON> zone <C 11_MAN> manne <C 472_DE/HET> des <C 2_ABT> abts <C 700_VAN> van <C 101_SINT> sente 
+<L 2810:19> <C 22_PAULUS> pauwels <C 1_KLOOSTER> clostre <C 700_TOT> tot <C 20_UTRECHT> vtrecht <C 204_KENNEN> kennen <C 800_EN> En<A >de</A> <C 204_OORKONDEN> orkonden <C 324_AL> allen <C 14_LIEDEN> luden <C 700_MET> met 
+<L 2810:20> <C 414_DEZE> desen <C 104_OPEN> openen <C 1_BRIEF> brieue <C 810_DAT> dat <C 404_WIJ> wi <C 610*_DAAROVER-> daer+ouer <C 800_EN> en<A >de</A> <C 610#_-BIJ> bi <C 224_ZIJN> waren <C 520_DAAR> daer <C 0_HEER> her <C 20_AEGIDIUS> gelis 
+<L 2810:21> <C 21_BACHTEN-DE-KIST-X> bachterkiste <C 0_PROVISEUR> p<A >ro</A>uisor <C 800_EN> en<A >de</A> <C 0_DEKEN> deken <C 700_VAN> van <C 20_ZUIDBEVELAND> zuutbeuelant <C 221_VERLENEN> verleende <C 841_ALS> alse <C 700_BIJ> bi 
+<L 2810:22> <C 1_BEVEELNIS> beuelnesse <C 700_MET> met <C 484_EEN> eene<A >n</A> <C 104_OPEN> opene<A >n</A> <C 1_BRIEF> brieue <C 421_DIE> die <C 403_HIJ> hi <C 221_HEBBEN> hadde <C 700_VAN> van <C 474_DE/HET> den <C 0_ABT> abt <C 700_VAN> van <C 101_SINT> sente 
+<L 2810:23> <C 22_PAULUS> pauwels <C 100_VOORNOEMD> vornoe<A >m</A>t <C 700_MET> Met <C 1_HAND> hande <C 800_EN> En<A >de</A> <C 700_MET> met <C 1_MOND> monde <C 800_EN> En<A >de</A> <C 700_MET> met <C 415_ALZULK> alsulker 
+<L 2810:24> <C 0_SOLEMNITEIT> sollempniteyt <C 820_ALS> als <C 610_DAARTOE> daer+toe <C 203_BEHOREN> behort <C 4_HEER> h<A >er</A>en <C 21_BOUDEWIJN> boudine <C 700_VAN> van <C 21_REIMERSWAAL> Reymerswale <C 0_RIDDER> Ridder 
+<L 2810:25> <C 700_OM> om <C 414_ALZULK> alsulke<A >n</A> <C 1_RECHT> Rechte <C 821_ALS> alse <C 474_DE/HET> den <C 0_ABT> abt <C 700_VAN> van <C 101_SINT> sente <C 22_PAULUS> pauwels <C 100_VOORNOEMD> vornoe<A >m</A>t <C 203_TOEBEHOREN> toebehort 
+<L 2810:26> <C 700_TE> te <C 251_HOUDEN> houdene <C 800_EN> en<A >de</A> <C 251_BEZITTEN> besittene <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 14_NAKOMELING> nacomelinghen <C 321_AL> alle <C 471_DE> die 
+<L 2810:27> <C 1_TIEND> tiende <C 421_DIE> die <C 403_HIJ> hi <C 800_EN> En<A >de</A> <C 451_ZIJN> sine <C 12_VOORDER> vorders <C 274_HOUDEN> ghehouden <C 214_HEBBEN> hebben <VN type=1> <q> . <C 700_VAN> van <C 474_DE/HET> den <C 0_ABT> abt <C 700_VAN> van. 
+<L 2810:28> <C 101_SINT> sente <C 22_PAULUS> pauwels <C 800_EN> En<A >de</A> <C 451_ZIJN> sine <C 12_VOORDER> vorders <C 110_VOORZEID> vorseyt. <C 700_IN> Jn <C 4_KENNIS> kennissen <C 475_DE/HET> der <C 0_WAARHEID> waerheyt 
+<L 2810:29> <C 214_HEBBEN> hebbe<A >n</A> <C 404_WIJ> wi <C 1_HEER> h<A >er</A>e <C 20_JOHANNES> ian <C 0_ABT> abt <C 700_IN> in <C 20_MIDDELBURG> middelburch <C 100_VOORZEID> vors<A >eyt</A> <C 700_OM> om <C 4_BEDE> beden <C 1_WIL> wille <C 1_HEER> h<A >er</A>e 
+<L 2810:30> <C 20_AEGIDIUS> gelis <C 100_VOORZEID> vors<A >eyt</A> <C 800_EN> een <C 700_MET> met <C 474_DE/HET> den <C 14_MAN> mannen <C 110_VOORZEID> vors<A >eyt</A> <C 414_DEZE> desen <C 0_BRIEF> brief <C 100_OPEN> open <C 273_BEZEGELEN> beseghelt <C 700_MET> met 
+<L 2810:31> <C 454_ONS> onzen <C 14_ZEGEL> zeglen <C 700+470_IN+HET> Jnt <C 0_JAAR> Jaer <C 452_ONS> ons <C 4_HEER> he<A >er</A>en <C 300_1000-300> dusent+driehondert <C 472_DE/HET> des <C 2_DONDERDAG> donresdaghes 
+<L 2810:32> <C 700_NA> na <C 101_SINT> sente <C 24_BAVO> bauen <C 0_DAG> dach. 
+<L 2810:34> <q> .. <q> per <q> per. <q> m. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1300' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='81' plaats_2='' regio_1='5' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

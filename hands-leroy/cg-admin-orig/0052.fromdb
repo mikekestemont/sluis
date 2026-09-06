@@ -1,0 +1,48 @@
+<header>
+<docId>0052</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 111:11> <q> metkerke <q> domus <q> habet <q> terram.- 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 0_LAND> land <C 474+700_DE/HET+VAN> vande<A >n</A> 
+<L 111:12> <q> godshuse <q> dar <q> p<A >ieter</A>e <C 0_PRUMBOUT-X> pruu<A >m</A>bout <q> ? <q> noot. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1267' jaar_van='1267' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 111:17> <C 26_MARGARETA> margareta <C 22_JOHANNES> ha<A >n</A>nins <C 1_WEDUWE> wedue <q> f <C 22_REINBERT> reimbrecs. <C 800_EN> ende <C 20_LAMBERT> lamb<A >re</A>t <C 451_HAAR> hare <C 1_ZOON> soene. <C 224_GEVEN> gauen 
+<L 111:18> <C 101_WETTELIJK> wetlike <C 1_GIFT> gheifte. <C 21_LAMBERT> la<A >m</A>mine. <C 700+475_VAN+DE> vander <C 1_MARE> mare. <C 700_VAN> van <C 1_LAND> lande. <C 420_DAT> dat <C 213_HETEN> het. <C 20_OOSTLAND> ostlant <VN type=1> <C 800_EN> ende 
+<L 111:19> <C 20_MEETJE> medekin. <C 420_DAT> dat <C 203_LIGGEN> leghet <C 700_IN> in <C 0_AMBACHT> amboch. <C 700_VAN> van <VN type=1> <C 21_MEETKERKE> metk<A >erke</A>. <C 800_EN> ende. <C 471_DE> die <C 20_LAMBERT> la<A >m</A>min <C 700_VAN> van 
+<L 111:20> <C 475_DE/HET> der <C 1_MARE> mare. <C 800_EN> ende. <C 450_ZIJN> sin <C 0_WIJF> wif. <C 224*_-GEVEN> gauen. <C 224#_WEDER-> weder. <C 419_DIE> diera. <C 24_MARGARETA> margrieten <C 809_EN> enda <C 20_LAMBERT> lamb<A >re</A>t 
+<L 111:21> <C 454_HAAR> haren <C 1_ZOON> soene <C 470_HET> dat <C 106_VOORZEID> vorseida <C 0_LAND> lant <C 700_TE> the <C 101_ERFELIJK> haruelike. <C 1_CIJNS> scense. <C 701_OM> omme <C 309_20> .xx. <C 19_SOLIDUS> sol. 
+<L 111:22> <C 115_VLAAMS> vlamscer <C 11_PENNING> peneghe. <C 320_ELK> helc <C 2_JAAR> jaers. <C 410_DIT> dit. <C 204_KENNEN> ke<A >n</A>nen. <C 10_SCHEPEN> scepen. <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien. <C 450_MIJN> min. 
+<L 111:23> <C 1_HEER> here <C 20_WILHELM> willem. <C 26_STEENWAARDER> stenward<A >ra</A>. <C 20_JOHANNES> johan <C 700_VAN> van <C 26_VARSENARE> varsenn<A >ar</A>a. <C 21_SIMON> moene <C 0_ZOT> soet. <C 20_BOUDEWIJN> boidin 
+<L 111:24> <C 26_BROEKER> brokera. <C 20_DIEDERIK> diederic <C 700_VAN> van <C 21_ROSSEWAAL> rasewale. <C 410_DIT> dit <C 0_LAND> lant <C 210_ZIJN> es <C 100_GROOT> grot. <C 1+300_LIJN+ZESTEHALF> sesthalfline. <C 411_DEZE> dese. <C 1_GIFT> gheifte. 
+<L 111:25> <C 230_ZIJN> was. <C 274_DOEN> ghedaen. <C 2+472_ZATERDAG+DE> saterdaecs. <C 700_ACHTER> atter. <C 101_SINT> sinte. <C 22_BAVO> baues <C 1_MIS> messe. <C 700_IN> in <C 0_JAAR> jaer. <C 850_ALS> als <C 440_MEN> men <C 220_SCHRIJVEN> scrif. 
+<L 111:26> <C 452_ONS> ons <C 4_HEER> heren. <C 0_INCARNATIOEN> incarnation <C 309_1267> .m'ho.+ende+.cc'ho.+ende+.lxvij. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+
+<L 111:51> <C 20_OOSTLAND> oftlant 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1267' jaar_van='1267' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,64 @@
+<header>
+<docId>1293</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1965:25> <q> pronuncio <q> domini <C 29_FLORENTIUS> flore<A >n</A>tij <q> comitis <C 29_HOLLANDIA> holl<A >andie</A> <q> super <q> dammo <q> siue 
+<L 1965:26> <q> aggere <q> in <C 21_HOPPENESSE> hopenesse. 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1965:34> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> hollant <C 700_VAN> van <C 20_ZEELAND> zelant <C 800_EN> ende <C 1_HEER> h<A >er</A>e <C 700_VAN> van <C 20_FRIESLAND> vrieselant 
+<L 1965:35> <C 204_MAKEN> maken <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghoenen <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_OF> iof <C 250_HOREN> horen 
+<L 1965:36> <C 250_LEZEN> lesen <C 810_DAT> dat <C 404_WIJ> wi <C 451_ONS> onse <C 0_ZEGGEN> zegghen <C 810_DAT> dat <C 404_WIJ> wi <C 700_VAN> van <C 474_DE/HET> den <C 1_DAM> damme <C 700_VAN> van <C 21_HOPPENESSE> openisse <C 700_TUSSEN> tusschen 
+<L 1965:37> <C 475_DE/HET> der <C 1_ECCLESIE> ecclesie <C 700_VAN> van <C 20_UTRECHT> vtrecht, <C 800_EN> ende <C 474_DE/HET> den <C 114_GOED> ghoeden <C 14_LIEDEN> lieden <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande, <C 421_DIE> die 
+<L 1965:38> <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_DAM> damme <C 273_ERVEN> ghearft <C 214_ZIJN> zijn, <C 700_OP> vp <C 404_WIJ> ons <C 224_HEBBEN> hadden, <C 0_ZEGGEN> zegghen <C 700_IN> in <C 415_DEZE> deser 
+<L 1965:39> <C 1_MANIER> manire <C 421_DIE> die <C 610_HIERNA> hier+na <C 274_BESCHRIJVEN> bescreuen <C 213_STAAN> staet, <C 841_ALS> alse <C 810_DAT> dat <C 471_DE> die <C 1_ECCLESIE> ecclesie <C 100_VOORZEID> voerseit <C 500_WEER> weder 
+<L 1965:40> <C 250_HEBBEN> hebben <C 210_ZULLEN> zal. <C 300_1100> elf.+hondert. <C 10_POND> pont. <C 800_EN> ende <C 300_VEERTIG> viertich, <C 415_ALZULK> alsuilker <C 11_PENNING> peninghe, <C 821_ALS> alse <C 500_NU> nu 
+<L 1965:41> <C 101_GENGE> ghenghe <C 800_EN> ende <C 101_GAAF> ghaue <C 214_ZIJN> zijn <C 700_IN> in <C 471_DE> die <C 0_STAD> stat <C 700_VAN> van <C 20_UTRECHT> vtrecht, <C 700_VOOR> voer <C 454_HAAR> haren <C 0_KOST> cost <C 800_EN> en<A >de</A> 
+<L 1965:42> <C 1_SCHADE> schade <C 421_DIE> die <C 406_ZIJ> hem <C 274_AFNEMEN> of+ghenomen <C 230_ZIJN> was, <C 700_VAN> van <C 454_HAAR> haren <C 1_ERF> arue <C 700+472_TOT+DE> toets <C 2_DAM> dams <C 0_BEHOEF> bhoef <C 700_VAN> van 
+<L 1965:43> <C 21_HOPPENESSE> openisse, <C 501_ALZO> alsoe <C 403+820_HET+ALS> alst <C 502#_HIER-> hier <C 502*_-VOORMAALS> voermaels <C 700_MET> met <C 406_ZIJ> hem <C 274_OVEREENDRAGEN> ouer+een+ghedraghen <C 230_ZIJN> was. 
+<L 1965:44> <C 700+250_TE+GELDEN> teghelden <C 700_TOT> toet <C 101_SINT> sinte <C 22_JOHANNES> ians <C 1_MIS> misse <C 700_TE> te <C 101_MID> midde <C 0_ZOMER> zoemer <C 421_DIE> die <C 503_NAAST> naest <C 203_KOMEN> coemt. <C 800_EN> Ende 
+<L 1965:45> <C 410_DIT> dit <C 0_GELD> ghelt <C 214_ZULLEN> zullen <C 250_GELDEN> ghelden <C 321_AL> alle <C 471_DE> die <C 11_AMBACHT> ambochte, <C 421_DIE> die <C 274_LIGGEN> gheleghen <C 704_BINNEN> binnen <C 474_DE/HET> den 
+<L 1965:46> <C 1_DAM> damme <C 700_TOT> toet <C 21_HOPPENESSE> openisse <C 470+700_HET+IN> int. <C 0_BISSCHOPDOM> bisscopdoem <C 214_ZIJN> zijn, <C 700_UITGEZET> vtgheset <C 321_AL> alle <C 471_DE> die <C 1_ERFENIS> arfnesse <C 421_DIE> die, 
+<L 1966:1> <C 471_DE> die <C 101_VOORGENOEMD> voerghenoemde <C 1_ECCLESIE> ecclesie <C 271_LIGGEN> licghende <C 213_HEBBEN> heeft <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_DAM> damme. <C 500_VOORT> Voert 
+<L 1966:2> <C 210_ZULLEN> zal <C 320_ELK> elk <C 1_AMBACHTSHEER> ambochts+here <C 421_DIE> die <C 704_BINNEN> binnen <C 474_DE/HET> den <C 1_DAM> damme <C 274_LIGGEN> gheleghen <C 210_ZIJN> es, <C 704_BINNEN> binnen 
+<L 1966:3> <C 485_EEN> eenre <C 0_MAAND> maent <C 700_NA> na <C 1_KERSTDAG> corsdaghe <C 421_DIE> die <C 503_NAAST> naest <C 203_KOMEN> coemt, <C 0_ZEKER> zeker <C 250_DOEN> doen <C 475_DE/HET> der <C 1_ECCLESIE> ecclesie, 
+<L 1966:4> <C 440_IEGELIJK> yeghelijc <C 700_VOOR> voer <C 450_ZIJN> zijn <C 0_AANDEEL> andeel, <C 700+250_TE+GELDEN> teghelden <C 474+700_DE/HET+TE> ten <C 104_VOORGENOEMD> voerghenoemden <C 1_DAG> daghe. <C 230_ZIJN> Waer 
+<L 1966:5> <C 410_DAT> dat <C 1_ZAAK> zake <C 810_DAT> dat <C 411_DEZE> dese <C 14_AMBACHTSHEER> ambochts+h<A >er</A>en <C 110_VOORZEID> voerseit, <C 800_OF> iof <C 320_ENIG> enich <C 610_DAARAF> daer+of, <C 410_DIT> dit <C 560_NIET> niet 
+<L 1966:6> <C 221_VERZEKEREN> versekerde <C 704_BINNEN> binnen <C 475_DE/HET> der <C 105_VOORGENOEMD> voerghenoemder <C 0_MAAND> maent, <C 550_ZO> zoe <C 211_ZULLEN> zulle <C 404_WIJ> wi <C 610_DAARNA> daer+na 
+<L 1966:7> <C 704_BINNEN> binnen <C 300_VEERTIEN> viertien <C 14_DAG> daghen, <C 403_HIJ> hem <C 410_DAT> dat <C 214_DOEN> doen <C 250_DOEN> doen, <C 403+830_HET+NE> enne <C 221_ZIJN> ware <C 810_DAT> dat <C 404_WIJ> ons <C 0_WEER> weder 
+<L 1966:8> <C 221_BENEMEN> bename <C 700_ZONDER> zonder <C 0_ARGLIST> arghelist. <C 800_EN> Ende <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> zake, <C 810_DAT> dat <C 406_ZIJ> zij <VN type=1> <C 403_HET> des <C 560_NIET> niet <C 560_NE> ne <C 224_DOEN> daden, 
+<L 1966:9> <C 550_ZO> zoe <C 211_ZULLEN> zulle <C 404_WIJ> wi <C 411_ZELF> zelue <C 475_DE/HET> der <C 4_ECCLESIE> ecclesien <C 250_VERZEKEREN> versekren <C 700_VOOR> voer <C 471_DE> die <C 11_ONWILLIGE> onwillighe <C 451_HAAR> hare 
+<L 1966:10> <C 1_GROOTTE> grote, <C 250+700_GELDEN+TE> teghelden <C 700+474_TE+DE/HET> ten <C 104_VOORZEID> voerseiden <C 101_SINT> sinte <C 22_JOHANNES> ians <C 1_MIS> misse <C 861_ALS> alse <C 0_ZAAKWELDIGE> saecweldich. <C 230_ZIJN> Waer 
+<L 1966:11> <C 500_OOK> oec <C 410_DAT> dat <C 1_ZAAK> zake <C 810+440_DAT+MEN> datmen <C 474_DE/HET> den <C 0_DAM> dam <C 700_TOT> toet <C 21_HOPPENESSE> openisse <C 1_BETERING> beteringhe <C 250_DOEN> doen <C 231_WILLEN> wilde, <C 610_DAARAF> daer+of 
+<L 1966:12> <C 231_ZULLEN> zoude <C 475_DE/HET> der <C 105_VOORSCHREVEN> voerscreuenre <C 4_ECCLESIE> ecclesien <C 0_GOED> ghoet <C 250_BLIJVEN> bliuen <C 700_ZONDER> zonder <C 0_KOST> cost, <C 403_HET> het <C 830_NE> ne 
+<L 1966:13> <C 221_ZIJN> ware, <C 810_DAT> dat <C 700_BIJ> bi <C 472_DE/HET> des <C 2_BISSCHOP> bisscops <C 1_BEDWANG> beduanghe <C 221#_TOE-> toe <C 221*_-KOMEN> quame, <C 800_EN> ende <C 511_DAN> danne <C 231_ZULLEN> zoude <C 463_HEM> hem 
+<L 1966:14> <C 471_DE> die <C 1_ECCLESIE> ecclesie <C 250_VERWAREN> voerwaren <C 821_ZO> zoe <C 403_ZIJ> zij <C 503_BEST> best <C 221_MOGEN> mochte. <C 800_EN> en<A >de</A> <C 610_HIERBIJ> hier+bi <C 210_ZULLEN> zal <C 404_WIJ> ons <C 471_DE> die 
+<L 1966:15> <C 1_ECCLESIE> ecclesie <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 250#_WEDER-> weder <C 250*_-GEVEN> gheuen <C 451_HAAR> hare <C 101_OPEN> opene <C 1_BRIEF> brieue, <C 810_DAT> dat <C 406_ZIJ> zij <C 474_DE/HET> den <C 0_DAM> dam 
+<L 1966:16> <C 204_CONFIRMEREN> confirmeren <C 800_EN> en<A >de</A> <C 204_STADIGEN> stadighen <C 471_DE> die <C 0_DING> dinch <C 421_DIE> die <C 700_BIJ> bi <C 4_HEER> haren <C 21_JOHANNES> Janne <C 700_VAN> van <C 21_NASSAU> nassouwe 
+<L 1966:17> <C 100_GEKOREN> ghecoren <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 274_DOEN> ghedaen <C 210_ZIJN> es <C 700_AAN> an <C 474_DE/HET> den <C 104_VOORNOEMD> voernoemden <C 0_DAM> dam <C 511_ALZO> alsoe <C 501_VER> varre 
+<L 1966:18> <C 820+403_ALS+HET> alst <C 700_IN> in <C 406_ZIJ> hem <C 200_ZIJN> es, <C 800_EN> en<A >de</A> <C 406_ZIJ> zij <C 204_MOGEN> moeghen, <C 800_EN> en<A >de</A> <C 220_ZIJN> waer <C 810_DAT> dat <C 440_IEMAND> yement <C 474_DE/HET> den <C 0_DAM> dam <C 700_TOT> toet 
+<L 1966:19> <C 21_HOPPENESSE> openisse <C 250_KRENKEN> crenken <C 231_WILLEN> wilde <C 800_EN> ende <C 250_DEREN> deren, <C 441_ZO-WIE> zoe+wie <C 403_HIJ> hi <C 231_ZIJN> ware, <C 550_ZO> zoe <C 210_ZULLEN> zal <C 471_DE> die <C 1_ECCLESIE> ecclesie 
+<L 1966:20> <C 700_VAN> van <C 20_UTRECHT> vtrecht <C 501_GEMEENLIJK> ghemeenlike <C 250_BLIJVEN> bliuen <C 700_IN> in <C 451_ONS> onse <C 1_HULP> hulpe, <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 700_IN> in <C 471_DE> die <C 451_HAAR> hare, <C 871_ALS> alse 
+<L 1966:21> <C 410_DAT> dat <C 700+251_TE+WEERSTAAN> tewederstane. <C 810_WANT> Want <C 471_DE> die <C 0_DAM> dam <C 474_DE/HET> den <C 104_GEMEEN> ghemeenen <C 1_LAND> lande <C 101_NUT> nutte <C 210_ZIJN> es <C 800_EN> ende 
+<L 1966:22> <C 100_OORBAARLIJK> orbaerlic. <C 700_IN> Jn <C 1_OORKONDE> orconde <C 700_VAN> van <C 321_AL> alle <C 414_DEZE> desen <C 114_VOORSPROKEN> voersprokene<A >n</A> <C 14_VOORWAARDE> voerwarden, <C 211_HEBBEN> hebbe <C 404_WIJ> wi 
+<L 1966:23> <C 475_DE/HET> der <C 1_ECCLESIE> ecclesie <C 700_VAN> van <C 20_UTRECHT> vtrecht, <C 274_GEVEN> ghegheuen <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> bezeghelt <C 700_MET> met <C 454_ONS> onsen 
+<L 1966:24> <C 1_ZEGEL> zeghele, <C 274_GEVEN> Ghegheuen <C 700_OP> vp <C 101_SINT> sinte <C 22_THOMAS> thomaes <C 0_DAG> dach <C 700+20_TE+DORDRECHT> tordr<A >echt</A> <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1293' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

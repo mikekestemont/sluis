@@ -1,0 +1,36 @@
+<header>
+<docId>0359</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 578:37> <C 700_IN> jn 
+<L 578:38> <C 21_ASSENEDE> assenede <C 700_VAN> van <q> moere. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 578:43> <C 401_IK> hic <C 21_HUGO> huge <C 471_DE> de <C 1_BUIZER> busere <C 1_RIDDER> riddre <C 700_VAN> van <C 21_BASSEVELDE> basseuelde. <C 200_DOEN> doe <C 100_BEKEND> bekent <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> gene<A >n</A> 
+<L 578:44> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> en<A >de</A> <C 250_HOREN> horen. <C 810_DAT> dat <C 401_IK> hic <C 461_MIJ> mi <C 500_WEL> wel <C 201_HOUDEN> oude <C 273_PAAIEN> gepait <C 800_EN> en<A >de</A> 
+<L 578:45> <C 500_WEL> wel <C 274_VERGELDEN> v<A >er</A>golden. <C 700_VAN> van <C 24_SIEGER> segren <C 24_SLOOF-X> slouen. <C 700_VAN> van <C 309_2> .ii. <C 14_BUNDER> bunren <C 2_MOER> moers <C 800_EN> ende <C 700+475_MET+DE> mett<A >er</A> 
+<L 578:46> <C 1_WOESTIJN> woestine. <C 471_DE> de <C 421_WELK> welke <C 204_LIGGEN> liggen <C 700+471_IN+DE> inde <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_ASSENEDE> hassnede. <C 421+471_WELK+DE> dewelke <C 403_HIJ> hi <C 221_KOPEN> cochte 
+<L 579:1> <C 700_JEGEN> jegen <C 454_ONS> onsen <C 1_HEER> h<A >er</A>e <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue. <C 700_IN> jn <C 1_OORKONDSCHAP> orcontscepe <C 700_VAN> van <C 414_DEZE> desen <C 114_VOORZEID> voerseiden 
+<L 579:2> <C 14_DING> dingen. <C 401+210_IK+HEBBEN> ebbic <C 411_DEZE> dese <C 101_JEGENWOORDIG> iegenworde <C 4_LETTER> lettren <C 260_DOEN> doen <C 250_ZEGELEN> zegelen <C 101_UITHANGEND> huthangende <C 700_MET> met 
+<L 579:3> <C 454_MIJN> minen <C 104_PROPER> propren <C 1_ZEGEL> zegele. <C 470+700_HET+IN> jnt <C 0_JAAR> iaer <C 700+474_VAN+DE/HET> vanden <C 1_INCARNATIOEN> jncarnatione <C 452_ONS> ons <C 4_HEER> heren <C 440+850_MEN+DAT> datmen 
+<L 579:4> <C 220_SCHRIJVEN> screef <C 319_1281> .m'ho.cc'ho.lxxx'ho.i'ho. <C 700+474_IN+DE/HET> inden <C 0_ANDAG> andach <C 700_VAN> van <C 101_SINT> sente <C 21_PETRUS> pietre <C 800_EN> en<A >de</A> <C 700_VAN> van <C 101_SINT> sente 
+<L 579:5> <C 21_PAULUS> pauelse. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

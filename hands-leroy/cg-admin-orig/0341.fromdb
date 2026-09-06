@@ -1,0 +1,46 @@
+<header>
+<docId>0341</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 556:7> <C 700_IN> in 
+<L 556:8> <q> samslacht.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 101_ERFELIJK> eeruelike <q> rente <C 421_DIE> die <C 404_WIJ> wij <q> sculdich <C 210_ZIJN> sijn <C 411_DIE> die <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> jans 
+<L 556:9> <C 0_HUIS> huus <C 700_IN> in <q> gendt <q> xj <C 19_SOLIDUS> 't3s. <C 119_PARIJS> 't3p. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1280' tijdsoort='6' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 556:14> <C 403_HET> Et <C 210_ZIJN> si <C 100_KOND> cont <C 474+324+414_DE+AL+GENE> allendenghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> en<A >de</A> <C 250_HOREN> horen 
+<L 556:15> <C 250_LEZEN> lesen. <C 810_DAT> dat <C 411_DIE> die <C 700_VAN> va<A >n</A> <C 101_SINT> sente <C 22_JOHANNES> ians <C 0_HUIS> huus <C 700_IN> in <C 20_GENT> ghent <C 214_HEBBEN> hebben <C 274_GEVEN> ghegheven <C 309_EEN> .i. <C 100_KORT> cort 
+<L 556:16> <C 0_GEMET> ghemet <C 2_LAND> lants <C 700_IN> in <C 20_ZAAMSLAG> zaemslacht <C 475+700_DE+TE> ter <C 4_HEIDE> iden. <C 700_IN> in <C 21_DOKKENPOLDER> dockinpolre <C 700_AAN> an <C 471_DE> de <C 1_ZUIDZIJDE> suut+side 
+<L 556:17> <C 474_DE/HET> den <C 0_GROEDEPUT> groude+pit. <C 474_DE/HET> Den <C 1_GASTHUIS> ghasthuse <C 700_VAN> van <C 20_GENT> ghent <C 502_JAARLIJKS> iaer+lix <C 701_OM> omme <C 309_11> .xi. <C 19_SOLIDUS> sol. <C 500_ERFELIJK> herflic. 
+<L 556:18> <C 410_DIT> dit <C 0_GELD> ghelt <C 210+406_ZULLEN+ZIJ> sulsi <C 250_GELDEN> ghelden <C 700_IN> in <C 101_SINT> sente <C 22_BAVO> baues <C 1_DAG> daghe. <C 410_DIT> dit <C 0_LAND> lant <C 406+210_ZIJ+MOETEN> moetshi <C 250_HOUDEN> houden 
+<L 556:19> <C 101_PLOEGGENGE> ploughghinghe <C 800_EN> en<A >de</A> <C 320_AL> al <C 454_HAAR> aren <C 1_WIL> wille <C 651_MEDE> mede <C 700+251_TE+DOEN> thedoene <C 800_ZONDER> sonder 
+<L 556:20> <C 700+251_TE+BEHUIZEN> thebehusene. <C 800_EN> en<A >de</A> <C 231_ZIJN> ware <C 410+1_DAT+ZAAK> datsake <C 810_DAT> dat <C 406_ZIJ> si <C 410_DIT> dit <C 224_BREKEN> braken <C 550_ZO> soe <C 231_ZIJN> ware <C 411_DEZE> dese <VN type=1> <C 0_PACHT> pacht 
+<L 556:21> <C 700_TE> te <C 441_NIEWET> niewete <C 800_EN> en<A >de</A> <C 404_WIJ> wi <C 224_SLAAN> sloughen <C 450_ONS> ons <C 0_HAND> ant <C 700_AAN> an <C 450_ONS> ons <C 0_LAND> lant. <C 410_DIT> dit <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_DOEN> ghedaen 
+<L 556:22> <C 701_OM> omme <C 471_DE> de <C 1_NUTSCHAP> nutscepe <C 700_VAN> van <C 454_ONS> onsen <C 0_HUIS> huus <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 454_ONS> onsen <C 1_MEESTERSCHAP> meesterscepe. <C 800_EN> en<A >de</A> 
+<L 556:23> <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> dit <C 210_ZIJN> si <C 101_GESTADE> ghestade. <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 610_HIERAAN> iran <C 274_HANGEN> ghehanghen 
+<L 556:24> <C 474_DE/HET> den <C 0_ZEGEL> seghel <C 700_VAN> van <C 454_ONS> onsen <C 0_HUIS> huus. <C 411_DEZE> dese <C 1_VOORWAARDE> voerdware <C 230_ZIJN> was <C 270_MAKEN> ghemaek <C 811_ALS> alse <C 470_HET> dat 
+<L 556:25> <C 0_INCARNATIOEN> incarnation <C 452_ONS> ons <C 4_HEER> heren <C 230_ZIJN> was <C 319_1280> .m'ho.cc'ho.+lxxx'ho. <C 700+471_IN+DE> inde <C 0_MAAND> maent <C 700_VAN> van <C 21_APRIL> aprille 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1280' tijdsoort='6' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

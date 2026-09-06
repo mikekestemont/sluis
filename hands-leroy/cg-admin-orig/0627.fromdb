@@ -1,0 +1,56 @@
+<header>
+<docId>0627</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1061:22> <C 0_LETTER> let<A >er</A> <q> sic? <C 472_DE/HET> des <C 4_HERTOG> h<A >er</A>toge<A >n</A> <C 700_VAN> [va]n <C 20_BRABANT> brabant <C 621*_DAAR-> dar <C 403_HIJ> hi <C 621#_-MEDE> mede <C 221_GELOVEN> gelouede 
+<L 1061:23> <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> va<A >n</A> <C 20_HOLLAND> holl<A >ant</A> <C 700_TE> te <C 251_HELPEN> helpene.- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1061:34> <C 404_WIJ> Wi <C 20_JOHANNES> jan <C 475+700_DE+BIJ> bider <C 1_GENADE> ghenade <C 2_GOD> goets <C 1_HERTOG> hertoghe <C 700_VAN> van <C 21_LOTHARINGEN> lotteringhe <C 800_EN> ende <C 700_VAN> van <C 20_BRABANT> brabant 
+<L 1061:35> <C 204_MAKEN> maken <C 100_KOND> cont <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> letteren <C 250_ZIEN> sien <C 214_ZULLEN> selen <C 800_OF> of <C 250_HOREN> horen. <C 810_DAT> dat 
+<L 1061:36> <C 404_WIJ> wi <C 273_GELOVEN> ghelouet <C 214_HEBBEN> hebben <C 700_BIJ> bi <C 455_ONS> onser <C 105_ZEKER> sekerder <C 4_TROUW> trouwen <C 484_EEN> enen <C 104_EDEL> edelen <C 0_MAN> man <C 454_ONS> onsen 
+<L 1061:37> <C 104_LIEF> lieven <C 1_NEEF> Neve <C 4_HEER> haren <C 21_FLORENTIUS> florense <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 501_GETROUWELIJK> ghetrouweleke <C 700_TE> te <C 251_HELPEN> helpene 
+<L 1061:38> <C 700_IN> in <C 324_AL> allen <C 14_DING> dinghen <C 421_DIE> die <C 403_HIJ> hi <C 700_TE> te <C 251_DOEN> doene <C 213_HEBBEN> hevet <C 800_OF> of <C 250_HEBBEN> hebben <C 210_MOGEN> mach <C 470+700_HET+IN> int <C 0_BISDOM> bisdoem <C 700_VAN> van 
+<L 1061:39> <C 20_UTRECHT> vtrecht. <C 800_EN> Ende <C 410_DAT> dat <C 560_NE> en <C 214_ZULLEN> selen <C 404_WIJ> wi <C 560_NIET> niet <C 250_LATEN> laten <C 701_OM> omme <C 101_GENERHANDE> ghenrehande <C 1_ZWAARNIS> svarnesse 
+<L 1061:40> <C 530_HOE> hoe <C 810_DAT> dat <C 403_ZIJ> si <C 250_TOEKOMEN> toe+comen <C 210_MOGEN> mach <C 403_HIJ> hem <C 800_OF> of <C 404_WIJ> ons <C 404+830_WIJ+NE> wine <C 214_ZULLEN> selen <C 700_MET> met <C 403_HIJ> hem <C 250_BLIJVEN> bliven <C 800_EN> ende 
+<L 1061:41> <C 250_HELPEN> helpen <C 700_MET> met <C 320_AL> al <C 455_ONS> onser <C 0_MACHT> macht <C 530_WANNEER> wanner <C 810_DAT> dat <C 403+403_HET+HIJ> h[i]es <C 404_WIJ> ons <C 203_VERMANEN> vermaent <C 800_OF> of <C 213_DOEN> doet 
+<L 1061:42> <C 250_VERMANEN> vermanen <C 810_DAT> dat <C 403_HIJ> hem <C 211_WORDEN> worde <C 274_HOUDEN> ghehouden <C 510_ALZO> also <C 411_ZULK> svilke <C 14_VOORWAARDE> vorworden <C 821_ALS> alse <C 403_HIJ> hem 
+<L 1061:43> <C 274_BESCHRIJVEN> bescreven <C 214_ZIJN> sijn <C 800_EN> ende <C 403_HIJ> hi <C 250_GETOGEN> ghetoghen <C 210_MOGEN> mach <C 273_BEZEGELEN> beseghelt <VN type=1> <C 700_MET> met <C 472_DE/HET> [de]s 
+<L 1061:44> <C 2_BISSCHOP> b[i]sscops <C 1_ZEGEL> seghele <C 700_VAN> van <C 20_UTRECHT> vtre[c]ht <C 800_OF> of <C 475_DE/HET> der <C 4_ECCLESIE> ecclesien <C 700_VAN> van <C 20_UTRECHT> vtrecht. <C 800_OF> of <C 475_DE/HET> der 
+<L 1061:45> <C 11_MAN> man[n]e <C 700_VAN> v[a]n <C 474_DE/HET> den <C 1_GESTICHT> ghestichte <C 700_VAN> van <C 20_UTRECHT> vtrecht. <C 830+403_NE+HIJ> hine <C 210+403_WILLEN+HET> willes <C 250_ONTVALLEN> o[ntfa]llen <VN type=1> <C 700_MET> met 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 1061:51> <C 279_BEZEGELEN> beseghet 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 1062:1> <C 463_HEM> sines <C 412_ZELF> selues <C 1_WIL> wille. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 411_DEZE> dese <C 0_DING> dinch. <C 421_DIE> die <C 510_HIER> hier <C 274_VOORSCHRIJVEN> vorscreven 
+<L 1062:2> <C 210_ZIJN> [e]s <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 250_HOUDEN> houden <C 214_WILLEN> willen <C 700_MET> met <C 105_GOED> goeder <C 4_TROUW> trouwen <C 550_ZO> so <C 214_HEBBEN> hebben 
+<L 1062:3> <C 404_WIJ> wi <C 454_ONS> onsen <C 104_LIEF> lieven <C 1_NEEF> neve <C 474_DE/HET> den <C 1_GRAAF> grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 414_DEZE> desen <C 0_BRIEF> brief <C 274_GEVEN> ghegheven 
+<L 1062:4> <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele. <C 411_DEZE> Dese <C 0_BRIEF> brief <C 230_WORDEN> wart <C 274_GEVEN> ghegheven <C 701_TOT> tote <C 21_BRUSSEL> broecele <VN type=1> 
+<L 1062:5> <C 700_IN> jn <C 452_ONS> ons <C 4_HEER> heren <C 4_JAAR> iaren. <C 300_1000-285> dusent.+tvehondert.+ende+vijf+ende+tachtich. <C 700_IN> jn <C 101_SINT> sente 
+<L 1062:6> <C 22_MARTIN> martins <C 1_DAG> daghe <C 700_IN> jn <C 474_DE/HET> den <C 0_WINTER> winter. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

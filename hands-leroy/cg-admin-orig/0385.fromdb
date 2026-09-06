@@ -1,0 +1,21 @@
+<header>
+<docId>0385</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 607:11> <C 0_MEESTER> MESTER <C 20_AEGIDIUS> GILIS <C 700_VAN> VAN <C 109_SINT> S. <C 22_PETRUS> PIETERS <C 221_MAKEN> MAKEDE <C 401_IK> MI <q> ANNO <q> DNI 
+<L 607:12> <q> MCCLXXXI <q> PMO <VN type=1> <C 20_MARIA> MARIA <C 210_ZIJN> ES <C 450_MIJN> MIEN <C 9_NAAM> NA <VN type=1> <q> . 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

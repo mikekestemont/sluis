@@ -1,0 +1,769 @@
+<header>
+<docId>0001</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1:38> <q> [hand] <q> [A] <C 29_REINIER> Reiner<A >us</A> <q> .filius. <C 29_ARNOLF> arnulfi <C 21_BAKE> Bake <q> quem <C 20_SIMON> symon <C 21_BAKE> Bake <q> habet <q> in 
+<L 1:39> <q> aduocacia <q> inuadiauit <q> terram <C 20_EKHART> ecgart <q> que <q> iacet <q> in <q> uilla <q> sancti <q> bauonis <q> pro 
+<L 1:40> <q> .xxx. <C 10_MARK> m<A >arc</A>. <C 800_EN> & <q> mansura <q> prope <q> terram <q> pro <q> .ix. <C 19_VIERDONK> f<A >i</A>r<A >tonibus</A>. <q> xxv. <q> d. <q> pro 
+<L 1:41> <C 9_LEDO?> ledo <VN type=1> <C 29_BOUDEWIJN> Bald<A >uinus</A> <q> emit. <q> a. <C 29_AGATHA> agatha <q> de <C 24_STEPEN> stepen <q> terram <q> que <q> iacet <q> prope 
+<L 1:42> <q> terram <C 29_HENDRIK> henricj <q> de <C 24_STEPEN> stepen <C 309_2,5> ii't!. <C 10_MARK> m<A >arc</A>. 
+<L 1:43> <C 29_HENDRIK> Henric<A >us</A> <C 700+474_VAN+DE> vanden <C 1_AARD> arde <q> emit <q> contra <C 29_BOUDEWIJN> balduinu<A >m</A> <C 20_TALBOOM-X> talboem <q> .i. <q> cvrtile <q> & 
+<L 1:44> <q> terram. 
+<L 1:45> <C 29_FOLKERT> Fulcro <q> emit <q> contra <C 20_ADELWIJT> Elewid <q> de <C 0_OVERLOOP> ou<A >er</A>lop <q> terram <q> suam <q> hereditarie <q> & 
+<L 2:1> <q> contra <q> filios <q> suos <C 29_FOLKERT> fulcro <C 20_LIETBART-X> lietbart <q> emit <q> hereditatem <q> filiorum <C 29_ARNOLF> arnulfi <q> de 
+<L 2:2> <C 1_SLOOT> slote. <q> scilicet. <C 29_ARNOLF> arnulfi <C 29_SIMON> symonis. <C 29_WILHELM> will<A >el</A>mj. <q> contra <C 29_AEGIDIUS> Egidiu<A >m</A> <C 0_HOORNTJE> hornekin 
+<L 2:3> <q> hereditario <q> iure. <q> Jtem <q> idem <C 29_FOLKERT> fulcro <q> emit <C 29_HENDRIK> henricj <q> piscis <q> hereditatem 
+<L 2:4> <q> integram. <q> Jtem <q> idem <C 29_FOLKERT> fulcro <q> emit <C 29_GODSCHALK> Godescalcj <q> siluestris <q> hereditatem. 
+<L 2:5> <q> hereditario <q> iure. <q> Jtem <q> emit <C 471_DE> de <C 1_HOFSTEDE> hoffstede <q> contra <q> omnes <q> comparticipes 
+<L 2:6> <q> eius <q> hereditario. <q> iuro <q> saluo <q> tamen <C 29_BOUDEWIJN> balduinj <q> iure. <q> Jtem <q> inuadiauit. 
+<L 2:7> <C 29_REINBOUD> Reinboldi <q> terram. <q> pro <q> .viii'ht'ho. <C 10_MARK> m<A >arc</A> <q> .ii. <q> sol <q> pro <C 9_LOOD> lodo. <q> Jtem <q> inuadiauit 
+<L 2:8> <C 29_FOLKERT> folcardi <C 2_TALBOOM-X> talbons <q> terram. <q> pro <q> .ii. <C 10_MARK> m<A >arc</A> <q> .ii. <q> sol. <q> pro <C 9_LOOD> lodo. <q> Jtem <q> inuadiaujt 
+<L 2:9> <C 29_ARNOLF> arnulfi <C 22_MARTIN> martins <q> terram <q> pro <q> .vi. <C 10_MARK> m<A >arc</A> <q> .ii. <q> sol <q> pro <C 9_LOOD> lodo <C 9_VIERDONK> firtone<A >m</A> <q> minus 
+<L 2:10> <C 21_WOUTER> W<A >outre</A> <q> faber <q> & <C 21_WOUTER> w<A >outre</A> <q> de <q> quercu <q> emerunt <q> contra <C 29_RUTGER> rogeru<A >m</A> <C 24_BOON> bonen <q> .i. 
+<L 2:11> <q> agrum <q> hereditarie. <C 21_WOUTER> w<A >outre</A> <C 101_KORT> corte <q> emit <q> cvrtile <q> contra <C 29_RUTGER> rogeru<A >m</A> <C 800_EN> & <C 20_MEI> mei. 
+<L 2:12> <C 29_RAAS> Razo <C 0_WINTER> vi<A >n</A>ter <q> vendidit <C 29_WOUTER> walt<A >ero</A> <C 21_BAARD> bartd<A >e</A> <q> terram <q> super <C 20_GODE> Guddin <C 20_GRAT-X> Grat <q> quam 
+<L 2:13> <q> preco <q> emit <C 21_WOUTER> w<A >outre</A> <C 101_KORT> corte <q> emit <q> terram <q> contra <C 24_IME> immen <C 800_EN> & <q> filios <q> eius. 
+<L 2:14> <C 29_ALBERT> Alb<A >er</A>tus <C 0_SCHIPBOOM> scipboem <q> emit <q> .iiii't!. <C 0_MARK> m<A >arc</A>. <C 800_EN> & <q> .v. <q> sol <q> terram <q> que <q> pertinet <q> ad 
+<L 2:15> <q> sensum <C 29_GELDOLF> Geldulfi <C 700_IN> in <C 20_DESTELDONK> desseldonc <VN type=1> <q> in <q> soluit <q> omni <q> anno <q> in <q> festo <q> sanctj 
+<L 2:16> <q> bauonis <q> .xvi. <q> d. <q> & <q> aliud <q> colligit <q> quod <q> totum <q> est <q> .v. <q> sol <q> preter <q> .iii. <q> d. 
+<L 2:17> <C 29_WILHELM> Will<A >elmus</A> <C 1_ROEPER> rop<A >er</A>e <q> invadiauit <q> terram <q> filiorum <C 22_WOLFHARD> wlfers <q> .xiii't!. <C 0_MARK> m<A >arc</A>. <q> ad <q> .xv. 
+<L 2:18> <q> annos 
+<L 2:19> <C 21_WOUTER> W<A >outre</A> <C 700+20_VAN+OVERDAM> vanou<A >er</A>dam <C 800_EN> & <C 20_BOUDEWIJN> boidin <q> emerunt <q> hereditatem <C 24_AVE> eauen <VN type=1> <q> . 
+<L 2:20> <C 21_WOUTER> W<A >outre</A> <q> faber <q> & <q> emit <q> partem <q> terre <q> contra <C 21_WOUTER> w<A >outre</A> <C 471_DE> de <C 0_DEKEN> deken <q> super 
+<L 2:21> <C 0_HERIKVOORT> herric+vort <q> que <q> soluit <q> .viii <q> de <q> censu 
+<end-datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='mn'>
+
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+<q> de <q> hac <q> hereditate <q> emit <C 20_IMBERT> j<A >m</A>pi<A >n</A> 
+<L 2:22> <q> filius <C 24_VROWAAR> vrowaren <C 309_2> .ii. <C 10_STUK> stic <VN type=1> <q> terre <q> que <q> solvit <q> iii <q> d <q> ad <q> censum <VN type=1> 
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<L 2:23> <C 29_EGBERT> Ecb<A >er</A>tus <q> emit <q> contra <C 29_ARNOLF> arnulfu<A >m</A> <C 0_OOSTERLING> osterling <q> omnem <q> hereditatem <q> eius. 
+<L 2:24> <q> Jdem <C 29_EGBERT> ecb<A >er</A>tus <q> emit <q> contra <C 29_ARNOLF> arnulfu<A >m</A> <q> de <C 20_PUIGEM> pudegem <q> cvrtile <q> & <q> pratum 
+<L 2:25> <q> eius. 
+<L 2:26> <C 29_WILHELM> W<A >illelmus</A> <q> de <C 1_WOLPUT> wlputte <q> emit <q> terciam <q> partem <q> de <q> terra <C 29_WOUTER> walteri <q> de <C 20_SCHUREN> scure<A >n</A> 
+<L 2:27> <q> hereditarie. 
+<L 2:28> <C 20_ROEL> Rolin <q> de <C 1_HEIDE> hede <C 800_EN> & <C 20_VROOMOUD> fromout <q> emerunt <q> contra <C 29_SIEGER> sigerum <C 20_LAMBERT> lambi<A >n</A> <q> terram <q> & 
+<L 2:29> <q> partum <VN type=1> <C 29_FOLKWIJD> folq<A >ui</A>dis <C 700_IN> in <C 0_RIETMEERS> rietmers <C 800_EN> & <C 700+474_IN+DE/HET> inden <C 0_SCHOOT> scoet. 
+<L 2:30> <C 29_HENDRIK> Henric<A >us</A> <C 0_SLOK-X> sloc <C 800_EN> & <C 20_GOSWIJN> gosin <C 800_EN> & <C 29_WILHELM> wll<A >elmus</A>. <q> de <C 1_MEER> mere <q> emerunt <q> contra 
+<L 2:31> <C 29_EVERELM> euerelm<A >um</A> <C 800_EN> & <C 29_GODFRIED> godefrid<A >um</A> <q> hereditatem <q> eorum. <q> de <q> terra <C 29_GERBOUD> gerbaldi 
+<L 2:32> <C 20_CADOIS-X> cadois. 
+<L 2:33> <C 29_HELDOLF> Heldolf<A >us</A> <C 20_KOLPAARD-X> colpart <q> emit <q> partem <q> terre <q> contra <C 29_WOUTER> wlt<A >erum</A> <C 0_VOS> vos <C 800_EN> & <q> vxorem 
+<L 2:34> <q> suam <C 29_AGATHA> agatha<A >m</A>. 
+<L 2:35> <C 29_WOUTER> Wlt<A >erus</A> <q> de <C 20_OVERDAM> overdam <q> emit <q> partem <q> terre <q> contra <C 29_OBERT> ob<A >er</A>tu<A >m</A> <C 700+475+0_UIT+DE+HULST> ut<A >er</A>hulst 
+<L 2:36> <q> hereditarie. 
+<L 2:37> <C 21_WOUTER> W<A >outre</A> <q> de <C 20_OVERDAM> ov<A >er</A>dam <q> emit <q> partem <q> prati <C 22_WILHELM> willekins <q> de <C 24_MUDE> muden <C 800_EN> & <q> vxoris 
+<L 2:38> <q> eius <q> hererditarie <VN type=1> 
+<L 2:39> <C 21_WOUTER> W<A >outre</A> <C 100_BRUIN> brun <q> emit <q> terram <C 22_JORDAAN> iordans <C 800_EN> & <q> participum <q> ipsius. 
+<L 2:40> <C 29_WILHELM> W<A >illelmus</A> <C 20_VINKAARD-X> winkart <q> emit <C 20_EVERHARD> evert <q> filiorum <C 24_WAAL> walen <q> terram <q> hereditarie. 
+<L 2:41> <C 29_MACHLEM> Machelm <q> emit <q> mansum <C 29_MICHAEL> michaelis <q> hereditarie. 
+<L 2:42> <C 700_IN> Jn <C 21_SLOTERHEG> sloterhege. 
+<end-datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+<C 29_WILHELM> W<A >illelmus</A>. <q> f <C 22_GOOL> Goles <q> emit <q> .iii. <q> bonaria. <C 700_IN> jn <C 21_SLOTERHEG> sloterhege 
+<L 3:1> <q> hereditarie. <VN type=1> 
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<L 3:2> <C 20_GODSCHALK> Godescalt <q> de <C 21_ZWIJNHAGE> sui<A >n</A>+hage <q> iii. <q> bonaria. <q> solvit <q> .vi. <q> sol. <q> in <q> festo <q> sancti 
+<L 3:3> <q> bauonis. 
+<L 3:4> <C 20_MEINHARD> Meinart <q> emit <q> agrum <C 22_BRAAM> brames <q> hereditarie. 
+<L 3:5> <C 29_GEERTRUIDA> Get<A >ru</A>dis <q> filia <C 20_JOHANNES> hannekin. <VN type=1> <q> . <VN type=1> <q> .vi <q> bonaria. <q> hereditarie. 
+<L 3:6> <C 20_BOUDEWIJN> Boidin <q> .f. <C 20_ROEL> rolin <C 102_BRUIN> brunes <q> recepit <q> cvrtile <q> ad <q> .xv. <q> annum. 
+<L 3:7> <C 20_ARNOUT> Arnunt <C 20_ROOSLIJN-X> Roseli<A >n</A> <q> habet <C 0_HOFSTEDE> hostat <C 700_IN> in <C 471_DE> de <C 0_HULST> hulst <C 800_EN> & <q> partem <q> prati <q> hereditarie. 
+<L 3:8> <q> Jtem <C 20_ARNOUT> arnunt <C 20_ROOSLIJN-X> Roseli<A >n</A> <q> emit <q> hereditatem <C 29_HUGO> hugonis <C 2_JONKMAN> ioncmans <C 700_IN> in <C 0_HULST> hulst. 
+<L 3:9> <C 20_SOL?> Solin <C 0_RAAD> raet <q> emit <q> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 29_LAMBERT> la<A >m</A>b<A >ertum</A> <C 24_SLOOF-X> slouen <C 800_EN> & <VN type=1> <q> suos. 
+<L 3:10> <q> Hi <q> sunt <q> qui <q> in <q> abbatia <q> emerunt <q> terram <q> subscriptam <q> hereditarie. 
+<L 3:11> <C 20_IMBERT> J<A >m</A>pi<A >n</A> <q> .f. <C 24_VROWAAR> vrowaren. <C 20_ROEL> Rolin <C 0_VOS> vos <q> partem <q> de <C 4_HELFTWINNING> helefwinningen <C 4+700+474_BERK+UIT+DE> vte<A >n</A>b<A >er</A>ken. 
+<L 3:13> <C 20_DIEDERIK> Dirkin <q> de <C 20_RODENBURG> rodenbors <C 29_HENDRIK> henricj <q> de <C 21_ACHTENE> actine <q> dimidietatem <q> terre. <VN type=1> 
+<L 3:14> <C 29_DIEDERIK> Teoderic<A >us</A> <q> .f. <C 22_RADE> rades <q> emit <q> contra <C 24_IRMGARD> ermengarden <C 800_EN> & <C 21_GODSCHALK> God<A >e</A>scalche <VN type=1> <C 309_EEN> .i. 
+<L 3:15> <C 22_WOUTER> wout<A >er</A>ma<A >n</A>nes <q> partem <C 2_UITVANG> utvangs. 
+<L 3:16> <C 20_DIEDERIK> Dideric <q> .f. <C 22_RADE> rades <q> partem <q> terre <C 700+471_OP+DE/HET> ubte <C 0_KLINT> clint <q> contra <q> filios <C 29_LAMBERT> la<A >m</A>b<A >er</A>ti 
+<L 3:17> <C 22_GARDIJZER-X> Gardisers. 
+<L 3:18> <C 29_WILHELM> Wll<A >elmus</A> <C 0_VOGEL> vogel <VN type=1> <q> emit <q> terram <C 29_WOUTER> walt<A >eri</A> <C 2_ERF> erves. 
+<L 3:19> <C 29_WILHELM> Wll<A >elmus</A> <C 1_PRIDE-X> p<A >ri</A>de <q> emit <q> terram <C 22_IE> ies <q> avolculi <q> suj <q> contra <q> filium <q> eius 
+<L 3:20> <C 29_PAULUS> paulum. 
+<L 3:21> <C 20_JOHANNES> hannekin <q> .f. <C 22_IMBERT> i<A >m</A>pi<A >n</A>s <q> emit <q> terram <C 29_WILHELM> wll<A >elmi</A> <C 22_BUIS-X> buses <C 700+21_TE+ACHTENE> tactine <q> contra <C 21_HENDRIK> hei<A >n</A>kine 
+<L 3:22> <q> .f. <C 22_BUIS-X> buses. 
+<L 3:23> <C 20_ARNOUT> Arnunt <q> .f. <C 24_AVE> aven <q> emit <q> terram <C 22_ARNOUT> arnous <C 2_HOUWSCHILD> houscildes. 
+<L 3:24> <q> Jtem <C 20_ARNOUT> arnunt <q> .f. <C 24_AVE> aven <q> emit <q> terram <C 22_AEGIDIUS> Gilis. <C 22_IJSENBAART-X> isenbars <q> preter <q> iii'ha 
+<L 3:25> <C 20_GODSCHALK> god<A >e</A>scald <q> quam <q> emit <C 21_WOUTER> w<A >outre</A> <q> textor. 
+<L 3:26> <q> Jtem <C 20_ARNOUT> arnunt <q> .f. <C 24_AVE> aven <q> emit <q> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 29_GOSWIJN> Gosuinj <q> filium <C 22_WILD> wildes. 
+<L 3:27> <C 20_ZELLIN-X> Zellin <q> emit <q> terram <q> contra <C 29_MICHAEL> michaelem <C 800_EN> & <C 21_DAVID> dauid<A >e</A> <C 309_EEN> .i. <C 0_UITVANG> utvang. 
+<L 3:28> <C 20_EVERHARD> Everard <VN type=1> <q> de <q> .f. <C 24_IME> immen <C 800_EN> & <q> frater <q> eius <C 29_WILHELM> will<A >elmus</A> <q> emerunt <q> terram <q> contra 
+<L 3:29> <C 20_BOUDEWIJN> boidi<A >n</A> <q> .f. <C 22_HILDE> hillins. 
+<L 3:30> <C 20_ROEL> Rolin <q> de <C 1_HEIDE> hede <q> emit <q> terram <q> filiorum <q> auonculi <q> suj <C 22_MEINHARD> meinnars. 
+<L 3:31> <C 20_ARNOUT> Arnonlt <q> de <C 20_GENT> gaent <q> emit <q> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 29_DIETBOUD> teobald<A >um</A> <C 800_EN> & <q> alium <q> apud 
+<L 3:32> <C 24_STEPEN> stepen. 
+<L 3:33> <C 20_GODSCHALK> Godescalc <q> .f. <C 22_WEINEMAAR> wenemars <q> emit <C 22_VOLPOUD-X> volpous <C 1_ERF> herue <C 700+471_OP+DE> upte <C 0_GRAAT-X> grath. 
+<L 3:34> <C 21_WOUTER> W<A >outre</A> <q> textor <q> emit <q> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 20_WOUTER> woiti<A >n</A> <q> de <C 1_DRIES> drische. 
+<L 3:35> <C 20_GODSCHALK> God<A >e</A>scald <q> de <C 1_PUT> pitte <VN type=1> <q> emit <q> contra <C 29_WILHELM> will<A >elmum</A> <C 24_HOOS> hosen <C 309_EEN> .i. <C 1_BUNDER> bur<A >e</A> <VN type=1> <C 800_EN> & <q> in 
+<L 3:36> <q> quartam <q> partem <q> de <q> i <C 1_BUNDER> b<A >unre</A>. 
+<L 3:37> <C 21_REINIER> Reinn<A >er</A>e <q> de <C 21_BIERBEEK> birbeke <q> vendidit <q> ecclesie <q> sanctj <q> bauonis <q> que <q> habuit 
+<L 3:38> <q> super <C 20_KASTERBANT> casterbant <C 800_EN> & <C 21_OVERREKE> overreke. <q> testes <C 20_FRANCISCUS> soi <q> de <C 14_SLOTEN> sloten <C 20_HENDRIK> heinric <q> de <C 1_BERG> berge. 
+<L 3:39> <C 20_HENDRIK> heinkin. <C 20_DIEDERIK> dirkin <q> de <C 20_RODENBURG> Rodenborh. <C 20_HENDRIK> henric <C 0_SLOK-X> sloc <C 20_JORDAAN> iordan. <C 20_HENDRIK> henric <C 20_GANT-X> gant. <C 20_HENDRIK> henric 
+<L 3:40> <q> .f. <C 29_MICHAEL> michaelis. <C 20_IJSWIJN> isvin. 
+<L 3:41> <C 20_JOHANNES> hannekin <q> de <C 20_KANEGEM> kanengem <q> emit <C 20_WOUTER> voitin <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> apud <C 20_ZINGEM> singem <C 22_WOUTER> woitins 
+<L 4:1> <q> filij <C 24_MARTHA> marten. 
+<L 4:2> <C 20_HENDRIK> henric <q> de <C 21_MOLSELE> molsele <q> emit <C 20_WOUTER> voitin <C 22_BAARS> bars <q> terram <q> & <q> vxoris <q> eius <q> apud 
+<L 4:3> <C 21_MOLSELE> molsele. 
+<L 4:4> <C 20_ARNOUT> Arnunt <q> de <C 21_MEERHOUT> merhoute <C 800_EN> & <C 20_HUGO> hugo <q> emerunt <q> terram <C 22_DAVID> dauidis <q> filij <C 29_ENGELBERT> ingelberti 
+<L 4:5> <C 20_CHUK-X> chux <q> : <C 20_FRANCISCUS> Soiki<A >n</A> <q> filius <C 20_ARNOUT> arnoud <q> emit <q> partem <C 29_MICHAEL> michael<A >is</A> <q> filii <C 29_MICHAEL> michaelis. 
+<L 4:6> <C 20_MICHAEL> Michil <q> de <C 0_LO> lo <q> emit <q> .i. <C 0_UITVANG> utvant <C 22_SIMON> monekins <q> hereditarie. 
+<L 4:7> <C 20_PETRUS> Petr<A >us</A> <q> de <C 20_RUMST> rumest <q> emit <q> .i. <C 0_HOFSTEDE> hofstat <C 29_HENDRIK> heinricj <q> de <C 21_DRONGEN> druugine <VN type=1> <q> . 
+<L 4:8> <C 29_WILHELM> w<A >illelmus</A> <q> de <C 21_LOKERVELD> lokervelde <q> emit <q> omnem <q> hereditatem <C 22_WOUTER> w<A >outres</A> <C 2_KNOVEL-X> cnoveles. 
+<L 4:9> <C 20_HENDRIK> henric <C 0_POGER-X> pogeir <q> emit <C 20_GERON> gerong <C 0_HOFSTEDE> hofstat <q> hereditarie. 
+<L 4:10> <C 29_SIEGER> Siger<A >us</A> <q> de <C 21_LOKERVELD> lokeruelde <q> emit <q> partem <q> terre <q> contra <C 24_ODE> odilien <C 309_2> .ii. <C 10_MARK> m<A >arc</A>. 
+<L 4:11> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 22_ENGEL> ingels <q> emit <q> contra <C 20_GODSCHALK> godescalc <VN type=1> <q> de <C 1_PUT> pitte. 
+<L 4:12> <C 20_HENDRIK> henric <C 1_DUFFELER> duflere <q> emit <q> contra <C 29_WEDERIK> wederic<A >um</A> <q> .f. <C 22_GREGORIUS> ioris <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat. 
+<L 4:13> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 20_ENGEL> ingel <q> emit <q> contra <C 20_GODSCHALK> godescalc <q> de <C 1_PUT> putte <q> terre <q> quicquid <q> colebat 
+<L 4:14> <q> abeo. 
+<L 4:15> <C 20_VOIKIN> voikin <q> filia <C 29_HENDRIK> henrici <C 22_KORTOP-X> cortops <q> filii <C 22_LAMBERT> la<A >m</A>bins <q> emit <q> hereditatem <C 29_PETRUS> pet<A >ri</A>. 
+<L 4:16> <C 29_GERARD> Gerad<A >us</A> <C 0_SCHACHT> scadht <q> emit <q> terram <C 24_IME> immen <q> filie <C 22_JOHANNES> hannekins <C 700_VAN> van <C 20_PUIGEM> pudegem 
+<L 4:17> <q> hereditarie. 
+<end-datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<L 4:18> <q> [hand] <q> [B] <C 21_WOUTER> w<A >outre</A> <C 700_VAN> van <C 20_RANST> rans <C 800_EN> & <C 20_ARNOUT> arnout <C 20_ROOSLIJN-X> roselin <VN type=1> <q> emerunt <q> quidquid <q> habuit 
+<L 4:19> <C 21_SIEGER> seg<A >er</A>e <C 20_WALAARD> walart <C 700_IN> i<A >n</A> <C 471_DE> d<A >e</A> <C 0_HULST> hulst <C 800_EN> & <C 21+700_OOSTAKKER+TE> thostack<A >er</A>e <VN type=1> <C 800_EN> & <C 29_WILHELM> will<A >elmus</A> <q> frater <q> eius <VN type=1> <q> 't% <q> emit 
+<L 4:20> <q> solus <C 21_WOUTER> w<A >outre</A> <q> de <C 20_RANST> ra<A >n</A>is <C 309_EEN> .i. <C 0_HOFSTEDE> hostat <VN type=1> 
+<L 4:21> <C 20_HENDRIK> henr<A >ic</A> <C 20_ELZENSCHACHT-X> elsi<A >n</A>scaht <q> emit <q> contra <C 20_HENDRIK> hei<A >n</A>ki<A >n</A> <q> f <C 24_GIJS> Giselen <q> agrum <C 22_KOBOLD> cobbous. <C 800_EN> & <C 309_EEN> i 
+<L 4:22> <C 0_SESTERZAAD> s<A >us</A>t<A >er</A>saet <q> terre 
+<L 4:23> <C 21_GEILE> Geile <q> de <q> terra <q> quam <q> dedit <q> ei <q> mater <q> sua <q> hereditarie <q> jn <q> matrimonio 
+<L 4:24> <C 0_SLOK-X> sloc <q> de <q> terra <q> que <q> partitur <q> contra <C 24_GERBODE> Gerbode<A >n</A>. <C 22_HENDRIK> henki<A >n</A>s <C 800_EN> & <C 20_EVERELM> ev<A >er</A>helm. <C 800_EN> & 
+<L 4:25> <q> pratum 
+<L 4:26> <C 21_WOUTER> w<A >outre</A> <C 1+471+700_VIJVER+DE+VAN> vandeviv<A >er</A>e <q> emit <q> contra <C 29_GODSCHALK> God<A >e</A>ssalc<A >um</A> <C 309_EEN> i <C 0_HALSTERZAAD> halt<A >er</A>+sad <q> terre. 
+<L 4:27> <q> quartam <q> partem <q> de <q> terra <C 22_APER> ap<A >er</A>s 
+<L 4:28> <C 20_JOHANNES> hanneki<A >n</A> <q> .f <C 22_WOUTGEER> woug<A >er</A>s <q> emit <q> terram <C 22_JOHANNES> hanneki<A >n</A>s <C 0_VOS> vos. <C 700+21_TE+ACHTENE> tactine. <C 700_IN> j<A >n</A> 
+<L 4:29> <C 20_MEERAKKER> m<A >er</A>hacker 
+<L 4:30> <C 21_WOUTER> w<A >outre</A> <C 474+700_DE/HET+MET> metten <C 1_BEEN> bene <q> emit <q> .ii'ha'hs. <q> partes <q> terre <q> filiorum <C 29_EGBERT> ecb<A >erti</A> <C 700_IN> i<A >n</A> <C 471_DE> de <C 0_HULST> hulst. 
+<L 4:31> <C 20_ARNOUT> arn<A >out</A> <C 20_ROOSLIJN-X> roseli<A >n</A> <q> terciam <q> partem. <q> contra <C 29_EGBERT> ecb<A >ertum</A> <C 0_KLERK> clerc. <VN type=1> 
+<L 4:32> <C 29_WILHELM> w<A >illelmus</A> <C 0_VOGEL> vogel <q> emit <q> terram <C 29_FOLBERT> folp<A >er</A>ti <q> de <C 1_WINKEL> wi<A >n</A>cle 
+<L 4:33> <C 20_WOUTER> woi<A >n</A>ti<A >n</A> <q> de <C 0_LO> lo <q> emit <q> terram <C 29_ARNOLF> arnulfi <q> filij <C 29_ROBERT> Rob<A >er</A>ti <q> de <C 1_SLOOT> slote <C 700_IN> j<A >n</A> <C 21_OOSTAKKER> hostack<A >er</A>e. 
+<L 4:34> <C 700_IN> j<A >n</A> <C 20_PUIGEM> pudege<A >m</A>. <VN type=1> <q> super <q> cultvram 
+<L 4:35> <C 20_HENDRIK> henr<A >ic</A> <C 0_SLOK-X> sloc <q> emit <q> cvrtile <C 29_HUGO> hugonis <C 2_VINK> vi<A >n</A>kes <C 800_EN> & <q> quidquid <C 1_KOLVING> colvi<A >n</A>ge <q> ibi 
+<L 4:36> <q> inferius <q> habuerunt <q> & <q> participes <q> eorum. 
+<L 4:37> <C 21_WOUTER> w<A >outre</A> <C 0_RAM> ra<A >m</A> <C 29_WILHELM> w<A >illelmus</A> <q> preco <q> emerunt <q> terram <C 29_EVERDEI> ev<A >er</A>dei. <C 800_EN> & <C 22_WOUTER> w<A >outres</A> 
+<L 4:38> <q> filiorum <C 29_WILHELM> will<A >elmi</A> <q> preconis 
+<L 4:39> <C 29_WILHELM> w<A >illelmus</A> <q> f <C 22_GOOL> Goles <C 309_4> iiii <C 11_BUNDER> b<A >unre</A> 
+<L 4:40> <C 20_MEINHARD> Meinart <C 309_EEN> i <C 1_BUNDER> b<A >unre</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<L 4:57> <C 21_PUIGEM> pude<A >n</A>ge 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<end-datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<L 5:1> <C 21_ROTE> Rote <C 21_SLAB-X> slabbe <C 309_EEN> i <C 1_BUNDER> b<A >unre</A> 
+<L 5:2> <C 20_HENDRIK> hei<A >n</A>ki<A >n</A> <q> f <C 24_GIJS> Gislen <q> diuisus <q> est <VN type=1> <q> ab <q> omni <q> iure <q> hereditario <q> contra <C 20_SIMON> sim<A >on</A> 
+<L 5:3> <C 0_BUIK> buec <C 800_EN> & <q> comparticipes. <VN type=1> 
+<L 5:4> <C 20_HUGO> hugo <q> de <C 20_ROOSBROEK> Rosebroec <q> de <q> quartaparte <q> de <q> i <C 9_BONNARIUM> bun<A >ario</A> <C 29_WOUTER> valteri <q> de <C 20_AALST> alst <C 309_ZEVEN> vii 
+<L 5:5> <C 19_VIERDONK> f<A >irtones</A> 
+<L 5:6> <C 21_WOUTER> w<A >outre</A> <C 0_TEERNING> terni<A >n</A>c <q> deterra <C 29_HENDRIK> henricj <q> filij <C 21_GIJS> Giselle <C 309_2> ii <C 10_MARK> m<A >arc</A> 
+<L 5:7> <C 20_BOUDEWIJN> boidi<A >n</A>. <C 0_DULLAARD-X> dullart <q> emit <q> terram <C 22_DIEDERIK> dirki<A >n</A>s <q> de <C 20_RODENBURG> Rodenborh <q> que <q> iacet. <q> apud 
+<L 5:8> <C 21_OOSTAKKER> ostack<A >er</A>e <q> que <q> fuit <C 29_HENDRIK> henrici <q> de <C 21_OOSTAKKER> ostack<A >er</A>e 
+<L 5:9> <q> item <C 20_BOUDEWIJN> b<A >oidin</A> <C 0_DULLAARD-X> dullart <q> emit <q> pratum <C 22_GODFRIED> Godeuerds <VN type=1> <C 800_EN> & <C 22_EVERELM> euerelms <VN type=1> <q> apud 
+<L 5:10> <C 21_OOSTAKKER> ostack<A >er</A>e 
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1215' jaar_van='1215' tijdsoort='2' tijdstatus='1'>
+
+<L 5:11> <q> [hand] <q> [C] <C 29_REINIER> Reinerus <q> filius <C 29_ARNOLF> arnulphi <C 4_BAKE> baken <q> emit <q> duas <q> partes. <q> fundi <C 22_EKHART> egarts 
+<L 5:12> <q> qui <q> iacet <q> in <q> uilla <q> sancti <q> bauonis <q> hereditarie. 
+<end-datering  jaar_tot='1215' jaar_van='1215' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<L 5:13> <q> [hand] <q> [B] <C 20_ARNOUT> Arnout <q> faber <q> emit <q> terram <C 20_EINWARD> ei<A >n</A>vert <C 24_WAAL> walen. <C 800_EN> & <C 22_HEIME> heims. <C 309_ANDERHALF> i't! <C 1_BUNDER> b<A >unre</A> 
+<L 5:14> <C 800_EN> & <C 309_EEN> i <C 0_HOFSTEDE> hostat <q> contra <C 21_WOUTER> w<A >outre</A> <C 0_HOLBOS-X> holb<A >us</A> <C 800_EN> & <C 29_WILHELM> w<A >illelmum</A> <q> fratrem <q> eius 
+<L 5:15> <C 21_ANNA> Anne <C 1_BRAAM> brame <q> emit <q> terram <C 22_WILHELM> wilki<A >n</A>s <C 24_BEER> berren <C 20+700_LEDERGEM+TE> teled<A >er</A>ge<A >m</A> 
+<L 5:16> <C 21_ANNA> Anne <C 1_BRAAM> brame <q> emit <q> terram <q> omnem <C 22_OLBOUD-X> olbous <q> aput <C 20_LEDERGEM> led<A >er</A>ge<A >m</A>. <C 800_EN> & <C 309_EEN> i <C 1_BUNDER> bun<A >re</A> 
+<L 5:17> <q> prati <C 700_IN> j<A >n</A> <C 20_EST> esch 
+<L 5:18> <C 20_MICHAEL> Michil <C 0_BOK> buc <q> deterra. <C 21_ANNA> anne <C 22_BRAAM> brames. <C 800_EN> & <q> fratrum <q> suorum <q> quod <q> solvit <q> iii 
+<L 5:19> <q> d 
+<L 5:20> <C 20_MICHAEL> Michil <C 0_BOK> buc <q> deterra <C 22_MEINHARD> mei<A >n</A>nars. <C 800_EN> & <C 22_FRIES> frieseki<A >n</A>s 
+<L 5:21> <C 20_HENDRIK> henric <q> de <C 1_BERG> berge <q> de <C 24_ERMINTRUIDA> erm<A >en</A>truden <C 0_HOFSTEDE> hostat 
+<L 5:22> <C 29_WILHELM> w<A >illelmus</A> <C 1_PRIDE-X> p<A >ri</A>de <q> deterra <C 29_SIEGER> sigeri <q> fratris <q> suj 
+<L 5:23> <C 20_WOUTER> woi<A >n</A>ti<A >n</A> <q> de <C 1_MEER> m<A >er</A>e <q> deterra <C 22_ERPO> erpes. <C 800_EN> & <C 29_WOUTER> walt<A >eri</A>. <C 800_EN> & <C 29_GOSWIJN> Gosuinj <q> aput <C 1_MEER> m<A >er</A>e 
+<L 5:24> <C 20_GOSWIJN> Gosekj<A >n</A> <VN type=1> <q> filius <C 22_WOUTER> w<A >outres</A> <C 24_VEUL> volen <q> deterra <C 29_HENDRIK> henr<A >ici</A> <C 22_KWIK> quekes <C 471+700_DE+IN> inde <C 0_HULT?> hult 
+<L 5:25> <q> jtem <C 20_GOSWIJN> Goski<A >n</A> <q> deterra <C 22_BOUDEWIJN> boi<A >n</A>di<A >n</A>s <C 22_RIES> ries <C 800_EN> & <VN type=1> <q> quidquid <q> habuit <q> jn <q> abatia. 
+<L 5:26> <C 21_WOUTER> w<A >outre</A> <C 100_BRUIN> bruen <q> emit <q> contra <C 20_BOUDEWIJN> boi<A >n</A>dj<A >n</A> <C 20_ELZENSCHACHT-X> elsi<A >n</A>saht <C 700_IN> j<A >n</A> <C 20_MEERAKKER> m<A >er</A>hacker <q> terram <VN type=1> 
+<L 5:27> <C 309_EEN> i <C 0_MARK> m<A >arc</A>. 
+<L 5:28> <C 21_WOUTER> w<A >outre</A> <C 20+700_OVERDAM+VAN> vanov<A >er</A>da<A >m</A> <q> emit <q> terram <C 29_WILHELM> will<A >elmi</A> <C 21+799_LOKERVELD+DE> delokervelde <q> .ii'ha'hs. <q> partes 
+<L 5:29> <C 21_WOUTER> w<A >outre</A> <q> de <C 21_LOKERVELD> lok<A >er</A>velde <q> emit <q> terciam <q> partem <q> deterra <q> patris <q> suj <VN type=1> 
+<L 5:30> <C 29_WILHELM> will<A >elmus</A> <C 0_VOGEL> vogel <q> emit <q> terre <C 29_HENDRIK> henrici <q> de <C 20_MENDONK> m<A >en</A>donc <VN type=1> <q> dimidiam <q> partem. 
+<L 5:31> <q> & <C 24_MARGARETA> Grienten <VN type=1> <q> filie <C 24_BERT> b<A >er</A>ten 
+<L 5:32> <C 21_WOUTER> w<A >outre</A> <q> filjus <C 22_ENGEL> i<A >n</A>gels <C 800_EN> & <C 20_HUGO> hugo <q> de <q> monte <q> emerunt <q> contra <C 29_GODSCHALK> Godescalcu<A >m</A> 
+<L 5:33> <q> de <VN type=1> <C 1_PUT> putte <q> vi'ha. <q> partem <q> de <C 20_ARNOUT> arnout <C 22_GARDIJZER-X> Gardisers <C 0_HOFSTEDE> hostat. <C 800_EN> & <q> vi'ha'hm. <q> partem. <q> de 
+<L 5:34> <q> i <C 1_BUNDER> bun<A >re</A> <q> terre <C 700_IN> j<A >n</A> <C 20_RUISBROEK> roesbroc 
+<L 5:35> <C 29_AEGIDIUS> egidi<A >us</A> <C 20_KROMMELIJN-X> cru<A >m</A>belin. <q> emit <q> omnem <q> hereditatem <q> filiorum <C 29_SIEGER> sigeri <q> de <C 1_WINKEL> wi<A >n</A>cle 
+<L 5:36> <C 800_EN> & <VN type=1> <q> partipum <q> eorum <q> preter <C 29_WOUTER> walt<A >eri</A> <q> de <C 21_BODELBUUR> bodelbure. <C 800_EN> & <C 0_UITVANG> vtvang <C 29_DIEDERIK> teoderici; 
+<L 5:37> <q> & <q> quidquid <q> iuris. <q> in <q> eadem <q> terra <q> habuit <C 29_HENDRIK> heric<A >us</A> <q> filjus <C 22_LAMBERT> la<A >m</A>bi<A >n</A>s <C 800_EN> & <q> filii 
+<L 5:38> <q> eius 
+<L 5:39> <C 20_HENDRIK> henric <C 1_DUFFELER> duflere <C 29_WILHELM> will<A >elmus</A> <C 21_SIEGER> seg<A >er</A>e <q> emerunt <q> quidquid <q> iuris <q> habuerunt 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-statushand  statushandkode='an'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<statushand  statushandkode='ad'>
+
+<L 5:55> <C 10_MARK> m<A >arc</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<statushand  statushandkode='an'>
+
+<L 6:1> <C 21_WOUTER> w<A >outre</A>. <VN type=1> <q> maritus <C 24_GONDRAAD> Gondraden <C 800_EN> & <q> participes <q> eius <q> super <C 0_HOFSTEDE> hostat <q> que 
+<L 6:2> <q> super <C 22_JORDAAN> iodans <C 1_STEEG> stege 
+<L 6:3> <C 20_WOUTER> woiti<A >n</A> 
+<L 6:4> <C 20_WOUTER> wot<A >er</A> <C 100_BRUIN> bruen <q> emit <q> contra <C 20_BOUDEWIJN> boidi<A >n</A> <q> filium <C 22_RENGER> ri<A >n</A>gers <q> quidquid <q> habuit <C 700_IN> j<A >n</A> 
+<L 6:5> <C 20_RUISBROEK> Roesbroec 
+<L 6:6> <C 20_ARNOUT> arnout <q> filius <C 20_ARNOUT> arnoud <q> de <C 1_WINKEL> wi<A >n</A>cle. <C 800_EN> & <C 20_BOUDEWIJN> boi<A >n</A>di<A >n</A> <q> filius <C 21_THOMAS> tome <q> emerunt <q> partem 
+<L 6:7> <q> terre <q> contra <C 24_HILDE> hillen <q> filiam. <C 22_APER> apers <VN type=1> 
+<L 6:8> <C 20_JOHANNES> hanneki<A >n</A>. <VN type=1> <q> filius <C 24_LIETE> lietten <q> emit <q> terram <C 22_IDGEBOD> idgebodes. <C 800_EN> & <C 29_SIEGER> sigeri. <C 22_BOUDEWIJN> boidi<A >n</A>s <VN type=1> 
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1217' jaar_van='1217' tijdsoort='2' tijdstatus='1'>
+
+<L 6:10> <q> [hand] <q> [D] <C 20_LIEF> lief <C 800_EN> & <C 21_MATTE'S1US> mathie <q> hereditarie. <q> quia <q> uero <q> filij <q> prefatj <C 29_BOUDEWIJN> bald<A >uini</A> <q> ad 
+<L 6:11> <q> etatem <q> nondum <q> peruenerunt <q> de <q> viij'ha <q> parte <q> terre <C 29_BOUDEWIJN> bald<A >uini</A> <q> filij <VN type=1> 
+<L 6:12> <C 29_BOUDEWIJN> bald<A >uini</A>. <VN type=1> <q> fideijussores <q> pro <q> se <q> posuerunt <C 29_MATTE'S1US> mathia<A >m</A> <C 29_SIEGER> sygeru<A >m</A> <C 800_EN> & <C 29_IJSBOUD> yseboldu<A >m</A> 
+<L 6:13> <q> quod <q> quicquid <q> deesset. <q> dum <q> ad <q> etatem <q> perueniunt <q> persoluere 
+<L 6:14> <q> curabunt 
+<end-datering  jaar_tot='1217' jaar_van='1217' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<L 6:15> <q> [hand] <q> ['t%] <q> [B] <C 20_BOUDEWIJN> boi<A >n</A>di<A >n</A> <q> filius <C 24_IRMGARD> erm<A >en</A>garde<A >n</A> <VN type=1> <q> deterra <C 22_FRANCISCUS> soili<A >n</A>s <q> nepotis <q> suj. 
+<L 6:16> <q> & <C 29_VROOMOUD> fromoldi <q> avonculi <q> suj. 
+<L 6:17> <C 20_WEINEMAAR> wenem<A >ar</A> <q> de <C 21_ACHTENE> hactine <q> emit <q> terram <C 29_DIEDERIK> teodericj <C 22_KAPROEN> caprons <VN type=1> <q> . <q> medietatem. <C 800_EN> & 
+<L 6:18> <C 29_BOUDEWIJN> bald<A >uini</A> <q> albi. 
+<L 6:19> <C 20_SIMON> Sym<A >on</A> <q> monacus <q> sanctj <q> bavonis <q> emit <q> terram <C 29_WILHELM> will<A >elmi</A> <C 800_EN> & <C 29_ARNOLF> arnulfi 
+<L 6:20> <q> filiorum <C 21_AGATHA> agate. <C 800_EN> & <q> vxoris <C 22_BOUDEWIJN> boi<A >n</A>di<A >n</A>s <q> filie <q> avonculi <VN type=1> <q> ipsorum <C 700_OP> ub <C 4_VORST> vorsten. 
+<L 6:21> <C 29_EVERHARD> Everadd<A >us</A>. <C 29_WILHELM> will<A >elmus</A> <q> emerunt <q> terram <C 29_HADEBERT> hadeb<A >er</A>ti. <C 800_EN> & <C 22_ARNOUT> arnous. <C 800_EN> & <q> fratris. 
+<L 6:22> <q> filiorum <q> ipsorum <VN type=1> <C 29_HENDRIK> henrici. <C 475+700_DE+TE> t<A >er</A> <C 1_MEER> m<A >er</A>e 
+<L 6:23> <C 20_ERMINTRUIDA> Erm<A >en</A>trud <q> soror <C 29_WOUTER> walt<A >eri</A> <C 102_BRUIN> bruens <C 800_EN> & <C 21_WOUTER> w<A >outre</A> <C 100_BRUIN> brun <C 800_EN> & <C 20_GIJS> Gisel <C 800_EN> & <C 21_HEILE> heile <VN type=1> <q> de 
+<L 6:24> <q> allodio <C 29_WOUTER> walt<A >eri</A> <C 22_WAAI> waies <C 800_EN> & <C 29_HENDRIK> henrici <q> de <C 21_GENTBRUGGE> Genbruge <C 800_EN> & <C 22_ARNOUT> arnous <q> de <C 21_HEUSDEN> hosdine. 
+<L 6:25> <C 21+700_ACHTENE+TE> tachtine. 
+<L 6:26> <C 26_AVE> Ava <q> filia <C 22_VROMOED> vromous <q> emit <q> i <C 0_HOFSTEDE> hostat <q> contra. <C 29_ARNOLF> arnulfu<A >m</A> <q> filium <C 29_WOUTER> walteri 
+<L 6:27> <q> amici. 
+<L 6:28> <C 29_WILHELM> Willelm<A >us</A> <C 21+700_LOKERVELD+VAN> vanlokervelde <q> de <VN type=1> <q> omni. <q> patris <q> suj <q> hereditate. 
+<L 6:29> <C 20_HENDRIK> henric <q> de <C 1_VIJVER> viu<A >er</A>e <C 800_EN> & <C 20_WEINEMAAR> wenem<A >ar</A> <q> emerunt <q> terram <C 29_GEORGIUS> Georgij. 
+<L 6:30> <C 20_ARNOUT> Arnout <C 475+700_DE+VAN> vander <C 0_WERF> werft <C 800_EN> & <C 20_HENDRIK> hei<A >n</A>ki<A >n</A> <C 700+475_VAN+DE> vander <C 0_MOLEN> molen. <C 800_EN> & <C 20_DIEDERIK> dirki<A >n</A> <q> emerunt 
+<L 6:31> <q> mediam <q> partem <q> terre <C 22_WOUTER> w<A >outres</A> <C 22_WAAI> wais 
+<L 6:32> <q> 't% <C 20_HELDOLF> heldolf <C 0_SPIERING> spiri<A >n</A>c. <C 800_EN> & <C 21_SIEGER> seg<A >er</A>e <C 101_VROED> vroede <q> deterra <C 29_BOUDEWIJN> balduini <q> fratris <q> ipsorum 
+<L 6:33> <q> predictus <C 29_SIEGER> siger<A >us</A> <q> emit <C 0_HOFSTEDE> hostat <C 29_BOUDEWIJN> balduini <q> pro <q> se <q> singulariter. 
+<L 6:34> <q> 't% <C 26_AVE> Ava. <C 20_SIMON> monin <q> de <q> hereditate <C 29_DIEDERIK> teodericj <q> filii <C 24_MARTHA> marten <C 700_IN> j<A >n</A> <C 20_ZINGEM> si<A >n</A>ge<A >m</A> 
+<L 6:35> <q> 't% <C 20_JOHANNES> hanneki<A >n</A> <VN type=1> <q> maritus <C 21_AGATHA> agate <q> emerunt <q> contra <C 29_DIEDERIK> teodericu<A >m</A> <q> filium 
+<L 6:36> <C 24_MARTHA> marten <C 309_EEN> i <C 0_HOFSTEDE> hostat. <C 700_IN> j<A >n</A> <C 20_ZINGEM> si<A >n</A>ge<A >m</A>. <C 800_EN> & <q> terram <C 22_ALAN> alins. <C 800_EN> & <q> terram <q> de <C 20_EVERGEM> ev<A >er</A>gem 
+<L 6:37> <C 29_WOUTER> walt<A >erus</A> <q> de <C 20_RANST> ranist <q> emit <q> i <C 0_HALSTERZAAD> halt<A >er</A>+saed <C 2_LAND> landes <q> contra <C 29_EVERHARD> ev<A >er</A>ardu<A >m</A> <C 700_IN> j<A >n</A> <C 21_OOSTAKKER> ost+hack<A >er</A>e 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-statushand  statushandkode='an'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<statushand  statushandkode='ad'>
+
+<L 6:52> <C 10_MARK> m<A >arc</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<statushand  statushandkode='an'>
+
+<L 7:2> <C 29_WOUTER> walt<A >erus</A> <C 20+700_OVERDAM+VAN> vanov<A >er</A>da<A >m</A> <q> emjt <q> medietatem <q> terre <C 29_DIEDERIK> teoderici <q> caprones <C 800_EN> & 
+<L 7:3> <C 29_BOUDEWIJN> balduuuini <q> albi <q> fratris <q> eius <q> apud <C 21_ACHTENE> actine. 
+<L 7:4> <C 20_STEFANUS> Steui<A >n</A> <C 800_EN> & <C 20_MICHAEL> michil <q> emerunt <q> terram <q> sororis <C 29_HENDRIK> henrici <C 22_CHRISTENMAN> kerstimannes <q> & <q> amite 
+<L 7:5> <q> eius <q> vxoris <C 29_MACHLEM> machelmi <q> apud <C 1_MEER> m<A >er</A>e <VN type=1> 
+<L 7:6> <q> 't% <VN type=1> <C 29_ENGELBERT> j<A >n</A>gelb<A >ertus</A> <q> filius <C 24_VROWAAR> vrowaren <q> emit <q> partem <q> de <C 0_HOFSTEDE> hostat <q> que <q> fuit 
+<L 7:7> <C 22_MEINHARD> meinars <q> filii <C 24_BOSSIJN-X> buschinen 
+<L 7:8> <q> 't% <C 29_WILHELM> Will<A >elmus</A> <q> de <C 1_AARD> arde <q> emit <q> pratum <C 22_ROEL> Rolins <C 2_VOS> vos 
+<L 7:9> <q> 't% <VN type=1> <C 20_FRANCISCUS> soilin <C 0_RAAD> raet. <C 20_HUGO> hugo <q> filius <C 22_MEINHARD> meinars <q> emerunt <q> quidquid <q> habuit <C 21_SIEGER> seg<A >er</A>e 
+<L 7:10> <C 20_JACOB> coppi<A >n</A> <C 700_IN> j<A >n</A> <C 21_SLOTERHEG> slot<A >er</A>hege 
+<L 7:11> <q> 't% <C 20_MEINHARD> Meinart <q> emit <q> pratum <C 29_RUTGER> Rogeri <C 20_OUDKWAAD-X> outquaet <C 700_IN> j<A >n</A> <C 20_EST> hehst. <q> iuxta <C 29_WILHELM> will<A >elmum</A> <q> de 
+<L 7:12> <C 1_AARD> arde 
+<L 7:13> <q> 't% <C 20_GODSCHALK> Godescalc <C 4+700+474_BERK+UIT+DE> utenberken <q> emit <q> contra <C 29_RUTGER> Rogeru<A >m</A> <C 29_GOSWIJN> Gosuinu<A >m</A> <q> fratrem 
+<L 7:14> <q> eius <q> pratum <q> ipsorum <q> quem <q> habuerunt <C 700_IN> j<A >n</A> <C 0_RIETMEERS> Riet+mersg. 
+<L 7:15> <q> 't% <C 29_WOUTER> Walter<A >us</A> <q> faber <q> contra <C 29_CHRISTIAAN> xp<A >ist</A>ianu<A >m</A> <C 800_EN> & <C 29_DIEDERIK> teodericu<A >m</A> <q> filium <C 22_HEIME> hei<A >m</A>mes <C 309_EEN> .i. 
+<L 7:16> <C 0_HOFSTEDE> hostat 
+<L 7:17> <q> 't% <C 20_HENDRIK> henric <q> de <C 1_HAAG> hage <VN type=1> <C 800_EN> & <C 20_ARNOUT> arnout <q> de <C 1_HAAG> hage <q> emerunt <q> contra <C 29_EVERHARD> everaddu<A >m</A> <q> de <VN type=1> 
+<L 7:18> <C 21_ACHTENE> achtine <q> omnem <q> hereditatem <q> ipsius <q> apud <C 1_SLOOT> slote 
+<L 7:19> <q> 't% <C 21_HEILE> heile <q> emit <q> contra <C 24_IME> jmmen <q> filiam <C 29_EGBERT> ecb<A >er</A>ti <q> duas <q> partes <q> terre <C 700+475_TE+DE> ter <C 1_MEER> merre 
+<L 7:20> <q> 't% <C 29_BARTOLOMEUS> bartolome<A >us</A> <q> emit. <q> terram <C 29_HUGO> hugonis <C 22_VINK> vi<A >n</A>kes <C 800_EN> & <C 29_VROOMOUD> fromoldi <q> aput <C 21_ACHTENE> achtine. 
+<L 7:21> <q> 't% <C 29_WOUTER> Walter<A >us</A> <q> filius <C 24_HILDE> hillen <q> emit <q> quidquid <q> habuit <C 29_DIEDERIK> teoderic<A >us</A> <C 20_KAPROEN> capron. <C 800_EN> & 
+<L 7:22> <C 29_BOUDEWIJN> balduin<A >us</A> <q> frater <q> eius <q> super <C 1_SLOTERKOUTER> slot<A >er</A>+coutere 
+<L 7:23> <q> 't% <C 20_BOUDEWIJN> Boindin <q> filius <C 29_WOUTER> walteri <q> de <C 1_VIJVER> uiv<A >er</A>e <q> emit <q> terram <C 29_GIJSBERT> Giselb<A >er</A>ti <q> de <C 21_WESTVELD> wesvelde 
+<L 7:24> <q> silicet <C 309_HALF> 't! <C 1_BUNDER> bun<A >re</A> 
+<L 7:25> <q> 't% <C 29_WOUTER> walter<A >us</A> <C 100_BRUIN> bruen <q> emit <q> contra. <C 20_JOHANNES> hanneki<A >n</A> <q> filium <C 22_IMBERT> i<A >m</A>pins <C 309_2> .ii. <C 11_BUNDER> bun<A >re</A>. 
+<L 7:26> <C 4_WOESTIJN> woistinen 
+<end-datering  jaar_tot='1223' jaar_van='1212' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1223' jaar_van='1223' tijdsoort='2' tijdstatus='1'>
+
+<L 7:27> <q> [hand] <q> [E] <C 29_EGBERT> ecb<A >er</A>t<A >us</A> <q> de <C 0_HULST> hulst <q> emit <q> terram <C 0_VINKAARD-X> wincart. <q> Jnde <q> soluit <q> ad <q> festum 
+<L 7:28> <q> sancti <q> bavonis <q> ii. <q> d. 
+<L 7:29> <C 29_LAMBERT> lamb<A >er</A>t<A >us</A> <C 1_SLOOF-X> sloue <q> emit <C 29_BAASJE-X> basekini <q> terram <q> & <C 21_HUGO> huge <C 2_BODE> botes 
+<L 7:30> <q> [hand] <q> [D] <C 29_WOUTER> walt<A >erus</A> <C 0_BLIEK-X> blic <q> emit <C 309_HALF> 't! <C 1_BUNDER> bun<A >re</A> <q> terre <q> contra <C 29_HENDRIK> heinric<A >um</A> <q> de 
+<L 7:31> <C 20_MAKEGEM> meckenghem <q> hereditarie 
+<L 7:32> <q> [hand] <q> [F] <C 29_SIEGER> Siger<A >us</A> <q> de <C 6_MERE> mera <q> emit <q> contra <C 21_WOUTER> w<A >outre</A> <C 474+0_DE+RAM> denra<A >m</A> <C 800_EN> & <C 26_HENDRIK> henrica <q> frater 
+<L 7:33> <q> eius <q> & <C 20_ARNOUT> ano<A >n</A>t <q> de <C 26_SLOTEN> slota <q> partem <C 4_WOESTIJN> vastinen 
+<L 7:34> <C 29_LAMBERT> lameki <q> de <C 0_BROEK> broca <q> emit <q> pratum <q> contra <C 20_MAURUS> maor <q> et <q> fratres <q> ejus 
+<L 7:35> <q> [hand] <q> [G] <C 29_CHRISTIAAN> xp<A >ist</A>ianus <q> emit <C 309_2> ii <C 11_BUNDER> b<A >unre</A>. <q> contra <C 29_SIMON> simone<A >m</A> <C 800_EN> & <C 24_GEERTRUIDA> gertrude<A >n</A>. 
+<L 7:36> <q> hereditarie 
+<L 7:37> <q> idem <C 29_CHRISTIAAN> xp<A >ist</A>ian<A >us</A> <q> emit <q> contra <C 29_NATALIA> natalia<A >m</A> <C 800_EN> & <q> filios <q> eius <C 309_EEN> i. <C 0_HOFSTEDE> hostat <C 800_EN> & <q> frustrum 
+<L 7:38> <q> prati <q> in <C 20_DESTELDONK> desceldu<A >n</A>c 
+<L 7:39> <q> [hand] <q> [F] <C 29_BOUDEWIJN> Baldujn<A >us</A> <q> presbiter <q> emit <C 309_EEN> .j. <C 1_BUNDER> b<A >unre</A> <q> terram <q> contra 
+<L 7:40> <C 29_WILHELM> Wille<A >m</A>mu<A >m</A> <q> filium <C 22_GOOL> goles <q> iure <q> hereditario 
+<L 7:41> <C 29_WILHELM> Will<A >el</A>m<A >us</A> <q> de <C 6_WOLPUT> wlputta <q> emit <q> contra <C 20_LAMBERT> la<A >m</A>m<A >in</A> <C 800_EN> & <C 29_WOUTER> walteru<A >m</A> <C 800_EN> & <C 29_MARGARETA> margareta<A >m</A> 
+<L 7:42> <C 309_TIEN> .x. <C 10_MARK> m<A >arc</A> <q> terre <q> hereditarie 
+<L 8:1> <C 20_ARNOUT> arno<A >n</A>t <C 29_ROOSLIJN-X> roseli <q> emit <q> contra <C 29_GOSWIJN> gosi <C 24_ADELA> adele<A >n</A> <q> f <q> omnem <q> terram <q> eius 
+<L 8:2> <q> hereditarie 
+<L 8:3> <q> [hand] <q> [D] <C 20_ARNOUT> Arnot <q> miles <q> emit <q> contra <C 29_IME> imma<A >m</A> <q> cognatam <q> suam <C 309_2> .ii. <C 16_STUK> stica 
+<L 8:4> <C 2_LAND> lans <q> hereditarie. 
+<L 8:5> <q> [hand] <q> [H] <C 20_WOUTER> woitin <q> de <C 0_LO> lo <q> emit <q> contra <C 21_SIMON> mone <q> omnem <q> terram <C 420_DAT> dat <C 203_LIGGEN> leghet 
+<L 8:6> <C 700_AAN> an <C 20_ROOSBROEK> rosebroch <q> hereditarie. 
+<L 8:7> <q> [hand] <q> [G] <C 29_SIEGER> siger<A >us</A> <C 1_STEP-X> steppe <q> emit <q> contra <C 29_SIEGER> sigeru<A >m</A> <q> filium <C 29_MEINHARD> meinardi <C 309_2> ii <C 11_BUNDER> b<A >unre</A> 
+<L 8:8> <q> prati <C 700_IN> i<A >n</A> <C 21_SLOTERHEG> sclot<A >ra</A>hege 
+<L 8:9> <q> [hand] <q> [I] <q> Eu<A >er</A>ard<A >us</A> <q> filius <C 2_WIELMAKER> wilmakers <q> emit <q> contra <C 29_IME> Jmma<A >m</A> <q> filiam <C 29_ROEL> Rolini 
+<L 8:10> <C 22_DROEF> droues <q> parum <q> terr%a <q> hereditarie. 
+<L 8:11> <q> [hand] <q> [J] <C 20_AEGIDIUS> Gilis <C 800_EN> & <C 26_MARGARETA> g<A >ri</A>ta <q> emerunt <q> fundum <q> quendam <q> in <q> hac <q> uilla <q> contra 
+<L 8:12> <C 29_HENDRIK> heinric<A >um</A> <q> de <q> monte <q> hereditarie 
+<L 8:13> <C 20_WILHELM> Wilki<A >n</A> <C 800_EN> & <C 20_BOUDEWIJN> boidin <q> emerunt <q> terciam <q> partem <C 309_2> .ii. <C 11_BUNDER> b<A >unre</A> <q> contra 
+<L 8:14> <C 29_GODSCHALK> Godescalcu<A >m</A> <q> de <C 20_HERISLAR/HERSELARE?> herislar. 
+<L 8:15> <C 29_WOUTER> Walt<A >erus</A> <C 101_WILD> wilde <q> emit <q> i't!. <q> mensuram <q> terre <q> hereditarie <C 700_IN> in <C 21_SLOTERHEG> sloterhege <VN type=1> 
+<L 8:16> <C 20_HENDRIK> heinkin <C 20_FABER-X> fab<A >er</A> <q> emit <q> quandam <q> partem <q> terre <q> contra <C 20_WILHELM> will<A >e</A>m <q> f. <C 22_GOOL> Gols <C 700_IN> in 
+<L 8:17> <C 21_SLOTERHEG> sloterheighe <q> hereditarie. <q> ad <q> censum <q> viii. <q> . <q> d. <q> Jtem <C 20_HENDRIK> heinric <q> emit <q> plateam 
+<L 8:18> <q> contra <C 0_SLOK-X> sloc <C 800_EN> & <C 29_WOUTER> woitinu<A >m</A>. 
+<L 8:19> <C 20_WILHELM> Will<A >e</A>m <C 700_VAN> uan <C 474_DE> den <C 1_AARD> arde <q> emit <q> quandam <q> partem <q> terre <q> contra <C 20+21_ROTE+SLAB-X> rotslabben 
+<L 8:20> <C 700_IN> i<A >n</A> <C 21_SLOTERHEG> slot<A >er</A>heighe 
+<L 8:21> <C 20_WILHELM> Will<A >e</A>m <C 700_VAN> ua<A >n</A> <C 474_DE/HET> den <C 1_AARD> harde <q> emit <q> unum <q> fundum <q> contra <C 29_WOUTER> walt<A >erum</A> <C 21_DIEDERIK> dire <C 800_EN> & 
+<L 8:22> <q> alium <q> contra <C 29_SIMON> simone<A >m</A> <q> f. <C 22_GOOL> Gols 
+<L 8:23> <q> [hand] <q> [K] <C 29_HENDRIK> heinric<A >us</A> <q> .f. <C 29_MICHAEL> michaelis <q> emit <q> contra <C 21_NICOLAAS> claise <q> de <C 26_EG> hecca <C 309_2> .ii. <C 10_HOFSTEDE> hofstat 
+<L 8:24> <q> apud <C 24_STEPEN> stepen <q> hereditarie. 
+<L 8:25> <q> Jtem <C 20_HENDRIK> heinric <q> emit <q> contra <C 21_HENDRIK> heinine <C 800_EN> en<A >de</A> <C 451_ZIJN> sine <C 11_GEDEEL> gedele <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <C 700+484_TE+GEEN> tegenen 
+<L 8:26> <C 1_ZONPELE> sonpele. <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 0_STUK> stic <C 2_LAND> landes <C 700_OP> up <C 20_KASTERBANT> casterbant <q> hereditarie. 
+<L 8:27> <C 29_HENDRIK> heinric<A >us</A> <q> .f. <C 29_MICHAEL> michaelis <q> emit <q> .ii. <C 10_HOFSTEDE> ofstat <q> contra <C 21_NICOLAAS> claise <q> de <C 26_EG> hecca. <q> apud 
+<L 8:28> <C 24_STEPEN> stepen <q> herrarie <VN type=1> 
+<L 8:29> <q> Jtem <C 20_HENDRIK> heinric <q> emit <q> contra <C 24_HENDRIK> heinine<A >n</A> <q> .f. <C 22_DANIEL> danieles <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <C 800_EN> en<A >de</A> <C 309_EEN> .i. <C 1_STUK> sticke 
+<L 8:30> <C 2_LAND> landes <q> super <C 20_KASTERBANT> casterbant <VN type=1> <q> hereditarie 
+<end-datering  jaar_tot='1223' jaar_van='1223' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1227' jaar_van='1224' tijdsoort='2' tijdstatus='1'>
+
+<L 8:31> <q> [hand] <q> [L] <C 21_GEERTRUIDA> trude <q> filia <C 29_IMBERT> i<A >m</A>pini <q> emit <q> contra <C 29_ARNOLF> arulfo <q> milite <q> terram <q> ualente 
+<L 8:32> <C 309_ANDERHALF> .i't! <C 0_MARK> m<A >arc</A>. <q> que <q> iacet <C 700_IN> en <C 2_VADERTJE> uad<A >er</A>kines <C 1_AKKER> acke <VN type=1> <C 300_EEN> en <C 0_STUK> stic. <C 800_EN> & <C 311+470_ANDER+DE> dande <VN type=1> <C 700_AAN> an 
+<L 8:33> <C 1+410_ZIJDE+DEZE> desside. 
+<L 8:34> <C 21_LAMBERT> lampreide <q> emit <q> contra <VN type=1> <C 29_ARNOLF> arnulfo <q> filio <C 24_AVE> aue<A >n</A> <C 309_EEN> .i. <C 1_STUK> sticke <C 2_LAND> lans <C 700_OP> vp <C 21_SLOTERKOUTER> sloter+koutere 
+<L 8:35> <C 800_EN> & <C 309_EEN> .i. <C 700_OP> op <C 21_LINWAREMEER> linware+mere 
+<L 8:36> <C 29_SIEGER> Siger<A >us</A> <C 101_VROED> uroede <q> emit <q> contra <C 29_ROEL> Ronilo <VN type=1> <C 0_SPEELAARD-X> speliart <VN type=1> <q> fratri <q> suo <C 309_3> .iii. <C 14_STUK> sticke<A >n</A> 
+<L 8:37> <C 1_LAND> land<A >e</A>. 
+<L 8:38> <C 20_SOL?> Solin <C 0_RAAD> raet <q> emit <q> contra <C 29_HENDRIK> henrico <C 471_DE> d<A >e</A> <C 20_ARNOUT> art <C 309_EEN> .i. <C 1_STUK> sticke <C 1_LAND> land<A >e</A> <C 700_IN> in <C 21_SLOTERHEG> slot<A >er</A>hege. 
+<L 8:39> <C 500_ITEM> Jte<A >m</A> <C 20_SOL?> solin <q> emit <q> contra <C 21_ROEL> Roline <VN type=1> <C 0_VOS> uos <VN type=1> <C 309_EEN> .i. <C 1_STUK> stike <C 1_LAND> land<A >e</A> <C 700_IN> in <C 21_SLOTERHEG> slot<A >er</A>hege. 
+<L 8:40> <C 20_ALBERT> albreht <C 0_SCHIPBOOM> scipboe<A >m</A> <q> emit <q> contra <C 24_HENDRIK> heine<A >n</A> <C 1_KOSTER> costere <C 800_EN> & <q> fratres <q> sui. <q> omnem 
+<L 8:41> <q> terram <q> quod <q> habuerunt <q> de <q> sancto <q> bauone <q> .x <q> lib. 
+<L 9:1> <C 20_THOMAS> thomas <q> filius <C 20_IRMGARD> ermegard <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 24_NATALIA> natelie<A >n</A> <q> filia <C 29_BOUDEWIJN> boidini <q> de 
+<L 9:2> <C 0_HULST> hulst. 
+<L 9:3> <C 29_WOUTER> walter<A >us</A> <C 0_GOEDMAN-X> goetma<A >n</A> <q> habet <q> de <q> sancto <q> bauone <C 309_EEN> .i. <C 1_STUK> sticke <C 1_LAND> land<A >e</A> <C 700_IN> in <C 474_DE/HET> den <C 0_BILK> belec 
+<L 9:4> <q> pro <C 309_3> .iii. <C 10_HALSTER> halster <q> tritici. <q> hereditarie. 
+<L 9:5> <C 20_GIJS> Giseljn <q> de <C 4_KATTENSTRAAT> cattenstrate<A >n</A> <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 29_LAMBERT> la<A >m</A>berto <C 1_LOPER> lopere. 
+<L 9:6> <C 29_HENDRIK> henric<A >us</A> <q> filius <C 21_LIETE> liete <q> emit <q> contra <C 29_WOUTER> walt<A >er</A>o <q> de <C 20_AALST> alest <C 309_6> .vi. <C 14_STUK> sticke<A >n</A> <C 1_LAND> land<A >e</A> 
+<L 9:7> <q> supra <C 20_RENNEBERG> reinersberh 
+<L 9:8> <C 20_GOSWIJN> Gosin <q> filius <C 4_WENDELMOED> windelmode<A >n</A> <q> emit <q> contra <C 29_WOUTER> walt<A >er</A>o <q> de <C 20_AALST> alest <C 309_3> .iii. <C 10_VIERENDEEL> uire<A >n</A>del 
+<L 9:9> <C 0_MANDAGLAND> mandages+lant. <C 800_EN> & <C 2_SESTERZAAD> suster+sats. <C 2_SCHOOFLAND> scoflans. <C 800_EN> & <C 309_EEN> i. <C 0_VIERENDEEL> uire<A >n</A>del <C 2_MEERSLAND> mersch+landes. 
+<L 9:10> <C 29_EVERHARD> euerard<A >us</A> <C 471_DE> de <C 20_SCHALKELAAR> scaltlar <q> emit <q> contra <C 24_IME> imme<A >n</A> <q> filia <q> fratris <q> mei <q> totam <q> terram 
+<L 9:11> <q> preter <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> et <C 309_EEN> .i. <C 1_STUK> sticke <C 2_MEERS> mersch. 
+<L 9:12> <C 29_LAMBERT> lamb<A >er</A>t<A >us</A> <q> filius <C 29_ABNER> abini <q> emit <q> contra <C 29_DANIEL> danielo <C 0_CORDUANIER> cordewanier <C 309_HALF> .'t!. <C 0_STAD> stat. <C 800_EN> & 
+<L 9:13> <C 0_VIERENDEEL> uire<A >n</A>del <q> de <C 0_HOFSTEDE> ofstat. <q> contra <C 29_FILIPPUS> philippu<A >m</A>. <C 800_EN> & <C 309_EEN> i. <C 0_VIERTALZAAD> uirtale+sat <C 1_LAND> land<A >e</A> <q> contra. <q> filios 
+<L 9:14> <q> fratris <q> sui. 
+<L 9:15> <C 20_WEINEMAAR> wenemar <C 800_EN> & <C 29_HENDRIK> henric<A >us</A> <q> emerunt <q> contra <C 20_HEILE> heilem <C 29_RUTGER> rogeris <C 309_7> .vii. <C 14_STUK> sticke<A >n</A> 
+<L 9:16> <C 1_LAND> land<A >e</A>. 
+<L 9:17> <C 20_WOUTER> wout<A >er</A>kin <q> filius <q> sororis <C 29_WOUTER> walt<A >er</A>i <C 0_TALBOOM-X> talboe<A >m</A> <q> emit <q> contra <C 29_ARNOLF> arnulfo <C 29_MARTIN> martini 
+<L 9:18> <C 309_4> .iiii. <C 14_STUK> stike<A >n</A> <C 2_AARDLAND> ert+lands <C 800_EN> & <C 309_3> .iii. <C 14_STUK> stike<A >n</A> <C 2_MEERS> mersch. 
+<end-datering  jaar_tot='1227' jaar_van='1224' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1232' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+
+<L 9:19> <q> [hand] <q> [H] <C 29_FOLKERT> fulcro <C 0_LIEBAARD> libart <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> ofstat <q> contra <C 29_ARNOLF> arnulfo <VN type=1> <q> .f. <C 24_AVE> auen <C 800_EN> & <q> contra 
+<L 9:20> <q> parentes. 
+<L 9:21> <q> Jtem <C 29_FOLKERT> fulcro <C 0_LIEBAARD> libart <q> emit <q> contra <C 20_GOSWIJN> gosin <C 474_DE/HET> den <C 104_BRUIN> brunen <VN type=1> <C 800_EN> & <q> cotra <VN type=1> 
+<L 9:22> <q> parentes. <C 484_EEN> enen <C 0_BEK> bec. <q> Jtem <C 29_FOLKERT> fulcro <C 0_LIEBAARD> libart <q> emit <q> contra <C 20_ARNOUT> arunnt <VN type=1> <q> .f. <C 24_AVE> auen <C 309_EEN> .i. 
+<L 9:23> <C 0_STUK> stic <q> terram <C 700_OP> up <C 474_DE/HET> den <C 0_BELT> belt. <C 800_EN> ende <C 309_EEN> .i. <C 700_OP> up <C 471_DE> de <C 1_HAAG> hage. 
+<L 9:24> <q> Jtem <C 29_FOLKERT> fulcro <C 0_LIEBAARD> libart <q> emit <q> contra <C 22_GOSWIJN> gosins <q> .f. <C 22_GODSCHALK> godescalkes <C 22_WILD> wildes <C 309_EEN> .i. <C 0_STUK> stic 
+<L 9:25> <q> terram <C 700_OP> up <C 471_DE> de <C 1_HAAG> hage 
+<L 9:26> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 20_OGIVE> hogewen <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> ofstat <q> contra <C 20_ALBERT> albrech <C 0_SCHIPBOOM> schipboem. <C 701_OM> ombe <C 309_2> .ii. 
+<L 9:27> <C 19_DENARIUS> d. <q> sensus. 
+<L 9:28> <C 20_ARNOUT> arnut <C 471_DE> de <C 1_VORSTER> uorstere <q> emit <C 309_HALF> .'t!. <C 1_BUNDER> b<A >unre</A> <C 309_HALF> .'t!. <C 0_VIERENDEEL> uirendel <q> contra <C 21_WOUTER> w<A >outre</A> <C 0_HOLBOS-X> holbusch. 
+<L 9:29> <C 20_BOUDEWIJN> boidin <q> .f. <C 24_GLORIA> glorien <C 700_VAN> van <C 304_EEN> enen <C 1_STUK> sticke <C 2_LAND> landes <C 621*_DAAR-> dar <C 403_HIJ> hi <C 621#_-AAN> ane <C 203_WONEN> wonet <q> heritarie. 
+<L 9:30> <C 20_WOUTER> woitin <q> .f. <C 22_GOBERT> godebreds <VN type=1> <q> . <q> emit <q> contra <C 21_WOUTER> w<A >outre</A>. <VN type=1> <C 22_GERBODE> gerbodes <VN type=1> <C 309_NEGEN> .viiii. 
+<L 9:31> <C 11_STUKKELTJE> stickelkine <C 700_IN> in <C 1_LAND> lande <C 800_EN> & <C 700_IN> in <C 1_MEERS> mersche. <C 509_ITEM> Jtem <C 20_WOUTER> woitin <q> emit <q> contra <C 1_SLOK-X> slocke <C 800_EN> & 
+<L 9:32> <C 21_EVERELM> eu<A >er</A>helme <C 309_TIEN> x. <C 11_STUKKELTJE> stickelkine <C 700_IN> in <C 1_LAND> lande <C 800_EN> & <C 700_IN> in <C 1_MEERS> mersche. 
+<L 9:33> <C 21_WOUTER> w<A >outre</A> <C 0_TALBOOM-X> talboem <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> ofstat. <q> contra <C 21_WOUTER> w<A >outre</A> <VN type=1> <q> de <C 20_AALST> alest. 
+<L 9:34> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 24_HILDE> hillen <q> emit <C 309_EEN> .i. <C 9_STUKKEL> stickli <C 0_MANDAGLAND> mandaschs+lant. <VN type=1> <q> contra <C 24_AVE> auen <C 20_GOSWIJN> Gosin 
+<L 9:35> <C 20_SIL-X> siles. 
+<L 9:36> <C 20_BOUDEWIJN> boidin <C 20_RUZING-X> rusinch <q> emit <q> contra <C 20_GOSWIJN> Gosin <q> .f. <C 24_ADELA> adelen. <C 800_EN> & <q> contra <C 24_HUGO> hugen 
+<L 9:37> <C 1_JONKMAN> iuncma<A >n</A>ne 
+<L 9:38> <C 21_WOUTER> w<A >outre</A> <C 1_STEK-X> stecke <q> emit <q> contra <C 20_BOUDEWIJN> boidin <C 1_KNIJF> cniefe <C 0_LAND> lant <C 800_EN> & <C 0_MEERS> mersch <q> quidquid 
+<L 9:39> <q> habuit <q> apud <C 21_OOSTAKKER> hostackere. 
+<L 9:40> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 20_ARNOUT> arnut <q> de <C 1_MEER> mere <q> emit <q> contra <C 21_MICHAEL> michile <q> contra <VN type=1> <C 21_STEFANUS> steuene. <C 320+451_AL+HAAR> alhare 
+<L 9:41> <C 0_LAND> lant <C 475+700_DE+TE> ter <C 1_MEER> mere. 
+<L 10:1> <C 20_EVERELM> heuerlm <VN type=1> <q> de <C 21_OOSTAKKER> hostackere <q> emit <q> contra <C 24_MARGARETA> Grieten <q> .f. <C 22_HUGO> huges <q> quidquid 
+<L 10:2> <q> habuit <q> apud <C 21_OOSTAKKER> hostackere <C 0_LAND> lant <C 800_EN> & <C 0_MEERS> mers. 
+<L 10:3> <C 29_WILHELM> willelm<A >us</A> <q> uolucres <q> emit <q> contra <C 29_AEGIDIUS> egydiu<A >m</A> <q> .f. <C 22_SIMON> Symonis <C 309_3> .iii. <C 10_STUK> stic <C 2_LAND> lands. 
+<L 10:4> <C 20_MICHAEL> Michael <q> emit <q> contra <C 29_LAMBERT> lamb<A >er</A>tu<A >m</A> <C 800_EN> & <C 29_ARNOLF> arn<A >ulfum</A>. <C 800_EN> & <C 29_MARINA> Marina<A >m</A>. <C 0_LAND> lant <C 800_EN> & <C 0_MEERS> mers 
+<L 10:5> <C 500_AL> al. 
+<L 10:6> <C 500_IDEM> Jdem <C 20_MICHAEL> michael <q> emit <q> contra <C 21_WOUTER> w<A >outre</A>. <C 0_GOEDMAN-X> goetman <C 309_EEN> .i. <C 0_STUK> stic <C 2_LAND> landes. <q> Jdem 
+<L 10:7> <C 20_MICHAEL> michael <q> emit <q> contra <C 29_ARNOLF> arnulfu<A >m</A> <C 800_EN> & <C 29_ROEL> Rolinu<A >m</A> <C 0_LAND> lant <C 800_EN> en<A >de</A> <C 0_MEERS> mers. <C 500_AL> al. 
+<L 10:8> <C 29_WILHELM> w<A >illelmus</A> <q> uolucres <q> emit <q> contra <C 29_GEERTRUIDA> Gertrudem <C 309_EEN> .i. <C 0_STUK> stic <C 2_LAND> landes. 
+<L 10:9> <C 20_BOUDEWIJN> Boidin <q> .f. <C 20_HELDOLF> heldolf <q> emit <q> contra <C 29_ROEL> Rolinu<A >m</A> <C 2_SPEELAARD-X> speliars <C 309_2> .ii. <C 2+10_LAND+STUK> sticlandes. 
+<L 10:10> <C 29_HENDRIK> heinric<A >us</A> <C 0_SLOK-X> sloc <VN type=1> <C 800_EN> & <C 29_WILHELM> w<A >illelmus</A>. <C 800_EN> & <C 20_GOSWIJN> Gosin <q> de <C 1_MEER> mere <q> emerunt <q> contra <q> filios 
+<L 10:11> <C 29_OLBOUD-X> holbodis. <q> terram. <q> apud <C 20_ZINGEM> siggem. 
+<L 10:12> <C 29_FOLKERT> fulcro <C 29_LEO> leo <q> emit <q> contra <q> filios <C 29_ARNOLF> arnulfi <C 20_MARTIN> martin <C 309_EEN> .i. <C 0+2_STUK+LAND> sticlandes. 
+<L 10:13> <C 20_GIJS> Giselin <C 0_MULAARD> mulart <q> emit <q> contra. <q> filios <C 29_GOSWIJN> Gosuinj <C 474+700_DE/HET+UIT> ut+ten <C 12_KRIEKER> crikers <q> terram <q> eorum 
+<L 10:14> <q> heretarie. 
+<L 10:15> <C 29_SIEGER> Sigerus <q> emit <q> contra <C 29_ARNOLF> arn<A >u</A>lfum <C 20_ROOIMOND-X> roimont <C 309_2> .ii. <C 10_STUK> stic <C 2_LAND> landes <q> heritarie. <q> apud 
+<L 10:16> <C 21_SLOTERKOUTER> sloter+coutere. 
+<L 10:17> <C 20_GIJS> Giselin <C 0_MULAARD> mulart <q> emit <C 309_EEN> .i. <C 0_HALSTERZAAD> halster+sadt <C 2_LAND> landes <q> contra <C 20_ARNOUT> arunt <C 21_WOILE-X> woile. 
+<L 10:18> <C 20_HENDRIK> heiric <C 0_MULAARD> mulart <q> emit <q> contra <q> fratrem <q> suum <C 20_ARNOUT> arnunt <C 1_RAAD> rade <q> totam <q> terram. 
+<L 10:19> <C 800_EN> ende <C 0_MOER> mor. <VN type=1> <q> Jtem <C 20_HENDRIK> heiric <C 0_MULAARD> mulart <q> emit <C 29_WILHELM> w<A >illelmo</A> <C 20_HESAARD-X> hesart <C 1+500_LAND+HALF> lantalf. 
+<L 10:20> <C 29_WILHELM> W<A >illelmus</A> <C 471_DE> de <C 20_DAKNAM> dachkenam <q> emit <q> contra <C 21_WEINEMAAR> wenemare <C 450+320_ZIJN+AL> alsin <C 1_ERF> herue. <q> apud 
+<L 10:21> <C 21_OOSTAKKER> hosthachtere <q> Jtem <C 29_WILHELM> w<A >illelmus</A> <q> emit <q> contra <C 29_WILHELM> w<A >illelmo</A> <C 1_MULAARD> mularde <C 800_EN> & <C 20_HENDRIK> heinric 
+<L 10:22> <C 0_MULAARD> mulart <C 309_EEN> .i. <C 0_HALSTERZAAD> halst<A >er</A>+sadet. 
+<L 10:23> <C 21_WOUTER> W<A >outre</A> <q> faber <q> emit <q> contra <C 20_LAMBERT> lambrect <q> .f. <C 24_LEA> lien <C 309_EEN> .i. <C 0_HALSTERZAAD> hast<A >er</A>+saet <C 2_LAND> landes. <C 700_UIT> ut 
+<L 10:24> <C 20_HERIKVOORT> herrix+uort. 
+<L 10:25> <C 20_BOUDEWIJN> Boidin <C 471+0_DE+BOK> debuc <q> emit <q> contra <C 21_THOMAS> thomase <C 320_AL> al <C 450_ZIJN> sin <C 1_ERF> herue <C 21+700_OOSTAKKER+TE> thoshackere. <q> Jtem 
+<L 10:26> <C 20_BOUDEWIJN> boidin <C 800_EN> & <C 20_HENDRIK> heinric <VN type=1> <q> emerunt <q> contra <C 24_IME> hymmen <q> .f. <C 20_ROEL> Roilin <C 22_DROEF> droues <C 309_2> .ii. <C 10_STUK> stic 
+<L 10:27> <C 2_LAND> landes. <C 700_IN> in <C 471_DE> de <C 101_NIEUW> niuue <C 1_WOESTIJN> wostine 
+<L 10:28> <C 21_WOUTER> w<A >outre</A> <C 101_BRUIN> brune <q> emit <VN type=1> <C 309_EEN> i. <C 1_HALFBUNDER> alburne <VN type=1> <C 2_MANDAGLAND> madachla<A >n</A>des <VN type=1> <q> contra <C 29_HENDRIK> heinric<A >um</A> 
+<L 10:29> <q> de <C 1_WINKEL> winkele. 
+<L 10:30> <C 20_BOUDEWIJN> Boidin <q> .f. <C 24_GODLIEF> Godeliuen <q> emit <q> contra <C 29_ARNOLF> arnulfu<A >m</A> <q> .f. <C 24_AGATHA> ageten <C 800_EN> ende <q> .f. <C 29_WILHELM> willelmi. 
+<L 10:31> <C 320+450_AL+ZIJN> alsin <C 1_ERF> herue <C 700+20_TE+ZINGEM> tesiggem. 
+<L 10:32> <C 29_WILHELM> w<A >illelmus</A> <q> .f. <C 22_DEGENHARD> deinards <q> emit <q> contra <C 21_LAMBERT> la<A >m</A>bekine <C 320+450_AL+ZIJN> alsin <C 1_ERF> herue <C 700_IN> i<A >n</A> <C 0+471_HULST+DE> dehulst. 
+<L 10:33> <C 21_HENDRIK> heine <q> de <C 26_EG> hecka <q> emit <q> contra. <q> fratrem <q> suum <C 21_BOUDEWIJN> boidine <C 800_EN> ende <C 24_MARGARETA> Griten <q> de 
+<L 10:34> <C 21_WAAIENBERG> waien+berge <C 0+471_HELFT+DE> dehelef <C 700_VAN> van <C 304_DRIE> drien <C 14_STUK> sticken. <q> apud <C 21_SLOTERKOUTER> slotercoutere. 
+<L 10:35> <C 20_BOUDEWIJN> Boidin <C 800_EN> & <C 21_SIEGER> Segere. <C 800_EN> & <C 26_HEILE> heila <q> emerunt <q> contra <C 21_WOUTER> woitine <C 1_MEER> mere <C 309_EEN> .i. <C 1_HALFBUNDER> alburne <VN type=1> 
+<L 10:36> <C 2_MANDAGLAND> madages+landes 
+<L 10:37> <C 21_WOUTER> w<A >outre</A> <C 24_GONDRAAD> gondraden <C 0_MAN> man. <q> emit <q> contra <C 20_ARNOUT> arnunt <C 21_MARTIN> martine <C 309_EEN> i. <C 0_STUK> stic <q> terram <C 700_OP> up 
+<L 10:38> <C 21_SLOTERKOUTER> slotercoutere 
+<L 10:39> <q> Jtem <C 21_WOUTER> w<A >outre</A> <q> emit <q> contra <C 24_GERBODE> gerboden. <C 20_ZINGEM> desingem <C 309_2> .ii. <C 14_STUK> sticken <q> terram 
+<L 10:40> <q> hereditarie. <C 29_LAMBERT> Lamb<A >er</A>t<A >us</A> <C 471+1_DE+MOLENAAR> demolnere <q> emit <q> contra <C 20_JOHANNES> hannekin <q> .f. <C 24_LIETE> lieten <C 309_EEN> .i. 
+<L 10:41> <C 0_VIERTALZAAD> firtalsad <VN type=1> <q> terram <C 700_OP> up <C 10_LEDERGEMMER> lidergemmer <C 21_KOUTER> coutere 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-datering  jaar_tot='1232' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='an'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<datering  jaar_tot='1233' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 10:57> <C 20_BOUDEWIJN> boidin 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<end-datering  jaar_tot='1233' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<datering  jaar_tot='1232' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 11:1> <C 29_JOHANNES> Joh<A >ann</A>es <C 471+101_DE+VAAL> devalewe <q> emit <q> contra. <C 21_JOHANNES> annekine <q> .f. <C 24_CHRISTIAAN?> criten <C 309_EEN> i. <C 0_HOFSTEDE> hofstat 
+<L 11:2> <q> hereditarie. 
+<L 11:3> <C 29_SIEGER> Syger<A >us</A> <q> .f. <C 22_MEINHARD> meinards <q> emit <q> contra. <C 21_ROTE> Rote <C 24_SLAB-X> slabben <C 309_EEN> .i. <C 0_MARK> m<A >arc</A>. <q> terram. 
+<L 11:4> <q> hereditarie 
+<L 11:5> <C 20_HUGO> hugo <q> .f. <C 22_MEINHARD> meinards <q> emit <q> contra <C 24_REINIER> reineren <C 309_EEN> .i. <C 0_STUK> stic <q> terram <C 700_OP> up <C 21_SLOTERHEG> sloterhege. 
+<L 11:6> <q> Jtem <C 20_HUGO> hugo <q> emit <q> contra <C 20_ROEL> roilin <C 474_DE/HET> den <C 0_VOS> vos <C 309_EEN> .i. <C 0_STUK> stic. <q> terram <C 700_IN> in <C 21_SLOTERHEG> sloterhege. 
+<L 11:7> <q> Jtem <C 20_HUGO> hugo <q> emit <VN type=1> <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> contra <C 20_LAMBERT> labret <C 0_SCHIPBOOM> scipboem 
+<L 11:8> <C 29_LAMBERT> lamb<A >er</A>t<A >us</A> <C 471+1_DE+MOLENAAR> demolnere <q> emit <q> contra <C 21_WOUTER> w<A >outre</A> <C 24_GERBODE> gerboden <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat. 
+<L 11:9> <C 29_JOHANNES> Joh<A >ann</A>es <C 1+471_VORSTER+DE> deuorstere <q> emit <q> contra <C 20_GOSWIJN> Gosein <C 475+700_DE+UIT> ut+ter <C 0_HULST> houlst. <C 309_3> iii. <C 10_VIERTALZAAD> firtalsad 
+<L 11:10> <q> terram. <q> apud <C 21_OOSTAKKER> hostachtere 
+<L 11:11> <C 29_SIEGER> Syger<A >us</A> <C 20_SPEERNAGEL-X> spernagel <C 800_EN> ende <C 450_ZIJN> sin <C 0_ZUSTER> sust<A >er</A> <VN type=1> <q> emerunt <q> contra <C 24_BOUDEWIJN> boidienen <q> .f. 
+<L 11:12> <C 22_RUTGER> rogeres <C 309_2> ii. <C 10_STUK> stic <q> terram. <C 700_BIJ> bi <C 22_GOSWIJN> gosines <VN type=1> <C 475+700_DE+VAN> vander <C 1_MEER> mere. 
+<L 11:13> <C 509_ITEM> Jte<A >m</A> <C 21_SIEGER> segere <q> soror <q> eius <VN type=1> <q> emerunt <C 101_KWAAD> quade <q> terram <C 309_EEN> .i. <C 1_HOFSTEDE> hofstade. <q> contra 
+<L 11:14> <q> item <C 21_BOUDEWIJN> boidine. 
+<L 11:15> <C 20_GOSWIJN> Gosin <q> .f. <C 24_WENDELMOED> windelmoden <q> emit <q> contra <C 21_WILNODE> wilnode <q> de <C 1_SLOOT> slote <C 309_3> .iii. <C 11_STUK> sticke 
+<L 11:16> <q> terram. 
+<L 11:17> <C 29_FOLKERT> Fulcro <C 0_LIEBAARD> libart <q> emit <q> contra <C 21_KALUWAARD> calewarde <C 309_EEN> .i. <C 0_STUK> stic <q> terram <VN type=1> <C 29_WOUTER> walt<A >eru</A>m <q> de 
+<L 11:18> <C 29_PUIGEM> pudengem. <C 800_EN> & <q> contra. <q> fratrem <q> eius <C 309_EEN> .i. <C 0_STUK> stic <q> terram. 
+<L 11:19> <C 20_GOSWIJN> Gosin <q> .f. <C 24_WENDELMOED> windelmoden <VN type=1> <q> emit <q> contra <C 29_RUTGER> rogeru<A >m</A> <C 309_2> .ii. <C 10_STUK> stic <q> terram 
+<L 11:20> <q> hereditarie 
+<L 11:21> <C 29_SIEGER> Siger<A >us</A> <C 20_SPEERNAGEL-X> spernagel <q> emit <q> contra <C 21_JOHANNES> hannekine <q> .f <VN type=1> <C 22_ERPO> herpes <q> quicquid <q> habuit 
+<L 11:22> <q> apud <C 1_MEER> mere. 
+<end-datering  jaar_tot='1232' jaar_van='1227' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1233' jaar_van='1232' tijdsoort='2' tijdstatus='1'>
+
+<L 11:23> <q> [hand] <q> [L] <C 20_MICHAEL> michael <C 471_DE> de <C 0_BOK> buc <q> emit <q> contra <C 29_LAMBERT> la<A >m</A>b<A >er</A>tu<A >m</A> <C 21_IJDELMAAL-X> idelmale <C 800_EN> & 
+<L 11:24> <C 29_LAMBERT> la<A >m</A>b<A >er</A>tu<A >m</A> <q> filium <C 0_PLAKKAARD-X> plachart. <q> terram <q> & <q> pratem <q> hereditarie. 
+<L 11:25> <C 29_ARNOLF> alnulf<A >us</A> <VN type=1> <q> filius <C 20_ELISABETH> elizab<A >et</A> <q> emit <q> contra <C 24_ROTE> Rote<A >n</A> <C 21_SLAB-X> slabbe. <q> terram <q> & <q> pratem. 
+<L 11:26> <q> hereditarie. 
+<L 11:27> <C 29_WOUTER> Walter<A >us</A> <q> filius <C 29_ARNOLF> arnulfi <C 0_SMID> smet. <q> emit <q> contra. <C 29_MICHAEL> michael<A >em</A> <C 0_BOK> buc <q> terram 
+<L 11:28> <q> hereditarie. 
+<L 11:29> <C 29_BOUDEWIJN> boidin<A >us</A> <C 1_SCHERMER> scerm<A >er</A>e <q> emit <q> contra. <C 29_ARNOLF> arnulfu<A >m</A> <q> filium <C 24_AVE> aue<A >n</A>. <q> terram <q> & 
+<L 11:30> <q> pratem. <q> & <C 0_HOF> hof. <q> hereditarie. <q> hanc <q> terram <q> recepit <q> a <C 29_BOUDEWIJN> baldew<A >in</A>o. 
+<L 11:31> <q> hereditarie. <q> pro <q> ix <C 10_HALSTER> halst<A >er</A> <VN type=1> <q> tritici. 
+<L 11:32> <q> Jtem. <C 20_BOUDEWIJN> b<A >oidin</A>. <C 1_SCHERMER> scerm<A >er</A>e <q> emit <q> contra. <C 29_MARGARETA> margareta<A >m</A> <C 29_ARNOLF> arnulfi. <C 800_EN> & <C 29_WOUTER> walt<A >er</A>o 
+<L 11:33> <C 0_RAM> ra<A >m</A> <C 800_EN> & <C 29_HENDRIK> he<A >n</A>rico <C 0_RAM> ra<A >m</A>. <q> pratum <q> supra <C 0_NOORDMEERS> nortmersc. <q> hereditarie. 
+<L 11:34> <q> Jtem. <C 20_BOUDEWIJN> b<A >oidin</A>. <C 1_SCHERMER> scerm<A >er</A>e <q> contra. <C 29_JOHANNES> annekino <VN type=1> <q> de <C 1_SLOOT> slote. <C 309_HALF> 't! <C 1_BUNDER> bu<A >n</A>re <q> pratum 
+<L 11:35> <q> hereditarie. 
+<L 11:36> <C 29_WOUTER> Walter<A >us</A> <q> .f. <C 29_ARNOLF> arnulfi <C 0_SMID> smet <q> emit <q> contra. <C 24_AVE> aue<A >n</A> <C 800_EN> & <VN type=1> <C 0_WAALTJE> walekin <VN type=1> <C 309_EEN> .i. <C 0_HOFSTEDE> hofted 
+<L 11:37> <q> .hereditarie 
+<L 11:38> <C 26_FEMME> femia <q> dedit <C 29_WOUTER> walt<A >er</A>o <q> .f. <C 29_ARNOLF> arnulfi <C 9_SMID> sme <VN type=1> <C 309_EEN> .i. <C 1_HOFSTEDE> hofstede. <q> hereditarie 
+<L 11:39> <C 29_ARNOLF> arnulf<A >us</A> <C 20_ROOSLIJN-X> roselin <q> emit <q> contra. <C 29_WOUTER> walteru<A >m</A> <C 20_RANST> ranst <q> omnem <q> hereditatem <q> sub 
+<L 12:1> <q> sancto <q> bauone. <q> sine. <C 1_RUIM> ru<A >m</A>e. <VN type=1> 
+<L 12:2> <C 29_BOUDEWIJN> boidin<A >us</A> <q> de <C 1_HEIDE> hede <q> emit <q> contra. <C 29_ARNOLF> arnulf<A >um</A> <q> .f. <C 24_AVE> aue<A >n</A> <C 309_2> .ii. <C 10_STUK> stic <q> terram. 
+<L 12:3> <q> hereditarie. 
+<L 12:4> <C 29_ARNOLF> arnulf<A >us</A> <C 1_VORSTER> uurst<A >er</A>e <VN type=1> <q> emit <q> contra. <C 29_WILHELM> wil<A >lelmu</A>m <C 800_EN> & <C 29_ROEL> rolekinm <VN type=1> <q> .f. <C 24_LIETE> liete<A >n</A> <C 309_EEN> .i. 
+<L 12:5> <C 0_STUK> stic. <q> terram. <q> hereditarie. 
+<L 12:6> <C 29_LAMBERT> la<A >m</A>b<A >er</A>t<A >us</A> <q> de <C 21_MOLSELE> molsele <q> emit <q> contra. <C 24_ELISABETH> lisen. <C 800_EN> & <C 21+20_TELE-X+ADELHARD> alintele. <C 800_EN> & <C 20_EVERELM> euerelm <C 309_3> .iii. <C 10_STUK> stic 
+<L 12:7> <q> terram. <q> hereditarie 
+<L 12:8> <C 20_EVERELM> euerelm <q> emit <q> contra. <C 24_IME> Jmme<A >n</A> <C 29_ROEL> rolini <C 101_DROEF> droue <q> filia. <VN type=1> <C 24_VREDELINDE> uerdelende<A >n</A>. <q> terram. 
+<L 12:9> <q> hereditarie. 
+<L 12:10> <q> Jtem <C 20_EVERELM> euerelm <q> emit <q> contra. <C 29_ROEL> rolini <C 0_VOS> uos. <q> terram <q> quod <q> habuit <q> in <C 6_WOESTIJN> wostina. 
+<L 12:11> <q> hereditarie 
+<L 12:12> <q> Jtem <C 20_EVERELM> euerelm <q> emit <q> contra. <C 29_WILHELM> w<A >i</A>ll<A >elm</A>o <q> de <C 4_SCHUREN> scure<A >n</A>. <q> terram <q> quod <q> iacet 
+<L 12:13> <q> apud <C 21_OOSTAKKER> ostacc<A >er</A>e. <C 100_EIGEN> eigin. 
+<L 12:14> <C 29_ZELINUS> Zelin<A >us</A> <q> de <C 21_SLOTEN> slote <q> emit <q> contra. <C 20_JOHANNES> ha<A >n</A>neki<A >n</A> <C 20_KALUWAARD> kalewart. <C 1_HOFSTEDE> hofstede <q> apud 
+<L 12:15> <C 21_GAVERE> gau<A >er</A>e. <q> hereditarie. 
+<L 12:16> <C 29_ADELHARD> alard<A >us</A> <C 21_TELE-X> tele. <C 221_WISSELEN> wiselde. <q> contra <C 29_HENDRIK> henricu<A >m</A> <C 0_SLOK-X> sloc. <q> terram <q> de <C 21_SLOTERKOUTER> slotercout<A >er</A>e 
+<L 12:17> <q> contra <q> terram <q> quod <C 29_HENDRIK> he<A >n</A>ric<A >us</A> <q> habuit <q> in <C 21_VARLARE> uarlare 
+<L 12:18> <C 29_LAMBERT> la<A >m</A>b<A >er</A>tus <C 1_SLOOF-X> sloue <q> emit <q> contra. <q> filios <C 29_HUGO> hugoni <C 1_BOETE> bote <C 800_EN> & <q> filios <C 29_BAASJE-X> basekini. 
+<L 12:19> <q> terram <q> & <q> pratum. <q> hereditarie. <q> totum <q> quod <q> habebant. 
+<L 12:20> <C 29_HENDRIK> henric<A >us</A> <C 0_SLOK-X> sloc. <C 800_EN> & <C 20_MICHAEL> michael <C 471_DE> de <C 1_KEUKEN> cokene <q> emerunt <q> contra. <C 29_WILHELM> will<A >elmu</A>m 
+<L 12:21> <C 1_MIN> mi<A >n</A>ne <q> terram <q> & <q> domum <C 700_OP> up <C 20_WIDELAM> widelam. <q> hereditarie. <q> hoc <q> tenetur <q> ipse 
+<L 12:22> <C 29_WILHELM> will<A >elmu</A>s <q> ad <C 4_HELFTWINNING> helt+wi<A >n</A>ninge<A >n</A>. <q> hereditarie. 
+<L 12:23> <C 20_HUGO> hugo <q> filius <C 29_MEINHARD> meinardi <q> emit <q> contra <C 29_DANIEL> danielu<A >m</A> <q> de <C 20_ROOSBEEK> rosbais <C 309_8> .viii <C 11_BUNDER> b<A >unre</A> <q> terre. 
+<L 12:24> <q> hereditarie. 
+<L 12:25> <C 29_WILHELM> willelm<A >us</A> <C 0_VOGEL> uogel <C 800_EN> & <C 29_RUTGER> Roger<A >us</A> <q> de <C 0_LO> lo <q> emerunt <q> contra. <C 29_STEFANUS> stephan<A >um</A> <q> de <C 0_LO> lo <C 309_2> .ii 
+<L 12:26> <C 11_BUNDER> b<A >unre</A> <q> pratum <q> hereditarie. 
+<L 12:27> <C 20_HUGO> hugo <q> filius <C 29_MEINHARD> meinardi <C 800_EN> & <C 29_WILHELM> Willelm<A >us</A> <C 22_DAVID> daues <q> emerunt <q> contra. <C 29_ALBERT> alb<A >er</A>tu<A >m</A> 
+<L 12:28> <C 0_SCHIPBOOM> scipboe<A >m</A> <C 309_3> .iii. <C 10_STUK> st<A >ic</A> <q> terre <q> hereditarie 
+<L 12:29> <C 29_WOUTER> walter<A >us</A> <q> filius <C 29_GOBERT> godeb<A >er</A>ti. <q> emit <q> contra. <C 29_HUGO> hugone<A >m</A> <q> filius <C 29_RUTGER> rogeri <C 800_EN> & <q> uxore 
+<L 12:30> <q> suo <C 309_EEN> .i. <C 1_HOFSTEDE> hofted<A >e</A>. <q> hereditarie. 
+<L 12:31> <C 29_HENDRIK> henric<A >us</A> <C 21_VISEVASE-X> uiseuase <q> emit <q> contra. <C 24_NATALIA> natelie<A >n</A> <q> de <C 1_SLOOT> slote <C 309_3> .iii. <C 10_VIERTALZAAD> uirta+sat <q> terre. 
+<L 12:32> <q> hereditarie. 
+<L 12:33> <q> Jdem. <C 29_HENDRIK> h<A >enricus</A>. <q> emit <q> contra. <C 29_BOUDEWIJN> baldewinu<A >m</A> <C 20_SNIKKEBAARD> snikebart <C 309_2> .ii. <C 10_STUK> st<A >ic</A> <q> terre 
+<L 12:34> <q> hereditarie. 
+<L 12:35> <q> Jdem. <C 29_HENDRIK> h<A >enricus</A>. <C 21_VISEVASE-X> uiseuase. <q> emit <q> contra. <C 29_EGBERT> eggeb<A >er</A>to <C 0_BOLLAARD> bollart. <q> omnem 
+<L 12:36> <q> terram <C 700_IN> in <C 21_BORKLAAR> borclare <C 800_EN> & <C 450_ZIJN> sin <C 0_HEET> het <C 700_IN> in <C 22_EVERHARD> euerardes <C 0_AKKER> acker. <q> hereditarie. 
+<L 12:37> <C 29_GODSCHALK> Godescalc<A >us</A> <C 700+474_UIT+DE/HET> ute<A >n</A> <C 14_BERK> berken. <q> emit <q> contra. <C 24_IME> jmme<A >n</A> <C 800_EN> & <q> filium <q> suum <C 309_EEN> .i. 
+<L 12:38> <C 1_HOFSTEDE> hoftede <q> hereditarie. 
+<L 12:39> <C 29_BOUDEWIJN> boidin<A >us</A> <q> filius <C 0_ENGEL> jngel <q> de <C 29_ZINGEM> singe<A >m</A> <q> emit <q> contra. <C 29_WILHELM> willelmu<A >m</A> <C 20_ADDIN-X> addin <C 309_2> .ii. <C 10_STUK> st<A >ic</A>. 
+<L 12:40> <q> prati <C 700_IN> i<A >n</A> <C 0_NOORDMEERS> nortm<A >ersch</A>. <q> hereditarie. 
+<L 12:41> <C 20_JOHANNES> hanneki<A >n</A> <q> de <C 29_ZINGEM> singe<A >m</A> <q> emit <q> contra. <q> filios <VN type=1> <C 29_GOSWIJN> Gosewini <C 0_BOK> buc <C 309_EEN> .i <C 0_STUK> st<A >ic</A> <q> terre 
+<L 12:42> <q> hereditarie. 
+<L 13:1> <C 29_WOUTER> walter<A >us</A> <q> filius <C 29_GOBERT> godeb<A >er</A>ti. <q> emit <q> contra. <C 21_MEI> meie <C 800_EN> & <C 29_RUTGER> rogero <q> de <C 29_ZINGEM> singe<A >m</A> <q> terram 
+<L 13:2> <q> & <q> pratum. <q> hereditarie. 
+<L 13:3> <C 29_WILHELM> willelm<A >us</A> <C 1_PLAATS> place <q> emit <q> contra. <C 29_WILHELM> willelmu<A >m</A> <C 1_BEER> bere. <q> omnem <q> pratum. <C 700_IN> in <C 20+470_EST+DE> dest 
+<L 13:4> <q> hereditarie. 
+<L 13:5> <C 20_WOUTER> wouterman <VN type=1> <q> de <C 1_GRONDGAT-X> grontgate <q> emit <q> contra. <C 29_WOUTER> walt<A >er</A>u<A >m</A> <C 1_PAAP> pape <C 309_EEN> .i <C 0_STUK> st<A >ic</A> <q> prati 
+<L 13:6> <q> hereditarie. <C 700_IN> i<A >n</A> <C 0_DUURMEERS> duremers. 
+<L 13:7> <C 29_ARNOLF> arnulf<A >us</A> <q> filius <C 20_ELISABETH> elizabeth <q> emit <q> contra. <C 29_ARNOLF> arnulfu<A >m</A> <C 21_MEINHARD> meinarde <C 309_2> .ii <C 10_STUK> st<A >ic</A> <q> terre 
+<L 13:8> <q> hereditarie. 
+<L 13:9> <C 29_LAMBERT> la<A >m</A>b<A >er</A>tus <q> de <C 21_MOLSELE> molsele <q> emit <q> contra. <C 24_IME> jmme<A >n</A> <q> de <C 20_LEDERGEM> led<A >er</A>gem <C 800_EN> & <q> filios <q> suos 
+<L 13:10> <C 309_EEN> .i. <C 0_STUK> st<A >ic</A> <q> prati <q> hereditarie. 
+<L 13:11> <C 20_SIMON> Simo<A >n</A> <C 471_DE> de <C 101_KORT> corte <q> emit <q> contra. <C 29_WILHELM> will<A >elmum</A> <C 800_EN> & <C 29_ARNOLF> arnulfu<A >m</A> <q> terram <q> super 
+<L 13:12> <C 21_SLOTERKOUTER> slot<A >er</A>cout<A >er</A>e <C 800_EN> & <C 309_EEN> .i. <C 1_HOFSTEDE> hoftede <q> hereditarie. 
+<L 13:13> <q> Jtem <C 20_SIMON> simo<A >n</A> <q> emit <q> contra. <q> filios <C 29_RUTGER> rogeri <C 800_EN> & <q> contra <C 29_RUTGER> rogeru<A >m</A>. <q> terram <q> & 
+<L 13:14> <q> pratem <q> & <C 1_HOFSTEDE> hoftede <q> hereditarie. 
+<L 13:15> <q> Jtem <C 20_SIMON> simo<A >n</A> <q> emit <q> contra. <C 29_DIEDERIK> theodericu<A >m</A> <q> de <C 20_ZINGEM> singe<A >m</A> <q> terram <q> & <q> pratem 
+<L 13:16> <q> hereditarie. 
+<end-datering  jaar_tot='1233' jaar_van='1232' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1234' jaar_van='1234' tijdsoort='2' tijdstatus='1'>
+
+<L 13:17> <q> [hand] <q> [M] <C 20_MENDONK> .Mendonc. <VN type=1> 
+<L 13:18> <q> . <C 29_SIEGER> Siger<A >us</A> <C 26_LAWERA-X> lawera <q> emit <q> mansionem <q> contra <C 29_WILHELM> will<A >elmu</A>m <C 104_WAALS> walscen. 
+<L 13:19> <q> hereditarie. 
+<L 13:20> <C 29_WOUTER> walter<A >us</A> <q> filius <C 29_ARNOLF> arnulphi <q> fabri <q> emit <q> contra <C 29_EUFEMIA> famiam <q> quicquid <q> habuit 
+<L 13:21> <q> illa <q> hereditatis <q> de <q> matre <q> sua. 
+<L 13:22> <C 29_WOUTER> walter<A >us</A> <q> filius <C 21_IME> jmme <q> emit <q> contra <C 29_ARNOLF> arn<A >u</A>lphu<A >m</A> <q> de <C 21_LOKERVELD> lokeruelde <C 800_EN> & 
+<L 13:23> <C 29_HENDRIK> hei<A >n</A>ricu<A >m</A> <q> fratrem <q> suum <q> omnem <q> hereditatem <q> suam. 
+<L 13:24> <q> idem <C 29_WOUTER> walter<A >us</A> <q> emit <q> contra <C 29_IME> imma<A >m</A> <C 800_EN> & <q> maritum <q> suum <q> hereditatem <q> suam 
+<L 13:25> <q> citra <q> torrentem 
+<L 13:26> <C 29_WILHELM> willelm<A >us</A> <VN type=1> <C 0_PARMENTIER> parmentir <q> emit <q> contra <C 29_GIJSBERT> Giselb<A >er</A>tu<A >m</A> <q> de <C 21_VOSSENBERG> uossenb<A >er</A>ghe 
+<L 13:27> <q> fundum <q> unius <q> mansionis <q> apud <C 20_WESTVELD> westuelt 
+<L 13:28> <C 29_WOUTER> walter<A >us</A> <q> de <q> profunda <q> ualle <q> emit <q> contra <C 29_NATALIA> natalia<A >m</A> <q> de <C 1_SLOOT> slote <q> duas <q> partes 
+<L 13:29> <q> prati <q> in <C 21_SLOTERHEG> slot<A >er</A>heighe. 
+<L 13:30> <C 29_SIEGER> Siger<A >us</A> <C 1_STEP-X> steppe <q> emit <q> contra <C 29_WILHELM> will<A >elmu</A>m <VN type=1> <q> maiorem <q> de <C 20_DESTELDONK> desseldonc <q> duas 
+<L 13:31> <q> partes <q> prati 
+<L 13:32> <C 29_GOSWIJN> Gosuin<A >us</A> <q> filius <C 29_WOUTER> walt<A >er</A>i <C 101_BRUIN> brune <q> emit <q> contra <C 29_JOHANNES> hankinu<A >m</A> <q> filium <C 29_IMBERT> jmpini 
+<L 13:33> <q> quicquid <q> habuit <q> apud <C 21_ACHTENE> hachtine <q> de <q> terra <q> & <q> de <q> prato. <C 29_EVERHARD> Euerard<A >us</A> <q> de <C 21_SLOTEN> slote 
+<L 13:34> <q> emit <q> contra <C 29_JOHANNES> ha<A >n</A>kinu<A >m</A> <C 29_IMBERT> impini <C 800_EN> & <C 29_WOUTER> walteru<A >m</A> <q> fratrem <q> eius <q> quicquid 
+<L 13:35> <q> habuit <q> prati <q> & <q> terre <q> apud <VN type=1> <C 21_SLOTEN> slote. 
+<L 13:36> <C 20_ARNOUT> arnout <q> de <C 0_DONK> donc <q> emit <q> contra <C 24_BALTUTE?> baltuten <q> dimidium <q> quarte <q> terre <q> apud 
+<L 13:37> <C 21_SLOTERKOUTER> slot<A >er</A>koutre <VN type=1> 
+<L 13:38> <q> jdem <C 29_ARNOLF> arn<A >u</A>lph<A >us</A> <VN type=1> <q> emit <q> contra <C 29_JOHANNES> jh<A >oann</A>em <q> de <C 1_MEER> mere <q> hereditatem 
+<L 13:39> <q> suam <q> apud <C 21_SLOTERKOUTER> slot<A >er</A>koutre <C 800_EN> & <q> apud <C 0_ZINGEMAKKER> singhe<A >m</A>+acker. 
+<L 13:40> <C 29_WILHELM> will<A >el</A>m<A >us</A> <q> auis <q> emit <q> contra <C 29_JOHANNES> ha<A >n</A>kinu<A >m</A> <q> filium <C 29_RADOLF> Radulphi <C 800_EN> & <q> coheredes 
+<L 13:41> <q> suos <q> medietatem <q> illius <q> quicquid <q> habuerunt <q> apud <C 21_ACHTENE> auchtine. <q> 't% <q> jdem 
+<L 13:42> <C 29_WILHELM> willelm<A >us</A> <VN type=1> <q> emit <q> contra <C 29_MARGARETA> margareta<A >m</A> <q> uxorem <q> arietis <q> & <q> sorores <q> suas 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-datering  jaar_tot='1234' jaar_van='1234' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<L 13:53> <C 29_WILHELM> willm<A >us</A> 
+<L 13:57> <C 29_ARNOLF> arnlph<A >us</A> 
+<L 13:58> <C 29_WILHELM> willm<A >us</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.R.'>
+<end-datering  jaar_tot='1210' jaar_van='1210' tijdsoort='2' tijdstatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<datering  jaar_tot='1234' jaar_van='1234' tijdsoort='2' tijdstatus='1'>
+
+<L 14:1> <q> terram <q> & <q> pratum <q> que <q> iacent <q> retro <q> mansionem <q> ipsius <C 29_WILHELM> will<A >el</A>mi. 
+<L 14:2> <C 29_WOUTER> walter<A >us</A> <q> de <C 29_ZINGEM> singhe<A >m</A> <q> emit <q> contra <C 29_HENDRIK> heinricu<A >m</A> <C 0_SLOK-X> sloc <q> terram <q> ad <q> semen 
+<L 14:3> <q> unius <C 2_HALSTER> halsters <q> apud <C 21_SLOTERKOUTER> slot<A >er</A>koutre. 
+<L 14:4> <q> jdem <C 29_WOUTER> walter<A >us</A> <q> emit <q> contra <C 29_RUTGER> Rogeru<A >m</A> <q> de <C 1_SLOOT> slote <q> unam <q> partem <q> terre 
+<L 14:5> <q> apud <C 21_SLOTERKOUTER> slot<A >er</A>koutre. 
+<L 14:6> <q> jdem <C 29_WOUTER> walter<A >us</A> <q> emit <q> contra <C 29_HENDRIK> heinricu<A >m</A> <C 1_POGER-X> poghere <C 800_EN> & <C 29_THOMAS> thoma<A >m</A> <q> fratrem 
+<L 14:7> <q> eius <q> duas <q> particulas <q> terre <q> apud <C 21_SLOTERKOUTER> slot<A >er</A>koutre. 
+<L 14:8> <C 29_BOUDEWIJN> balduin<A >us</A> <C 20_HODDIJN-X> hoddin <q> emit <q> contra <C 21_MABELIA> mable <VN type=1> <q> de <C 1_BERGEN> b<A >er</A>ghine <q> fundum 
+<L 14:9> <q> mansionis <q> juxta <q> nouam <q> curiam. 
+<L 14:10> <C 29_HENDRIK> Heinric<A >us</A> <C 0_SLOK-X> sloc <VN type=1> <q> emit <q> contra <C 29_GODSCHALK> Godescalcu<A >m</A> <C 800_EN> & <C 29_AVE> aua<A >m</A> <q> uxorem <q> eius 
+<L 14:11> <q> fundum <q> unius <q> mansionis 
+<end-datering  jaar_tot='1234' jaar_van='1234' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1235' jaar_van='1235' tijdsoort='2' tijdstatus='1'>
+
+<L 14:12> <q> [hand] <q> [N] <q> magister <C 29_RAAS> razo <q> emit <q> contra <C 29_HENDRIK> heinricu<A >m</A> <C 9_PRATER> p<A >ra</A>t<A >ra</A> <C 309_EEN> .i. <C 1_BUNDER> b<A >unre</A>. <q> terre 
+<L 14:13> <q> jacentem <VN type=1> <C 700_IN> jn <C 20_KASTERBANT> cast<A >er</A>beent <q> hereditarie. <q> & <q> dicta <q> terra <q> soluit <q> decimam. <q> & 
+<L 14:14> <q> addidit <q> sensuj. <q> duos. <q> denarios <q> annuatim 
+<L 14:15> <C 20_ROEL> Roli<A >n</A> <C 0_SPEELAARD-X> spalgart <q> emit <q> contra <C 29_LAMBERT> la<A >m</A>binu<A >m</A> <q> .f. <C 24_LEA> lien <q> partem <q> terre <q> super 
+<L 14:16> <C 20_HERIKVOORT> erricsvort. <q> hereditarie. 
+<L 14:17> <C 21_WOUTER> w<A >outre</A> <C 100_BRUIN> brun <q> emit <q> contra. <C 20_BOUDEWIJN> Boidi<A >n</A> <q> .f. <C 22_DEGENHARD> deinnarts <C 309_EEN> .i. <C 1_BUNDER> b<A >unre</A>. <q> terre. 
+<L 14:18> <q> hereditarie <q> jacentem. <q> jnter. <C 26_SLOTEN> slota. <C 800_EN> & <C 20_LEDERGEM> liderghe<A >m</A> 
+<L 14:19> <C 20_NICOLAAS> coli<A >n</A> <q> de <C 26_EEKHOUT> ecouta <q> emit <q> contra <C 29_WILHELM> willinu<A >m</A> <q> de <C 1_WOLPUT> wlputte. <C 800_EN> & <C 21_WOUTER> w<A >outre</A> <q> de <C 6_WOLPUT> wlputta. 
+<L 14:20> <q> terram <q> que <q> uocatur <C 20_VOSDONK> vosdu<A >n</A>c <C 800_EN> & <C 0_VIERENDEEL> uirendel <q> hereditarie. <q> Jtem <C 20_NICOLAAS> coli<A >n</A> <q> emit 
+<L 14:21> <q> contra <C 29_EGBERT> ebb<A >er</A>tu<A >m</A> <C 0_BOLLAARD> bollard <C 309_EEN> .i. <q> mansionem. <q> hereditarie., <q> Jtem <C 20_NICOLAAS> coli<A >n</A> <q> emit 
+<L 14:22> <q> contra <C 21_WOUTER> w<A >outre</A> <C 0_BOK> buc <C 309_EEN> .i. <q> partem <q> prati <q> hereditarie. 
+<L 14:23> <C 20_HENDRIK> heinric <VN type=1> <C 26_VISEVASE-X> visavasa <q> recepit <q> ab <q> abbate <q> .i. <q> mansionem <q> que <q> iacet <q> in 
+<L 14:24> <C 26_WEEDAGE> wedaga <q> hereditarie. 
+<L 14:25> <C 20_BOUDEWIJN> Boidi<A >n</A> <q> de <VN type=1> <C 21_MOLSELE> molsele <C 800_EN> & <VN type=1> <q> fratres <q> emerunt <q> contra <C 21_WOUTER> w<A >outre</A> <C 14_ERF> erven <C 800_EN> & <C 24_ODE> oden 
+<L 14:26> <q> neptem <q> suam. <q> omnem <q> hereditatem <q> suam <q> apud <C 21_MOLSELE> molsele <q> hereditarie. 
+<L 14:27> <q> Jtem <C 20_BOUDEWIJN> boidi<A >n</A> <C 800_EN> & <q> fratres <q> eius <q> emerunt. <q> contra <C 0_BOSTEEL> bosteel <q> de <C 20_MENDONK> me<A >n</A>du<A >n</A>c. 
+<L 14:28> <q> omnem <q> hereditatem <q> ex <q> parte <q> vxoris <q> sue <q> apud <C 21_MOLSELE> molsele <VN type=1> <q> hereditarie. 
+<end-datering  jaar_tot='1235' jaar_van='1235' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1238' jaar_van='1236' tijdsoort='2' tijdstatus='1'>
+
+<L 14:29> <q> [hand] <q> [G] <C 29_LAMBERT> l<A >am</A>b<A >er</A>t<A >us</A> <q> aureus <q> emit <q> contra <C 29_WILHELM> willelmu<A >m</A> <C 22_PRUL-X> pruls <VN type=1> <q> quartam 
+<L 14:30> <q> partem <q> de <C 309_6> vi <C 14_HOFSTEDE> hofsteden <VN type=1> <C 800_EN> & <q> heriditatem <q> suam <q> quam <q> habet <q> in 
+<L 14:31> <C 21_SLOTERKOUTER> sclot<A >er</A>cotere <C 800_EN> & <q> in <C 24_SCHUREN> scure<A >n</A> 
+<L 14:32> <q> item <C 29_LAMBERT> la<A >m</A>b<A >er</A>t<A >us</A> <q> emit <q> contra <q> sacerdotem <q> de <C 21_VLIERZELE> wlidersele <C 0_VROUW> ver <C 24_TRUIN> trune<A >n</A> 
+<L 14:33> <C 1_HOFSTEDE> hofstede <VN type=1> <C 800_EN> & <q> dimidiam <VN type=1> <C 700_IN> in <C 1_MANDAATSTRAAT> ma<A >n</A>dat+strate <C 29_ARNOLF> arnulf<A >us</A> <C 1_VORSTER> vurstere <q> habet <q> duo 
+<L 14:34> <C 19_BONNARIUM> bunaria <VN type=1> <C 1_WOESTIJN> vastine <C 700_VOOR> vor <C 1_MEERHOUT> merote. <C 29_ARNOLF> arnulf<A >us</A> <q> de <C 21_LOKEREN> lokerne <q> emit <C 309_EEN> i <C 1_HOFSTEDE> hofstede <q> contra 
+<L 14:35> <C 29_GOSWIJN> gosuinu<A >m</A> <C 1_SPEEN> spene 
+<L 14:36> <C 29_BOUDEWIJN> bald<A >uinus</A> <q> de <C 21_MOLSELE> molsele <q> emit <q> contra <C 20_EVERELM> euerle<A >m</A> <VN type=1> <q> de <C 21_MOLSELE> molsele <C 309_4,5> iiii't! <C 0_MARK> m<A >arc</A> 
+<L 14:37> <q> terre 
+<L 14:38> <q> item <C 29_BOUDEWIJN> bald<A >uinus</A> <q> emit <q> contra <C 29_BOUDEWIJN> balduinu<A >m</A> <C 24_EVENKOREN-X> eue<A >n</A>core<A >n</A> <C 800_EN> & <q> contra <q> fratrem 
+<L 14:39> <q> eius <q> teram+suam <VN type=1> <q> aput <C 21_MOLSELE> molsele 
+<L 15:1> <C 29_GOSWIJN> gosuin<A >us</A> <q> de <VN type=1> <C 20_OVERDAM> ou<A >er</A>da<A >m</A> <C 800_EN> & <C 29_ARNOLF> arnulf<A >us</A> <q> frater <q> eius <q> emerunt <q> contra 
+<L 15:2> <C 29_ARNOLF> arnulfu<A >m</A> <C 21_IMBERT> i<A >m</A>pine <C 800_EN> & <q> fratres <q> eius <q> terram <q> suam <q> quam <q> habuerunt <q> in 
+<L 15:3> <C 21_ACHTENE> hactine. <C 29_GOSWIJN> gosuin<A >us</A> <q> de <C 20_OVERDAM> ou<A >er</A>da<A >m</A> <C 800_EN> & <q> frater <q> eius <q> emerunt <q> contra <C 24_JORDAAN> iordane<A >n</A> 
+<L 15:4> <C 1_KOLF> colue <q> & <C 29_BARTOLOMEUS> bartolomeu<A >m</A> <C 800_EN> e<A >n</A>de <C 451_HAAR> hare <C 11_GEDEEL> gedele <C 22+0_WOUTER+AKKER> voiters+hacker <VN type=1> <q> item <C 29_GOSWIJN> gosuin<A >us</A> 
+<L 15:5> <C 800_EN> & <q> frater <q> eius <q> emerunt <q> contra <C 24_HEILE> hellen <q> de <C 21_VARENBERG> varnberge <C 800_EN> & <q> sororem <q> eius <C 309_8> viii 
+<L 15:6> <C 19_LIBRA> lib <C 100_WAARD> vert <q> terre 
+<L 15:7> <C 29_SIEGER> siger<A >us</A> <C 20_SPEERNAGEL-X> spernagel <q> emit <q> contra <C 29_WOUTER> valteru<A >m</A> <C 101_ZOET> sote <C 309_3> iii. <C 10_MARK> m<A >arc</A> <C 100_WAARD> vert <q> terre 
+<L 15:8> <C 29_WOUTER> valter<A >us</A> <q> de <C 1_DAL> dale <q> contra <C 29_NATALIA> natalia<A >m</A> <C 800_EN> & <q> filios <q> eius <VN type=1> <q> de <C 20_DESTELDONK> deseldu<A >n</A>c <q> emit <q> ii 
+<L 15:9> <q> frustra <q> terre <q> in <C 21_SLOTERHEG> sclot<A >er</A>hege <VN type=1> 
+<L 15:10> <C 29_SIEGER> siger<A >us</A> <C 20_SPEERNAGEL-X> spernagel <q> emit <q> contra <C 29_STEFANUS> stephania<A >m</A> <C 800_EN> & <q> filios <q> eius <C 309_3> iii <C 10_MARK> m<A >arc</A> <C 100_WAARD> vert 
+<L 15:11> <q> terre <q> in <C 1_HARTMEERS/HERTMEERS?> hart+mersce 
+<L 15:12> <C 20_ELISABETH> elizabet <C 800_EN> & <C 26_GEILE> geila <q> filie <C 29_WOUTER> walteri <q> de <C 29_ZINGEM> singem <q> emerunt <q> contra <C 29_WOUTER> walteru<A >m</A> <q> de 
+<L 15:13> <C 0_WOLPUT> wulput <C 309_EEN> i <C 0_HALSTERZAAD> halster+sat <VN type=1> <q> terre 
+<L 15:14> <C 29_RADOLF> radulf<A >us</A> <C 475+700_DE+UIT> ut<A >er</A> <C 0_HULST> hulst <q> emit <C 309_EEN> i <C 0_HOFSTEDE> hostat <VN type=1> <C 309_EEN> i <C 0_VIERTALZAAD> f<A >irtal</A>.+sat <q> terre <q> contra <C 29_ARNOLF> arnulfu<A >m</A> 
+<L 15:15> <C 20_CAUDRON-X> caudron <C 800_EN> & <q> contra <q> fratres <q> eius 
+<L 15:16> <C 29_EGBERT> ecbert<A >us</A> <q> clericus <q> emit <q> contra <C 29_EGBERT> ecbertu<A >m</A> <q> nepotem <q> suum <q> i <VN type=1> <C 0_VIERTALZAAD> f<A >irtal</A>.+sat 
+<L 15:17> <q> terre <q> & <q> parum <q> prati <q> & <q> dimidiam <q> partem <q> quam <q> ei <q> accidit <q> de <q> morte 
+<L 15:18> <q> patris <q> sui 
+<L 15:19> <q> idem <C 29_EGBERT> ecbert<A >us</A> <VN type=1> <q> emit <q> contra <C 29_OBERT> obertu<A >m</A> <C 475+700_DE+UIT> ut<A >er</A> <C 0_HULST> hulst <q> dimidiam 
+<L 15:20> <q> hereditatem <q> suam <C 475+0+700_DE+HULST+BEOOSTEN> beosterhulst <VN type=1> 
+<L 15:21> <C 29_WOUTER> walter<A >us</A> <q> faber <q> emit <q> contra <q> patrem <q> suum <q> ii <C 10_MARK> marc <q> prati 
+<L 15:22> <q> idem <C 29_WOUTER> walter<A >us</A> <q> emit <C 309_EEN> i <C 0_HOFSTEDE> hostat <q> contra <C 29_MATTE'S1US> mathiam <q> filium <q> auunculi 
+<L 15:23> <C 29_WOUTER> walter<A >us</A> <q> filius <C 29_EGBERT> ecberti <C 800_EN> & <C 29_SIEGER> siger<A >us</A> <q> frater <q> eius <q> emerunt <q> contra <C 29_LAMBERT> la<A >m</A>bertu<A >m</A> 
+<L 15:24> <C 800_EN> & <C 1_ENGEL> ingele <C 309_EEN> i <C 0_HALSTERZAAD> halster+sat <q> terre <C 309_EEN> i <C 0_HOFSTEDE> hostat <C 800_EN> & <C 21_DURME> durme 
+<L 15:25> <q> idem <C 29_WOUTER> walter<A >us</A> <q> emit <q> contra <C 20_WILHELM> wille<A >m</A> <C 0_VINKAARD-X> wincart <q> omne <q> quod <q> habuit <q> in 
+<L 15:26> <C 20_EST> heschet 
+<L 15:27> <C 20_WILHELM> wille<A >m</A> <q> de <C 20_RACHT-X> racht <q> emit <q> contra <C 29_ARNOLF> arnulfu<A >m</A> <C 101_WILD> wilde <q> quartam <q> partem <q> de <C 309_EEN> i <C 1_BUNDER> b<A >unre</A> 
+<L 15:28> <q> terre 
+<L 15:29> <q> idem <C 20_WILHELM> wille<A >m</A> <q> emit <q> contra <q> filiam <C 29_THOMAS> tome <q> filii <C 29_ALBERT> apri <C 309_EEN> i <C 0_VIERENDEEL> uirendel <q> terre. 
+<end-datering  jaar_tot='1238' jaar_van='1236' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1239' jaar_van='1239' tijdsoort='1' tijdstatus='1'>
+
+<L 15:30> <q> [hand] <q> [O] <q> anno <q> domini <q> .m'ho.cc'ho. <q> xxxix'ho. <VN type=1> 
+<L 15:31> <C 21_WOUTER> w<A >outre</A> <q> .f. <C 29_EGBERT> egb<A >er</A>ti <q> clerici <q> emit <q> contra <C 29_CHRISTIAAN> xp<A >ist</A>ianu<A >m</A> <q> de <C 29_GANDAVUM> gand<A >auo</A> <C 309_3> .iii. 
+<L 15:32> <C 10_HALSTERZAAD> halst<A >er</A>saet <q> terre <q> jacentis <q> in <C 21_SLOTERHEG> sloterheighe <q> hereditarie. 
+<L 15:33> <C 29_EGBERT> Egb<A >er</A>t<A >us</A> <q> clericus <q> emit <q> contra <C 29_AVE> auasoeta<A >m</A> <q> neptem <q> suam <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat. <q> jn 
+<L 15:34> <C 21_EEKHOUT> ekouthe. <q> hereditarie. <VN type=1> 
+<L 15:35> <q> Jtem <C 29_EGBERT> Egb<A >er</A>t<A >us</A> <q> contra <q> eandem <C 29_AVE> .a<A >uasoetam</A>. <C 309_EEN> i. <C 0_HALSTERZAAD> halst<A >er</A>saet <q> terre <q> in 
+<L 15:36> <C 21_EEKHOUT> Eckouthe. <VN type=1> 
+<L 15:37> <C 29_EGBERT> Egb<A >er</A>t<A >us</A> <q> clericus <q> & <C 29_WILHELM> will<A >elmu</A>s <q> frater <q> eius <q> emerunt <q> contra <C 29_OBERT> ob<A >er</A>tu<A >m</A> 
+<L 15:38> <q> de <C 0_HULST> hulst <q> totam <q> terram <q> & <q> pratum <q> quod <q> habuerunt <VN type=1> <C 475+0+700_DE+HULST+BEOOSTEN> bosterhulst 
+<L 15:39> <q> communiter. <q> hereditarie. 
+<L 16:1> <C 29_GOSWIJN> Gosuin<A >us</A> <q> de <C 1_RIETWINKEL> rietwincle <q> emit <q> contra <C 29_MICHAEL> michaelem <C 800_EN> & <C 29_IME> i<A >m</A>ma<A >m</A> <q> de 
+<L 16:2> <C 24_ZEVENEKEN> seueneken <C 309_3,5> .iii't!. <C 16_BONNARIUM> bon<A >aria</A> <q> terre. <q> jacentis <C 700+4_TE+ZEVENEKEN> te<A >n</A>seue<A >n</A>eken. <q> hereditarie. 
+<L 16:3> <q> [hand] <q> [O'h,] <C 29_JOHANNES> Joh<A >ann</A>es <q> de <C 1_PERRE-X> perre <q> emit <C 309_3> .iii. <C 16_BONNARIUM> bon<A >aria</A>. <C 4_WOESTIJN> woustinen <q> contra. 
+<L 16:4> <q> ecclesiam <q> beati <q> bauonis <C 119_GANDENSIS> gand<A >e</A>n<A >sis</A>. <q> jacentis <q> supra <C 0_PASMETERVELD> pasmet<A >re</A>uelt 
+<L 16:5> <C 20_SIEGFRIED?> Seluert <C 700_VAN> van <C 475_DE> der <C 4_MUDE> mude<A >n</A> <q> emit <C 309_3> .iii. <C 14_STUK> stiken <VN type=1> <C 2_LAND> lanst <q> contraillos <q> de <C 21_MEERHOUT> meroutte. 
+<L 16:6> <q> jacentes <q> de <C 1_SCHOUTHEET> scouheite <C 1_BOS> buische. 
+<L 16:7> <C 29_EGBERT> Egb<A >er</A>t<A >us</A> <q> clericus <q> emit <q> contra <C 20_BOUDEWIJN> boudin <C 1_WESTERLING-X> westerlinge <C 309_EEN> .i. <C 1_HOFSTEDE> hofstede. 
+<L 16:8> <q> jacentem. <q> de <C 21_OOSTAKKER> ostaccre. 
+<L 16:9> <C 29_BOUDEWIJN> balduin<A >us</A> <C 0_BUIK> buch. <q> emit <q> contra <q> filios <C 20_ROOIMOND-X> roimonst <C 309_3> .iii. <C 10_HALSTERZAAD> halst<A >er</A>saet. 
+<L 16:10> <q> Jtem. <C 29_BOUDEWIJN> balduin<A >us</A>. <C 0_BUIK> buch. <q> emit. <q> contra. <q> neptem <q> suam. <q> omne <q> quod <q> habuit 
+<L 16:11> <q> ex <q> parte <q> patris <q> sui. 
+<L 16:12> <C 29_WOUTER> Walter<A >us</A> <q> de <q> noua <q> curia <q> emit <q> .'t!. <C 9_BONNARIUM> bon<A >arium</A>. <q> terre <q> paulo <q> plus <q> uel <q> minus 
+<L 16:13> <q> contra <C 29_WOUTER> walteru<A >m</A> <q> de <C 1_MEER> mere. 
+<L 16:14> <C 29_HENDRIK> heinric<A >us</A> <C 9_PRATER> prat<A >ra</A> <q> emit <C 309_EEN> .i. <C 0_HOFSTEDE> hofstat <q> contra. <C 29_HENDRIK> heinric<A >um</A>. <C 474_DE/HET> den <C 1_SCHERMER> schermere. 
+<L 16:15> <C 20_ROEL> Roul <C 700_VAN> van <C 474_DE/HET> den <C 1_HEIDE> heide <q> emit <C 309_EEN> .i. <C 9_BONNARIUM> bon<A >arium</A>. <q> terre. <q> & <q> .'t!. <C 0_MEET> meit <q> parum <q> plus <q> uel 
+<L 16:16> <q> minus <q> contra. <C 29_DIEDERIK> theoderic<A >um</A> <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 4_HEIDE> heide<A >n</A> <C 800_EN> & <C 451_ZIJN> sine <C 14_MIK> micken 
+<L 16:17> <C 29_LAMBERT> lamb<A >er</A>t<A >us</A> <C 1_SLOVER> sclouure <q> emit <q> contra <C 29_SIEGER> sigeru<A >m</A> <q> fratrem <q> suum. <q> omnem 
+<L 16:18> <q> hereditatem. <q> quam <q> habuit. <q> Jacentem <q> apud <C 24_LEDERGEM> ledregen 
+<end-datering  jaar_tot='1239' jaar_van='1239' tijdsoort='1' tijdstatus='1'>
+
+<datering  jaar_tot='1240' jaar_van='1240' tijdsoort='2' tijdstatus='1'>
+
+<L 16:19> <q> [hand] <q> [P'h,] <C 20_HUGO> Hugo <q> f <C 29_EGBERT> Ecb<A >er</A>tj <q> de <C 20_DESTELDONK> Desseldonc <q> emit <q> contra <C 24_ROTE> Roten <q> de <C 21_ABEEL> abele <VN type=1> 
+<L 16:20> <q> fundum <q> xlviii <q> sol <q> hereditarie. <C 20_ARNOUT> Arnout <C 0_KLINKAARD-X> clinckart <C 800_EN> & <C 20_SIMON> simo<A >n</A> <q> frater <q> eius 
+<L 16:21> <q> emerunt <q> contra <C 29_MARGARETA> margareta<A >m</A> <q> relictam <C 22_LAMBERT> lamkins <C 800_EN> & <q> filios <q> eius <C 309_12> xii <C 11_BUNDER> bun<A >re</A> 
+<L 16:22> <q> terre. <q> hereditarie. <q> Jtem <C 20_ARNOUT> Arn<A >out</A> <C 0_KLINKAARD-X> clinckart <q> emit <q> contra <C 20_ARNOUT> Arn<A >out</A> <C 0_RAT> rat. <C 800_EN> & 
+<L 16:23> <q> uxorem <q> eius <C 309_3> iii <C 11_BUNDER> bun<A >re</A> <q> terre <q> hereditarie. <C 29_JACOB> Jacob<A >us</A> <q> de <C 29_MACKENHUIS> machus <q> emit 
+<L 16:24> <q> contra <C 29_WOUTER> woitinu<A >m</A> <q> de <C 1_MEER> mere <C 309_3> iii <C 10_HALSTERZAAD> halst<A >er</A>+saet <q> hereditarie. <C 20_GOSWIJN> Goskin <q> filius 
+<L 16:25> <C 22_GOSWIJN> Gosens <q> emit <C 309_EEN> i <C 0_MANSMAAT> mans+mat <q> prati. <q> contra <C 24_GEERTRUIDA> Gert<A >ru</A>den <q> uxorem <C 29_WOUTER> walt<A >er</A>i <C 1_KAAL> calue 
+<L 16:26> <q> hereditarie. <C 29_WOUTER> Walterus <q> f <C 29_EGBERT> Ebb<A >er</A>ti <VN type=1> <C 800_EN> & <C 20_ROEL> Rol. <q> emerunt <q> contra <q> filios <VN type=1> 
+<L 16:27> <C 20_EVERHARD> Euerad. <q> apud <C 20_OOSTAKKER> hostack<A >er</A> <C 800_EN> & <C 700_IN> in <C 0_HULST> hulst <q> terram <q> & <C 2_MEERS> mercs <q> hereditarie. <C 20_HUGO> Hugo 
+<L 16:28> <C 0_HALLING> hallinc <q> emit <q> contra <C 29_IME> imma<A >m</A> <C 22_ROOSLIJN-X> Roslins. <C 800_EN> & <q> filios <q> eius <C 309_EEN> .i. <C 0_HALSTERZAAD> halst<A >er</A>+sat <q> terre <C 800_EN> & 
+<L 16:29> <C 309_EEN> .i <C 0_MEETMEERS> met+mersc <q> hereditarie. <q> Jtem <q> emit <q> contra <C 29_GEERTRUIDA> Gertrudem <C 22_KALENS-X> calens <C 309_EEN> i <C 0_VIERTALZAAD> wirtal+sat 
+<L 16:30> <q> terre <q> hereditarie. <C 21_HENDRIK> Heine <C 475+700_DE+UIT> ut<A >er</A> <C 0_HULST> hulst <q> emit <q> contra <q> socerum <q> suum 
+<L 16:31> <C 29_SIEGER> Sigeru<A >m</A> <C 20_HOOI> hoi <C 309_EEN> i <C 1_BUNDER> bun<A >re</A> <q> terre <q> hereditarie <q> Jtem <q> contra <C 29_GOSWIJN> Gosinu<A >m</A> <q> nepotem 
+<L 16:32> <q> suum <C 309_EEN> i <C 0_HALSTERZAAD> halst+sat <VN type=1> <q> terre <q> hereditarie. <C 21_HENDRIK> heine <C 1_STEP-X> steppe <q> emit <q> contra <C 20_HENDRIK> henric 
+<L 16:33> <C 0_BOK> buc <C 800_EN> & <C 20_LAMBERT> lamkiin <q> fratrem <q> eius <C 309_EEN> i <C 0_MET> met <q> terre <q> in <C 6_WOESTIJN> uastina <q> hereditarie. <C 20_ROEL> Rol <q> de 
+<L 16:34> <C 1_HEIDE> hede <C 800_EN> & <C 20_BOUDEWIJN> boudin <q> frater <q> eius. <q> emerunt <q> contra <q> filium <C 20_EVERELM> Euerelm <C 309_7> vii 
+<L 16:35> <q> mensuras <q> terre <q> hereditarie. <q> et <q> quatuor <q> frustra <q> terre. <q> ad <q> i <C 0_PAND> pant 
+<end-atlas_kenmerk  atlas_kenmerkkode='.L.M.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1240' jaar_van='1240' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

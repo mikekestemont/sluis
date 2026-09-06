@@ -1,0 +1,50 @@
+<header>
+<docId>1826B</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+<L 2725:8> <C 404_WIJ> Wj <C 11_SCHEPEN> scepene, <C 0_RAAD> raet <C 800_EN> en<A >de</A> <C 1_GEMEENTE> ghemeente <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_ZIERIKZEE> ziriczee. <C 204_MAKEN> Maken 
+<L 2725:9> <C 100_KOND> cont <C 800_EN> ende <C 100_KENLIJK> kenlic <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 250_ZIEN> sien <C 214_ZULLEN> sullen <C 800_OF> of <C 250_HOREN> hoeren 
+<L 2725:10> <C 250_LEZEN> lesen, <C 810_DAT> dat <C 404_WIJ> wi <C 484_EEN> eene<A >n</A> <C 104_HOOG> hoeghen <C 104_EDEL> edelen <C 1_PRINS> p<A >ri</A>nce, <C 800_EN> en<A >de</A> <C 484_EEN> eene<A >n</A> <C 104_WAARD> warden. <C 4_HEER> haren 
+<L 2725:11> <C 21_JOHANNES> Janne <C 1_GRAAF> graue <C 700_VAN> van <C 21_HENEGOUWEN> heneghouwe <C 421_DIE> die <C 700_VAN> van <C 104_GERECHT> gherechten <C 1_OOR> oyre <C 1_GRAAF> graue <C 210_ZIJN> es <C 700_IN> in 
+<L 2725:12> <C 20_HOLLAND> holl<A >ant</A> <C 700_IN> in <C 20_ZEELAND> zeelant <C 800_EN> en<A >de</A> <C 1_HEER> he<A >er</A>e <C 700_IN> in <C 20_FRIESLAND> vrieselant <C 274_ONTVANGEN> ontfanghen <C 214_HEBBEN> hebben <C 700_OVER> ouer 
+<L 2725:13> <C 454_ONS> onsen <C 104_RECHT> rechten <C 1_HEER> heere <C 1_GRAAF> g<A >ra</A>ue <C 700_TE> te <C 260_WEZEN> wesen <C 800_EN> en<A >de</A> <C 1_HEER> he<A >er</A>e <C 700_IN> in <C 474_DE/HET> den <C 114_VOORZEID> voerseiden <C 11_LAND> lande. 
+<L 2725:14> <C 800_EN> En<A >de</A> <C 404_WIJ> wi <C 214_HEBBEN> hebbe<A >n</A> <C 403_HIJ> hem <C 1_HULDE> hulde <C 274_ZWEREN> ghesuore<A >n</A> <C 700_MET> met <C 114_GESTAAFD> ghestaueden <C 11_EED> eede <C 403_HIJ> hem <C 700_TE> te 
+<L 2725:15> <C 251_HOUDEN> houdene <C 800_EN> en<A >de</A> <C 450_ZIJN> sijn <C 1_RECHT> rechte <C 0_OOR> oyr <C 700_NA> na <C 403_HIJ> hem <C 700_OVER> ouer <C 454_ONS> onsen <C 104_RECHT> rechte<A >n</A> <C 1_HEER> heere. <C 800_EN> En<A >de</A> 
+<L 2725:16> <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 454_ZIJN> sine<A >n</A> <C 104_RECHT> rechten <C 0_OOR> oyr <C 700_NA> na <C 403_HIJ> hem <C 500_ALTOOS> altois <C 700_TE> te <C 251_DOEN> doene <C 821_ALS> alse <C 404_WIJ> wi <C 454_ONS> onsen <C 104_RECHT> rechte<A >n</A> 
+<L 2725:17> <C 1_HEER> heere <C 100_SCHULDIG> sculdich <C 214_ZIJN> sijn <C 700_TE> te <C 251_DOEN> doene <C 700_IN> Jn <C 1_KENNIS> kenesse <VN type=1> <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi 
+<L 2725:18> <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_ONS> onsen <C 101_GEMEEN> ghemeene <C 1_ZEGEL> seghele <C 700_VAN> van <C 475_DE/HET> der <C 105_VOORZEID> voers[eide]r 
+<L 2725:19> <C 1_POORT> porte. <C 274_GEVEN> Ghegheue<A >n</A> <C 0+700+470_JAAR+IN+HET> intiaer <C 452_ONS> ons <C 4_HEER> he<A >er</A>en <C 309_1299> .M.+cc.+xcix. <C 472_DE/HET> des <C 2_MAANDAG> maendaghes <C 700_NA> na 
+<L 2725:20> <C 101_SINT> sente <C 22_NICOLAAS> Niclais <C 1_DAG> daghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.M2.O.P.'>
+
+<L 2725:22> <C 500_ITEM> [Jtem] <C 481_EEN> [e]ene <C 1_LETTER> lett<A >er</A>e <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_DELFT> delf <C 810_DAT> dat <C 406_ZIJ> si <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue <C 204_ONTVANGEN> ontfanghen 
+<L 2725:23> <C 700_OVER> ou<A >er</A> <C 1_GRAAF> g<A >ra</A>ue <C 800_EN> en<A >de</A> <C 1_HEER> he<A >er</A>e <C 271_SPREKEN> sprekende <C 700_VAN> van <C 1_WOORD> wor[de] <C 700_TE> [te] <C 1_WOORD> [w]orde <C 821_ALS> alse <C 471_DE> de <C 1_LETTER> lett<A >er</A>e 
+<L 2725:24> <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_ZIERIKZEE> ziericzee <C 100_VOORSCHREVEN> voerscreue<A >n</A>. 
+<L 2725:25> <C 500_ITEM> [Jtem] <C 481_EEN> [ee]ne <C 1_LETTER> lett<A >er</A>e <C 700_VAN> van <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_LEIDEN> leyden <C 271_SPREKEN> sprekende <C 700_VAN> van <C 1_WOORD> worde <C 700_TE> te 
+<L 2725:26> <C 1_WOORD> worde <C 821_ALS> alse <C 475_DE/HET> der <C 1_POORT> porte <C 1_LETTER> lettere <C 700_VAN> [van] <C 20_ZIERIKZEE> [zi]ericzee <C 100_VOORSCHREVEN> voerscreuen. 
+<L 2725:27> <C 500_ITEM> Jtem <C 481_EEN> eene <C 1_LETTER> lett<A >er</A>e <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_HAARLEM> herlem. <C 271_SPREKEN> sprekende <C 700_VAN> van <C 1_WOORD> worde <C 700_TE> te <C 1_WOORD> worde 
+<L 2725:28> <C 821_ALS> alse <C 475_DE/HET> der <C 1_POORT> porte <C 1_LETTER> lett<A >er</A>e <C 700_VAN> va<A >n</A> <C 20_ZIERIKZEE> ziericzee. 
+<L 2725:29> <C 500_ITEM> Jtem <C 481_EEN> eene <C 1_LETTER> lett<A >er</A>e <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_ALKMAAR> alcmaer <C 271_SPREKEN> sprekende <C 700_VAN> van <C 1_WOORD> worde <C 700_TE> te <C 1_WOORD> worde 
+<L 2725:30> <C 821_ALS> alse <C 475_DE/HET> der <C 1_POORT> porte <C 1_LETTER> lett<A >er</A>e <C 700_VAN> va<A >n</A> <C 20_ZIERIKZEE> ziericzee. 
+<L 2725:31> <C 500_ITEM> Jtem <C 481_EEN> eene <C 1_LETTER> lett<A >er</A>e <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 101_SINT> sente <C 21_GEERTRUIDENBERG> gheerdenberghe <C 271_SPREKEN> sprekende <C 821_ALS> alse 
+<L 2725:32> <C 475_DE/HET> der <C 1_POORT> porte <C 1_LETTER> lett<A >er</A>e <C 700_VAN> van <C 20_ZIERIKZEE> zieric[zee] <C 100_VOORSCHREVEN> voer[screuen] <VN type=1> 
+<L 2725:33> <q> - <C 500_ITEM> Jtem <C 481_EEN> ene <C 1_LETTER> lett<A >er</A>e <C 475_DE/HET> der <C 1_POORT> porte <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 810_DAT> Dat <C 406_ZIJ> si <C 474_DE/HET> den <C 1_GRAAF> graue <C 700_VAN> van 
+<L 2725:34> <C 24_HENEGOUWEN> henegouwen <C 274_ONTVANGEN> ontfaen <VN type=1> <C 214_HEBBEN> hebben <C 700_IN> in <C 454_HAAR> horen <C 104_RECHT> rechten <C 1_HEER> here. <C 271_SPREKEN> sprekende <C 700_VAN> van 
+<L 2725:35> <C 1_WOORD> worde <C 700_TE> te <C 1_WOORD> worde <C 821_ALS> alse <C 411_DEZE> dese <C 100_ANDER> ander <C 100_VOORSCHREVEN> vorscreuen <C 1_LETTER> lett<A >er</A>e <C 700_VAN> van <C 474_DE/HET> den <C 114_ANDER> andren <C 14_POORT> porten. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.M2.O.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

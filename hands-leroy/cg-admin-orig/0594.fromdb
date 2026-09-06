@@ -1,0 +1,51 @@
+<header>
+<docId>0594</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='2'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 994:9> <C 700_IN> jn 
+<L 994:10> <C 21_GISTEL> ghistelle <C 20_JOHANNES> jan <q> f <C 22_ROBERT> robrechts.- 
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='2'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> xliiij <C 19_DENARIUS> d <C 700_OP> up <C 309_EEN> j <C 9_GEMET> 't3m <C 2_LAND> la<A >n</A>ts. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 994:16> <C 700_TOT> Tot <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien <C 800_EN> en<A >de</A> <C 250_HOREN> horen <C 250_LEZEN> lesen 
+<L 994:17> <C 20_JOHANNES> jan <C 471_DE> die <C 0_WAARD> waerd <C 800_EN> en<A >de</A> <C 20_RUTGER> roegier <C 0_MONNIK> moenac <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 21_GISTEL> ghistele <C 204_DOEN> doen <C 700_TE> te 
+<L 994:18> <C 251_WETEN> wetene <C 810_DAT> dat <C 220_KOMEN> cam <C 700_VOOR> vor <C 404_WIJ> ons <C 20_JOHANNES> jan <C 22_ROBERT> robrechts <C 1_ZOON> sone <C 800_EN> en<A >de</A> <C 220_GEVEN> gaf <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte 
+<L 994:19> <C 0_BROEDER> broder <C 21_JOHANNES> ianne <C 700_VAN> van <C 20_OOSTBURG> oestborh <C 2+700+472_HOSPITAAL+TE+HET> tsospitaels <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> ians <C 0_HUIS> hues <C 700_TE> te 
+<L 994:20> <C 21_BRUGGE> brugghe <C 700_VAN> van <C 300_VIERENVEERTIG> vierende+viertich <C 14_PENNING> peneghen <C 115_GOED> goeder <C 115_VLAAMS> vlaemscer <C 105_ERFELIJK> erueliker 
+<L 994:21> <C 4_RENTE> rente<A >n</A>. <C 800_EN> en<A >de</A> <C 273_BEZETTEN> beset <C 700_OP> hup <C 300_EEN> een <C 0_GEMET> ghemet <C 2_LAND> lands <C 271_LIGGEN> lighende <C 700+470_IN+HET> int <C 0_NIEUWLAND> niewelant <C 700_BEOOSTHALF> be+oest+half 
+<L 994:22> <C 4_SCHOUTHEET> scuteten <C 1_WEG> weghe <C 800_EN> en<A >de</A> <C 213_HETEN> eet <C 22_POTTERSPUT> potters+pits <C 800_EN> en<A >de</A> <C 230_ZIJN> was <C 504_BIJWIJLEN> be+wilen <C 22_DIEDERIK> tierins 
+<L 994:23> <C 2_RAAD> raeds. <C 800_EN> en<A >de</A> <C 220+403_GELOVEN+HET> ghelovets <C 403_HIJ> hem <C 700_TE> te <C 251_WAREN> waerne <C 501_VRIJELIJK> vrielike. <C 800_EN> en<A >de</A> <C 471_DE> die <C 411_ZELF> zelue <C 0_BROEDER> broeder <C 20_JOHANNES> ian 
+<L 994:24> <C 220_GEVEN> gaf <C 500_WEER> weder <C 1_GIFT> ghifte <C 414_DIE> die<A >n</A> <C 21_JOHANNES> ianne <q> f <C 22_ROBERT> robrechs <C 700_VAN> van. <C 300_VIERENVEERTIG> vierendeviertich <C 14_PENNING> peneghen 
+<L 994:25> <C 110_VLAAMS> vlaems. <C 421_DIE> die <C 406_ZIJ> zi <C 224_HEBBEN> hadde<A >n</A> <C 700_OP> hup <C 22_VESTERT> vastraeds <C 1_HOFSTEDE> ostede. <C 800_EN> en<A >de</A> <C 510_DUS> dus <C 220_GEVEN> gaf <C 440+444_MANLIJK+ANDER> mallic+handren 
+<L 994:26> <C 1_GIFT> gifte <C 700_IN> in <C 104_WETTELIJK> wetteliken <C 1_WISSEL> wissele. <C 471_DE> die <C 301_EEN> heene <C 300_VIERENVEERTIG> vierendeviertich <C 11_PENNING> peneghe <C 701_OM> omme 
+<L 994:27> <C 470+311_DE+ANDER> dandre. <C 810_IN-MANIER-DAT> in+manieren+dat <C 411_DIE> die <C 700_VAN> van <C 101_SINT> zente <C 22_JOHANNES> ians <C 0_HUIS> hues <C 214_ZULLEN> zullen <C 250_HEBBEN> hebben <C 104_VOL> vullen 
+<L 994:28> <C 0_KOOP> coep <C 800_EN> en<A >de</A> <C 101_VOL> vulle <C 1_VERSTERFENIS> verstaruenesse <C 403+810_HET+ALS> alt <C 203_GEVALLEN> ivaelt. <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 203_GELDEN> ghelt <C 440_EEN> een 
+<L 994:29> <C 20_JOHANNES> hannek<A >in</A> <C 471_DE> die <C 0_VOS> vos <q> f <C 22_KLAUWAARD> clawaerds. <C 411_DEZE> dese <C 0_WISSEL> wissel <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_TE> te <C 22_JOHANNES> ians <C 2_WAARD> waerds 
+<L 994:30> <C 470+700_HET+IN> int <C 0_HUIS> hues. <q> anno <q> domini <q> .m'ho. <q> cc'ho. <q> lxxx'hoiiij'ho <C 700_TE> te <C 24_HALFVASTEN> half+vastinen. <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 210_HEBBEN> heb 
+<L 994:31> <C 404_WIJ> wi <C 111_VOORZEID> vorseide <C 14_SCHEPEN> scepenen <C 273_ZEGELEN> gheseghelt <C 700_IN> in <C 4_KENNIS> kennessen <C 475_DE/HET> der <C 4_WAARHEID> wareden <q> -- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

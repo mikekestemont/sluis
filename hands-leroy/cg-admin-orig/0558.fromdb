@@ -1,0 +1,75 @@
+<header>
+<docId>0558</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 809:24> <C 471_DE> Die <C 1_KEUR> kore <C 700+474_VAN+DE/HET> vanden <C 14_ERF> Eruen. 
+<L 809:32> <C 404_WIJ> Wj; <C 20_FLORENTIUS> Florens <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> Holland <C 204_MAKEN> maken <C 100_KOND> cont <C 800_EN> ende <C 100_KENLIJK> kenleec <C 321_AL> alle <C 474_DE/HET> den 
+<L 809:33> <C 414_GENE> ghenen <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> hore[n] <C 810_DAT> [dat] <C 404_WIJ> [wi] <C 700_BIJ> bi <C 104_GEMEEN> ghemeenen 
+<L 809:34> <C 1_RAAD> rade <C 452_ONS> ons <C 2_RAAD> Raets, <C 455_ONS> onser <C 115_LIEF> lieuer, <C 14_SCHEPEN> Scepenen <C 800_EN> ende <C 11_RAADSMAN> Raetsmanne <C 700_VAN> van <C 20_DORDRECHT> Dordrecht 
+<L 809:35> <C 214_HEBBEN> hebben <C 273_MAKEN> ghemaect <C 411_ALDUSGEDAAN> aldusghedane <C 1_KEUR> k[ore] <C 701_OM> [omme] <C 471_DE> die <C 101_GEMEEN> ghemeene <C 1_OORBAAR> orebare, 
+<L 809:36> <C 1_RUST> ruste, <C 800_EN> ende <C 701_OM> omme <C 1_VREDE> vrede, <C 800_EN> ende <C 11_DING> dinghe <C 700_TE> te <C 251_VOORZIEN> voresiene <C 620*_DAAR-> daer <C 510_HIERNAMAALS> hier+namaels <C 0_TWIST> tuist 
+<L 809:37> <C 800_EN> ende <C 1_ZWAARHEID> suar[hede] <C 620#_-AF> [of] <C 250_KOMEN> comen <C 231_MOGEN> mochte, <C 501_EEUWELIJK> eweleke <C 100_VAST> vast <C 800_EN> ende <C 101_GESTADE> ghestade <C 700_TE> te 
+<L 809:38> <C 261_BLIJVEN> bliuene <C 800_EN> ende <C 700_ZONDER> sonder <C 101_ENIGERHANDE> enegherande <C 0_ARGLIST> arghelyst <C 700_TE> te <C 251_HOUDEN> houdene <C 704_BINNEN> binnen <C 475_DE/HET> der 
+<L 809:39> <C 105_VOORZEID> [vorseider] <C 1_STAD> stede <C 700_VAN> van <C 20_DORDRECHT> Dordrecht. <C 441_ZO-WIE> So+wie; <C 403_HET> het <C 210_ZIJN> si <C 1_POORTER> portre <C 800_OF> iof <C 0_GAST> gast. 
+<L 809:40> <C 101_ENIGERHANDE> enegherande,. <C 1_ERF> Erue, <C 1_HOFSTEDE> hofstede, <C 800_OF> jof <C 0_HUIS> huus <C 700_MET> met <C 474_DE/HET> den <C 104_ANDER> andren <C 101_GEMEEN> ghemee[ne] <q> [heuet] 
+<L 809:41> <C 800_EN> Ende <C 421_DIE> die <C 501_DAN> danne <C 470_HET> dat <C 101_MEEST> meeste <C 0_DEEL> deel <C 611_DAARAAN> daer+ane <C 203_HEBBEN> heuet, <C 411_DIE> die <C 210_MOGEN> mach <C 410_DAT> dat, <C 1_ERF> Erue, 
+<L 809:42> <C 1_HOFSTEDE> hofstede, <C 800_OF> iof <C 0_HUIS> huus, <C 501_GEHEELLIJK> gheheleke <C 470_HET> dat <C 101_MINST> minste <C 0_DEEL> deel, <C 700+474_MET+DE/HET> metten <C 104_MEEST> meest[en] 
+<L 809:43> <C 250_VERHUREN> verhuren <C 444_WIE> wien <C 810_DAT> dat <C 403_HIJ> hi <C 201_WILLEN> wille <C 820_ZO> so <C 403_HIJ> hi <C 500_BEST> best <C 800_EN> ende, <C 103_DUUR> dierst <C 200_MOGEN> mach. <C 800_EN> Ende <C 701_OM> omme 
+<L 809:44> <C 411_ZULK> sulke <C 1_HUUR> hure <C 820+403_ALS+HET> alst <C 250_GELDEN> ghelden <C 210_MOGEN> mach. <C 550_ZO> So <C 210_ZULLEN> sal <C 403_HIJ> hi <C 410_DAT> dat <C 411_ZELF> selue <C 250_HEBBEN> hebb[en] <C 800_EN> ende 
+<L 809:45> <C 250_BEHOUDEN> behouden <C 411_DIE> die <C 411_GENE> ghene <C 421+470_DIE+HET> diet <C 101_MEEST> meeste <C 0_DEEL> deel <C 610_DAARIN> daer+in <C 203_HEBBEN> heuet <C 200+403_ZIJN+HET> est <C 403+810_HET+DAT> dat <C 403_HIJ> hem <C 203_VOEGEN> voghet 
+<L 809:46> <C 800_EN> ende <C 403+403_HIJ+HET> hijt <C 250_BEHOUDEN> behouden <C 211_WILLEN> wille. <C 560_NE> Ne <C 211_WILLEN> wille <C 403_HIJ> hi <C 412_DIE> dies <C 500_OOK> oec <C 560_NIET> niet <C 250_BEHOUDEN> behouden; <C 411_DIE> die <C 411_GENE> ghene 
+<L 810:1> <C 421_DIE> die <C 470_HET> dat <C 101_MINST> minste <C 0_DEEL> deel <C 611_DAARAAN> daer+ane <C 203_HEBBEN> heuet, <C 411_DIE> die <C 210_MOGEN> mach <C 410_DAT> dat <C 411_ZELF> selue <C 501_GEHEELLIJK> gheheleke 
+<L 810:2> <C 250_BEHOUDEN> behouden <C 800_EN> ende <C 250_BEZITTEN> besitten, <C 701_OM> omme <C 471_DE> die <C 411_ZELF> selue <C 1_HUUR> hure <C 403+820_HET+DAT> dat <C 250_GELDEN> ghelden <C 210_MOGEN> mach. <C 231_ZIJN> Ware 
+<L 810:3> <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 471_DE> die <C 411_GENE> ghene <C 421+470_DIE+HET> diet <C 101_MEEST> meeste <C 0_DEEL> deel <C 611_DAARAAN> daer+ane <C 221_HEBBEN> hadde, <C 410_DAT> dat <C 1_ERF> Erue, <C 800_OF> iof <C 471_DE> die 
+<L 810:4> <C 1_HOFSTEDE> hofstede <q> [...] <C 291_HEBBEN> hadde, <C 411_DIE> die <C 231_ZULLEN> soude <C 470_HET> dat <C 101_MINST> minste <C 0_DEEL> deel <C 250_HEBBEN> hebben <C 700_IN> in 
+<L 810:5> <C 4_HUURWAAR> hurewaren <C 820+403_ALS+HET> alst <C 700_AAN> an <C 300_EEN> een <C 1_WEERZIJDE> wederside <C 414+700_DIE+VAN> vandien <C 1_ERF> Erue <C 221_GELDEN> goude, <C 0+501_VOET+GELIJK> voet+[voet+ghelike] 
+<L 810:6> <C 700+474_MET+DE/HET> [metten] <C 104_ANDER> andren, <C 1_ERF> Erue, <C 1_HOFSTEDE> hofstede. <C 800_OF> iof <C 0_HUIS> huus, <C 101_GEMEEN> ghemeene <C 203_HEBBEN> heuet, <C 440_ELKERLIJK> elkerlijc 
+<L 810:7> <C 504_EFFEN> effen <C 321_VEEL> vele. <C 800_EN> ende <C 492_ZZZ> dies <C 560_NIET> niet <C 274_OVEREENDRAGEN> ouer+een+ghedrag[hen] <q> [...] <C 700_TE> te 
+<L 810:8> <C 251_VERHUREN> verhurene <C 800_OF> iof <C 700_TE> te <C 251_BEZITTEN> besittene, <C 800_OF> iof <C 700_TE> te <C 251_BETIMMEREN> betymmerne. <C 440_ZO-WAT> So+wat; <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> 
+<L 810:9> <C 11_RAADSMAN> Raetsmanne <C 800_OF> iof <C 471_DE> die <C 101_MEER> meerre <C 1_PARTIJ> partye <C 700_VAN> van <C 406_ZIJ> hem <C 610_DAARAF> daer+[of] <C 204_ZEGGEN> [secghen,] <C 204_ZETTEN> setten, 
+<L 810:10> <C 800_EN> ende <C 204_ORDINEREN> ordineren <C 410_DAT> dat <C 210_ZULLEN> sal <C 700_AAN> an <C 304_BEIDE> beden <C 14_ZIJDE> siden <C 100_VAST> vast <C 260_BLIJVEN> bliuen <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade. <C 800+470_EN+HET> en<A >de</A>dat 
+<L 810:11> <C 0_ZEGGEN> secghen, <C 0_ZETTEN> setten <C 800_EN> en<A >de</A> <C 0_ORDINEREN> ordineren, <C 214_ZULLEN> sullen <C 406_ZIJ> si <C 250_EINDEN> henden, <C 800_EN> en<A >de</A> <C 250_VOORTBRENGEN> vor[tbrenghen] 
+<L 810:12> <C 704_BINNEN> binnen <C 474_DE/HET> den <C 114_NAAST> naesten <C 300_VEERTIEN> viertien <C 14_NACHT> nachten, <C 810_NADAT> na+dat <C 406+403_ZIJ+HET> sijs <C 273_VERMANEN> vermaent <C 234_WORDEN> worden, <C 700_VAN> van 
+<L 810:13> <C 474_DE/HET> den <C 304_EEN> enen <C 800_OF> iof <C 700_VAN> van <C 304_BEIDE> beeden <C 620*_DAAR-> daer <C 471_DE> die <C 1_ZAAK> sake <C 620#_-AF> of <C 203_ROEREN> roerd. <C 500_VOORT> Vort <C 210+403_ZIJN+HET> est <C 274_BESPREKEN> be[spro]ken; 
+<L 810:14> <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 441_IEMAND> hiemene <C 440_ENIG> enech <C 1_ERF> Erue, <C 800_OF> iof <C 1_HOFSTEDE> hofstede <C 273_BETIMMEREN> betymmert <C 231_HEBBEN> hadde, <C 800_OF> iof 
+<L 810:15> <C 1_HUIZING> husinghe <C 610_DAAROP> daer+op <C 101_STAAND> staende <C 221_HEBBEN> hadde, <C 800_EN> ende <C 451_ZIJN> sine <q> [hure] <C 501_UIT> vte <C 231_ZIJN> ware, <C 800_OF> iof <C 810_DAT> dat <C 403_HIJ> hi 
+<L 810:16> <C 481_GEEN> ghene <C 1_HUUR> hure <C 611_DAARAAN> daer+ane <C 250_BETOGEN> betoghen <C 231_MOGEN> mochte. <C 411_DIE> die <C 210_ZULLEN> sal <C 410_DAT> dat <C 500_VOORT> vort <C 250_BEZITTEN> besitten <C 800_EN> en<A >de</A> 
+<L 810:17> <C 250_BEHOUDEN> behouden <C 701_OM> omme <C 411_ZULK> sulke <C 1_HUUR> hure <C 403+820_HET+ALS> alst <C 203_GELDEN> gheldet <C 700_AAN> an <C 321_ELK> elke <C 1_ZIJDE> side <C 700+414_VAN+DIE> vandien <C 1_ERF> Erue <C 800_OF> iof 
+<L 810:18> <C 700_VAN> van <C 415_DIE> dier <C 0_HOFSTEDE> hofstat <C 0+501_VOET+GELIJK> voet+voet+ghelike. <C 800_OF> Jof <C 560_NE> ne <C 203+403_VOEGEN+HET> voghet <C 403_HIJ> hem <C 560_NIET> niet <C 505_LANG> langher <C 610_DAAROP> daer+op 
+<L 810:19> <C 700_TE> te <C 251_BEIDEN> bi[d]ene <VN type=1> <q> . <C 550_ZO> so <C 210_ZULLEN> s[a]l <C 411_DIE> die <C 411_GENE> ghene <C 422_DIE> dies <C 470_HET> dat <C 1_ERF> Erue <C 800_OF> iof <C 471_DE> die <C 1_HOFSTEDE> hofstede <C 210_ZIJN> es 
+<L 810:20> <C 470_HET> dat <C 0_HUIS> huus <C 800_OF> iof <C 471_DE> die <C 14_HUIZING> husinghen <C 421_DIE> die <C 610_DAAROP> daer+op <C 204_STAAN> staen, <C 700_AAN> an <C 403_HIJ> hem <C 250_LOSSEN> lossen <C 800_EN> en<A >de</A> <C 250_KOPEN> copen 
+<L 810:21> <C 701_OM> omme <C 411_ALZULK> [al+sulke] <C 1_EFFENING> [effe]ninghe, <C 821_ALS> alse, <C 14_SCHEPEN> scepenen <C 800_EN> ende <C 11_RAADSMAN> Raetsmanne, <C 800_OF> iof <C 471_DE> die 
+<L 810:22> <C 101_MEER> meere <C 1_PARTIJ> partye <C 700_VAN> van <C 406_ZIJ> hem; <C 204_SCHIEREN> scieren <C 800_EN> ende <C 204_ZEGGEN> secghen <C 810_DAT> dat <C 100_GOED> goet <C 210_ZIJN> si. <C 800_EN> En[de] <C 470_HET> [dat] 
+<L 810:23> <C 0_ZEGGEN> [secghen] <C 800_EN> [ende] <C 0_SCHIEREN> scieren, <C 214_ZULLEN> sullen <C 406_ZIJ> si <C 250_VOORTBRENGEN> vortbrenghen <C 800_EN> ende <C 250_EINDEN> henden, <C 704_BINNEN> binnen <C 474_DE/HET> den 
+<L 810:24> <C 114_NAAST> naesten <C 300_VEERTIEN> viertien <C 14_NACHT> nachten <C 810_NADAT> na+dat <C 406_ZIJ> si <C 412_DIE> dies <C 273_VERMANEN> vermaent <VN type=1> <C 800_EN> en<A >de</A> <q> [...] 
+<L 810:25> <q> [...] <C 800_OF> iof <C 700_VAN> van <C 304_BEIDE> beden <C 620*_DAAR-> daer <C 471_DE> die <C 1_ZAAK> sake <C 620#_-AF> of <C 203_ROEREN> roerd. <C 800_EN> en<A >de</A> <C 403+200_HET+ZIJN> est <C 810_DAT> dat <C 474_DE/HET> den <C 414_GENE> ghenen <C 422_DIE> dies 
+<L 810:26> <C 470_HET> dat <C 1_ERF> Erue <C 800_OF> iof <C 471_DE> die <C 1_HOFSTEDE> hofstede <C 210_ZIJN> es, <C 475_DE/HET> der <C 14_HUIZING> husinghen <q> [...] <C 800_NOCH> noch <C 560_NE> ne <C 291_WILLEN> wille, 
+<L 810:27> <C 550_ZO> so <C 210_MOGEN> mach <C 471_DE> die <C 411_GENE> ghene <C 422_DIE> dies <C 471_DE> die <C 14_HUIZING> husinghen <C 214_ZIJN> sijn <C 411_DIE> die <C 250_VERKOPEN> vercopen, <C 444_WIE> wien <C 810_DAT> dat <C 403_HIJ> hi <C 201_WILLEN> wille 
+<L 810:28> <C 820_ZO> so <C 403_HIJ> hi <C 500_BEST> best <C 200_MOGEN> mach, <C 700+475_IN+DE> inder <C 415_ZELF> selu[er] <C 105_VOORZEID> [vorsei]der <C 4_HUUR> huren. <C 500_VOORT> Vort <C 441_ZO-WIE> so+wie <C 480_EEN> een <C 1_ERF> Erue 
+<L 810:29> <C 273_BETIMMEREN> betymmert <C 800_OF> iof <C 273_BEZITTEN> beseten <C 203_HEBBEN> heuet <C 700+485_TE+EEN> tere <C 105_EEUWELIJK> eweleker <C 4_HUUR> huren <C 800_OF> iof <C 700+484_TE+EEN> tenen <C 104_BESPROKEN> besprokenen 
+<L 810:30> <C 1_TERMIJN> tarmine <C 800_EN> ende <q> [vore] <C 414_DIE> dien <C 1_TERMIJN> tarmine <C 203_STERVEN> steruet. <C 800_EN> ende <C 451_ZIJN> sine <C 14_ERFNAAM> Erfnamen, <C 412_DIE> dies <C 560_NIET> niet 
+<L 810:31> <C 560_NE> ne <C 204_VERMOGEN> vermoghen, <C 700_VAN> van <C 1_NOOD> noede, <C 800_OF> iof <C 700_VAN> van <C 4_ARMOEDE> aremoeden <C 700_TE> te <C 251_BEZITTEN> besittene <C 411_ZELF> selue. <q> [so] 
+<L 810:32> <C 214_MOGEN> [moghen] <C 406_ZIJ> [si] <C 470_HET> dat <C 0_HUIS> huus <C 800_OF> iof <C 420_WAT> wat <C 406_ZIJ> si <C 610_DAAROP> daer+op <C 101_STAAND> staende <C 204_HEBBEN> hebben, <C 250_VERHUREN> verhuren <C 800_EN> en<A >de</A> 
+<L 810:33> <C 250_VERKOPEN> vercopen, <C 800_EN> en<A >de</A> <C 470_HET> dat <C 1_ERF> Erue <C 250_VERHUREN> verhuren <C 700+475_IN+DE> inder <C 415_ZELF> seluer <C 105_VOORZEID> vorseider <C 4_HUUR> huren <C 800_EN> en<A >de</A> 
+<L 810:34> <q> [tote] <C 474_DE/HET> den <C 101_VOORSPROKEN> vorsprokene <C 1_TERMIJN> tarmine, <C 444_ZO-WIE> so+wien <C 810_DAT> dat <C 406_ZIJ> si <C 204_WILLEN> willen, <C 800_ZONDER> sonder <C 472_DE/HET> des 
+<L 810:35> <C 412_GENE> gheens <C 114_OPENBAAR> openbaren <C 14_VIJAND> vianden <C 422_DIE> dies <C 470_HET> dat <C 1_ERF> Erue <C 210_ZIJN> es, <C 800_EN> en<A >de</A> <C 520_DAAR> daer <C 403_HIJ> hi <C 100_ZEKER> seker <C 210_ZIJN> si <C 700_VAN> van 
+<L 810:36> <C 455_ZIJN> siere <C 105_JAARLIJK> jaerleker <C 4_HUUR> huren. <C 810_OMDAT> Omme+dat <C 411_DEZE> dese <C 1_KEUR> kore <C 501_EEUWELIJK> eweleke <C 100_VAST> [vast] <C 211_BLIJVEN> bliue <C 800_EN> ende 
+<L 810:37> <C 101_GESTADE> ghestade, <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele. <C 800_EN> en<A >de</A> <C 471_DE> die <C 1_STAD> stede <C 700_VAN> van 
+<L 810:38> <C 20_DORDRECHT> d[or]drecht <C 700_MET> met <C 454_HAAR> haren <C 1_ZEGEL> seghele <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> beseghelt. <C 421_DIE> Die <C 230_ZIJN> was 
+<L 810:39> <C 274_GEVEN> ghegheuen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons. <C 4_HEER> heren <C 300_1284> .m'ho.cc'ho.+viere+en<A >de</A>+tachtich. <C 475_DE/HET> der <C 105_HEILIG> heilegher 
+<L 810:40> <C 4_KRUIS> cru[cen] <C 1_DAG> [daghe.] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='29' plaats_2='' regio_1='2' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

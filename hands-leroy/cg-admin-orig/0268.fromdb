@@ -1,0 +1,43 @@
+<header>
+<docId>0268</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='87' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 443:9> <C 700_VAN> van <C 475_DE/HET> der 
+<L 443:10> <q> mers <C 700_IN> jn <C 471_DE> de <q> hasselt. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<datering  jaar_tot='1279' jaar_van='1279' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 443:15> <C 401_IK> Jc <C 21_WOUTER> Woutre <C 1_BURGGRAAF> borchgraue <C 700_VAN> van <C 21_KORTRIJK> corterike <C 1_RIDDER> Riddere <C 1_HEER> Here <C 700_VAN> van <C 21_NEVELE> Neuele <C 200_DOEN> doe <C 700_TE> te 
+<L 443:16> <C 251_WETEN> wetene <C 406_ZIJ> hem <C 324_AL> allen <C 421_DIE> die <C 414_DEZE> desen <C 1_CHARTER> chartre <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_EN> ende <C 250_HOREN> horen <C 810_DAT> dat <C 401_IK> ic <C 211_HEBBEN> hebbe 
+<L 443:17> <C 203_GEDOGEN> ghedoget <C 700_BIJ> bi <C 454_MIJN> minen <C 104_GOED> goeden <C 1_WIL> wille <C 810_DAT> dat <C 480_EEN> een <C 0_LEEKMAN> leec+man <C 213_HEBBEN> heuet <C 274_ONTVANGEN> ontfaen <C 700+475_TE+DE> ter 
+<L 443:18> <C 115_ZIEK> sieker <C 11_LIEDEN> liede <C 0_BEHOEF> behouf <C 700_VAN> van <C 474_DE/HET> den <C 1_GASTHUIS> gasthuse. <C 700_VAN> van <C 20_GENT> ghent <C 480_EEN> een <C 300_HALF> half <C 1_BUNDER> bunre <C 1_MEERS> mersche 
+<L 443:19> <C 421_DIE> die <C 20_SIMON> symoen <C 1_ROOS> roese <C 271_HOUDEN> houdende <C 230_ZIJN> was <C 700_VAN> van <C 401_IK> mi <C 700_TE> te <C 1_CIJNS> cense <C 800_EN> en<A >de</A> <C 421_DIE> die <C 203_LIGGEN> leget <C 700_IN> in <C 471_DE> de 
+<L 443:20> <C 20_HASSELT> hasselt <C 701_OM> ombe <C 309_EEN> .i. <C 9_DENARIUS> d. <C 800_EN> ende <C 309_EEN> .i. <VN type=1> <C 1_HOEN> hoenre <C 322+2_ELK+JAAR> elc+siars <C 700_TE> te <C 101_SINT> sente <C 1_BAAFSMIS> bamesse <C 700_TE> te 
+<L 443:21> <C 251_GELDEN> gheldene, <C 800_EN> en<A >de</A> <C 411_DIE> die <C 210+440_ZIJN+MEN> esmen <C 100_SCHULDIG> sculdech <C 700_TE> te <C 251_BRENGEN> bringhene <C 700_TE> te <C 454_MIJN> minen <C 1_RENTEBRIEF> rente+brieue, 
+<L 443:22> <C 800_EN> Ende <C 811_ALS> alse <C 411_DIE> die <C 101_VOORZEID> vorseide <C 0_MAN> man <C 274_VERSTERVEN> verstoruen <C 210_ZIJN> es <C 550_ZO> soe <C 440+210_MEN+ZIJN> esmen <C 411_DIE> die <C 101_VOORZEID> vorseide <C 0_MEERS> mersch 
+<L 443:23> <C 100_SCHULDIG> sculdech <C 700_TE> te <C 251_VERZOEKEN> versoukene <C 700_AAN> an <C 401_IK> mi <C 701_OM> ombe <C 104_TWEEVOUDIG> tuevoudeghen <C 0_CIJNS> cens. <C 800_EN> Ende <C 510_ZO> soe 
+<L 443:24> <C 210+403_MOETEN+ZIJ> moetse <C 505_IMMER> ember <C 480_EEN> een <C 100_ANDER> ander <C 0_LEEKMAN> leec+man <C 250_ONTVANGEN> ontfaen <C 421_DIE> die <C 440_NEGEEN> neghen <C 1_POORTER> poertre <C 560_NE> en <C 210_ZIJN> es 
+<L 443:25> <C 800_EN> en<A >de</A> <C 100_ONGEKRUISD> onghecruset <C 501_EEUWELIJK> eweleke <C 701_OM> ombe <C 414_DIE> dien <C 104_VOORZEID> vorseiden <C 0_CIJNS> cens. <C 2+472_JAAR+HET> siars <C 800_EN> ende <C 475+700_DE+TE> ter 
+<L 443:26> <C 0_DOOD> doet. <C 800_EN> Ende <C 810_OMDAT> ombe+dat <C 401_IK> ic <C 201_WILLEN> wille <C 810_DAT> dat <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 0_DING> dinc <C 210_ZIJN> si <C 274_HOUDEN> ghehouden <C 101_VAST> vaste 
+<L 443:27> <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 501_ERFELIJK> erueleke <C 550_ZO> soe <C 401+210+403_IK+HEBBEN+HET> hebbics <C 414_DIE> dien <C 114_VOORZEID> vorseiden <C 114_ZIEK> sieken <C 14_LIEDEN> lieden 
+<L 443:28> <C 274_GEVEN> ghegeuen <C 451_MIJN> mine <C 111_UITHANGEND> ute+hanghende <C 14_LETTER> lettren <C 421_DIE> die <C 273_ZEGELEN> ghesegelt <C 214_ZIJN> sin <C 700_MET> met <C 454_MIJN> minen 
+<L 443:29> <C 1_ZEGEL> seghele. <C 411_DEZE> Dese <C 14_LETTER> lettren <C 234_ZIJN> waren <C 274_GEVEN> ghegeuen <C 700+470_IN+HET> int <C 0_JAAR> iaer <C 474+700_DE/HET+VAN> vanden <C 1_INCARNATIOEN> incarnatione <C 452_ONS> ons 
+<L 443:30> <C 4_HEER> heren <C 309_1279> .m.cc.lxxix. <C 2+472_VRIJDAG+DE> svrindachs <C 700_NA> na <C 101_SINT> sente <C 22_LUCAS> lukes <C 0_DAG> dach. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.Q.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1279' jaar_van='1279' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='87' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

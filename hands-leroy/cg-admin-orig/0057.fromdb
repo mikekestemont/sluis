@@ -1,0 +1,30 @@
+<header>
+<docId>0057</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 115:11> <q> car 
+<L 115:12> <q> reddituum <C 700_IN> i<A >n</A>leffingh<A >e</A> <q> quos <q> emit <q> Jacob<A >us</A> <q> filius <q> pet<A >ri</A> <q> copia <q> facta <q> est.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 115:13> <q> Capell<A >ania</A> <q> quam <q> condam <q> obtinuit <q> dominus <C 29_NICOLAAS> Nich<A >olaus</A> 
+<L 115:14> <C 20_WIJNRIK-X> Wijnric.- <q> pro <q> capell<A >ania</A> <q> quam <q> obtinuit <q> dominus <q> .h. <q> warhe<A >m</A>.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<L 115:15> <q> modo <q> dominus <C 20_JOHANNES> Yoh<A >annes</A> <C 1_WAAIER> wayere. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

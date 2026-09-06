@@ -1,0 +1,147 @@
+<header>
+<docId>1930</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2878:8> <C 410_DIT> dit <C 200_ZIJN> es <C 700_VAN> van <C 475_DE/HET> der <C 1_LANGE> langhe <C 700_VAN> van <C 474_DE/HET> den <C 14_LAKEN> lakenen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<statushand  statushandkode='an'>
+
+<L 2878:15> <C 410_DIT> Dit <C 200_ZIJN> es <C 700+475_VAN+DE> vand<A >er</A> <C 0_GARENMARKT> garen+maerct 
+<L 2878:16> <q> [1] <C 440_ZO-WAT> So+wat <C 11_GAREN> gaerne <C 420_DAT> dat <C 440_MEN> men <C 221_VINDEN> vonde <C 100_VUIL> vul <C 700_VAN> van <C 1_SMOUT> smoute <C 800_OF> jof <C 700_VAN> van <C 445_ENIG> enegher 
+<L 2878:17> <C 1_KWAADHEID> quaetheide <C 410_DAT> dat <C 0_GAREN> garen <C 231_ZULLEN> soude <C 250_VERBEUREN> v<A >er</A>bueren <C 700_VAN> van <C 324_ELK> elken <C 1_POND> ponde <C 309_EEN> .i. <C 9_DENARIUS> 't3d <C 800_EN> en<A >de</A> <C 471_DE> die 
+<L 2878:18> <C 0_DEKEN> deke<A >n</A> <C 210+403_ZULLEN+HET> saelt <C 250_NEMEN> neme<A >n</A> <C 800_EN> en<A >de</A> <C 403+260_HET+DOEN> doent <C 250_DWAAN> duaen <C 700_OP> vp <C 472+412_DE+GENE> sguens <C 0_KOST> cost <C 422_DIE> dies <C 470+0_HET+GAREN> tgaren <C 231_ZIJN> ware, 
+<L 2878:19> <q> [2] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 700_IN> jn <C 471_DE> die <C 0_MARKT> marct <C 221_BRENGEN> brochte <C 800_EN> en<A >de</A> <C 221_VERKOPEN> v<A >er</A>cochte <C 830+403_NE+HET> he<A >n</A>ne <C 231_ZIJN> ware 
+<L 2878:20> <C 100_ZUIVER> zuu<A >er</A> <C 700_VAN> van <C 1_SMOUT> smoute <C 800_EN> en<A >de</A> <C 700_VAN> van <C 325_AL> alre <C 1_KWAADHEID> quaetheide <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 221_VERKOPEN> v<A >er</A>cochte <C 830+403_NE+HET> hen <C 231_ZIJN> ware 
+<L 2878:21> <C 273_JUGEREN> gheiugierd <C 700_BIJ> bi <C 12_VINDER> vind<A >er</A>s <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 502_ALLEENS> al+eens <C 474+700_DE/HET+BINNEN> binden <C 14_BAND> banden <C 403_HIJ> hie <C 221_VERBEUREN> v<A >er</A>buerdede <VN type=1> 
+<L 2878:22> <C 700_VAN> van <C 324_ELK> elken <C 1_POND> ponde <C 304_EEN> enen <C 0_HALLING> hallinc 
+<L 2878:23> <q> [3] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 203_BRENGEN> bringhet <C 700_IN> jn <C 471_DE> die <C 0_MARKT> marct <C 700_ACHTER> acht<A >er</A> <C 471_DE> die <C 1_WAARDEUR> waerdure <C 403_HIJ> hie 
+<L 2878:24> <C 221_VERBEUREN> v<A >er</A>buerde <C 309_6> .vi. <C 19_DENARIUS> 't3d <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 0_MARKTDAG> marcdach 
+<L 2878:25> <q> [4] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 203_KOPEN> coept <C 810_ACHTER-DIEN-DAT> acht<A >er</A>+dien+dat <C 0_OORLOF> orlof <C 210_ZIJN> es <C 274_GEVEN> ghegheue<A >n</A> <C 700_IN> jn <C 471_DE> die 
+<L 2878:26> <C 101_VRIJ> vrie <C 0_MARKT> marct <C 810_DAT> dat <C 403_HIJ> hie <C 100_ONGECALANGEERD> onghecalengierd <C 210_ZIJN> si <C 700_VAN> van <C 0_DEKEN> deke<A >n</A> <C 800_EN> en<A >de</A> <C 700_VAN> van <C 12_VINDER> vind<A >er</A>s <C 840_ALS> als 
+<L 2878:27> <C 700_VAN> van <C 414_DIE> die<A >n</A> <C 1_GAREN> gaerne <C 420_DAT> dat <C 403_HIJ> hie <C 510_DAAR> daer <C 203_KOPEN> coept 
+<L 2878:28> <q> 't% <q> [5] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 221_KOPEN> cochte <C 800_OF> jof <C 221_VERKOPEN> v<A >er</A>cochte <C 475+700_DE+BUITEN> but<A >er</A> <C 0_MARKT> maerct <C 800_OF> jof <C 221_DINGEN> dinghede 
+<L 2878:29> <C 403_HIJ> hie <C 231_ZULLEN> soude <C 250_VERBEUREN> v<A >er</A>bueren <C 309_20> xx. <C 19_SOLIDUS> 't3s <C 540_WAAR> waer <C 403+440+810_HET+MEN+DAT> datment <C 221_VINDEN> vonde <C 800*_BEIDE> bede <C 471_DE> die <C 11_KOPER> cop<A >er</A>e <C 800#_EN> en<A >de</A> <C 471_DE> die 
+<L 2878:30> <C 11_VERKOPER> v<A >er</A>copere <C 510_ALZO> also <C 321_VEEL> vele <C 810_OF> jof <C 403_HIJ> hie <C 560_NE> ne <C 210_DORREN> dar <C 463_HEM> hem <C 610_HIERAF> hier+of <C 250_VERKLAARZEN> v<A >er</A>claersen <C 700_BIJ> bi <C 454_ZIJN> sinen <C 1_EED> ede 
+<L 2878:31> <C 810_DAT> dat <C 403_HIJ> hie <C 700+475_VAN+DE> vand<A >er</A> <C 1_KEUR> cuere <C 560_NIET> niet <C 560_NE> ne <C 221_WETEN> wiste <C 800_EN> en<A >de</A> <C 610_HIERBIJ> hierbi <C 214_ZIJN> sijn <C 471_DE> die <C 14_JAARMARKT> jaermaercte<A >n</A> 
+<L 2878:32> <C 101_KWIJT> q<A >ui</A>te <C 700+474_VAN+DE/HET> vanden <C 1_BEZOEK> besoeke <C 475+700_DE+VAN> vand<A >er</A> <C 0_GARENMARKT> garemaerct, <q> [6] <C 800_EN> En<A >de</A> <C 320_AL> al <C 0_WARP> waerp <C 800_EN> en<A >de</A> <C 320_AL> al 
+<L 2878:33> <C 0_WEVEL> weuel <C 440+210_MEN+ZULLEN> salmen <C 250_LEVEREN> leueren <C 475+700_DE+BIJ> bider <C 1_STAD> stede <C 1_GEWICHT> ghewichte <C 403+421_HET+DIE> diet <C 203_BEGEREN> begaerd 
+<L 2878:34> <q> [7] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 203_KOPEN> coept <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>coept <C 810_DAT> dat <C 403_HIJ> hie <C 210_MOETEN> moet <C 250_STAAN> staen <C 700+485_TE+EEN> tere 
+<L 2878:35> <C 105_ZONDERLING> sond<A >er</A>langher <C 1_STAD> stede <C 700_VAN> van <C 20_RUTGER> roegier <C 22_REINBOUD> reinbouds <C 1_STEENTJE> steenkine <C 420_DAT> dat <C 203_STAAN> staet <C 700_OP> vp <C 101_SINT> sinte 
+<L 2878:36> <C 0+22_KERKHOF+SALVADOR> saluatorskerchof <C 475+700_DE+TOT> tot<A >er</A> <C 1_STEGEL> steghele <C 520_DAAR> daer <C 20_JOHANNES> jan <C 20_BAROUD-X> baroud <C 471_DE> de <C 1_SCHEPPER> scepp<A >er</A>e <C 221_WONEN> woende <C 700_MET> met 
+<L 2878:37> <C 454_ZIJN> sinen <C 1_VERKOPEN> v<A >er</A>copene, <q> [8] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 221_KOMEN> came <C 700_IN> jn <C 471_DE> die <C 101_ANDER> and<A >er</A>e <C 0_GARENMARKT> garen+maerct <C 800_OF> jof 
+<L 2878:38> <C 221_ZENDEN> sende <C 700_MET> met <C 454_ZIJN> sine<A >n</A> <C 1_GAREN> gaerne <C 500_VOORT> vord <C 700_TE> te <C 251_VERKOPEN> v<A >er</A>copene <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 231_WORDEN> worde <C 274_VERWINNEN> v<A >er</A>wonnen 
+<L 2878:39> <C 700+475_BIJ+DE> bider <C 105_GOED> goed<A >er</A> <C 1_WAARHEID> warede <C 800_OF> jof <C 700_BIJ> bi <C 4_KENNIS> kennesse<A >n</A> <C 700_VAN> van <C 12_VINDER> vind<A >er</A>s <C 403_HIJ> hie <C 210_ZULLEN> sal <C 250_VERBEUREN> v<A >er</A>bueren <C 309_5> v. 
+<L 2878:40> <C 19_SOLIDUS> 't3s, 
+<L 2878:41> <q> 't% <q> [9] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 203_KOPEN> coept <C 474+700_DE/HET+BINNEN> binden <C 1_SCHEPENDOM> scependoeme <C 700_VAN> van <C 21_BRUGGE> brucghe, <C 800_EN> en<A >de</A> 
+<L 2878:42> <C 203_VERKOPEN> v<A >er</A>coept <C 700_IN> jn <C 471_DE> die <C 0_MARKT> marct, <C 470_HET> dat <C 0_GAREN> garen <C 210_MOETEN> moet <C 403_HIJ> hie <C 250_BETALEN> betalen <C 810_EER> eer <C 403+403_HET+HIJ> hiet <C 500_VOORT> vord <C 203_VERKOPEN> v<A >er</A>coept 
+<L 2878:43> <C 810_EER> eer <C 471_DE> die <C 0_MARKT> marct <C 220_SCHEIDEN> sceed <C 474+700_DE/HET+VAN> vande<A >n</A> <C 1_GAREN> gaerne <C 421_DIE> die <C 610_HIERJEGEN> hier+jeghen <C 221_DOEN> dade <C 221_VERBEUREN> v<A >er</A>buerde <C 309_TIEN> .x. 
+<L 2878:44> <C 19_SOLIDUS> 't3s 
+<L 2878:45> <q> [10] <C 403_HET> het <C 203_GEOORLOVEN> gheorlouet <C 500_WEL> wel <C 320_AL> al <C 0_GAREN> garen <C 800_EN> en<A >de</A> <C 0_WARP> waerp <C 700_TE> te <C 251_HOUDEN> houdene <C 700_TE> te <C 1_KOOP> cope <C 475+700_DE+VAN> vand<A >er</A> 
+<L 2879:1> <C 1_SCHOOL> scole <C 101_SINT> sinte <C 22_SALVADOR> saluators <C 475+700_DE+TOT> tot<A >er</A> <C 1_STEGEL> steghele <C 472+2_DE+PAARDENKOPER> spardecop<A >er</A>s <C 474+700_DE/HET+VAN> vande<A >n</A> <C 1_WESTEIND> westende <C 700_VAN> van 
+<L 2879:2> <C 475_DE/HET> d<A >er</A> <C 1_KERK> kerke <C 474+700_DE+TOT> toten <C 1_OOSTEIND> oestende <C 800_EN> en<A >de</A> <C 610_HIERBIJ> hierbi <C 210_MOGEN> mach <C 320_ELK> elc <C 0_GAREN> garen <C 250_STAAN> staen <C 700_BIJ> bi <C 406_ZIJ> hem <C 520_DAAR> daer 
+<L 2879:3> <C 406_ZIJ> sie <C 204_WILLEN> willen <C 700_TE> te <C 1_KOOP> cope <C 421+403_DIE+HET> diet <C 204_BRENGEN> bringhen <C 800_ZONDER> sond<A >er</A> <C 471_DE> die <C 12_VERKOPER> v<A >er</A>copers <C 214_ZULLEN> sulle<A >n</A> <C 250_STAAN> staen <C 403+820_HET+ALZO> alsoet 
+<L 2879:4> <C 510_HIER> hier <C 273_VOORZEGGEN> vorseit <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 610_HIERBIJ> hierbi <C 210_ZULLEN> sal <C 471_DE> die <C 0_DEKEN> deken <C 800_EN> en<A >de</A> <C 451_ZIJN> sine <C 12_VINDER> vind<A >er</A>s <C 0+470_GAREN+HET> tgaren <C 250_BEZIEN> besien 
+<L 2879:5> <C 540_ZO-WAAR> sowaer <C 810+403_DAT+HET> dat <C 203_STAAN> staet <C 700+414_BINNEN+DEZE> bindesen <C 114_VOORZEID> vors<A >eiden</A> <C 14_STAD> steden 
+<L 2879:6> <q> 't% <q> [11] <C 403_HET> het <C 560_NE> ne <C 203_GEOORLOVEN> gheorlouet <C 445_GEEN> ghere <C 1_SPINNEGGE> spinnicghe <C 325_MEER> meer <C 820_DAN> dan <C 302_EEN> eens <C 4_MENS> menschen 
+<L 2879:7> <C 1_WOL> wulle <C 700_IN> jn <C 451_HAAR> hare <C 0_HUIS> huus <C 700_TE> te <C 251_HEBBEN> hebbene <C 800_NO> no <C 0_GAREN> garen, <C 421+600_DIE+ERJEGEN> diere+jeghen <C 221_DOEN> dade <C 221_VERBEUREN> v<A >er</A>buerde 
+<L 2879:8> <C 454_HAAR> haren <C 0_LOON> loen. 
+<L 2879:9> <q> 't% <q> [12] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 0_GAREN> garen <C 221_BRENGEN> brochte <C 700+475_TE+DE> t<A >er</A> <C 0_MARKT> marct <C 420_DAT> dat <C 501_KWALIJK> qualike <C 274_SPINNEN> ghesponnen <C 231_ZIJN> ware 
+<L 2879:10> <C 221_VERBEUREN> v<A >er</A>buerde <C 700_VAN> van <C 324_ELK> elken <C 304_HALF> alue<A >n</A> <C 309_EEN> .i. <C 9_DENARIUS> 't3d <q> [13] <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 414_DIE> dien <C 1_POORTER> port<A >er</A>e <C 203_BEKOMEN> becoemt <C 610_DAARAAN> daer+an 
+<L 2879:11> <C 203_HEBBEN> heuet <C 471_DE> die <C 0_DEKEN> deken <C 441_NEGEEN> ne+ghene <C 1_BOETE> boete,, <q> [14] <C 800_EN> Ende <C 540_ZO-WAAR> so+waer <C 810_DAT> dat <C 12_VINDER> vinders 
+<L 2879:12> <C 0_VALS> valsch <C 204_VINDEN> vinden <C 700_IN> jn <C 1_GAREN> gaerne <C 810_DAT> dat <C 471_DE> die <C 411_GENE> guene <C 600*+421_ER-+DIE> diere <C 470+1_HET+VALS> tvalsche <C 600#_-IN> jn <C 213_HEBBEN> heuet <C 274_DOEN> ghedaen 
+<L 2879:13> <C 210_ZULLEN> sal <C 250_VERBEUREN> v<A >er</A>bueren <C 470_HET> dat <C 0_GAREN> garen <C 800_OF> jof <C 471_DE> die <C 1_WAARDE> waerde, <q> [15] <C 800_EN> En<A >de</A> <C 441_ZO-WIE> so+wie <C 421_DIE> die <C 0_GAREN> garen 
+<L 2879:14> <C 203_BRENGEN> bringhet <C 475+700_DE+TE> t<A >er</A> <C 0_MARKT> maerct <C 420_DAT> dat <C 273_ZINGEN> ghesinghet <C 210_ZIJN> es <C 210+410_ZIJN+DAT> dats <C 273_VERBEUREN> v<A >er</A>buerd 
+<L 2879:15> <q> 't% <q> [16] <C 500_ITEM> Jte<A >m</A> <C 441_ZO-WIE> so+wie <C 421_DIE> die <C 203_DOEN> doet <C 11_KAMMELING> ca<A >m</A>melinghe <C 700_IN> jn <C 1_STRIJPELGAREN> stripelgaerne <C 403+830_HET+NE> henne <C 221_ZIJN> ware 
+<L 2879:16> <C 501_ZONDERLING> sond<A >er</A>langhe <C 403_HIJ> hie <C 221_VERBEUREN> v<A >er</A>buerde <C 700_VAN> van <C 324_ELK> elken <C 1_POND> ponde <C 309_3> .iij. <C 19_DENARIUS> 't3d <q> [17] <C 800_EN> En<A >de</A> <C 441_ZO-WIE> so+wie <C 421_DIE> die 
+<L 2879:17> <C 0_GAREN> garen <C 203_VERKOPEN> v<A >er</A>coept <C 700_OVER> ou<A >er</A> <C 502_ANDERS> anders <C 820+403_DAN+HET> dant <C 200_ZIJN> es, <C 200+410_ZIJN+DAT> dats <C 700+251_TE+WETEN> tewetene <C 100_IERS> hiersch <C 700_OVER> ou<A >er</A> <C 100_SCHOTS> scotsch 
+<L 2879:18> <C 800_OF> jof <C 700_OVER> ou<A >er</A> <C 100_ENGELS> jnghelsch <C 403+421_HET+DIE> diet <C 221_DOEN> dade <C 440_MEN> men <C 231_ZULLEN> soude <C 450_ZIJN> sijn <C 0_GAREN> garen <C 250_BLEKKEN> blecken 
+<L 2879:19> <q> 't% <q> [18] <C 403_HET> het <C 560_NE> ne <C 203_GEOORLOVEN> gheorlouet <C 441_NIEMAND> niemene <C 810_DAT> dat <C 403_HIJ> hie <C 1_WOL> wulle <C 201_VERKOPEN> v<A >er</A>cope <C 700_VOOR> vor <C 470+0_HET+WOLHUIS> twulhuus 
+<L 2879:20> <C 320_MIN> min <C 820_DAN> dan <C 309_EEN> .i. <C 0_ZESTENDEEL> seste<A >n</A>deel <C 800_NO> no <C 700_OP> vp <C 471_DE> die <C 1_STRAAT> strate <C 800_EN> en<A >de</A> <C 470_HET> dat <C 101_ENERHANDE> erehande <C 1_WOL> wulle <C 403+830_HET+NE> henne 
+<L 2879:21> <C 221_ZIJN> ware <C 700_IN> jn <C 4_VLIES> vliesen <C 800_OF> jof <C 700_IN> jn <C 4_VACHT> vachten <C 421+406_DIE+ZIJ> diere <C 320_MIN> min <C 221_KOPEN> cochte <C 800_OF> jof <C 221_VERKOPEN> v<A >er</A>cochte <C 540_ZO-WAAR> sowaer <C 810_DAT> dat 
+<L 2879:22> <C 221_ZIJN> ware <C 800_EN> en<A >de</A> <VN type=1> <C 231_MOGEN> mochte <VN type=1> <C 250_GEPROEVEN> gheproeven <C 700_MET> met <C 105_SUFFICIENT> soufficiant<A >er</A> <C 1_PROEF> proeve <C 470+0_HET+GOED> tgoed <C 231_ZIJN> ware 
+<L 2879:23> <C 273_VERBEUREN> v<A >er</A>buerd 
+<L 2879:24> <q> 't% <q> [19] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 1_WOL> wulle <C 203_TAPPEN> tapt <C 810_DAT> dat <C 471_DE> die <C 0_DEKEN> deken <C 210_MOGEN> mach <C 250_HEBBEN> hebben <C 454_ZIJN> sine<A >n</A> <C 0_EED> eed <C 430_WAT> wat 
+<L 2879:25> <C 11_GOED> goede <C 403_HIJ> hie <C 203_VERKOPEN> v<A >er</A>coept <C 200+410_ZIJN+DAT> dats <C 700_TE> te <C 251_WETEN> wetene <C 701_OM> o<A >m</A>me <C 470+0_HET+KOOPGAREN> tcoepgaren <C 420+440_DAT+MEN> datme<A >n</A> <C 700+475_TE+DE> ter <C 0_MARKT> maerct 
+<L 2879:26> <C 203_BRENGEN> bringhet 
+<L 2879:27> <q> 't% <q> [20] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 101_SPAANS> spaensche <C 1_WOL> wulle <C 203_TAPPEN> tapt <C 800_OF> jof <C 1_HOEDENWOL> hoede+wulle, <C 560+403_NE+HIJ> hiene <C 210_MOETEN> moet <C 100_EL> el 
+<L 2879:28> <C 441_NEGEEN> neghene <C 1_WOL> wulle <C 250_TAPPEN> tappen, <C 421+600_DIE+ERJEGEN> diere+jeghen <C 221_DOEN> dade <C 221_VERBEUREN> v<A >er</A>buerde <C 309_TIEN> .x. <C 19_LIBRA> 't3l't3b <C 231_WORDEN> worde <C 403+403_HIJ+HET> hies 
+<L 2879:29> <C 274_VERWINNEN> v<A >er</A>wonne<A >n</A> <C 700_BIJ> bi <C 4_KENNIS> kennesse<A >n</A> <C 700_VAN> van <C 12_VINDER> vinders 
+<L 2879:30> <q> 't% <q> [21] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 101_GEVERFD> ghevaerwede <C 1_WOL> wulle <C 800_OF> jof <C 100_GEVERFD> ghevaerwet <C 0_GAREN> garen <C 221_BRENGEN> brochte <C 475+700_DE+TE> ter 
+<L 2879:31> <C 0_MARKT> marct <C 700_TE> te <C 1_KOOP> cope, <C 471_DE> die <C 0_DEKEN> deken <C 210+403_MOGEN+HET> maghet <C 250_NEMEN> nemen <C 540_ZO-WAAR> sowaer <C 810_DAT> dat <C 403+403_HET+HIJ> hiet <C 221_VINDEN> vonde <C 403_HET> het 
+<L 2879:32> <C 231+830_ZIJN+NE> neware <C 273_GREINEN> ghegreint 
+<L 2879:33> <q> 't% <q> [22] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 1_WATERWOL> wat<A >er</A>wulle <C 800_OF> jof <C 101_SPAANS> spaensche <C 1_WOL> wulle <C 221_MENGEN> minghede <C 700_MET> met <C 101_ANDER> andre 
+<L 2879:34> <C 1_WOL> wulle <C 800_OF> jof <C 1_HOEDENWOL> hoedewulle, <C 800_OF> jof <C 100_SPAANS> spaensch <C 0_GAREN> garen <C 700_MET> met <C 104_ANDER> andre<A >n</A> <C 1_GAREN> gaerne <C 800_OF> jof <C 14_VLOK> vlocken 
+<L 2879:35> <C 700_MET> met <C 14_WOL> wullen <C 421_DIE> die <C 221_VERBEUREN> verbuerde <C 0+470_GOED+HET> tgoed <C 800_EN> en<A >de</A> <C 440_MEN> men <C 220+403_ZULLEN+HIJ> soudene <C 250_BANNEN> bannen <C 309_3> .iij. <C 10_JAAR> jaer <C 474+700_DE/HET+UIT> vten 
+<L 2879:36> <C 1_LAND> lande <C 700_VAN> van <C 24_VLAANDEREN> vlaendr<A >en</A> 
+<L 2879:37> <q> 't% <q> [23] <C 441_ZO-WIE> So+wie <C 421_DIE> die <C 1_WOL> wulle <C 800_OF> jof <C 0_GAREN> garen <C 700+2_TE+WEDDE> teweds <C 221_LEGGEN> leide <C 800_OF> jof <C 221_ONTVOEREN> ontfoerde <C 800_OF> jof <C 0_GELD> gheld 
+<L 2879:38> <C 610_DAAROP> d<A >er</A>+vp <C 221_LENEN> leende <C 800_OF> jof <C 700+2_TE+WEDDE> teweds <C 221_NEMEN> name <C 800_OF> jof <C 221_ONTHOUDEN> onthilde, <C 440_MEN> men <C 403+230_HIJ+ZULLEN> soudene <C 250_BANNEN> banne<A >n</A> <C 300_EEN> een <VN type=1> 
+<L 2879:39> <C 0_JAAR> jaer <C 700+474_UIT+DE/HET> vten <C 1_LAND> lande <C 700_VAN> van <C 24_VLAANDEREN> vlaendr<A >en</A> <C 800_EN> en<A >de</A> <C 610_HIERBIJ> hierbi <C 210_ZULLEN> sal <C 320_ELK> elc <C 1_MENS> mensche <C 450_ZIJN> sijn <C 0_GOED> goed 
+<L 2879:40> <C 260_MOGEN> moghen <C 250_HALEN> halen <C 700_BIJ> bi <C 454_ZIJN> sinen <C 1_EED> ede 
+<L 2879:41> <q> 't% <q> [24] <C 230_ZIJN> Waer <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 440_IEMAND> jemen <C 221_KOPEN> cochte <C 0_GAREN> garen <C 500_WESTWAART> westwaerd <C 700+474_BUITEN+DE/HET> buten <C 14_STAAK> staken 
+<L 2879:42> <C 500+421_ER+DIE> diere <C 274_SLAAN> ghesleghen <C 214_ZIJN> sijn, <C 221_VERBEUREN> v<A >er</A>buerde <C 309_12> .xij. <C 19_DENARIUS> 't3d <q> [25] <C 800_EN> En<A >de</A> <C 441_ZO-WIE> so+wie <C 421_DIE> die <C 0_GAREN> garen <C 221_LEGGEN> leide 
+<L 2879:43> <C 700_IN> jn <C 471_DE> die <C 1_KERK> kerke <C 800_OF> jof <C 1_BODE> bode <C 221_ZETTEN> sette <C 471+700_DE+IN> jnde <C 1_KERK> kerke <C 403_HIJ> hie <C 221_VERBEUREN> v<A >er</A>buerde <C 309_12> .xij. <C 19_DENARIUS> 't3d 
+<L 2879:44> <q> 't% <q> [26] <C 320_AL> Al <C 0_GAREN> garen <C 210_ZULLEN> sal <C 250_KOMEN> comen <C 700+475_BINNEN+DE> binder <C 1_HALFONDER> alfhondre <C 271_LUIDEN> ludende <C 700_IN> jn <C 471_DE> die <C 0_MARKT> marct <C 800_EN> en<A >de</A> 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2879:51> <C 406+830_ZIJ+NE> siene 
+<L 2879:52> <C 234+403_MOGEN+HET> mochtent 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<L 2880:1> <C 214_ZIJN> sijn <C 273_WAARDEREN> ghewaerdeert, <C 421_DIE> die <C 610_DAARACHTER> daer+achter <C 0_GAREN> garen <C 221_BRENGEN> brochte <C 700_IN> jn <C 471_DE> die <C 0_MARKT> marct <C 403_HIJ> hie 
+<L 2880:2> <C 221_VERBEUREN> v<A >er</A>buerde <C 700_VAN> van <C 324_ELK> elken <C 301_HALF> halue <C 309_EEN> .i. <C 9_OBOLUS> 't4o <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 0_MARKTDAG> marcdach <C 800_EN> En<A >de</A> <C 610_HIERBIJ> hierbi <C 550_ZO> so 
+<L 2880:3> <C 214_MOETEN> moeten <C 12_VINDER> vinders <C 0_OORLOF> orlof <C 250_GEVEN> gheuen <C 700_TE> te <C 251_VERKOPEN> v<A >er</A>copene <C 101+811+510_HOUD+ALS+ALZO> also+houde+alse <C 1_HALFONDER> alfhond<A >er</A>e 
+<L 2880:4> <C 274_VERLATEN> v<A >er</A>laten <C 210_ZIJN> es <C 700_BIJ> bi <C 454_HAAR> haren <C 1_EED> ede 
+<L 2880:5> <q> 't% <q> [27] <C 500_VOORT> Vord <C 321_AL> alle <C 471_DE> die <C 411_GENE> guene <C 421_DIE> die <C 0_GAREN> garen <C 250_KOPEN> copen <C 214_WILLEN> willen <C 810_DAT> dat <C 406_ZIJ> sie <C 204_BLIJVEN> bliuen <C 700+474_BUITEN+DE/HET> buten 
+<L 2880:6> <C 14_STAAK> stake<A >n</A> <C 440+810_MEN+TOT-DE-WIJL-DAT> tot<A >er</A>+wilen+datmen <C 0_OORLOF> orlof <C 203_GEVEN> gheuet, <C 421_DIE> die <C 403_HET> des <C 560_NIET> niet <C 560_NE> ne <C 221_DOEN> dade <C 221_VERBEUREN> v<A >er</A>buerde 
+<L 2880:7> <C 309_12> .xij. <C 19_DENARIUS> 't3d <C 800_EN> En<A >de</A> <C 320_ELK> elc <C 0_ZESTENDEEL> zestendeel <C 2_GAREN> garens <C 210_ZULLEN> sal <C 250_GEVEN> gheuen <C 700_VAN> van <C 251_WEGEN> weghene <C 309_EEN> .i. <C 9_OBOLUS> 't4o <C 800_EN> en<A >de</A> <C 414_DIE> dien 
+<L 2880:8> <C 9_OBOLUS> 't4o <C 210_ZULLEN> sal <C 250_GELDEN> ghelde<A >n</A> <C 421_DIE> die <C 470_HET> dat <C 0_GAREN> garen <C 203_VERKOPEN> v<A >er</A>coept 
+<L 2880:9> <q> 't% <q> [28] <C 500_VOORT> Vord <C 810_DAT> dat <C 441_NIEMAND> niemene <C 440_GEEN> gheen <C 0_MOLENGAREN> molegaren <C 800_NO> no <C 0_STRIJPELGAREN> stripelgaren <C 420_DAT> dat <C 700_VAN> van 
+<L 2880:10> <C 105_IERS> yerscher <C 4_WOL> wullen <C 274_SPINNEN> ghesponnen <C 210_ZIJN> es. <C 800_NO> no <C 700_VAN> va<A >n</A> <VN type=1> <C 105_IERS> yerscher <VN type=1> <C 4_WOL> wulle<A >n</A> <VN type=1> <q> , <C 700_ONDER> ond<A >er</A> <C 444_ZO-WIE> so+wien 
+<L 2880:11> <C 810+440_DAT+MEN> datme<A >n</A> <C 1_WOL> wulle <C 800_OF> jof <C 0_GAREN> garen <C 221_VINDEN> vonde <VN type=1> <C 420_DAT> dat <C 700_VAN> van <C 4_ARGHEID> aercheiden <C 274_KOMEN> comen <C 231_ZIJN> ware, 
+<L 2880:12> <C 471_DE> die <C 1_WOL> wulle <C 800_EN> en<A >de</A> <C 470_HET> dat <C 0_GAREN> gare<A >n</A> <C 231_ZIJN> ware <C 273_VERBEUREN> v<A >er</A>buerd, <C 403_HET> het <C 830+221_NE+ZIJN> neware <C 810_DAT> dat <C 471_DE> die <C 411_GENE> guene <C 422_WIE> wies 
+<L 2880:13> <C 810_DAT> dat <C 403_HET> het <C 221_ZIJN> ware <C 221_HALEN> haelde <C 700_BIJ> bi <C 454_ZIJN> sinen <C 1_EED> ede <C 475+700_DE+BINNEN> binder <C 105_NAAST> naest<A >er</A> <C 0_MAAND> maent <C 403+810_HET+ACHTER-DIEN-DAT> achter+dien+dat 
+<L 2880:14> <C 274_VINDEN> vonden <C 231_ZIJN> ware. <C 800_EN> en<A >de</A> <C 440_MEN> men <C 403+230_HIJ+ZULLEN> soudene <C 250_BANNEN> banne<A >n</A> <C 474_DE/HET> den <C 414_GENE> guene<A >n</A> <C 403+520_HET+DAAR> daert <C 700_ONDER> ond<A >er</A> 
+<L 2880:15> <C 274_VINDEN> vonden <C 231_ZIJN> ware <C 510_ALZO> also <C 501_LANG> langhe <C 403+820_HET+ALS> alst <C 14_SCHEPEN> scepen<A >en</A> <C 100_GOED> goed <C 231_ZULLEN> soude <C 260_DUNKEN> dinken 
+<L 2880:16> <q> 't% <q> [29] <C 500_VOORT> Vord <C 810_DAT> dat <C 441_NIEMAND> niemene <C 421_DIE> die <C 111_STRIJPT> strijpte <C 11_LAKEN> lakene <C 204_MAKEN> maken, <C 101_GENERHANDE> gherehande <C 0_GAREN> garen 
+<L 2880:17> <C 204_KOPEN> copen <C 800_NO> no <C 214_DOEN> doen <C 250_KOPEN> copen <C 504_BUITEN> buten <C 800_NO> no <C 504_BINNEN> binnen <C 800_ZONDER> sonder <C 700_OP> vp <C 414_DIE> die<A >n</A> <C 104_RECHT> rechte<A >n</A> 
+<L 2880:18> <C 0_GARENMARKT> gare<A >n</A>marct <VN type=1> <C 700_UITGENOMEN> vte+ghenomen <C 1_ZIJDE> zide <C 800_EN> en<A >de</A> <C 0_ZARK> zaerc <C 800_EN> En<A >de</A> <C 441_ZO-WIE> so+wie <C 421+600_DIE+ERAF> diere+of 
+<L 2880:19> <C 274_VERWINNEN> v<A >er</A>wonne<A >n</A> <C 231_ZIJN> ware <C 700_BIJ> bi <C 4_KENNIS> kennessen <C 700_VAN> van <C 12_VINDER> vinders <C 800_OF> jof <C 700+475_BIJ+DE> bider <C 105_GOED> goed<A >er</A> <C 1_WAARHEID> wareide <C 403_HIJ> hie 
+<L 2880:20> <C 221_VERBEUREN> v<A >er</A>buerde <C 700_VAN> van <C 324_ELK> elken <C 1_POND> ponde <C 2_GAREN> garens <C 309_2> ii. <C 19_DENARIUS> 't3d <C 410_DIT> dit <C 700_TE> te <C 251_BERECHTEN> berechtene <C 474+700_DE/HET+BIJ> biden <C 104_LOYAAL> loyalen 
+<L 2880:21> <C 1_BEZOEK> besoeke <C 700_VAN> van <C 0_DEKEN> deken <C 800_EN> en<A >de</A> <C 700_VAN> van <C 12_VINDER> vinders <C 475+700_DE+VAN> vand<A >er</A> <C 0_GARENMARKT> garen+marct 
+<L 2880:22> <q> 't% <q> [30] <C 500_VOORT> Vord <C 810_DAT> dat <C 471_DE> die <C 11_GEZWORENE> ghezworne <C 700+475_VAN+DE> vand<A >e</A>r <C 0_GARENMARKT> garen+marct, <C 214_MOGEN> moghen <C 250_NEMEN> nemen 
+<L 2880:23> <C 484_EEN> enen <C 1_GARENKOPER> garen+cop<A >er</A>e <C 810_ALS> als <C 406_ZIJ> sie <C 204_WILLEN> willen <C 800_EN> en<A >de</A> <C 1_KEUR> kuere <C 611_DAARMEDE> der+mede <C 204_ZOEKEN> soeken, <C 810_ALS> als <C 406+403_ZIJ+HET> sies 
+<L 2880:24> <C 700_TE> te <C 251_DOEN> doene <C 204_HEBBEN> hebben 
+<L 2880:25> <q> 't% <q> [31] <C 500_VOORT> Vord <C 560_NE> ne <C 203_GEOORLOVEN> gheorlouet <C 441_NIEMAND> niemene <C 440_ENIG> enich <C 0_GAREN> garen <C 700_TE> te <C 251_VERKUTSEN> v<A >er</A>cutsene <C 474+700_DE/HET+BINNEN> binden 
+<L 2880:26> <C 1_SCHEPENDOM> scependoeme <C 700_VAN> van <C 21_BRUGGE> brucghe <C 700_OP> vp <C 481_EEN> ene <C 1_BOETE> boete <C 700_VAN> van <C 309_20> .xx. <C 19_SOLIDUS> 't3s <C 511_ALZO> alse <C 504_DIKKE> dicken <C 820_ALS> als <C 403+406_HET+ZIJ> sies 
+<L 2880:27> <C 274_BEVINDEN> bevonden <C 214_WORDEN> worden 
+<L 2880:28> <q> 't% <q> [32] <C 500_VOORT> Vord <C 560_NE> ne <C 203_GEOORLOVEN> gheorlouet <C 441_NIEMAND> niemene <C 0_GAREN> garen <C 700_TE> te <C 251_KOPEN> copene <C 700+474_BUITEN+DE/HET> buten 
+<L 2880:29> <C 1_SCHEPENDOM> scependoeme <C 700_VAN> van <C 21_BRUGGE> brucghe <C 800_NO> no <C 600_DAARJEGEN> der+jeghen <C 700_TE> te <C 251_GAAN> gane <C 700_OP> vp <C 481_EEN> ene <C 1_BOETE> boete <C 700_VAN> van <C 309_3> .iij. 
+<L 2880:30> <C 19_LIBRA> 't3l't3b <C 403_HET> het <C 830_NE> ne <C 221_ZIJN> ware <C 700_IN> jn <C 4_VRIJDAGMARKT> vrien+dach+maercten <C 800_EN> en<A >de</A> <C 410_DAT> dat <C 510_ALZO> also <C 504_DIKKE> dicke<A >n</A> <C 700_TE> te <C 251_BOETEN> boetene 
+<L 2880:31> <C 820_ALS> als <C 403+406_HET+ZIJ> sies <C 274_BEVINDEN> bevonden <C 214_WORDEN> worden <C 700+475_BIJ+DE> bider <C 105_GOED> goed<A >er</A> <C 1_WAARHEID> wareide 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 2880:55> <C 0_DAG> dach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -2,7 +2,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1o.png,1,0,1,283,125,2077,1449,2339,1656,283,125,2077,1449,images/archive-original/1260-1269/1o.jpg
 2o.png,1,0,5,154,143,2291,1327,2339,1656,154,143,2291,1327,images/archive-original/1260-1269/2o.jpg
 3o.png,1,0,37,420,208,1971,1371,2339,1656,420,208,1971,1371,images/archive-original/1260-1269/3o.jpg
-4o.png,1,0,4,165,132,2283,1136,2339,1656,165,132,2283,1136,images/archive-original/1260-1269/4o.jpg
+4o.png,0,0,4,165,132,2283,1136,2339,1656,165,132,2283,1136,images/archive-original/1260-1269/4o.jpg
 5o.png,1,0,6,207,296,1893,1329,2024,1436,296,130,1329,1816,images/archive-original/1260-1269/5o.jpg
 6o.png,1,0,9,169,341,2001,1297,2024,1436,341,22,1297,1854,images/archive-original/1260-1269/6o.jpg
 7o.png,1,0,2,149,609,1921,1291,2024,1436,609,102,1291,1874,images/archive-original/1260-1269/7o.jpg
@@ -31,30 +31,30 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 30o.png,1,0,6,175,51,1968,1373,2024,1436,51,55,1373,1848,images/archive-original/1240-1260/30o.jpg
 31o.png,1,0,12,231,33,1450,928,1654,1168,33,203,928,1422,images/archive-original/1240-1260/31o.jpg
 32o.png,1,0,1,225,15,1956,1409,2024,1436,15,67,1409,1798,images/archive-original/1240-1260/32o.jpg
-33o.png,1,0,1,55,99,1142,1653,1168,1654,55,99,1142,1653,images/archive-original/1240-1260/33o.jpg
+33o.png,0,0,1,55,99,1142,1653,1168,1654,55,99,1142,1653,images/archive-original/1240-1260/33o.jpg
 34o.png,1,0,1,25,60,1116,1608,1168,1654,25,60,1116,1608,images/archive-original/1240-1260/34o.jpg
 35o.png,1,0,1,206,40,2246,1603,2339,1656,40,92,1603,2132,images/archive-original/1240-1260/35o.jpg
-36o.png,1,0,1,161,44,2202,1603,2339,1656,44,136,1603,2177,images/archive-original/1240-1260/36o.jpg
-37o.png,1,0,6,209,44,2215,1599,2339,1656,44,123,1599,2129,images/archive-original/1240-1260/37o.jpg
-38o.png,1,0,5,46,62,1624,1744,1656,2339,31,594,1609,2276,images/archive-original/1240-1260/38o.jpg
-39o.png,1,0,2,104,62,1609,1756,1656,2339,46,582,1551,2276,images/archive-original/1240-1260/39o.jpg
-40o.png,1,0,2,36,73,1619,2192,1656,2339,36,146,1619,2265,images/archive-original/1240-1260/40o.jpg
-41o.png,1,0,3,77,62,1614,2192,1656,2339,41,146,1578,2276,images/archive-original/1240-1260/41o.jpg
-42o.png,1,0,2,46,72,1619,2093,1656,2339,36,245,1609,2266,images/archive-original/1240-1260/42o.jpg
-43o.png,1,0,6,113,172,1609,2153,1656,2339,46,185,1542,2166,images/archive-original/1240-1260/43o.jpg
-44o.png,1,0,10,184,47,2149,1255,2339,1656,47,189,1255,2154,images/archive-original/1240-1260/44o.jpg
+36o.png,0,0,1,161,44,2202,1603,2339,1656,44,136,1603,2177,images/archive-original/1240-1260/36o.jpg
+37o.png,0,0,6,209,44,2215,1599,2339,1656,44,123,1599,2129,images/archive-original/1240-1260/37o.jpg
+38o.png,0,0,5,46,62,1624,1744,1656,2339,31,594,1609,2276,images/archive-original/1240-1260/38o.jpg
+39o.png,0,0,2,104,62,1609,1756,1656,2339,46,582,1551,2276,images/archive-original/1240-1260/39o.jpg
+40o.png,0,0,2,36,73,1619,2192,1656,2339,36,146,1619,2265,images/archive-original/1240-1260/40o.jpg
+41o.png,0,0,3,77,62,1614,2192,1656,2339,41,146,1578,2276,images/archive-original/1240-1260/41o.jpg
+42o.png,0,0,2,46,72,1619,2093,1656,2339,36,245,1609,2266,images/archive-original/1240-1260/42o.jpg
+43o.png,0,0,6,113,172,1609,2153,1656,2339,46,185,1542,2166,images/archive-original/1240-1260/43o.jpg
+44o.png,0,0,10,184,47,2149,1255,2339,1656,47,189,1255,2154,images/archive-original/1240-1260/44o.jpg
 45o.png,1,0,8,203,209,1588,2290,1656,2339,203,209,1588,2290,images/archive-original/vóór 1240/45o.jpg
-46o.png,1,0,4,41,230,1523,2280,1656,2339,41,230,1523,2280,images/archive-original/vóór 1240/46o.jpg
-47o.png,1,0,8,232,51,1609,2021,1656,2339,232,51,1609,2021,images/archive-original/vóór 1240/47o.jpg
-48o.png,1,0,4,57,46,1525,2030,1656,2339,57,46,1525,2030,images/archive-original/vóór 1240/48o.jpg
-49o.png,1,0,4,177,202,1475,1925,1656,2339,177,202,1475,1925,images/archive-original/vóór 1240/49o.jpg
+46o.png,0,0,4,41,230,1523,2280,1656,2339,41,230,1523,2280,images/archive-original/vóór 1240/46o.jpg
+47o.png,0,0,8,232,51,1609,2021,1656,2339,232,51,1609,2021,images/archive-original/vóór 1240/47o.jpg
+48o.png,0,0,4,57,46,1525,2030,1656,2339,57,46,1525,2030,images/archive-original/vóór 1240/48o.jpg
+49o.png,0,0,4,177,202,1475,1925,1656,2339,177,202,1475,1925,images/archive-original/vóór 1240/49o.jpg
 50o.png,1,0,5,371,62,1759,1408,2024,1436,371,62,1759,1408,images/archive-original/vóór 1240/50o.jpg
 51o.png,1,0,16,246,225,2097,996,2339,1656,246,225,2097,996,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/51o.jpg
-52o.png,1,0,11,244,228,2151,1487,2339,1656,244,228,2151,1487,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/52o.jpg
-53o.png,1,0,9,314,152,2106,1274,2339,1656,314,152,2106,1274,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/53o.jpg
-54o.png,1,0,6,349,266,2121,1500,2339,1656,349,266,2121,1500,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/54o.jpg
-55o.png,1,0,11,322,250,2175,1487,2339,1656,322,250,2175,1487,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/55o.jpg
-56o.png,1,0,10,290,58,2139,1331,2339,1656,290,58,2139,1331,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/56o.jpg
+52o.png,0,0,11,244,228,2151,1487,2339,1656,244,228,2151,1487,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/52o.jpg
+53o.png,0,0,9,314,152,2106,1274,2339,1656,314,152,2106,1274,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/53o.jpg
+54o.png,0,0,6,349,266,2121,1500,2339,1656,349,266,2121,1500,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/54o.jpg
+55o.png,0,0,11,322,250,2175,1487,2339,1656,322,250,2175,1487,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/55o.jpg
+56o.png,0,0,10,290,58,2139,1331,2339,1656,290,58,2139,1331,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/56o.jpg
 57o.png,1,0,11,261,197,1827,1511,2339,1656,261,197,1827,1511,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/57o.jpg
 58o.png,1,0,5,273,103,2207,1349,2339,1656,273,103,2207,1349,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/58o.jpg
 59o.png,1,0,10,209,445,2228,1307,2339,1656,209,445,2228,1307,images/archive-original/niet gedateerd (_oudste leeuregister Holl._Reinaertfragmenten R_dam)/59o.jpg
@@ -132,7 +132,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 131o.png,1,0,6,471,141,1689,1358,2024,1436,141,334,1358,1552,images/archive-original/1270-1279/131o.jpg
 132o.png,1,0,11,366,526,1912,1189,2024,1436,526,111,1189,1657,images/archive-original/1270-1279/132o.jpg
 133o.png,1,0,1,445,125,2033,1526,2339,1656,125,305,1526,1893,images/archive-original/1270-1279/133o.jpg
-134o.png,1,0,2,132,29,2228,1577,2339,1656,29,110,1577,2206,images/archive-original/1270-1279/134o.jpg
+134o.png,0,0,2,132,29,2228,1577,2339,1656,29,110,1577,2206,images/archive-original/1270-1279/134o.jpg
 135o.png,1,0,2,121,62,2195,1633,2339,1656,62,143,1633,2217,images/archive-original/1270-1279/135o.jpg
 136o.png,1,0,4,329,180,1993,751,2339,1656,329,180,1993,751,images/archive-original/1270-1279/136o.jpg
 137o.png,0,0,1,225,72,2008,1419,2024,1436,72,15,1419,1798,images/archive-original/1270-1279/137o.jpg
@@ -165,7 +165,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 164o.png,1,0,3,315,357,1922,1280,2024,1436,357,101,1280,1708,images/archive-original/1270-1279/164o.jpg
 165o.png,1,0,3,220,585,2188,1224,2339,1656,220,585,2188,1224,images/archive-original/1270-1279/165o.jpg
 166o.png,1,0,3,239,36,2199,1357,2339,1656,239,36,2199,1357,images/archive-original/1270-1279/166o.jpg
-167o.png,1,0,1,213,158,2258,1618,2339,1656,213,158,2258,1618,images/archive-original/1270-1279/167o.jpg
+167o.png,0,0,1,213,158,2258,1618,2339,1656,213,158,2258,1618,images/archive-original/1270-1279/167o.jpg
 168o.png,1,0,1,179,70,1976,1352,2024,1436,70,47,1352,1844,images/archive-original/1270-1279/168o.jpg
 169o.png,1,0,11,109,64,1619,1167,1654,1168,64,34,1167,1544,images/archive-original/1270-1279/169o.jpg
 170o.png,1,0,3,644,447,1764,1338,2024,1436,447,259,1338,1379,images/archive-original/1270-1279/170o.jpg
@@ -335,7 +335,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 334o.png,1,0,3,270,424,2000,1173,2024,1436,424,23,1173,1753,images/archive-original/1280-1289 I (1280-1283)/334o.jpg
 335o.png,1,0,8,477,96,1726,1213,2024,1436,96,297,1213,1546,images/archive-original/1280-1289 I (1280-1283)/335o.jpg
 336o.png,1,0,1,148,242,1148,1946,1436,2024,287,77,1287,1781,images/archive-original/1280-1289 I (1280-1283)/336o.jpg
-337o.png,1,0,7,55,118,1306,1882,1436,2024,55,118,1306,1882,images/archive-original/1280-1289 I (1280-1283)/337o.jpg
+337o.png,0,0,7,55,118,1306,1882,1436,2024,55,118,1306,1882,images/archive-original/1280-1289 I (1280-1283)/337o.jpg
 338o.png,1,0,5,214,543,2014,1361,2024,1436,543,9,1361,1809,images/archive-original/1280-1289 I (1280-1283)/338o.jpg
 339o.png,1,0,1,67,171,1604,2306,1656,2339,67,171,1604,2306,images/archive-original/1280-1289 I (1280-1283)/339o.jpg
 340o.png,0,0,1,72,31,1604,2223,1656,2339,72,31,1604,2223,images/archive-original/1280-1289 I (1280-1283)/340o.jpg
@@ -349,10 +349,10 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 348o.png,0,0,4,36,44,2224,1342,2339,1656,36,44,2224,1342,images/archive-original/1280-1289 II (1284-85)/348o.jpg
 349o.png,0,0,4,209,58,2324,1250,2339,1656,209,58,2324,1250,images/archive-original/1280-1289 II (1284-85)/349o.jpg
 350o.png,1,0,2,36,44,2302,1633,2339,1656,36,44,2302,1633,images/archive-original/1280-1289 II (1284-85)/350o.jpg
-351o.png,1,0,1,62,58,2313,1625,2339,1656,62,58,2313,1625,images/archive-original/1280-1289 II (1284-85)/351o.jpg
-352o.png,1,0,1,33,29,2287,1581,2339,1656,33,29,2287,1581,images/archive-original/1280-1289 II (1284-85)/352o.jpg
-353o.png,1,0,4,40,172,2261,1644,2339,1656,40,172,2261,1644,images/archive-original/1280-1289 II (1284-85)/353o.jpg
-354o.png,1,0,1,191,156,2125,1518,2339,1656,191,156,2125,1518,images/archive-original/1280-1289 II (1284-85)/354o.jpg
+351o.png,0,0,1,62,58,2313,1625,2339,1656,62,58,2313,1625,images/archive-original/1280-1289 II (1284-85)/351o.jpg
+352o.png,0,0,1,33,29,2287,1581,2339,1656,33,29,2287,1581,images/archive-original/1280-1289 II (1284-85)/352o.jpg
+353o.png,0,0,4,40,172,2261,1644,2339,1656,40,172,2261,1644,images/archive-original/1280-1289 II (1284-85)/353o.jpg
+354o.png,0,0,1,191,156,2125,1518,2339,1656,191,156,2125,1518,images/archive-original/1280-1289 II (1284-85)/354o.jpg
 355o.png,1,0,1,131,133,2268,1392,2339,1656,133,70,1392,2207,images/archive-original/1280-1289 II (1284-85)/355o.jpg
 356o.png,1,0,2,194,105,2004,1409,2024,1436,105,19,1409,1829,images/archive-original/1280-1289 II (1284-85)/356o.jpg
 357o.png,1,0,1,185,89,1995,1416,2024,1436,89,28,1416,1838,images/archive-original/1280-1289 II (1284-85)/357o.jpg
@@ -415,7 +415,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 414o.png,1,0,1,197,41,2011,1412,2024,1436,41,12,1412,1826,images/archive-original/1280-1289 II (1284-85)/414o.jpg
 415o.png,1,0,5,176,91,2000,1288,2024,1436,91,23,1288,1847,images/archive-original/1280-1289 II (1284-85)/415o.jpg
 416o.png,1,0,2,211,112,2008,1416,2024,1436,112,15,1416,1812,images/archive-original/1280-1289 II (1284-85)/416o.jpg
-417o.png,1,0,1,181,287,2004,1387,2024,1436,287,19,1387,1842,images/archive-original/1280-1289 II (1284-85)/417o.jpg
+417o.png,0,0,1,181,287,2004,1387,2024,1436,287,19,1387,1842,images/archive-original/1280-1289 II (1284-85)/417o.jpg
 418o.png,1,0,3,241,99,2011,1406,2024,1436,99,12,1406,1782,images/archive-original/1280-1289 II (1284-85)/418o.jpg
 419o.png,1,0,1,191,89,2011,1409,2024,1436,89,12,1409,1832,images/archive-original/1280-1289 II (1284-85)/419o.jpg
 420o.png,1,0,3,347,609,1861,1333,2024,1436,609,162,1333,1676,images/archive-original/1280-1289 II (1284-85)/420o.jpg
@@ -544,7 +544,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 543o.png,1,0,4,245,265,1944,1300,2024,1436,265,79,1300,1778,images/archive-original/1280-1289 III (1286-89)/543o.jpg
 544o.png,1,0,4,374,302,1867,653,2024,1436,302,156,653,1649,images/archive-original/1280-1289 III (1286-89)/544o.jpg
 545o.png,1,0,6,370,107,1883,1435,2024,1436,107,140,1435,1653,images/archive-original/1280-1289 III (1286-89)/545o.jpg
-546o.png,1,0,4,357,130,1863,1352,2024,1436,130,160,1352,1666,images/archive-original/1280-1289 III (1286-89)/546o.jpg
+546o.png,0,0,4,357,130,1863,1352,2024,1436,130,160,1352,1666,images/archive-original/1280-1289 III (1286-89)/546o.jpg
 547o.png,1,0,3,280,494,1921,1409,2024,1436,494,102,1409,1743,images/archive-original/1280-1289 III (1286-89)/547o.jpg
 548o.png,1,0,2,355,463,1810,1396,2024,1436,463,213,1396,1668,images/archive-original/1280-1289 III (1286-89)/548o.jpg
 549o.png,1,0,5,168,176,1509,942,1654,1168,176,144,942,1485,images/archive-original/1280-1289 III (1286-89)/549o.jpg
@@ -562,7 +562,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 561o.png,1,0,5,419,228,2036,622,2339,1656,419,228,2036,622,images/archive-original/1280-1289 III (1286-89)/561o.jpg
 562o.png,1,0,1,158,596,2180,1058,2339,1656,158,596,2180,1058,images/archive-original/1280-1289 III (1286-89)/562o.jpg
 563o.png,1,0,1,98,41,1619,2186,1656,2339,98,41,1619,2186,images/archive-original/1280-1289 III (1286-89)/563o.jpg
-564o.png,1,0,1,103,57,1609,2244,1656,2339,103,57,1609,2244,images/archive-original/1280-1289 III (1286-89)/564o.jpg
+564o.png,0,0,1,103,57,1609,2244,1656,2339,103,57,1609,2244,images/archive-original/1280-1289 III (1286-89)/564o.jpg
 565o.png,0,0,5,83,259,1579,2249,1656,2339,83,259,1579,2249,images/archive-original/1280-1289 III (1286-89)/565o.jpg
 566o.png,0,0,6,93,88,1581,2243,1656,2339,93,88,1581,2243,images/archive-original/1280-1289 III (1286-89)/566o.jpg
 567o.png,0,0,2,77,31,1609,2077,1656,2339,77,31,1609,2077,images/archive-original/1280-1289 III (1286-89)/567o.jpg
@@ -572,13 +572,13 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 571o.png,1,0,13,206,270,2120,1205,2339,1656,270,218,1205,2132,images/archive-original/1280-1289 III (1286-89)/571o.jpg
 572o.png,1,0,4,122,487,2152,1252,2339,1656,487,186,1252,2216,images/archive-original/1280-1289 III (1286-89)/572o.jpg
 573o.png,1,0,1,51,47,2250,1548,2339,1656,47,88,1548,2287,images/archive-original/1280-1289 III (1286-89)/573o.jpg
-574o.png,1,0,4,266,36,2305,1393,2339,1656,36,33,1393,2072,images/archive-original/1280-1289 III (1286-89)/574o.jpg
-575o.png,1,0,1,47,36,2272,1603,2339,1656,36,66,1603,2291,images/archive-original/1280-1289 III (1286-89)/575o.jpg
-576o.png,1,0,4,231,33,2294,1607,2339,1656,33,44,1607,2107,images/archive-original/1280-1289 III (1286-89)/576o.jpg
-577o.png,1,0,1,47,44,2276,1621,2339,1656,44,62,1621,2291,images/archive-original/1280-1289 III (1286-89)/577o.jpg
-578o.png,1,0,4,165,36,2294,1607,2339,1656,36,44,1607,2173,images/archive-original/1280-1289 III (1286-89)/578o.jpg
-579o.png,1,0,1,51,250,2269,1618,2339,1656,250,69,1618,2287,images/archive-original/1280-1289 III (1286-89)/579o.jpg
-580o.png,1,0,17,236,170,2294,1618,2339,1656,170,44,1618,2102,images/archive-original/1280-1289 III (1286-89)/580o.jpg
+574o.png,0,0,4,266,36,2305,1393,2339,1656,36,33,1393,2072,images/archive-original/1280-1289 III (1286-89)/574o.jpg
+575o.png,0,0,1,47,36,2272,1603,2339,1656,36,66,1603,2291,images/archive-original/1280-1289 III (1286-89)/575o.jpg
+576o.png,0,0,4,231,33,2294,1607,2339,1656,33,44,1607,2107,images/archive-original/1280-1289 III (1286-89)/576o.jpg
+577o.png,0,0,1,47,44,2276,1621,2339,1656,44,62,1621,2291,images/archive-original/1280-1289 III (1286-89)/577o.jpg
+578o.png,0,0,4,165,36,2294,1607,2339,1656,36,44,1607,2173,images/archive-original/1280-1289 III (1286-89)/578o.jpg
+579o.png,0,0,1,51,250,2269,1618,2339,1656,250,69,1618,2287,images/archive-original/1280-1289 III (1286-89)/579o.jpg
+580o.png,0,0,17,236,170,2294,1618,2339,1656,170,44,1618,2102,images/archive-original/1280-1289 III (1286-89)/580o.jpg
 581o.png,1,0,1,245,167,2014,1342,2024,1436,167,9,1342,1778,images/archive-original/1280-1289 III (1286-89)/581o.jpg
 582o.png,1,0,4,338,697,1813,1368,2024,1436,697,210,1368,1685,images/archive-original/1280-1289 III (1286-89)/582o.jpg
 583o.png,1,0,2,273,338,1845,1355,2024,1436,338,178,1355,1750,images/archive-original/1280-1289 III (1286-89)/583o.jpg
@@ -1182,20 +1182,20 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1181o.png,1,0,2,128,103,2224,1599,2339,1656,128,103,2224,1599,images/archive-original/1290-1300 I/1181o.jpg
 1182o.png,1,0,1,124,218,1593,2036,1656,2339,124,218,1593,2036,images/archive-original/1290-1300 I/1182o.jpg
 1183o.png,1,0,4,154,217,2324,1397,2339,1656,154,217,2324,1397,images/archive-original/1290-1300 I/1183o.jpg
-1184o.png,1,0,7,33,220,2012,1452,2339,1656,33,220,2012,1452,images/archive-original/1290-1300 I/1184o.jpg
+1184o.png,0,0,7,33,220,2012,1452,2339,1656,33,220,2012,1452,images/archive-original/1290-1300 I/1184o.jpg
 1185o.png,1,0,12,86,233,2290,934,2339,1656,86,233,2290,934,images/archive-original/1290-1300 I/1185o.jpg
 1186o.png,1,0,6,176,172,2250,1283,2339,1656,176,172,2250,1283,images/archive-original/1290-1300 I/1186o.jpg
 1187o.png,1,0,8,323,354,2147,1242,2339,1656,323,354,2147,1242,images/archive-original/1290-1300 I/1187o.jpg
 1188o.png,1,0,34,224,475,2160,1126,2339,1656,224,475,2160,1126,images/archive-original/1290-1300 I/1188o.jpg
 1189o.png,1,0,4,153,181,2235,1265,2339,1656,181,103,1265,2185,images/archive-original/1290-1300 I/1189o.jpg
-1190o.png,1,0,23,33,33,2309,1633,2339,1656,33,33,2309,1633,images/archive-original/1290-1300 I/1190o.jpg
+1190o.png,1,0,23,305,261,2126,540,2339,1656,305,261,2126,540,images/archive-original/1290-1300 I/1190o.jpg
 1191o.png,1,0,65,99,550,2217,1057,2339,1656,99,550,2217,1057,images/archive-original/1290-1300 I/1191o.jpg
-1192o.png,1,0,55,280,574,2225,1043,2339,1656,280,574,2225,1043,images/archive-original/1290-1300 I/1192o.jpg
+1192o.png,0,0,55,280,574,2225,1043,2339,1656,280,574,2225,1043,images/archive-original/1290-1300 I/1192o.jpg
 1193o.png,1,0,10,213,596,2235,1011,2339,1656,213,596,2235,1011,images/archive-original/1290-1300 I/1193o.jpg
 1194o.png,1,0,2,352,215,2157,1353,2339,1656,352,215,2157,1353,images/archive-original/1290-1300 I/1194o.jpg
 1195o.png,1,0,19,701,176,1988,635,2339,1656,701,176,1988,635,images/archive-original/1290-1300 I/1195o.jpg
 1196o.png,1,0,1,166,114,1354,1391,1656,2339,166,114,1354,1391,images/archive-original/1290-1300 I/1196o.jpg
-1197o.png,1,0,2,171,192,1354,1459,1656,2339,171,192,1354,1459,images/archive-original/1290-1300 I/1197o.jpg
+1197o.png,0,0,2,171,192,1354,1459,1656,2339,171,192,1354,1459,images/archive-original/1290-1300 I/1197o.jpg
 1198o.png,1,0,2,92,399,1598,1843,1656,2339,92,399,1598,1843,images/archive-original/1290-1300 I/1198o.jpg
 1199o.png,1,0,2,204,213,1488,2207,1656,2339,204,213,1488,2207,images/archive-original/1290-1300 I/1199o.jpg
 1200o.png,1,0,2,360,191,1838,1425,2024,1436,360,191,1838,1425,images/archive-original/1290-1300 II/1200o.jpg
@@ -1226,7 +1226,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1225o.png,1,0,7,393,110,1713,922,2339,1656,393,110,1713,922,images/archive-original/1290-1300 II/1225o.jpg
 1226o.png,1,0,1,555,264,2029,782,2339,1656,555,264,2029,782,images/archive-original/1290-1300 II/1226o.jpg
 1227o.png,1,0,1,331,323,2081,1022,2339,1656,331,323,2081,1022,images/archive-original/1290-1300 II/1227o.jpg
-1228o.png,1,0,1,161,51,2195,1334,2339,1656,161,51,2195,1334,images/archive-original/1290-1300 II/1228o.jpg
+1228o.png,0,0,1,161,51,2195,1334,2339,1656,161,51,2195,1334,images/archive-original/1290-1300 II/1228o.jpg
 1229o.png,1,0,2,191,264,2191,1633,2339,1656,191,264,2191,1633,images/archive-original/1290-1300 II/1229o.jpg
 1230o.png,1,0,19,254,114,2055,1313,2339,1656,254,114,2055,1313,images/archive-original/1290-1300 II/1230o.jpg
 1231o.png,1,0,1,165,393,2077,1220,2339,1656,165,393,2077,1220,images/archive-original/1290-1300 II/1231o.jpg
@@ -1275,7 +1275,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1274o.png,1,0,4,500,253,2022,849,2339,1656,500,253,2022,849,images/archive-original/1290-1300 II/1274o.jpg
 1275o.png,1,0,8,563,250,1661,672,2339,1656,563,250,1661,672,images/archive-original/1290-1300 II/1275o.jpg
 1276o.png,1,0,3,496,191,1808,1136,2339,1656,496,191,1808,1136,images/archive-original/1290-1300 II/1276o.jpg
-1277o.png,1,0,55,33,58,1974,1633,2339,1656,33,58,1974,1633,images/archive-original/1290-1300 II/1277o.jpg
+1277o.png,1,0,55,529,129,1872,699,2339,1656,529,129,1872,699,images/archive-original/1290-1300 II/1277o.jpg
 1278o.png,1,0,2,122,231,1487,1881,1656,2339,122,231,1487,1881,images/archive-original/1290-1300 II/1278o.jpg
 1279o.png,1,0,9,382,647,1923,1047,2339,1656,382,647,1923,1047,images/archive-original/1290-1300 II/1279o.jpg
 1280o.png,1,0,6,386,533,1944,1103,2339,1656,386,533,1944,1103,images/archive-original/1290-1300 II/1280o.jpg
@@ -1368,7 +1368,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1367o.png,0,0,1,36,369,1604,2145,1656,2339,36,369,1604,2145,images/archive-original/1290-1300 III/1367o.jpg
 1368o.png,1,0,12,106,315,1514,680,1656,2339,106,315,1514,680,images/archive-original/1290-1300 III/1368o.jpg
 1369o.png,1,0,2,132,463,2280,1134,2339,1656,132,463,2280,1134,images/archive-original/1290-1300 III/1369o.jpg
-1370o.png,1,0,15,421,195,1888,781,2339,1656,421,195,1888,781,images/archive-original/1290-1300 III/1370o.jpg
+1370o.png,0,0,15,421,195,1888,781,2339,1656,421,195,1888,781,images/archive-original/1290-1300 III/1370o.jpg
 1371o.png,1,0,6,88,198,2262,1054,2339,1656,88,198,2262,1054,images/archive-original/1290-1300 III/1371o.jpg
 1372o.png,0,0,9,298,106,1915,989,2339,1656,298,106,1915,989,images/archive-original/1290-1300 III/1372o.jpg
 1373o.png,1,0,4,153,153,2276,1640,2339,1656,153,153,2276,1640,images/archive-original/1290-1300 III/1373o.jpg
@@ -1396,7 +1396,7 @@ filename,main_document,fell_back,n_regions,x0,y0,x1,y1,width,height,ox0,oy0,ox1,
 1395o.png,1,0,2,165,371,2258,1003,2339,1656,165,371,2258,1003,images/archive-original/1290-1300 III/1395o.jpg
 1396o.png,1,0,6,97,368,2181,1304,2339,1656,97,368,2181,1304,images/archive-original/1290-1300 III/1396o.jpg
 1397o.png,1,0,4,209,448,2232,963,2339,1656,209,448,2232,963,images/archive-original/1290-1300 III/1397o.jpg
-1398o.png,1,0,3,184,257,2166,1305,2339,1656,184,257,2166,1305,images/archive-original/1290-1300 III/1398o.jpg
+1398o.png,0,0,3,184,257,2166,1305,2339,1656,184,257,2166,1305,images/archive-original/1290-1300 III/1398o.jpg
 1399o.png,1,0,3,172,261,2158,1316,2339,1656,172,261,2158,1316,images/archive-original/1290-1300 III/1399o.jpg
 1400o.png,0,0,1,217,360,2309,1184,2339,1656,217,360,2309,1184,images/archive-original/1290-1300 III/1400o.jpg
 1401o.png,0,0,1,29,375,2228,1136,2339,1656,29,375,2228,1136,images/archive-original/1290-1300 III/1401o.jpg

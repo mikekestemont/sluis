@@ -5,6 +5,11 @@ pipeline does, why, where the reliability risks are, and how the resulting data
 is distilled into an additional **mole** archive (a flat image directory + a
 `labels.csv`).*
 
+**Paper freeze (cite this, not §6):** 1304 pages, 714 with `hand_id`, 110
+groepen, 697 `--cross-doc-only` queries. See `RETRIEVAL_SSL.md`. The 1398
+Kraken crops in `images/cropped/` and the 461 / 98 auto-match figures in §6
+are **retired**.
+
 ---
 
 ## 1. Goal
@@ -40,7 +45,7 @@ reliability**: how many photos we can label vs. how often that label is right.
 |---|---|---|
 | `../images/archive-original/` | Original Ghent photo archive, JPGs foldered by date range. Each charter has a recto (`…o.jpg`, *oorkonde*/face, the text) and a dorse (`…m.jpg`, back, archival notes). | ~2800 photos |
 | `../images/archive-recto/` | Recto-only, flattened, JPG→PNG (see `../code/01-preprocessing.ipynb`). | 1408 |
-| `../images/cropped/` | Recto text-zone crops, Kraken layout-segmented + Sauvola-binarised. **This is what mole embeds.** | 1398 |
+| `../images/cropped/` | **Retired** 1398 Kraken+Sauvola crops. Do not embed or cite. Paper pixels: `images/pages-zoned-stretched/` → `mole/data/leroy` (1304). | 1398 |
 | `cg-admin-orig/*.fromdb` | Corpus Gysseling administrative charters, original `.fromdb` markup. | 2228 |
 | `cd-admin-txt/*.txt` | Same corpus converted to plain text (`convert_gysseling.py`). | 2228 |
 | `transcriptions/*.txt` | VLM/HTR transcriptions of the recto crops (`transcribe_charters.py`). | 1408 |
@@ -66,48 +71,62 @@ non-charter reference images from `additional/` are binarised into the same
 folder (e.g. `Büdingen1r.png`); they carry no metadata and act as distractors.
 
 ### 3.2 HTR transcription — `transcribe_charters.py`
-Batch transcription of the recto crops via **Claude Sonnet through OpenRouter**
-(`anthropic/claude-sonnet-4`). The system prompt pins the output to Corpus
-Gysseling editorial conventions: silently expand abbreviations/nasal bars,
-modern Latin alphabet, lowercase, preserve line breaks and word separation, no
-punctuation, `[...]` for illegible passages. Idempotent (skips already-done
-files), threaded, with retry/back-off on 429s. Output → `transcriptions/`.
+Batch transcription of recto crops via a vision model on OpenRouter.
+Idempotent (skips already-done files), threaded, with retry/back-off on 429s.
+
+**Recorded 2026-08-31 (canonical for this freeze).** Input:
+`images/pages-zoned-stretched/` (gallery only, 1347). Model
+`google/gemini-3.7-flash` through OpenRouter, `reasoning.effort=low`
+(Flash will not disable thinking). Tightened prompt (output-only Middle
+Dutch/Latin, silent abbreviation expansion, `[...]` for gaps, no English).
+Output → `transcriptions-zoned/`. Wall time ~18:55–20:06 local (CEST).
+OpenRouter bill **about USD 5**.
+
+Coverage: **1347/1347 non-empty** (`transcriptions-zoned/`). First pass wrote
+all 1347 files but **23** were empty (HTTP 200, no `content` — Flash thinking
+ate `max_tokens=4096`; listed in `htr_empty_2026-08-31.txt`). Resume refill:
+15 then the last 8 (`1015o`, `1248o`, `635o`, `615o`, `773o`, `904o`, `728o`,
+`917o`). Script now retries empty replies at 16384→32768 tokens, JPEG
+re-encode, and `reasoning.exclude=true` (`635o` needed one retry).
+No English prefaces. Median ~1180 characters. Smoke-test vs Gysseling on
+the first 25 pages: mean Levenshtein 0.60 vs 0.48 for the legacy Sonnet 4
++ Sauvola run (`transcriptions/`).
 
 > These transcriptions are **deliberately unreliable**. They are a retrieval key,
 > not a scholarly edition. Their only job is to be *close enough* to the true
 > charter text that fuzzy matching lands on the right Gysseling number.
 
+**Legacy (do not reuse).** 2025/earlier: `anthropic/claude-sonnet-4` on
+Sauvola crops in `images/cropped/` → `transcriptions/`. Longer Gysseling-style
+prompt; many files had English preambles. Sonnet 4 is retired.
+
 ### 3.3 Corpus conversion — `convert_gysseling.py`
 Turns `.fromdb` markup into plain text that resembles the HTR convention:
+drops `<statushand statushandkode='md'>` (dorsale notitie) and `'ad'`
+(later / archival aantekening), keeps `'an'` / `'mn'` (charter body);
 expands `<A>` abbreviation tags inline, strips PoS/lemma `<C>` tags and
 metadata/structural tags, uses `<L page:line>` for line breaks, splits `+`
 compounds, strips punctuation. Result: `cd-admin-txt/`, one clean text per
-charter — the search targets.
+charter — the search targets. Files that are *only* md/ad are kept as-is.
 
-### 3.4 Matching — `match_charters.ipynb`
-Two-stage matcher (transcription → corpus):
+### 3.4 Matching — `match_charters.py`
+Two-stage matcher (transcription → corpus). Keep it simple — a date prior,
+`partial_ratio` re-rank, and K=50 were tried on the Flash set and abandoned:
+they recovered a handful of register-leaf matches at the cost of a slow,
+brittle scorer. Global Levenshtein at 0.40 is enough for mole labels.
+
 1. **Retrieval** — character n-gram TF-IDF (`char_wb`, 3–5 grams, sublinear tf),
-   cosine similarity, top-`K=20` candidates per transcription. Character n-grams
-   are robust to HTR spelling noise.
-2. **Re-ranking** — `rapidfuzz` normalised Levenshtein similarity on those ~20
-   pairs. Accept the best if `match_score ≥ MIN_THRESHOLD = 0.40`.
+   fit on the corpus, cosine, top-`K=20`. Empty / `TEST` Gysseling files dropped.
+2. **Re-ranking** — `rapidfuzz` normalised Levenshtein on those 20. Accept if
+   `match_score ≥ 0.40`.
+3. **Cheap guards** — Leroy nrs with two distinct `groep` values get no
+   `hand_group`; near-duplicate photos of the same Gysseling text (HTR–HTR
+   ≥ 0.90) keep one labelled.
 
-Both texts are normalised first (lowercase, strip non-alphanumerics, collapse
-whitespace). For each transcription it records the best match, its score, the
-runner-up and the **margin** (best − runner-up) — a confidence proxy.
-
-Then it joins **Leroy's hand-groups**: the corpus filename → canonical Gysseling
-nr (`0065AA.txt` → `65aa`), and the nr → `hand_group` (from `handengroepen`,
-`Type == 'groep'` only). Everything is written back onto the photo metadata as
-`metadata-matched.xlsx`.
-
-> **Canonical matcher:** `match_charters.py` is the script form of this stage and
-> is the authoritative version — it fixes the issues found in the original
-> `match_charters.ipynb` (see §5): a case/format-robust Gysseling join, the
-> `margin` persisted to the output, `tussengroep` dropped, and the misleading
-> `hand` column removed. It needs no API key (matching runs off the local
-> `transcriptions/` and `cd-admin-txt/` text) and regenerates the spreadsheet in
-> ~1 min: `python match_charters.py`.
+Flash HTR (2026-08-31): matcher searches **only Gysseling texts with a unique
+Leroy `groep`** (1104 / 2226). `--all-corpus` restores the full set.
+**737 / 1347** matches, **737** with `hand_group`.
+Visual QC: `python review_matches.py --serve` → `outputs/match_review.html`.
 
 ### 3.5 mole embeddings — `../code/02-extract_embeddings.py`
 For reference: a self-supervised ViT-small (DINO-style teacher checkpoint)
@@ -122,7 +141,10 @@ below is meant to feed and be evaluated against.
 
 **`hand_group`** — Leroy's scribal hand-group, taken only from rows where
 `Type == 'groep'`. **This is the writer-identity signal**, and the only label
-used downstream: 461 images across 98 groups (76 with ≥2 members).
+used downstream. Flash HTR freeze (2026-08-31), Leroy-only corpus with
+dorse dropped: **737** images across **108** groups (**92** with ≥2 members).
+(The 461 / 98 / 76 figures in §6 are from the
+legacy Sonnet run.)
 
 Two things the source data does *not* give you:
 

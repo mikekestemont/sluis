@@ -1,0 +1,65 @@
+<header>
+<docId>0096</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 182:26> <q> de <q> xlii <q> 't3s <q> que 
+<L 182:27> <q> maistre <q> hues <C 471_DE> de <q> beer <q> nous <q> donna <q> en <q> quatre <q> mestiers. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 182:30> <q> .. <C 450_MIJN> Min <C 1_HEER> here <C 20_WOUTER> wouter <C 700_VAN> van <C 20_GENT> ghent <C 450_MIJN> min <C 1_HEER> here <C 21_BOUDEWIJN> boudene <C 471_DE> die <C 26_BROEKER> brok<A >er</A>ra <C 12_RIDDER> Rudders. 
+<L 182:31> <C 20_WOUTER> wouter <C 471_DE> die <C 101_WILD> wilde. <C 20_JOHANNES> Jehan <C 471_DE> die <C 0_GOOS> goes. <C 1+22+472_HEER+NICOLAAS+DE> clais+here <C 22_WILHELM> willema<A >n</A>s <C 1_ZOON> sone <C 20_RIJKWARD> Riq<A >ua</A>rd 
+<L 182:32> <C 20_DINING-X> dini<A >n</A>g <C 20_JOHANNES> Jehan <C 700_VAN> van <C 20_KLEIEM> cleyhem. <C 20_DIEDERIK> th<A >iederi</A>c. <C 0_VOS> vos. <C 20_DIEDERIK> th<A >iederi</A>c. <C 700_VAN> van <C 21_ROSSEWAAL> Raessewale 
+<L 182:33> <C 21_BOUDEWIJN> boudene <C 700_VAN> van <C 21_SCHARPING> sparpinghe <VN type=1> <q> . <C 20_REINWARD> Reinu<A >er</A>d <C 0_VROUW> ver <C 24_GODELINDE> godelinden <C 1_ZOON> sone. <C 20_AEGIDIUS> gillis. <C 22_DIEDERIK> diederics 
+<L 182:34> <C 1_ZOON> sone <C 20_JOHANNES> Jehan <C 700_VAN> van <C 21_LAPSCHEURE> lapscuere <C 14_SCHEPEN> Scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane. <C 406_ZIJ> hem 
+<L 182:35> <C 324_AL> allen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_EN> ende <C 250_HOREN> horen. <C 810_DAT> Dat <C 220_KOMEN> quam <C 700_VOOR> voer <C 404_WIJLIEDEN> ons+leden. 
+<L 182:36> <C 0_BROEDER> broeder <C 20_AEGIDIUS> Gillis. <C 0_KOOPMAN> coepma<A >n</A> <C 471_DE> die <C 0_KOOPMAN> coepma<A >n</A> <C 700_VAN> van <C 21_MARQUETTE> markette. <C 800_EN> ende <C 221_BRENGEN> brochte 
+<L 182:37> <C 101_UITHANGEND> vthanghende <C 4_LETTER> lettren <C 700_VAN> van <C 475_DE/HET> der <C 4_ABDIS> abedessen <C 800_EN> ende <C 700_VAN> van <C 474_DE/HET> den <C 1_CONVENT> couente <C 700_VAN> van 
+<L 182:38> <C 21_MARQUETTE> markette <C 810_DAT> Dat <C 406_ZIJ> sie <C 403_HIJ> hem <C 0_MACHT> macht <C 234_HEBBEN> hadden <C 274_GEVEN> ghegheue<A >n</A> <C 700_TE> te <C 251_WISSELEN> wisselne <C 800_EN> ende 
+<L 182:39> <C 101_WETTELIJK> wetteleke <C 1_GIFT> ghifte <C 700_TE> te <C 251_GEVEN> gheuene <C 840_ALS> als <C 700_VAN> van <C 309_42> xlii <C 19_SOLIDUS> sol <C 2+472_JAAR+HET> siaers. <C 421_DIE> Die <C 20_CHRISTIAAN> xp<A >ist</A>iaen <C 700_VAN> va<A >n</A> <C 474_DE/HET> den 
+<L 182:40> <C 21_DAMME> da<A >m</A>me <C 100_SCHULDIG> scoudiich <C 230_ZIJN> was <VN type=1> <C 475_DE/HET> der <C 4_KERK> kerken <C 700_VAN> van <C 21_MARQUETTE> markette. <C 700_OP> up <C 301_13> dertiene. <C 11_GEMET> ymete <C 2_LAND> lants 
+<L 182:41> <C 271_LIGGEN> ligghende <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> prochie <C 700_VAN> van <C 21_ZUIENKERKE> zuenk<A >er</A>ke. <C 470_HET> Dat <C 421_WELK> wilke <C 0_LAND> lant <C 471_DE> die <C 101_VOORZEID> voerseide 
+<L 182:42> <C 20_CHRISTIAAN> xp<A >ist</A>iaen <C 800_EN> ende. <C 21_CAECILIA> celie <C 450_ZIJN> siin <C 0_WIJF> wiif. <C 224_KOPEN> cochte<A >n</A> <C 704_JEGEN> Jeghen <C 21_RIJKWARD> Riq<A >ua</A>rde <C 700_VAN> van <C 20_ZEDELGEM> zedelghem. 
+<L 182:43> <C 800_EN> ende <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 309_42> xlii. <C 19_SOLIDUS> sol <C 472+2_HET+JAAR> syaers. <C 550_ZO> so <C 220_GEVEN> gaf <C 0_MEESTER> meester <C 21_HUGO> hughe <C 471_DE> die <C 0_BEER> beer <C 415_DEZE> deser 
+<L 182:44> <C 105_VOORZEID> voerseider <C 4_KERK> kerken <C 700_VAN> van <C 24_MARQUETTE> marketten <C 700_IN> in <C 4_AALMOES> alemoesene<A >n</A>. <C 510_DAARNA> Dar+na <C 550_ZO> so <C 220_KOMEN> qua<A >m</A> 
+<L 183:1> <C 0_BROEDER> broeder <C 20_AEGIDIUS> Gillis <C 700_VAN> van <C 21_MARQUETTE> markette. <C 800_EN> ende <C 220_GEVEN> gaf <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 414_DIE> dien <C 104_VOORZEID> vorseiden 
+<L 183:2> <C 21_CHRISTIAAN> xp<A >ist</A>iane <C 700_VAN> van <C 474_DE/HET> den <C 21_DAMME> da<A >m</A>me <C 800_EN> ende <C 24_CAECILIA> celien <C 454_ZIJN> sinen <C 1_WIJF> wiue <C 700_VAN> van <C 475_DE/HET> der <C 14_KERK> kerken <C 4_HALF> aluen 
+<L 183:3> <C 700_VAN> van <C 24_MARQUETTE> markette<A >n</A> <C 700_VAN> van <C 474_DE> dien <C 114_VOORZEID> voerseiden <C 309_42> xlii <C 19_SOLIDUS> sol <C 472+2_HET+JAAR> siaers. <C 800_EN> ende <C 203_WEDDEN> weddet <C 403_HIJ> hem <C 840_ALS> als 
+<L 183:4> <C 700_VAN> van <C 475_DE/HET> der <C 4_KERK> kerken <C 4_HALF> aluen <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_GEWAREN> ghewarne <C 810_ALS> als <C 700_IN> in <C 105_RECHT> Recter <C 4_WISSELING> wisselinghen. 
+<L 183:5> <C 701_OM> Omme <C 110_ANDER> ander <C 309_42> xlii <C 19_SOLIDUS> sol <C 2+472_JAAR+HET> siaers. <C 421_DIE> die <C 471_DE> die <C 101_VOORZEID> voerseide <C 20_CHRISTIAAN> xp<A >ist</A>iaen <C 800_EN> ende <C 21_CAECILIA> celie <C 450_ZIJN> siin 
+<L 183:6> <C 0_WIJF> wiif <VN type=1> <C 224_HEBBEN> hadden <C 271_LIGGEN> ligghende <C 700_BINNEN> bi<A >n</A>ne<A >n</A> <C 474_DE/HET> den <C 1_AMBACHT> amboeste <C 700_VAN> van <C 21_ZUIENKERKE> zuenk<A >er</A>ke. <C 700_OP> up. <C 309_6> vi. 
+<L 183:7> <C 11_GEMET> ymete <C 2_LAND> lants <C 500_LICHTELIJK> licteliic <C 320_MIN> miin <C 800_OF> joef <C 500_LICHTELIJK> licteliic <C 320_MEE> me. <C 700_OP> up <C 471_DE> die <C 421_WELK> wilke <C 309_6> vi. <C 11_GEMET> ymete <C 2_LAND> lants <C 471_DE> die 
+<L 183:8> <C 101_VOORZEID> voerseide <C 20_CHRISTIAAN> xp<A >ist</A>iaen <C 800_EN> ende <C 21_CAECILIA> celie <C 450_ZIJN> siin <C 0_WIJF> wiif <C 204_HEBBEN> hebben. <C 309_4> iiij. <C 19_LIBRA> lib <C 472+2_HET+JAAR> siaers <C 115_GOED> goeder 
+<L 183:9> <C 115_VLAAMS> vlamsser <C 14_PENNING> peneghe<A >n</A> <C 105_ERFELIJK> arueliker <C 4_RENTE> renten. <C 421_DIE> Die <C 421_WELK> wilke <C 309_6> vi. <C 11_GEMET> ymete <C 2_LAND> lants. <C 20_JOHANNES> Jehan 
+<L 183:10> <C 20_GELDOLF> Ghildolf <C 800_EN> ende <C 21_CATHARINA> kateline <C 450_ZIJN> siin <C 0_WIJF> wiif <C 271_HOUDEN> houdende <C 214_ZIJN> ziin <C 701_OM> omme <C 471_DE> die <C 101_VOORZEID> voerseide. <C 309_4> iiij. 
+<L 183:11> <C 19_LIBRA> lib <C 2+472_JAAR+HET> siaers. <C 700_VAN> van <C 474_DE> dien <C 104_VOORZEID> voerseiden <C 21_CHRISTIAAN> xp<A >ist</A>iane <C 800_EN> ende <C 700_VAN> van <C 24_CAECILIA> celien <C 454_ZIJN> sine<A >n</A> <C 1_WIJF> wiue <C 700_TE> te 
+<L 183:12> <C 104_ERFELIJK> arueliken. <C 1_CIJNS> cense. <C 510_DAARNA> Dar+na <C 550_ZO> soe <C 220_KOMEN> qua<A >m</A> <C 20_CHRISTIAAN> xp<A >ist</A>iaen <C 800_EN> ende <C 21_CAECILIA> celie <C 450_ZIJN> siin <C 0_WIJF> wiif <VN type=1> <C 800_EN> ende 
+<L 183:13> <C 224_GEVEN> gauen <C 414_DEZE> desen <C 104_VOORZEID> voerseiden <C 0_BROEDER> broder <C 21_AEGIDIUS> Gillisse. <C 700_VAN> van <C 21_MARQUETTE> markette. <C 101_WETTELIJK> wettelike. <C 1_GIFT> Ghifte 
+<L 183:14> <C 700_TE> te <C 105_VOORZEID> voerseider <C 4_KERK> kerken <C 0_BEHOEF> boef. <C 700_VAN> van <C 21_MARQUETTE> markette. <C 700_VAN> van <C 414_DEZE> desen <C 114_VOORZEID> voerseiden. <C 309_4> iiij. <C 19_LIBRA> lib 
+<L 183:15> <C 472+2_HET+JAAR> siaers. <C 700_TE> te. <C 251_HEBBEN> hebbene. <C 501_ERFELIJK> arueleke <C 309_42> .xlii. <C 19_SOLIDUS> sol <C 472+2_HET+JAAR> siaers. <C 840_ALS> als <C 700_IN> in <C 104_RECHT> recten <C 1_WISSEL> wissele. <C 701_OM> omme 
+<L 183:16> <C 471_DE> die <C 309_42> xlii. <C 19_SOLIDUS> sol. <C 2+472_JAAR+HET> siaers. <C 421_DIE> die <C 510_HIER> hier <C 273_VOORZEGGEN> voerseit <C 214_ZIJN> siin <C 800_EN> ende <C 406_ZIJ> sie <C 224_WEDDEN> wedden. <C 403_HIJ> hem. <C 475+700_DE+TE> ter 
+<L 183:17> <C 4_KERK> kerken <C 0_BEHOEF> boef <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne <C 704_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensghe. <C 700_MET> met <C 104_VOL> wllen <C 1_KOOP> cope 
+<L 183:18> <C 800_EN> ende <C 700_MET> met <C 105_VOL> wlre <C 1_VERSTERFENIS> versteruenesse. <C 800_EN> ende. <C 414_DEZE> desen <C 0_CIJNS> chens. <C 210_ZIJN> es <C 440_MEN> me <C 100_SCHULDIG> sculdiich <C 700_TE> te 
+<L 183:19> <C 251_GELDEN> gheldene <C 504_BIJ-NAAM> bename<A >n</A> <C 700_VAN> van <C 414_DEZE> desen <C 309_42> .xlii. <C 19_SOLIDUS> sol. <C 2+472_JAAR+HET> siaers <C 471_DE> die <C 301_EEN> ene <C 0_HELFT> helt <C 700_TE> te <C 101_SINT> sinte 
+<L 183:20> <C 1_BAAFSMIS> bamesse <C 800_EN> ende <C 471_DE> die <C 310_ANDER> ander <C 0_HELFT> helt <C 700_TE> te <C 6_MIDWINTER> medewintra. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 404_WIJ> wie 
+<L 183:21> <C 14_SCHEPEN> scepene<A >n</A> <C 224_STAAN> stonden <C 700_OVER> ouer <C 411_DEZE> dese <C 1_VOORWAARDE> voerwaerde. <C 550_ZO> so <C 204_WILLEN> willen <C 404_WIJ> wie <C 810_DAT> dat <C 411_DEZE> dese. <C 0_DING> dinc <C 210_ZIJN> sie 
+<L 183:22> <C 100_VAST> wast <C 800_EN> ende <C 101_GESTADE> ghestade. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> jn <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 203_SCHRIJVEN> scriuet <C 450_ZIJN> Siin 
+<L 183:23> <C 0_INCARNATIOEN> Jncarnation <C 319_1270> .m'ho.+cc'ho.+lxx'ho. <C 2+472_VRIJDAG+DE> svrindaghes <C 700_VOOR> voer <C 101_SINT> sinte <C 22_MATTE'S1US> matheus <C 1_DAG> daghe 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1270' jaar_van='1270' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

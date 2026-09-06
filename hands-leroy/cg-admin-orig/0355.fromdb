@@ -1,0 +1,36 @@
+<header>
+<docId>0355</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 576:16> <C 700_VAN> van <q> wosstinen. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 576:23> <C 401_IK> Hic <C 21_RAAS> Rase <C 1_HEER> here <C 700_VAN> van <C 21_GAVERE> gavre <C 200_DOEN> doe <C 100_BEKEND> bekent <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 576:24> <C 214_ZULLEN> zullen <C 250_ZIEN> sien <C 800_EN> en<A >de</A> <C 250_HOREN> horen. <C 810_DAT> Dat <C 401_IK> hic <C 461_MIJ> mj <C 201_HOUDEN> houde <C 273_PAAIEN> ghepait <C 800_EN> en<A >de</A> <C 500_WEL> wel <C 274_VERGELDEN> vergolden 
+<L 576:25> <C 700_VAN> van <C 1_MEESTER> meestre <C 21_AEGIDIUS> gilise <C 1_MAKKELVOET-X> mackeluoete <C 1_PAROCHIEPAAP> prochghipape <C 700_VAN> van <C 101_SINT> sente <C 22_JOHANNES> Jans <C 700_VAN> van <C 20_GENT> ghent 
+<L 576:26> <C 700_VAN> van <C 454_MIJN> minen <C 1_RECHT> rechte <C 700_VAN> van <C 309_5> .v. <C 14_BUNDER> bunren <C 4_WOESTIJN> wastinen <C 471_DE> de <C 421_WELK> welke <C 204_LIGGEN> licghen <C 700_IN> in <C 471_DE> de 
+<L 576:27> <C 1_PAROCHIE> prochghie <C 700_VAN> van <C 21_ASSENEDE> hassenede <C 471_DE> de <C 421_WELK> welke <C 403_HIJ> hi <C 221_KOPEN> cochte <C 700_JEGEN> ieghen <C 454_MIJN> minen <C 1_HEER> here <C 474_DE/HET> den 
+<L 576:28> <C 1_GRAAF> graue. <C 700_IN> Jn <C 4_OORKONDSCHAP> orconschepen <C 700_VAN> van <C 414_DEZE> desen <C 114_VOORZEID> vorseiden <C 14_DING> dinghen <C 211_HEBBEN> hebbe <C 401_IK> hic <C 411_DEZE> dese 
+<L 576:29> <C 101_JEGENWOORDIG> ieghenwordeghe <C 4_LETTER> lettren <C 260_DOEN> doen <C 250_ZEGELEN> zeglen <C 101_UITHANGEND> huthankende <C 700_MET> met <C 454_MIJN> minen <C 104_PROPER> propren 
+<L 576:30> <C 1_ZEGEL> zegle. <C 700+470_IN+HET> Jnt <C 0_JAAR> jaer <C 700_VAN> van <C 474_DE/HET> den <C 1_INCARNATIOEN> jncarnatioene <C 452_ONS> ons <C 4_HEER> heren <C 851_ALS> alse <C 440_MEN> men <C 220_SCHRIJVEN> schreef <C 300_1280-EN-1> .m'ho.+.c'hoc'ho.lx'hox'hox'ho.+en<A >de</A>+heen. 
+<L 576:31> <C 700_IN> jn <C 474_DE/HET> den <C 1_ANDAG> andaghe <C 700_VAN> van <C 101_SINT> sente <C 21_PETRUS> pietre <C 800_EN> en<A >de</A> <C 700_VAN> van <C 101_SINT> sente 
+<L 576:32> <C 21_PAULUS> pauwelse. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1281' jaar_van='1281' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,45 @@
+<header>
+<docId>1341</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2088:32> <C 700_VAN> va<A >n</A> <C 21_JOHANNES> ja<A >n</A>ne <C 700_OP> op <q> heide 
+<L 2088:33> <C 700_VAN> van <q> iiij <C 19_LIBRA> lb. <C 119_PARIJS> p. <C 472+0_HET+JAAR> tsaer.- 
+<end-datering  jaar_tot='1350' jaar_van='1350' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> iiij <C 19_LIBRA> lb <C 2+472_JAAR+HET> siars <C 20_JOHANNES> ian <C 700_OP> op <q> heide. 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2088:38> <C 404_WIJ> Wi <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 1*_NIEUW-> niewen <C 1#_-LAND> lande <C 704_BINNEN> binnen <C 21_MECHELEN> machline <C 21_MEINZO> mense <C 20_WITLEDER-X> witleder 
+<L 2088:39> <C 20_HENDRIK> heinric <C 700_VAN> van <C 4_HOFSTEDE> hofstaden <C 404_WIJ> wi <C 204_DOEN> doen <C 100_KOND> cont <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 500_NU> nu <C 204_ZIJN> sin <C 800_EN> en<A >de</A> 
+<L 2088:40> <C 250_WEZEN> wesen <C 214_ZULLEN> selen <C 810_DAT> dat <C 20_JOHANNES> ian <C 700_VAN> van <C 475_DE/HET> der <C 4_HEIDE> eyden <C 210_ZIJN> es <C 100_SCHULDIG> sculdech <C 474_DE/HET> den <C 0_HEER> her <C 21_GERARD> gherarde <C 700_VAN> van 
+<L 2088:41> <C 4_HOFSTEDE> hofstaden <C 301_VIER> viere <C 19_LIBRA> lb <C 2+472_JAAR+HET> siaers <C 501_ERFELIJK> erfleke <C 415_ALZULK> alse+sulker <C 14_MUNT> munten <C 821_ALS> alse <C 440+621*_MEN+DAAR-> daermen <C 621#_-MEDE> mede 
+<L 2088:42> <C 203_KOPEN> coept <C 800_EN> en<A >de</A> <C 203_VERKOPEN> v<A >er</A>coept <C 700_OP> op <C 480_EEN> heen <C 1_ERF> erue <C 420_DAT> dat <C 274_LIGGEN> ghelegen <C 210_ZIJN> es <C 700_AAN> an <C 471_DE> de <C 1_VONDER> vondere <C 700+475_BIJ+DE> bider 
+<L 2088:43> <C 1_AUGUSTIJN> aeustine <C 800_EN> en<A >de</A> <C 414_DEZE> desen <C 0_CIJNS> tsens <C 440+210_MEN+ZULLEN> salm<A >en</A> <C 250_GELDEN> ghilden <C 471_DE> de <C 301_EEN> ene <C 0_HELFT> helft <C 700_TE> te <C 101_SINT> sinte <C 22_JOHANNES> ians 
+<L 2088:44> <C 1_MIS> misse <C 800_EN> en<A >de</A> <C 310+470_ANDER+DE> dander <C 0_HELFT> helft <C 700_TE> te <C 1_KERSTAVOND> kersauonde <C 800_EN> en<A >de</A> <C 700_IN> in <C 414_DEZE> desen <C 104_VOORNOEMD> vornomden <C 0_CIJNS> tsens 
+<L 2088:45> <C 550_ZO> so <C 210_ZIJN> es <C 274_KOMEN> co<A >m</A>men <C 411_DEZE> dese <C 101_VOORNOEMD> vornomde <C 470+0_DE+HEER> der <C 20_GERARD> gherart <C 700_MET> met <C 4_MANIS> manessen <C 472+2_DE+RECHTER> srechters <C 800_EN> en<A >de</A> 
+<L 2088:46> <C 700_MET> met <C 1_WIJSDOM> wiisdoeme <C 475_DE/HET> der <C 14_SCHEPEN> scepenen <C 800_EN> en<A >de</A> <C 810_OMDAT> om<A >me</A>+dat <C 410_DIT> dit <C 100_WAAR> waer <C 210_ZIJN> es <C 800_EN> en<A >de</A> <C 100_ZEKER> seker <C 550_ZO> so 
+<L 2089:1> <C 210+404+600*_HEBBEN+WIJ+ER-> ebwiere <C 404_WIJ> wi <C 111_VOORNOEMD> vornomde <C 14_SCHEPEN> scepenen <C 451_ONS> onse <C 111_PROPER> propere <C 11_ZEGEL> seghele <C 600#_-AAN> an <C 274_HANGEN> gheanghen <C 411_DEZE> dese 
+<L 2089:2> <C 1_LETTER> lettre <C 230_ZIJN> was <C 273_MAKEN> ghemaect <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsmen <C 203_SCHRIJVEN> scriift <C 309_DUIZEND> .m. <C 10_JAAR> iaer <C 800_EN> en<A >de</A> <C 309_200> .cc. 
+<L 2089:3> <C 800_EN> en<A >de</A> <C 309_94> .xciiii. <C 2_DONDERDAG> donresdags <C 700+471_IN+DE> inde <C 1_SINKSENDAG> tsinxsendaghe <q> ---- 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1294' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='77' plaats_2='' regio_1='10' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,45 @@
+<header>
+<docId>0544</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 795:10> <C 1*_POTSEMAIN-> putsemain <C 1#_-POORT> poorte. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 795:15> <C 204_WETEN> Weten <C 321_AL> alle <C 471_DE> die <C 411_GENE> ghene <C 421_DIE> die <C 204_ZIJN> siin <C 800_EN> en<A >de</A> <C 421_DIE> die <C 700_TE> te <C 251_KOMEN> comene <C 204_ZIJN> siin <C 810_DAT> dat <C 20_GERARD> gherart <C 700_VAN> van 
+<L 795:16> <C 474_DE/HET> den <C 1_MEERS> mersghe <C 210_ZIJN> es <C 274_KOMEN> comen <C 701_VOOR> vore <C 21_NICOLAAS> clause <C 101_GAAILING> g[a]ilinke. <C 21_WOUTER> wointine <C 700_VAN> van <C 475_DE/HET> der <C 4_STRAAT> straten. 
+<L 795:17> <C 21_JOHANNES> jhanne <C 1_GAFFELTJE> gaffelkine. <C 21_BOUDEWIJN> boidine <C 700_VAN> van <C 1_EVERBEEK> euersbeke. <C 800_EN> en<A >de</A> <C 21_AEGIDIUS> gilise <C 21_STULVIJN-X> stuluine <C 14_SCHEPEN> scepenen 
+<L 795:18> <C 700_VAN> van <C 21_GERAARDSBERGEN> gheroutsb<A >er</A>ghe. <C 800_EN> en<A >de</A> <C 213_HEBBEN> heeft <C 463_HEM> hem <C 273_ONTERVEN> onderuet <C 841_ALS> alse <C 700_VAN> van <C 474_DE/HET> den <C 1_ERF> erue <C 420_DAT> dat <C 203_LIGGEN> leit 
+<L 795:19> <C 800_EN> en<A >de</A> <C 420_DAT> dat <C 403_HIJ> hi <C 271_HOUDEN> houdende <C 230_ZIJN> was <C 700_IN> jn <C 1+410_ZIJDE+DEZE> desside <C 4*_POTSEMAIN-> potchem[a]in <C 4#_-POORT> poerte<A >n</A> <C 704_TUSSEN> [tu]schen 
+<L 795:20> <C 20_JOHANNES> jhan <C 2_HOOFD> hoefts <C 800_EN> en<A >de</A> <C 20_GERARD> ghenkin <C 22_NOKERSTOK> nuek<A >er</A>stocs <C 800_EN> en<A >de</A> <C 213_HEBBEN> heeft <C 600*+440_DAAR-+MEN> [m]ender <C 20_JOHANNES> jhan <C 700_VAN> van 
+<L 795:21> <C 474_DE/HET> den <C 14_PLANK> planken <C 600#_-IN> j[n] <C 273_ERVEN> gheerft. <C 500_VOORT> voert <C 550_ZO> soe <C 213_HEBBEN> heeft <C 20_JOHANNES> jhan <C 700_VAN> van <C 474_DE/HET> den <C 14_PLANK> planken 
+<L 795:22> <C 274_GEVEN> ghegheuen <C 410_DAT> dat <C 411_ZELF> selue <C 1_ERF> erue <C 21_GERARD> gherarde <C 700_VAN> van <C 474_DE/HET> den <C 1_MEERS> mersche <C 403_HIJ> hem <C 800_EN> en<A >de</A> <C 450_ZIJN> siin <C 0_OOR> oer 
+<L 795:23> <C 700_OM> om <C 309_4> .iiij. <C 19_SOLIDUS> 't3s <C 800_EN> & <q> [.v.] <C 19_DENARIUS> d <C 800_EN> & <C 9_OBOLUS> .'t4o <C 700_TE> te <C 251_GELDEN> gheldene <C 502_JAARLIJKS> iarlic <C 21_JOHANNES> jhanne <C 700_VAN> van <C 474_DE/HET> den <C 14_PLANK> planken <C 403_HIJ> hem 
+<L 795:24> <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 1_OOR> oere <C 704_TUSSEN> tuschen <C 104_SINT> s[en]tin <C 22_MARTIN> mertins <C 0_DAG> dach <C 271_NAASTKOMEND> nast+comende <C 800_EN> en<A >de</A> 
+<L 795:25> <C 20_DERTIENDAG> dertin[dach] <C 271_NAVOLGEN> na+volghende. <C 800_EN> en<A >de</A> <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 471_DE> de <C 101_VOORGEZEID> vore+gheseide 
+<L 795:26> <C 20_GERARD> gherart <C 700_VAN> van <C 474_DE/HET> den <C 1_MEERS> mersche <C 800_OF> of <C 403_HIJ> hi <C 800_OF> of <C 450_ZIJN> siin <C 0_OOR> oer. <C 560_NIET> niet <C 560_NE> ne <C 221_GELDEN> g[olde] <C 700_TE> te <C 1_TIJD> tide <C 800_EN> en<A >de</A> 
+<L 795:27> <C 700_TE> te <C 1_TERMT> terempte <C 510_ALZO> alsoe <C 403+820_HET+ALS> alst <C 611_HIERVOOR> hier+vore <C 273_ZEGGEN> gheseit <C 210_ZIJN> es. <C 21_JOHANNES> jhanne <C 700_VAN> van <C 474_DE/HET> den <C 14_PLANK> planken <C 800_OF> of 
+<L 795:28> <C 403_HIJ> hem <C 800_OF> of <C 450_ZIJN> siin <C 0_OOR> oer <C 550_ZO> soe <C 231_MOGEN> mochte <C 20_JOHANNES> jhan <C 700_VAN> van <C 474_DE/HET> den <C 14_PLANK> planken <C 250_SLAAN> slan <C 450_ZIJN> siin <C 0_HAND> hant <C 700_AAN> an <C 450_ZIJN> siin 
+<L 795:29> <C 1_ERF> erue <C 800_OF> of <C 403_HIJ> hi <C 800_OF> of <C 450_ZIJN> siin <C 0_OOR> oer <C 800_EN> en<A >de</A> <C 20_GERARD> gherart <C 700_VAN> van <C 474_DE/HET> den <C 1_MEERS> mersche <C 800_NO> no <C 403_HIJ> hi <C 800_NO> no <C 450_ZIJN> siin <C 0_OOR> oer 
+<L 795:30> <C 505_NIMMERMEER> nemmer+mer <C 610_DAARTOE> d[a]r+toe <C 250_SPREKEN> s[prek]en. <C 700_IN> jn <C 421_WELK> welke <C 0_OORKONDSCHAP> orconscep <C 700_BIJ> bi <C 474_DE/HET> den <C 1_VERZOEK> versoeke 
+<L 795:31> <C 700_VAN> van <C 474_DE/HET> den <C 14_PARTIJ> partien <C 210_HEBBEN> heb <C 404_WIJ> wi <C 411_DEZE> dese <C 1_LETTER> lettre <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_ONS> onsen <C 1_CONTERZEGEL> contre+saiele. 
+<L 795:32> <C 421_DIE> die <C 230_ZIJN> was <C 274_GEVEN> ghegheuen <C 700+470_OP+HET> opt <C 0_JAAR> iar <C 452_ONS> ons <C 4_HEER> heren <C 420_DAT> dat <C 440_MEN> men <C 203_ZEGGEN> seit <C 319_1284> .m'ho.+cc'ho+lxxx'hoiiij'ho 
+<L 795:33> <C 472+2_DE+ZATERDAG> s[at]<A >er</A>dachs <C 700_NA> na <C 29_TRINITEIT> t<A >ri</A>nite 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1284' jaar_van='1284' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='43' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

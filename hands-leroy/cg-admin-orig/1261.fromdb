@@ -1,0 +1,21 @@
+<header>
+<docId>1261</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='134' plaats_2='' regio_1='5' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1929:10> <C 1_LETTER> L<A >ette</A>re <C 475_DE/HET> d<A >er</A> <C 1_VROUW> vrouwe <C 700_VAN> van 
+<L 1929:11> <C 21_VOORNE> vorne <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_GOED> goede <C 700_VAN> va<A >n</A> <C 21_TEILINGEN> teylinghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='134' plaats_2='' regio_1='5' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='md'>

@@ -1,0 +1,35 @@
+<header>
+<docId>0984</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1507:10> <C 20_JACOB> jacob <C 20_OOSTJE-X> ostkin 
+<L 1507:11> <C 20_JACOB> coppin <C 20_TOBBIN> tobbin 
+<L 1507:12> <C 20_NICOLAAS> clais <C 20_BONIJN-X> bonin 
+<L 1507:13> <C 20_EUSTACHIUS> stasin <C 0_ZWIJNTJE> svinkin 
+<L 1507:14> <C 20_NICOLAAS> clais <C 0_ZWIJNTJE> svijnkin 
+<L 1507:15> <C 20_JACOB> coppin <C 0_ZWIJNTJE> svijnkin 
+<L 1507:16> <C 20_JACOB> jacob <C 101_BREED> brede 
+<L 1507:17> <C 20_JOHANNES> joh<A >anne</A>s <q> de <C 6_POORT> porta 
+<L 1507:18> <C 20_PETRUS> piet<A >er</A> <C 101_GRIJS> grise 
+<L 1507:19> <C 20_PETRUS> piet<A >er</A> <q> maritus <C 0_GARENKOPEGGE> gharencopicgen 
+<L 1507:20> <q> duo <q> famuli <C 29_JACOB> jacobi <C 22_BONIJN-X> bonins 
+<L 1507:21> <C 20_PETRUS> pieter <C 0_ZWIJNTJE> svijnkin 
+<L 1507:22> <C 20_ANDREAS> andries <C 20_LOEVIJN> loeuin 
+<L 1507:23> <C 20_JOHANNES> jehan <C 20_DOUW-X> dou <C 0_ZAK> sac 
+<L 1507:24> <q> famulus <q> magistri <C 29_JACOB> iacobi <q> presbiteri <q> parrochialis <q> sancti <q> saluatoris 
+<L 1507:25> <C 20_GERWIJN> gherwin <q> filius <C 22_JOHANNES> ioh<A >annis</A> <C 22_GERWIJN> gh<A >er</A>ewins 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,62 @@
+<header>
+<docId>1450</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2216:21> <C 410_DIT> dit <C 200_ZIJN> es <C 700_VAN> van <q> lamsijn <C 700_VAN> van <C 475_DE/HET> der <q> mare.- <C 700_VAN> van 
+<L 2216:22> <C 472+1_DE+HEER> sere <C 22_JOHANNES> jans <q> capelrie <C 700_VAN> van <q> petenghem.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> xij <C 19_LIBRA> lb <q> goeder <C 115_VLAAMS> vlamscher <q> mvnte. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2216:27> <C 404_WIJ> WJE <C 20_WOUTER> wouter <C 700_VAN> van <C 20_GENT> ghent <C 1_RIDDER> ruddere; <C 20_JOHANNES> jan <C 700_VAN> van <C 20_CADZAND> caedzant; <C 20_JOHANNES> jan <C 474+700_DE/HET+VAN> vanden <C 1_ZAND> zande; 
+<L 2216:28> <C 20_IWEIN> weinin <C 700_VAN> van <C 21_VARSENARE> varsnare; <C 20_NICOLAAS> clais <C 700_VAN> van <C 21_BAVINGDAM> bauindamme; <C 20_JOHANNES> jan <C 0_MOND> mont; <C 20_PETRUS> pieter <C 20_TOLLIN> tollin; 
+<L 2216:29> <C 20_WOUTER> wouter <C 0_CONVENT> couent; <C 800_EN> ende <C 20_AEGIDIUS> gillis <C 700_VAN> van <C 20_EERNEGEM> ernegheem; <C 14_SCHEPEN> schepenen <C 474+700_DE/HET+VAN> vanden <C 104_VRIJ> vrihen. 
+<L 2216:30> <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> gonen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien. <C 800_OF> jof <C 250_HOREN> horen 
+<L 2216:31> <C 250_LEZEN> lesen; <C 810_DAT> dat <C 220_KOMEN> Cam <C 700_VOOR> vor <C 404_WIJ> ons; <C 20_JOHANNES> hannin <q> f <C 22_LAMBERT> lammins <q> f <C 2_GUITER> guters. <C 800_EN> ende <C 220_GEVEN> gaf <C 101_WETTELIJK> wettelike 
+<L 2216:32> <C 1_GIFT> ghifte; <C 21_LAMBERT> lamsine <C 475+700_DE+VAN> vander <C 1_MARE> mare <C 700_VAN> van <C 301_16> sestiene <C 14_GEMET> ymeten <C 2_LAND> lants <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer. <C 800_OF> jof 
+<L 2216:33> <C 320_MIN> min <C 271_LIGGEN> licghende <C 700+474_BINNEN+DE/HET> binden <C 1_AMBACHT> ambochte <C 700_VAN> van <C 21_UITKERKE> vtkerke <C 800_EN> ende <C 475+700_DE+BINNEN> binder <C 4_PAROCHIE> prochien <C 700_VAN> van 
+<L 2216:34> <C 101_SINT> sinte <C 22_JOHANNES> jans <C 700+474_OP+DE/HET> vpten <C 0_DIJK> dijc. <C 704_BEOOSTEN> boosten <C 475_DE/HET> der <C 4_HOFSTEDE> hofsteden <C 620*_DAAR-> daer <C 20_LAMBERT> lammin <q> f <C 2_GUITER> guters <C 504_WIJLEN> wilen 
+<L 2216:35> <C 221+620#_WONEN+-OP> vpwoende <C 800_EN> Ende <C 403_HIJ> hie <C 403+220_HET+WEDDEN> weddets <C 403_HIJ> hem <C 700_TE> te <C 4_WET> wetten <C 700_TE> te <C 251_WAREN> waerne <C 0_WEG> wech <C 800_EN> ende <C 0_LAND> lant. 
+<L 2216:36> <C 101_KWIJT> quite <C 0_LAND> lant. <C 800_EN> ende <C 700_ZONDER> sonder <C 0_SCHULD> sculd. <C 700_JEGEN> jeghen <C 324_ELK> elken <C 1_MENS> mensche <C 700_TE> te <C 454_ZIJN> sinen <C 104_RECHT> rechten 
+<L 2216:37> <C 1_EIGENDOM> eghindoeme. <C 800_EN> Ende <C 20_LAMBERT> lamsin <C 475+700_DE+VAN> vander <C 1_MARE> mare <C 100_VOORZEID> vorseit. <C 800_EN> ende <C 1_JONKVROUW> joncvrouwe 
+<L 2216:38> <C 21_HEILE> heilsoete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 224*_-GEVEN> gaven <C 224#_WEDER-> weder <C 700+484_TE+EEN> tenen, <C 104_ERFELIJK> herueliken <C 1_CIJNS> chense. <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vorseide 
+<L 2216:39> <C 0_LAND> lant <C 20_JOHANNES> hannin <q> f <C 22_LAMBERT> lammins <q> f <C 2_GUITER> guters <C 100_VOORZEID> vorseit <C 701_OM> omme <C 300_12> twaelf <C 10_POND> pont <C 115_GOED> goeder 
+<L 2216:40> <C 115_VLAAMS> vlaemscher <C 14_PENNING> peneghen <C 2+472_JAAR+HET> sjaers. <C 700_TE> te <C 251_GELDEN> gheldene <C 470+301_DE+EEN> dene <C 0_HELFT> helt <C 700_VAN> van <C 414_DEZE> desen <C 1_CIJNS> chense 
+<L 2216:41> <C 324+700_ELK+TE> telken <C 21_MIDWINTER> medewintre <C 421_DIE> die <C 503_EERST> erst <C 203_KOMEN> coemt <C 475+700_DE+NA> nader <C 1_NOOT> note <C 474+700_DE/HET+VAN> vanden <C 1_JAAR> jare; <C 800_EN> Ende <C 311+470_ANDER+DE> dandre 
+<L 2216:42> <C 0_HELFT> helt <C 700_TE> te <C 251_GELDEN> gheldene <C 700_TE> te <C 21_MEI> meye <C 610_DAARNA> daer+na <C 700_IN> jn <C 320_ELK> elc <C 0_JAAR> jaer; <C 800_EN> Ende <C 20_LAMBERT> lamsin <C 475+700_DE+VAN> vander <C 1_MARE> mare 
+<L 2216:43> <C 800_EN> ende <C 21_HEILE> heilsoete <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 100_VOORZEID> vorseit <C 224_WEDDEN> wedden <C 20_JOHANNES> hannin <q> f <C 22_LAMBERT> lammins <q> f <C 2_GUITER> guters <C 100_VOORZEID> vorseit 
+<L 2216:44> <C 101_KWIJT> quite <C 700_TE> te <C 251_SCHELDEN> scheldene. <C 800_OF> jof <C 22_JOHANNES> hannins <C 0_OOR> hoyr <C 810_OF> jof <C 403_HIJ> sijns <C 221_GEBREKEN> ghebrake <C 700_VAN> van <C 415_DEZE> deser 
+<L 2216:45> <C 105_VOORZEID> vorseider <C 1_RENTE> rente; <C 810_ZO-WELK-TIJD-DAT> so+welke+tijt+dat <C 403_HIJ> hie <C 221_KOMEN> came <C 800_OF> jof <C 450_ZIJN> sijn <C 100_WETTELIJK> wettelic <C 0_OOR> hoyr <C 704_BINNEN> binnen 
+<L 2216:46> <C 414_DEZE> desen <C 114_NAAST> naesten <C 300_TIEN> tien <C 14_JAAR> jaren. <C 800_EN> Ende <C 221_GEVEN> gave <C 21_LAMBERT> lamsine <C 100_VOORZEID> vorseit <C 800_EN> ende <C 1_JONKVROUW> joncvrouwe 
+<L 2217:1> <C 24_HEILE> heilsoeten <C 454_ZIJN> sinen <C 1_WIJF> wiue. <C 800_OF> jof <C 454_HAAR> haren <C 104_WETTELIJK> wetteliken <C 1_OOR> hoyre <C 810_OF> jof <C 406_ZIJ> haers <C 221_GEBREKEN> ghebrake 
+<L 2217:2> <C 300_HONDERD> hondert <C 10_POND> pont <C 115_GOED> goeder <C 115_VLAAMS> vlaemscher <C 14_PENNING> peneghen <C 800+474_EN+DE/HET> enten <C 0_CIJNS> chens <C 474+700_DE/HET+VAN> vanden <C 1_JAAR> jare. 
+<L 2217:3> <C 800_EN> Ende <C 501_DAN> danne <C 231_ZIJN> ware <C 320_AL> al <C 410_DIT> dit <C 101_VOORZEID> vorseide <C 0_LAND> lant <C 101_KWIJT> quite. <C 800_EN> ende <C 231_ZULLEN> soude <C 250_KEREN> keren <C 700_OP> vp <C 20_JOHANNES> hannin 
+<L 2217:4> <q> f <C 22_LAMBERT> lammins <q> f <C 2_GUITER> guters <C 100_VOORZEID> vorseit <C 800_OF> jof <C 700_OP> vp <C 450_ZIJN> sijn <C 100_WETTELIJK> wettelic <C 0_OOR> hoyr <C 403+520_HET+ALDAAR> al+daert <C 700_MET> met <C 1_RECHT> rechte 
+<L 2217:5> <C 100_SCHULDIG> sculdich <C 231_ZIJN> ware <C 700_TE> te <C 251_KEREN> keerne; <C 700_IN> Jn <C 4_KENNIS> kennessen <C 700_VAN> van <C 320_AL> al <C 414_DEZE> desen <C 14_STUK> sticken <C 810_DAT> dat <C 406_ZIJ> sie <C 100_VAST> vast 
+<L 2217:6> <C 214_ZULLEN> sullen <C 260_BLIJVEN> bliuen; <C 100_ZEKER> zeker <C 800_EN> ende <C 101_GESTADE> ghestade; <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 14_SCHEPEN> schepenen 
+<L 2217:7> <C 700+474_VAN+DE/HET> vanden <C 104_VRIJ> vrihen <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen 
+<L 2217:8> <C 101_UITHANGEND> vthanghende. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 472+2_DE+ZATERDAG> saterdaghes <C 700_NA> na <C 455_ONS> onser <C 4_VROUW> vrouwen <C 1_DAG> daghe <C 700_IN> in 
+<L 2217:9> <C 20_PIETMAAND> pietmaent. <q> Anno. <q> domini <q> .m'ho.cc'ho. <q> Nonogesimo. <q> quinto 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

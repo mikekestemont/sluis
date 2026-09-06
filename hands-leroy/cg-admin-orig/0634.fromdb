@@ -1,0 +1,57 @@
+<header>
+<docId>0634</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1067:30> <q> carta <q> de <C 20_OUDENBURG> aldenborg.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1425' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 1067:31> <q> littera <q> de <q> vna <q> waghe <q> butiri <q> apud <q> oudenbuerch.- 
+<end-datering  jaar_tot='1425' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<q> Oudenburgh 
+<L 1067:32> <q> anno <q> 1285.- 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1700' jaar_van='1601' tijdsoort='2' tijdstatus='1'>
+<C 4_BOTERRENTE> Boter+renten. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1700' jaar_van='1601' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1067:37> <C 0_MEESTER> meester <C 20_ARNOUT> arnoud <C 474+700_DE/HET+VAN> vanden <C 1*_GROENEN-> groenen <C 1#_-DIJK-X> dike <C 800_EN> en<A >de</A> <C 0_MEESTER> meester <C 20_STEFANUS> steuen <C 700_VAN> van <C 21_RIJSEL> risele 
+<L 1067:38> <C 11_KANUNNIK> canoeke <C 700_VAN> van <C 100_SINT> sint <C 22_DONATIANUS> doenaes <C 700_IN> in <C 24_BRUGGE> brugghen <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> goenen 
+<L 1067:39> <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 220_KOMEN> quam <C 700_VOOR> voer <C 404_WIJ> ons <C 21_BOUDEWIJN> boudene 
+<L 1067:40> <q> f <C 22_REINWARD> reinuards <C 700+474_VAN+DE/HET> vanden <C 1_RIET> riede <C 800_EN> en<A >de</A> <C 230_WORDEN> word <C 100_WETTELIJK> wettelijc <C 0_HOOFDMAN> houetman <C 501_EEUWELIJK> ewelike <C 472+0_DE+HEER> ser 
+<L 1067:41> <C 22_BOUDEWIJN> boudens <C 700_VAN> van <C 21_WARSTIN> warstine <C 0_KANUNNIK> canoenec <C 700_VAN> van <C 21_ZONNEBEKE> zinnebeke <C 475+700_DE+TE> ter <C 1_KERK> kerke <C 0_BEHOEF> boef <C 700_VAN> van 
+<L 1067:42> <C 21_ZONNEBEKE> zinnebeke <C 700_VAN> van <C 305_EEN> ere <C 1_WAAG> waghe <C 4_BOTER> boetren <C 472+2_HET+JAAR> siars <C 700_TE> te <C 251_GELDEN> gheldene <C 700_TE> te <C 101_SINT> sinte <C 22_MARTIN> martins 
+<L 1067:43> <C 1_MIS> messe <C 700+474_IN+DE/HET> inden <C 0_WINTER> winter <C 700_OP> vp <C 301_6> zesse <C 11_GEMET> ymete <C 2_LAND> lands <C 500_LUTTEL> lettel <C 320_MIN> min <C 800_OF> of <C 325_MEER> meer <C 271_LIGGEN> ligghende 
+<L 1067:44> <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 700_VAN> van <C 20_OUDENBURGHOEK> oudenburch+hoec <C 800_EN> en<A >de</A> <C 213_HETEN> heet <C 22+0_KOEDIJN+STUK> koedinstic <C 800_EN> en<A >de</A> 
+<L 1067:45> <C 20_WOUBURGMEET> woudburch+meet: <C 800_EN> En<A >de</A> <C 810_OMDAT> om+dat <C 404_WIJ> wie <C 111_VOORZEID> voer+seide <C 11_KANUNNIK> kanoeneke <C 204_WILLEN> willen <C 810_DAT> dat 
+<L 1067:46> <C 411_DEZE> dese <C 10_DING> dinc <C 214_BLIJVEN> bliuen <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade; <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 411_DEZE> dese <C 4_LETTER> lettren 
+<L 1068:1> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 101_UITHANGEND> vuthanghende <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 1068:2> <C 472+2_DE+DINSDAG> sdinsendaghes <C 700_NA> na <C 101_SINT> sinte <C 24_CATHARINA> katelinen <C 1_DAG> daghe <q> anno <q> domini <q> m'ho <q> cc'ho <q> .lxxx'ho. 
+<L 1068:3> <q> quinto 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

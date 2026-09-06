@@ -1,0 +1,40 @@
+<header>
+<docId>1548</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2334:22> <C 700_IN> jn <q> eclo <C 271_KOMEN> com<A >en</A>de <C 700_VAN> van <C 20_WILHELM> w<A >illem</A> <C 474_DE/HET> den <C 0_PARMENTIER> p<A >ar</A>emptier <q> xij <C 19_SOLIDUS> 't3s <C 700_OP> vp <q> v <C 11_GEMET> ym<A >ete</A> <C 800_EN> en<A >de</A> <C 309_EEN> j 
+<L 2334:23> <C 0_VIERENDEEL> vier<A >endeel</A> <C 0_LAND> la<A >n</A>d <C 800_EN> en<A >de</A> <q> ij't! <C 11_GEMET> ym<A >ete</A> <q> woestinen <C 210+410_ZIJN+DAT> dats <q> rente <q> Actum <q> m'ho <q> ij'hc <q> xcvj. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2334:28> <C 404_WIJ> Wi <C 20_HILDEBRAND> hildebrant <q> .f. <C 22_WOUTER> weits <C 20_BOUDEWIJN> boidin <C 700_VAN> van <C 474_DE/HET> den <C 1_BROEKHUIS> broechuse <C 20_JOHANNES> ian <C 700_VAN> van <C 21_ZUIENKERKE> zuenkerke 
+<L 2334:29> <C 800_EN> en<A >de</A> <C 20_GIJS> ghiselin <C 0_BOOMGAARD> boenghart <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 421_DIE> die <C 204_ZIJN> ziin <C 800_EN> en<A >de</A> <C 214_ZULLEN> sullen <C 250_ZIJN> siin 
+<L 2334:30> <C 810_DAT> dat <C 700_VOOR> voer <C 404_WIJ> ons <C 224_KOMEN> camen <C 20_WILHELM> w<A >illem</A> <C 0_PARMENTIER> paremtier <C 700_VAN> van <C 21_VLAANDEREN> flaendre <C 800_EN> en<A >de</A> <C 450_ZIJN> sin <C 0_WIJF> wiif <C 800_EN> en<A >de</A> 
+<L 2334:31> <C 224_GEVEN> ghaue<A >n</A> <C 101_WETTELIJK> wetelike <C 1_GIFT> ghifte <C 21_JOHANNES> ianne <C 474_DE/HET> den <C 0_KLERK> clerc <C 700_VAN> van <C 300_VIJF> viif <C 14_GEMET> himeten <C 800_EN> en<A >de</A> <C 300_EEN> een 
+<L 2334:32> <C 0_VIERENDEEL> vire<A >n</A>deel <C 620*_DAAR-> daer <C 403_HIJ> hi <C 620#_-OP> up <C 203_WONEN> woent <C 800_EN> en<A >de</A> <C 300_2> tue <C 11_GEMET> himete <C 800_EN> en<A >de</A> <C 480+300_EEN+HALF> een+half <C 4_WOESTIJN> woestinen 
+<L 2334:33> <C 614_DAARBENOORDEN> daer+be+norden <C 454_ZIJN> sinen <C 0_HUIS> hues <C 800_EN> en<A >de</A> <C 471_DE> die <C 411_ZELF> selue <C 20_JOHANNES> ian <C 220*_-GEVEN> ghaf <C 500_WEER> weder <C 220#_OP-> up <C 410_DAT> dat <C 411_ZELF> selue 
+<L 2334:34> <C 0_LAND> lant <C 474_DE> dien <C 414_ZELF> seluen <C 21_WILHELM> wille<A >m</A>me <C 800_EN> en<A >de</A> <C 24_AGATHA> agheten <C 454_ZIJN> sine<A >n</A> <C 1_WIJF> wiue <C 701_OM> omme <C 300_12> tualef 
+<L 2334:35> <C 11_SCHELLING> scelghe <C 111_VLAAMS> flaemsce <C 700_BOVEN> bouen <C 4+472_GRAAF+DE> scrauen <C 0_SCHULD> scult <C 700_TE> te <C 251_GELDEN> gheldene <C 324+700_ELK+TE> telken <C 21_MIDWINTER> meduintre 
+<L 2334:36> <C 800_EN> en<A >de</A> <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 14_SCHEPEN> scepenen <C 110_VOORZEID> voerseit <C 700_IN> in <C 20_EEKLO> eclo <C 20_HILDEBRAND> hildebrant <C 20_BOUDEWIJN> boidin <C 20_JOHANNES> ian 
+<L 2334:37> <C 800_EN> en<A >de</A> <C 20_GIJS> ghiselin <C 204_WILLEN> willen <C 810_DAT> dat <C 410_DIT> dit <C 210_ZIJN> si <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 411_DEZE> dese 
+<L 2334:38> <C 1_LETTER> lettere <C 273_ZEGELEN> gheseghet <VN type=1> <q> - <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> zeghele <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 452_ONS> ons <C 4_HEER> here<A >n</A> 
+<L 2334:39> <C 0_CARNATIOEN> carnat<A >i</A>o<A >n</A> <C 851_ALS> alse <C 440_MEN> men <C 203_SCHRIJVEN> scriuet <C 301_1200-NEGENTIGENZES> tualef+hondert+en<A >de</A>+lxxxx+en<A >de</A>+sesse <C 700_IN> in <C 101_SINT> sente 
+<L 2334:40> <C 22_ANDREAS> andries <C 1_AVOND> auende 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1296' jaar_van='1296' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='34' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

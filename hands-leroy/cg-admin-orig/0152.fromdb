@@ -1,0 +1,45 @@
+<header>
+<docId>0152</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 273:10> <C 471_DE> Die <q> dichmeerst<A >er</A>s <C 700_VAN> van <q> ysendyke.- <C 700_VAN> van 
+<L 273:11> <C 474_DE/HET> den <C 12_DISMEESTER> dischmesters <C 700_VAN> van <q> ysendike. <C 700_VAN> va<A >n</A> <q> v <q> 't3s <C 472+2_HET+JAAR> tsiaers <q> renten.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> V. 
+<L 273:12> <C 11_SCHELLING> schel<A >linghe</A> <C 1_PENNING> pen<A >ninghe</A> <C 700_TE> tel<A >ken</A> <C 1_KERSTMIS> kerstmisse <C 700_OP> vp <C 474_DE/HET> den <q> disch <C 700_VAN> van <q> ijsendijcke. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 273:19> <C 404_WIJ> Wie. <C 0_MEESTER> meest<A >er</A> <C 20_JOHANNES> jhan <C 700_VAN> van <C 21_VEURNE> veurne. <C 800_EN> ende <C 470+0_DE+HEER> der <C 20_JOHANNES> jhan <C 700_VAN> van <C 20_GENT> ghent <C 14_PAROCHIEPAAP> prochypapen 
+<L 273:20> <C 700_VAN> van <C 21_IJZENDIJKE> ysendike <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 474+320_DE/HET+AL> alden <C 414_GENE> goenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 214_ZULLEN> zullen <C 250_ZIEN> zien 
+<L 273:21> <C 800_EN> ende <C 250_HOREN> horen <C 250_LEZEN> lezen. <C 810_DAT> dat <C 471_DE> die <C 12_DISMEESTER> disch+meesters <C 700_VAN> van <C 474_DE/HET> den <C 1#_HEILIGE-> heleghen <C 1*_-GEEST> gheeste <C 700_IN> jn 
+<L 273:22> <C 21_IJZENDIJKE> ysendike <C 214_ZIJN> zijn <C 100_SCHULDIG> sculdich <C 475_DE/HET> der <C 105_NIEUW> niewer <C 1_FERMERIE> fermerie <C 700+474_VAN+DE/HET> vanden <C 14_BEGIJN> begghinen <C 700_VAN> van 
+<L 273:23> <C 21_BRUGGE> brugghe <C 474+700_DE/HET+BUITEN> buten <C 1_WIJNGAARD> wijngarde <C 421_DIE> die <C 203_STAAN> staet <C 700_IN> jn <C 100_SINT> sint <C 22_KRUIS> Crues <C 6_PAROCHIA> prochya. <C 300_5> vif. <C 11_SCHELLING> sceleghe. 
+<L 273:24> <C 115_VLAAMS> vlaemscher <C 11_PENNING> peneghe <C 4_RENTE> Renten <C 472+2_HET+JAAR> siaers. <C 501_EEUWELIJK> ewelike <C 700_TE> te <C 251_GELDEN> gheldene <C 324+700_ELK+TE> telken 
+<L 273:25> <C 6_MIDWINTER> medewint<A >ra</A>. <C 475+700_DE+VAN> vander <C 1_RENTE> Rente <C 421_DIE> die <C 406_ZIJ> hem <C 220_GEVEN> gaf. <C 26_AGATHA> agheta <C 22_BOUDEWIJN> boud<A >ens</A> <C 1_WEDUWE> wedewe <C 22_KIND> kents. 
+<L 273:26> <C 700_VAN> van <C 21_IJZENDIJKE> ysendike. <C 700_IN> Jn <C 1_OORKONDSCHAP> orconscepe <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 411_DEZE> dese <C 4_LETTER> lettren <C 700_TE> te 
+<L 273:27> <C 4_KENNIS> kennessen <C 101_UITHANGEND> vthanghende <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 411_DEZE> dese <C 14_LETTER> lettren 
+<L 273:28> <C 234_ZIJN> waren <C 274_GEVEN> ghegheuen <q> anno <q> domini <q> .M'ho <q> .CC'ho. <q> Lxx'ho. <q> quarto. <C 472+2_DE+ZATERDAG> saterdaghes 
+<L 273:29> <C 475+700_DE+VAN> vander <C 0_TRINITEIT> triniteit. <C 700+475_BINNEN+DE> binder <C 0_MAAND> maent <C 700_VAN> van <C 21_MEI> meie. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1274' jaar_van='1274' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

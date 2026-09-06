@@ -1,0 +1,50 @@
+<header>
+<docId>0083</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 142:26> <C 700_IN> i<A >n</A> <C 474_DE/HET> den <C 0_DAM> dam <C 0_VROUW> ver <C 20_GODLIEF> ghoedelief.- 
+<L 142:27> <C 700_IN> jn <C 21_OOSTKERKE> oostkerke.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> jn <C 21_MOERKERKE> moerkerke 
+<L 142:28> <C 0_LAND> land <q> iij <C 14_GEMET> ymete<A >n</A>.- 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 700+474_VAN+DE/HET> vande<A >n</A> <C 1_LAND> lande <C 420_DAT> dat <q> jac<A >op</A> <C 0_REIGER> reig<A >er</A> <C 203_ONTBLADEN> ontblaet. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1410' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 142:33> <C 20_GODLIEF> godelief <C 700_VAN> van <C 474_DE/HET> den <C 21_DAMME> da<A >m</A>me <C 220_GEVEN> ghaf <C 700_IN> in <C 4_AALMOES> alemosenen <C 21_ARNOUT> arnoude <C 21_BRANTIJN-X> b<A >ra</A>ntine <C 474_DE/HET> den 
+<L 142:34> <C 0_KLERK> clerc <C 475+700_DE+TE> ter <C 4_ABDIS> abbedessen <C 800_EN> en<A >de</A> <C 700+475_TE+DE> ter <C 11_ZUSTER> sust<A >er</A>e <C 0_BEHOEF> boef <C 700_VAN> van <C 101_SINT> sinte <C 24_CLARA> claren <C 700_BIJ> bi <C 21_BRUGGE> brugge. 
+<L 142:35> <C 300_DRIE> drie. <C 11_GEMET> ymete <C 2_LAND> lands <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> of <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 700_ACHTER> achter <C 451_HAAR> hare <C 0_LIJF> lijf. <C 421_DIE> die 
+<L 142:36> <C 204_LIGGEN> liggen <C 700_IN> in <C 471_DE> die <C 1_PAROCHIE> p<A >ro</A>chie <C 700_VAN> van <C 101_SINT> sinte <C 24_CATHARINA> kat<A >er</A>inen <C 700_BIJ> bi <C 474_DE/HET> den <C 1_DAM> damme <C 700_IN> jn <C 481_EEN> ene <C 1_STAD> stede 
+<L 142:37> <C 213_HETEN> heet <C 700_TE> te <C 104_KWAAD> quaden <C 1_RIB> ribbe. <C 410_DIT> Dit <C 204_KENNEN> kennen <C 14_SCHEPEN> schepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien <C 403+624*_HET+DAAR-> daert <C 624#_-VOREN> voren 
+<L 142:38> <C 274_DOEN> ydaen <C 230_ZIJN> was. <C 471_DE> die <C 1_HEER> h<A >er</A>e <C 20_WOUTER> wout<A >er</A>man <C 700_VAN> van <C 20_GENT> ghent <C 6_RIDDER> rudd<A >ra</A>. <C 20_THOMAS> thomaes <C 471_DE> die <C 0_HOND> hont. 
+<L 142:39> <C 20_LAMBERT> lambrecht <C 700_VAN> van <C 20_ZEDELGEM> zedelghe<A >m</A>. <C 20_JOHANNES> iohan <C 700_VAN> van <C 21_SNIPGATE> snepgate. <C 20_REINWARD> reinu<A >er</A>d <q> f. <C 24_GODELINDE> godelinden. 
+<L 142:40> <C 20_JOHANNES> iohan <C 471_DE> die <C 0_GOOS> goes <C 800_EN> en<A >de</A> <C 20_BOUDEWIJN> boude<A >n</A>. <C 700_VAN> van <C 21_SCHARPING> scarpinge <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ydaen <C 470+700_HET+IN> int <C 0_JAAR> iaer <C 452_ONS> ons 
+<L 142:41> <C 4_HEER> h<A >er</A>en <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 450_ZIJN> sijn <C 0_INCARNATIOEN> incarnation <q> .m'ho.cc'ho.lx'ho. <q> nono <C 700_IN> in <C 471_DE> die <C 0_MAAND> maent <C 700_VAN> van 
+<L 142:42> <C 21_DECEMBER> decembre. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1269' jaar_van='1269' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,33 @@
+<header>
+<docId>0734</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1410' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1223:9> <C 700+474_VAN+DE/HET> Vand<A >en</A> <C 1_AMBACHT> ambochte <q> [...] <C 20_JOHANNES> Jan <C 800_EN> en<A >de</A> <q> pouwe 
+<L 1223:10> <q> [...] <C 20_JOHANNES> Jan <C 1_KERMIS> kermisse <q> v[...]. 
+<end-datering  jaar_tot='1410' jaar_van='1391' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1223:18> <C 404_WIJ> Wi <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <q> [...] 
+<L 1223:19> <C 250_ZIEN> zien <C 801_OF> ofte <C 250_HOREN> horen. <C 810_DAT> dat <C 410_DAT> dat <q> [...] 
+<L 1223:20> <C 214_HEBBEN> hebben <C 273_KOPEN> ghecoft <C 700+470_IN+HET> int <q> [...] 
+<L 1223:21> <C 22_PAULUS> pauwels <C 22_SIMON> moens <C 0_KIND> kind[...] 
+<L 1223:22> <C 454_ONS> [ons]en <C 0_CONSENT> consent <C 800_EN> ende <q> [...] 
+<L 1223:23> <q> [...] <C 800_EN> ende <C 901_VRIJELIJK> vriel[ike] <q> [...] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1287' jaar_van='1287' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

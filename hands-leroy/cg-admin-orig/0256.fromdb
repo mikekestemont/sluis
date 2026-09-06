@@ -1,0 +1,38 @@
+<header>
+<docId>0256</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 432:9> <q> scripte <q> sunt.- <C 24_SPERMALIE> sparmailgen.- 
+<L 432:10> <C 29_WOUTER> w'ho <C 22_JOHANNES> jhans <q> .f. <C 700_VAN> van <C 20_CADZAND> catsant.- 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+
+<L 432:11> <q> vendidit <q> nobis <q> .i. <q> mensuram. <q> terre <q> preter <q> ix <C 14_ROEDE> r<A >oeden</A>. <C 700_IN> jn <C 21_HEILE> heyle.- 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<L 432:12> <C 21_HEILE> Heile. <q> anno <q> .m'ho.cc'ho.lxxix'ho.- 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<C 300_EEN> een <C 0_GEMET> ymet <q> ix <C 14_ROEDE> r<A >oeden</A> <C 320_MIN> min 
+<L 432:13> <C 2_LAND> landts.- <C 700+470_IN+HET> jnt <C 0_AMBACHT> ambocht <C 700_VAN> van <q> oostk<A >erke</A> <C 471+700_DE+IN> jnde <C 1_PAROCHIE> p<A >ro</A>chie <C 700_VAN> van <C 21_HEILE> heyle. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

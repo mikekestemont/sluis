@@ -1,0 +1,26 @@
+<header>
+<docId>0977</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1499:17> <C 404_WIJ> [Wi] <C 20_FLORENTIUS> [Florens] <C 1_GRAAF> [grave] <C 700_VAN> van <C 20_HOLLAND> hollant <C 204_GELOVEN> gheloven <C 700_MET> met <C 414_DEZE> desen <C 104_JEGENWOORDIG> ieghenwordighen 
+<L 1499:18> <C 1_BRIEF> brie[ve] <C 454_ONS> onsen <C 114_LIEF> lieven <C 11_SCHEPEN> scepene <C 800_EN> [ende] <q> [raet] <C 800_EN> [ende] <C 451_ONS> onse <C 111_GEMEEN> ghemene <C 11_POORT> porte 
+<L 1499:19> <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 100_SCHADELOOS> scadeloes <C 700_TE> te <C 251_HOUDEN> hovdene. <C 700_VAN> van <C 300_1200> tvelfhondert <C 14_POND> [ponden] <q> [...] 
+<L 1499:20> <C 620*_DAAR-> [d]aer <C 406_ZIJ> sij <C 700_VOOR> voer <C 404_WIJ> ons <C 14_BORG> borghen <C 620#_-AF> af <C 214_ZIJN> siin <C 702_JEGENS> ieghens <C 21_AEGIDIUS> Giellise <C 1_KLAUWAARD> clawarde <C 9_POORTER> porte <VN type=1> <C 700_VAN> van 
+<L 1499:21> <C 21_BRUGGE> [brucghe] <C 700_MET> [met] <C 324_AL> [a]llen <C 0_KOST> cost <C 800_EN> ende <C 1_SCHADE> scade <C 421_DIE> die <C 406_ZIJ> hem <C 610_DAARAF> daer+af <C 250_KOMEN> comen <C 231_MOGEN> mochte. <C 700_IN> Jn 
+<L 1499:22> <C 1_OORKONDE> orconde <C 700_VAN> van <C 414_DEZE> [desen] <C 1_BRIEF> [brieve] <C 274_GEVEN> [gheg]heven <C 700_IN> in <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 1_JAAR> iare <C 309_1290> .m.cc.lxxxx. 
+<L 1499:23> <C 472_DE/HET> des <C 2_MAANDAG> manendaghes <C 700_NA> na <C 101_SINT> sente <C 22_ANDREAS> andries <C 1_DAG> [daghe.] 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

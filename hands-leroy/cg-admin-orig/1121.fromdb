@@ -1,0 +1,22 @@
+<header>
+<docId>1121</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.Q.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1740:30> <q> .. <C 1_LETTER> Lett<A >er</A>e <C 4_HEER> hare<A >n</A> <C 22_JOHANNES> jans 
+<L 1740:31> <C 700_VAN> van <C 21_RENESSE> rienesse <C 621#_DAAR-> dar <C 403_HIJ> hi <C 621*_-MEDE> mede <C 203+474_BEKENNEN+DE/HET> beke<A >n</A>netde<A >n</A> <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> van <C 20_HOLLAND> holl<A >ant</A> <C 470_HET> dat <C 0_GOED> goed <C 700_TE> te 
+<L 1740:32> <C 21_BRIJDORP> bridorpe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.Q.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

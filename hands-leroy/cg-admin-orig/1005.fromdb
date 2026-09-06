@@ -1,0 +1,27 @@
+<header>
+<docId>1005</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1530:39> <C 20_FLORENTIUS> Florens <C 1_GRAAF> Grave <C 700_VAN> van <C 20_HOLLAND> hollant <C 700_VAN> van <C 20_ZEELAND> selant <C 800_EN> ende <C 1_HEER> here <C 700_VAN> van <C 20_FRIESLAND> vrieslant <C 213_DOEN> doet 
+<L 1530:40> <C 250_GROETEN> groeten <C 451_ZIJN> sine <C 14_POORTER> portren <C 501_GEMEENLIJK> ghemeenlike <C 700_VAN> van <C 20_DORDRECHT> dordrecht. <C 404_WIJ> Wi <C 204_BIDDEN> bidden <C 405_GIJ> v <C 501_HARDE> harde 
+<L 1530:41> <C 501_VRIENDELIJK> vriendelike. <C 810_DAT> dat <C 405_GIJ> ghi <C 471_DE> die <C 1_LETTER> lettre <C 700_VAN> van <C 300_VIERHONDERD> vier+hondert <C 14_POND> ponden <C 421_DIE> die <C 404_WIJ> wi <C 100_SCHULDIG> sculdich 
+<L 1530:42> <C 214_ZIJN> siin <C 21_AEGIDIUS> Gielise <C 1_KLAUWAARD> clawarde <C 800_EN> ende <C 21_BARD> barde <C 11_POORTER> portre <C 700_VAN> van <C 21_BRUGGE> brucghe. <C 250_BEZEGELEN> beseghelen <C 213_WILLEN> willet 
+<L 1530:43> <C 700_MET> met <C 455_UW> uwer <C 0_POORT> port <C 1_ZEGEL> seghele <C 800_EN> ende <C 412_DAT> des <C 560_NE> en <C 243_LATEN> laet <C 560_NIET> niet. <C 404_WIJ> Wi <C 204_GELOVEN> gheloven <C 405_GIJ> v <C 610_DAARAF> daer+af 
+<L 1530:44> <C 100_SCHADELOOS> scadeloes <C 700_TE> te <C 251_HOUDEN> hovdene. <C 700_IN> Jn <C 1_OORKONDE> orc[on]de <C 700_VAN> v[an] <C 414_DEZE> desen <C 1_BRIEF> b[r]ieve <C 273_BEZEGELEN> beseghelt <C 700_MET> met 
+<L 1530:45> <C 454_ONS> onsen <C 1_ZEGEL> seghele. <C 274_GEVEN> Ghegheven <C 700_IN> in <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 1_JAAR> iare <C 300_1000-290> ducent+[tueh]ondert+ende+neghentich 
+<L 1530:46> <C 700_OP> op <C 101_SINT> sente <C 24_GEERTRUIDA> Ghertruden <C 0_DAG> dach. <C 474+700_DE/HET+IN> inden <C 21_HAAG> haghe. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1291' jaar_van='1291' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

@@ -1,0 +1,62 @@
+<header>
+<docId>0604</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<statushand  statushandkode='md'>
+<L 1023:14> <q> Littere <q> .R. <q> domini <q> de <q> gau<A >er</A>e <q> & <q> .b. <q> vxoris <q> sue <q> & 
+<L 1023:15> <q> .J. <q> bus<A >er</A>e <q> de <q> basseuelde <q> de <q> wastina <q> de <C 21_LANGMEET> langemate <q> & <q> de <q> .xi. <q> bonariis. 
+<L 1023:16> <q> iacentibus <q> iuxta <C 21_LANGMEET> langhemate. <q> de <C 1_UITBLAZEN> huet+blasene.- 
+<end-datering  jaar_tot='1350' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> Van <C 470_HET> het <q> goet <C 700_TE> te 
+<L 1023:17> <q> sleine <q> groot <q> xj <C 14_BUNDER> bunderen.- 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<C 500_ITEM> Jtem <C 700_VAN> van <C 450_ONS> ons <q> goet <C 612_DAARNEFFENS> daer+neffens 
+<L 1023:18> <C 271_LIGGEN> lighende <C 700_OP> op <C 20_OOSTEEKLO> Oosteekeloo <q> ghenaemt <C 471_DE> de <q> langhemaete. 
+<end-datering  jaar_tot='1600' jaar_van='1501' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1023:23> <C 401_IK> Jc <C 21_RAAS> Rase <C 1_HEER> here <C 700_VAN> van <C 21_GAVERE> Gauere <C 800_EN> en<A >de</A> <C 401_IK> Jc <C 20_BEATRIX> Beatris <C 4+472_HEER+DE> seren <C 0_WIJF> wijf <C 700_VAN> van <C 21_GAVERE> Gauere <C 800_EN> Ende 
+<L 1023:24> <C 401_IK> Jc <C 20_JOHANNES> Jan <C 1_BUIZER> busere <C 700_VAN> van <C 21_BASSEVELDE> Basseuelde <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 321_AL> alle <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese 
+<L 1023:25> <C 4_LETTER> lettren <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 801_OF> ofte <C 250_HOREN> horen <C 810_DAT> dat <C 471_DE> de <C 1_ABDIS> Abdesse <C 700_VAN> van <C 475_DE/HET> der <C 4_BIJLOOK> Biloken <C 800_EN> ende 
+<L 1023:26> <C 0_CONVENT> Couent <C 700_VAN> van <C 475_DE/HET> der <C 415_ZELF> seluer <C 1_STAD> stede <C 700_VAN> van <C 475_DE/HET> der <C 4_ORDE> Ordinen <C 700_VAN> van <C 29_CITEAUX> Cysteaus <C 700_BIJ> bi <C 20_GENT> Ghent. 
+<L 1023:27> <C 214_HEBBEN> hebben <C 274+500_DOEN+GENOEG> ghenoech+ghedaen <C 700_VAN> van <C 454_ONS> onsen <C 1_RECHT> rechte <C 420_DAT> dat <C 404_WIJ> wi <C 100_SCHULDIG> sculdech <C 234_ZIJN> waren <C 700_TE> te 
+<L 1023:28> <C 251_HEBBEN> hebbene <C 700_VAN> van <C 406_ZIJ> hem <C 841_ALS> alse <C 700_VAN> van <C 454_ONS> onsen <C 1_BERIJ> beride <C 800_EN> en<A >de</A> <C 700_VAN> van <C 1_UITBLAZEN> hute+blasene <C 700_VAN> van <C 475_DE/HET> der 
+<L 1023:29> <C 1_WOESTIJN> woustine <C 471_DE> de <C 421_WELK> welke <C 213_HETEN> heet <C 21_LANGMEET> langhemate. <C 800_EN> ende <C 700_VAN> van <C 474_DE/HET> den <C 309_11> .xi <C 14_BUNDER> buunren <C 471_DE> de <C 421_WELK> welke 
+<L 1023:30> <C 600_DAARAAN> der+an <C 204_LIGGEN> ligghen <C 700_AAN> an <C 471_DE> de <C 101_VOORZEID> vorseide <C 21_LANGMEET> langhemate <C 800_EN> en<A >de</A> <C 471_DE> de <C 421_WELK> welke <C 406_ZIJ> si <C 224_GEKRIJGEN> ghecreghen 
+<L 1023:31> <C 704_JEGEN> ieghen <C 455_ONS> onser <C 4_VROUW> vrouwen <C 0_VROUW> ver <C 24_MARGARETA> Mergrieten <C 421_DIE> die <C 1_GRAAFNEDE> graefnede <C 230_ZIJN> was <C 700_VAN> van <C 24_VLAANDEREN> vlaendren 
+<L 1023:32> <C 800_EN> ende <C 700_VAN> van <C 24_HENEGOUWEN> Henegouwen. <C 800_EN> en<A >de</A> <C 411_DEZE> dese <C 21_LANGMEET> langhemate <C 800_EN> ende <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 309_11> .xi. 
+<L 1023:33> <C 11_BUNDER> buunre <C 204_LIGGEN> ligghen <C 500_ZUIDWAART> zuutwaert <C 700_VOOR> vor <C 471_DE> de <C 1_WONING> wonincghe <C 471_DE> de <C 421_WELK> welke <C 203_BEHOREN> behoert <C 475+700_DE+TE> ter 
+<L 1023:34> <C 4_ABDIJ> Abdien <C 700_VAN> van <C 20_LOOS> loes. <C 800_EN> Ende <C 701_OM> omme <C 1_ZEKERHEID> zekerhede <C 800_EN> en<A >de</A> <C 1_ACQUITANTIE> aquitanse <C 700_VAN> van <C 454_ONS> onsen 
+<L 1023:35> <C 1_RECHT> rechte <C 420_DAT> dat <C 406_ZIJ> si <C 404_WIJ> ons <C 100_SCHULDIG> sculdech <C 234_ZIJN> waren <C 550_ZO> so <C 211_HEBBEN> hebbe <C 401_IK> ic <C 21_RAAS> Rase <C 1_HEER> here <C 700_VAN> van <C 21_GAVERE> Gauere. <C 800_EN> en<A >de</A> 
+<L 1023:36> <C 401_IK> Jc <C 20_BEATRIX> Beatriis <C 472_DE/HET> des <C 102_VOORZEID> vorseits <C 4_HEER> heren <C 0_WIJF> wijf <C 700_VAN> van <C 21_GAVERE> Gauere <C 800_EN> Ende <C 401_IK> Jc <C 20_JOHANNES> Jan <C 471_DE> de <C 1_BUIZER> busere <C 700_VAN> van 
+<L 1023:37> <C 21_BASSEVELDE> Basseuelde <C 284_DOEN> daen <VN type=1> <C 250_SCHRIJVEN> scriuen <C 411_DEZE> dese <C 4_LETTER> lettren <C 800_EN> ende <C 284_DOEN> daen <C 250_ZEGELEN> zeghelen <C 700_MET> met <C 454_ONS> onsen 
+<L 1023:38> <C 14_ZEGEL> zeghelen. <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 474_DE/HET> den <C 0_TIJD> tijt <C 850_DAT> dat <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 0_CARNATIOEN> Carnation <C 452_ONS> ons 
+<L 1023:39> <C 4_HEER> heren. <C 319_1285> M'ho.+CC.+Lxxx'hov'ho. <C 472+2_DE+VRIJDAG> Sfrindaechs <C 700_NA> na <C 471_DE> de <C 20_TRINITEIT> Triniteit. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 1023:51> <C 260_DOEN> doen 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1285' jaar_van='1285' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-statushand  statushandkode='an'>

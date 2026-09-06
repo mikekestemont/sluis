@@ -1,0 +1,56 @@
+<header>
+<docId>0035</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 88:39> <C 21_WINDEKE> windeke.- 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_VAN> va<A >n</A> <C 1_LAND> lande <C 700_TE> te <C 21_WINDEKE> wijendeke. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1266' jaar_van='1266' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 89:1> <C 324_AL> Allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettren <C 204_ZIEN> sien <C 401_IK> Jc <C 20_NICOLAAS> niclais <C 0_BALJUW> baliu <C 700_VAN> van <C 20_AALST> Aelst <C 201_GROETEN> groete 
+<L 89:2> <C 405_GIJ> v <C 700_IN> in <C 454_ONS> onsen <C 1_HEER> here, <C 240_WETEN> weet <C 321_AL> alle <C 810_DAT> dat <C 401_IK> ic <C 700_BIJ> bi <C 1_ONTBIEDEN> ontbiedene <C 455_MIJN> mire <C 4_VROUW> wrouwen <C 475_DE/HET> der 
+<L 89:3> <C 1_GRAAFNEDE> graefnede <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 451_HAAR> hare <C 4_LETTER> lettren <C 610_DAARTOE> daer+toe <C 500_SPECIAALLIJK> specialec <C 401_IK> mi <C 220_BRENGEN> broecht <C 861_ALS> alse <C 0_BALJUW> beliu 
+<L 89:4> <C 455_MIJN> mire <C 4_VROUW> wrouwe<A >n</A> <C 475_DE/HET> d<A >er</A> <C 1_GRAAFNEDE> graefnede <C 220_ZIJN> was <C 510_DAAR> daer <C 21_OSTE> oste <C 452+0_MIJN+HEER> mijns+ser <C 22_OSTE> osts <C 1_ZOON> sone <C 22_BALGER-X> balghers 
+<L 89:5> <C 2+472_RIDDER+DE> tsridders <C 800_EN> en<A >de</A> <C 26_ADELHEID> adelisa <C 450_ZIJN> sijn <C 0_WIJF> wijf <C 500_WETTELIJK> wettelec <C 224_VERKOPEN> v<A >er</A>cochten <C 309_6> vi. <C 11_BUNDER> buenre <C 2_LAND> lants 
+<L 89:6> <C 276_LIGGEN> ligghenda <C 700_IN> in <C 471_DE> de <C 6_PAROCHIA> prochia <C 700_VAN> van <C 21_WINDEKE> windeke. <C 474_DE/HET> den <C 1_HOSPITAAL> hospitale <C 475_DE/HET> der <C 14_BEGIJN> beghinen <C 700_VAN> van 
+<L 89:7> <C 475_DE/HET> der <C 24_OOIE> hoyen <C 700_VAN> van <C 20_GENT> ghent, <C 800_EN> en<A >de</A> <C 401_IK> ic <C 700_NA> na <C 471_DE> de <C 1_OPDRAGING> vpdraghinghe <C 800_EN> en<A >de</A> <C 471_DE> de <C 1_WERPING> w<A >er</A>pinghe 
+<L 89:8> <C 700_VAN> van <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 24_OSTE> osten <C 800_EN> en<A >de</A> <C 454_ZIJN> sinen <C 1_WIJF> wiue <C 500_WETTELIJK> wettelec <C 274_DOEN> ghedaen <C 700_NA> na <C 471_DE> de <C 0_WET> weet 
+<L 89:9> <C 800_EN> en<A >de</A> <C 471_DE> de <C 1_COSTUME> costume <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande <C 800_EN> en<A >de</A> <C 700_BIJ> bi <C 1_VONNIS> vonnesse <C 475_DE/HET> der <C 10_MAN> man <C 610_DAARTOE> daer+toe 
+<L 89:10> <C 271_BEHOREN> behoerende <C 0+470_HOSPITAAL+HET> dospitael <C 100_VOORZEID> vorseit <C 700_IN> in <C 101+470_VOORZEID+HET> tforseide <C 0_LAND> lant <C 861_ALS> alse <C 0_BALJUW> beliu <C 700_VAN> van <C 455_MIJN> mire 
+<L 89:11> <C 1_VROUW> wrouwe <C 4_WEG> weghen <C 475_DE/HET> der <C 1_GRAAFNEDE> graefnede <C 211_HEBBEN> hebbe <C 273_ERVEN> gheeruet, <C 470_HET> dat <C 411_ZELF> selue <C 0_HOSPITAAL> hospitael <C 101_KWIJT> quite 
+<L 89:12> <C 271_ROEPEN> roepende <C 700_VAN> van <C 455_MIJN> mire <C 4_VROUW> wrouwen <C 4_WEG> weghe<A >n</A> <VN type=1> <C 475_DE/HET> der <C 4_GRAAFNEDE> graefneden <C 700_VAN> van <C 324_AL> allen <C 1_RECHT> rechte 
+<L 89:13> <C 472+2_HET+LEEN> sleens <VN type=1> <C 700_IN> in <C 101+700_VOORZEID+HET> tvorseide <C 0_LAND> lant, <C 800_ZONDER> sond<A >er</A> <C 309_2> .ij. <C 19_DENARIUS> d <C 472+2_HET+JAAR> tsiaers <C 700_VAN> van <C 324_ELK> elken <C 1_BUNDER> buenre <C 502_JAARLIJKS> iaerlijcs 
+<L 89:14> <C 0_CIJNS> chens <C 700+474_TE+DE/HET> ten <C 4_BRIEF> briuen <C 455_MIJN> mire <C 4_VROUW> wrouwen <C 475_DE/HET> der <C 4_GRAAFNEDE> graefneden <C 701_TOT> tote <C 20_AALST> aelst <C 700_TE> te <C 101_SINT> sente <C 22_BAVO> baues 
+<L 89:15> <C 1_MIS> messe <C 700_VAN> van <C 414_DIE> dien <C 1_HOSPITAAL> hospitale <C 700_TE> te <C 251_GELDEN> gheldene, <C 700_IN> Jn <C 4_OORKONDSCHAP> orconscepen <C 800_EN> en<A >de</A> 
+<L 89:16> <C 4_BEWARING> bewaeringghen <C 425_WELK> welk<A >er</A> <C 11_DING> dinghe <C 401_IK> ic <C 451_MIJN> mine <C 4_LETTER> lettren <C 273_ZEGELEN> gheseghelt <C 700_MET> met <C 454_MIJN> minen 
+<L 89:17> <C 1_ZEGEL> zegle <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_HOSPITAAL> hospitale <C 211_HEBBEN> hebbe <C 274_GEVEN> ghegheuen, <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> int 
+<L 89:18> <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> heren <C 319_1266> .m'ho;+cc'ho;+lxvi'ho <C 2+472_ZATERDAG+DE> satterdaghes <C 701_VOOR> vore <C 471_DE> de <C 1_GEBOORNIS> gheboernesse <C 101_SINT> sente <C 22_JOHANNES> jans 
+<L 89:19> <C 22_BAPTIST> babtists; 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+
+<L 89:52> <C 472+2_HET+EIGENDOM> seighendoems 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1266' jaar_van='1266' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

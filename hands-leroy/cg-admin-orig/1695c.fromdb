@@ -1,0 +1,65 @@
+<header>
+<docId>1695c</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2543:24> <C 1_LETTER> [Lettere] <C 4_HEER> hare[n] <C 20_NICOLAAS> niclaus <C 22_PERSIJN-X> p<A >er</A>sijns <C 621*_DAAR-> daer <C 403_HIJ> hi <C 621#_-MEDE> mede <C 221_VERWILKEUREN> verwilcorde <C 250_VAREN> varen <C 700_TE> te 
+<L 2543:25> <C 251_LIGGEN> legghene <C 700_OP> op <C 20_GIJSBERT> ghisebrecht <C 2_BOKEL> boekels <C 0_HUIS> huus 
+<L 2543:26> <C 401_IK> [Jc] <C 20_NICOLAAS> [cla]is <VN type=1> <C 20_PERSIJN-X> p<A >er</A>siin <C 1_RIDDER> riddere <C 201_MAKEN> make <C 100_KOND> kont <C 800_EN> en<A >de</A> <C 100_KENLIJK> kenl[i]jc <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> 
+<L 2543:27> <C 421_DIE> die <C 414_DEZE> desen <C 0_BRIEF> brief <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> of <C 250_HOREN> horen <C 250_LEZEN> [lesen] <C 810_DAT> [dat] <C 401_IK> [mi] <C 480_EEN> [een] <q> [edel] <q> [prince] <C 450_MIJN> mijn 
+<L 2543:28> <C 101_LIEF> lieue <C 1_HEER> h<A >er</A>e <C 20_JOHANNES> [J]an <C 1_GRAAF> g<A >ra</A>ue <C 700_VAN> van <C 20_HOLLAND> holl[an]d <C 700_VAN> van <C 20_ZEELAND> zela[n]d <C 800_EN> en<A >de</A> <C 1_HEER> h<A >er</A>e <C 700_VAN> van 
+<L 2543:29> <C 20_FRIESLAND> v[r]iesland <C 273_WIJZEN> ghewis[et] <C 213_HEBBEN> heue[t] <C 700_TE> [te] <C 251_LIGGEN> [legghene] <C 700_OP> [op] <C 0+470_HUIS+HET> [thuus] <C 420_DAT> [dat] <C 20_GIJSBERT> [ghisebre]cht 
+<L 2543:30> <C 2_BOKEL> [bokels] <C 230_ZIJN> was, <C 800_EN> en<A >de</A> <C 510_DAAR> daer <C 201_GELOVEN> gheloue <C 401_IK> [i]c <C 700+251_TE+LIGGEN> telegghene <C 700_IN> in <C 455_ZIJN> sire <C 0_GIJZELSCHAP> ghiselscap. <C 800_EN> en<A >de</A> 
+<L 2543:31> <C 403_HIJ> h[i] <q> [heuet] <C 401_IK> [mi] <q> [gheorlouet] <C 700_TE> [te] <q> [wandren] <q> [daghelix] <q> [binnen] <C 475_DE/HET> [der] <C 4_PAROCHIE> [pro]chien 
+<L 2543:32> <C 620*_DAAR-> daer <C 470_HET> dat <C 0_HUIS> huus <C 620#_-IN> in <C 203_STAAN> staet <C 800_EN> en<A >de</A> <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 401_IK> i[c] <C 221_VAREN> vo[re] <q> [buten] <C 474_DE/HET> [den] 
+<L 2543:33> <q> [palen] <C 700_VAN> van <C 475_DE/HET> der <C 4_WANDERING> wanderinghen <C 100_VOORZEID> vorseid, <C 511_ZO> soe <C 200+401_VERWILKEUREN+IK> verwilkoric <C 461_MIJ> mi <C 800_EN> en<A >de</A> <C 201_BEKENNEN> bekenne 
+<L 2543:34> <C 810_DAT> dat <C 401_IK> [ic] <C 702_JEGENS> jeghens <C 454_MIJN> mine<A >n</A> <C 104_VOORZEID> vorseid[en] <C 1_HEER> h<A >er</A>e <C 474_DE/HET> d[en] <C 1_GRAAF> [graue] <C 273_VERBEUREN> [verboert] <q> [hebbe] <C 320_AL> [al] 
+<L 2543:35> <C 450_MIJN> [mijn] <C 0_GOED> goed <C 540_ZO-WAAR> soe+waer <C 810+403_DAT+HET> dat <C 274_LIGGEN> gheleghen <C 210_ZIJN> es. <C 800_EN> En<A >de</A> <C 610_DAARTOE> daer+toe <C 401+200_IK+BEKENNEN> bekennic <C 461_MIJ> mi 
+<L 2543:36> <C 100_TROUWELOOS> trouweloes <C 800_EN> en<A >de</A> <C 100_EERLOOS> eerloes. <C 800_EN> en<A >de</A> <C 810+440_DAT+MEN> datm<A >en</A> <C 401_IK> mi <C 610_DAARNA> d[aer+na] <C 505_NIMMERMEER> [nimmermeer] 
+<L 2543:37> <q> [gheloeuen] <C 560_NE> [en] <C 210_MOGEN> [mach] <C 700_BIJ> bi <C 445_GEEN> [g]heere <VN type=1> <C 1_ZEKERHEID> sekerhede <C 421_DIE> die <C 401_IK> ic <C 250_DOEN> doen <C 210_MOGEN> mach. <C 800_EN> En<A >de</A> 
+<L 2543:38> <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_WANDERING> wand<A >er</A>inghe <C 421_DIE> die <C 401_IK> [m]i <C 450_MIJN> mijn <C 101_VOORZEID> vorseide <C 1_HEER> h<A >er</A>e <C 274_GEVEN> ghegheu[en] 
+<L 2543:39> <q> [heuet] <q> [staet] <q> [altoes] <C 700_TE> [te] <C 454_ZIJN> [sinen] <C 0_WEDERZEGGEN> wedersegghen. <C 800_EN> en<A >de</A> <C 810_ALS> als <C 401_IK> ic <C 471_DE> die <C 1_WANDERING> wanderinghe 
+<L 2543:40> <C 560_NIET> niet <C 250_HEBBEN> hebben <C 560_NE> en <C 211_WILLEN> wille <C 550_ZO> soe <C 210_MOGEN> ma[ch] <C 403+401_ZIJ+IK> icse <C 250_WEDERZEGGEN> wedersegghen <C 700_MET> met <C 454_MIJN> mine<A >n</A> <C 101_OPEN> op[ene] 
+<L 2543:41> <C 1_BRIEF> [brieue] <C 700_AAN> [an] <C 454_MIJN> [minen] <C 1_HEER> h<A >er</A>e <C 100_VOORZEID> vorseid <C 800_EN> En<A >de</A> <C 810_ALS> als <C 401_IK> ic <C 411_DEZE> dese <C 1_WANDERING> wanderinghe 
+<L 2543:42> <C 201_WEDERZEGGEN> wedersegghe <C 700_MET> met <C 454_MIJN> mine<A >n</A> <C 101_OPEN> openne <C 14_BRIEF> brieuen <C 403+820_HET+ALS> alst <C 274_VOORSCHRIJVEN> vorscreuen <C 210_ZIJN> es, <C 511_ZO> soe <C 210+401_ZULLEN+IK> [sa]lic 
+<L 2543:43> <C 250_VAREN> va[ren] <C 250_LIGGEN> [legghen] <C 502_ALTHANS> [althans] <C 470+700_HET+OP> opt <C 101_VOORZEID> vorse[i]de <C 0_HUIS> huus <C 420_DAT> dat <C 22_GIJSBERT> ghisebrechts <C 2_BOKEL> bokels 
+<L 2543:44> <C 230_ZIJN> was. <C 800_EN> En<A >de</A> <C 610_DAAROP> daer+vp <C 210_ZULLEN> sal <C 401_IK> ic <C 250_LIGGEN> legghen <C 800_EN> en<A >de</A> <C 250_BLIJVEN> bliuen <C 704_BINNEN> binne<A >n</A> <C 474_DE/HET> den <C 14_MUUR> muren, <C 300_DRIE> drie 
+<L 2543:45> <C 14_WEEK> we[k]en <C 810_NA-DIE-TIJD-DAT> [na+dier+tijd+dat] <C 450_MIJN> mijn <C 0_BRIEF> brief <C 700_VAN> van <C 454_MIJN> mine<A >n</A> <C 104_VOORZEID> vorseiden 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<end-statushand  statushandkode='mn'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+<statushand  statushandkode='an'>
+
+<L 2543:52> <C 20_NICOLAAS> [nicla]us 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.R.'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+
+<L 2544:1> <C 0_WEDERZEGGEN> wedersegghen, <C 274_GEVEN> ghegheuen <C 210_ZIJN> es <C 454_MIJN> mine<A >n</A> <C 104_VOORZEID> vorseiden <C 1_HEER> h<A >er</A>e <C 474_DE/HET> den <C 1_GRAAF> g<A >ra</A>ue. <C 800_EN> En<A >de</A> 
+<L 2544:2> <C 704_BINNEN> binnen <C 474_DE> dien <C 104_VOORZEID> vorseiden <C 1_HUIS> huse <C 401+210_IK+ZULLEN> [salic] <q> [bliuen] <C 250_LIGGEN> l[e]gghen <C 300_DRIE> drie <C 14_WEEK> weken <C 800_EN> en<A >de</A> 
+<L 2544:3> <C 614_DAARBUITEN> daer+buten <C 550_ZO> soe <C 560_NE> ne <C 210_ZULLEN> sal <C 401_IK> ic <C 560_NIET> niet <C 250_KOMEN> com<A >en</A>. <C 800_EN> En<A >de</A> <C 230_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 401_IK> ic <C 614_DAARBUITEN> daer+buten 
+<L 2544:4> <C 221_KOMEN> quame <C 704_BINNEN> binnen <C 304_DRIE> dri[en] <q> [weken] <C 110_VOORZEID> [vor]s[ei]d <C 511_ZO> soe <C 401+200_IK+VERWILKEUREN> verwilkoric <C 461_MIJ> mi <C 800_EN> en<A >de</A> 
+<L 2544:5> <C 201_BEKENNEN> bekenne. <C 810_DAT> dat <C 401_IK> ic <C 702_JEGENS> ieghens <C 454_MIJN> mine<A >n</A> <C 1_HEER> h<A >er</A>e <C 474_DE/HET> den <q> .. <C 1_GRAAF> Graue <C 273_VERBEUREN> v<A >er</A>bord <C 211_HEBBEN> hebbe. <C 320_AL> al <C 450_MIJN> mijn 
+<L 2544:6> <C 0_GOED> goed <C 540_ZO-WAAR> soe+waer <C 403+810_HET+DAT> dat <C 274_LIGGEN> ghe[leghen] <C 210_ZIJN> [es] <C 800_EN> en<A >de</A> <C 201_BEKENNEN> bekenne <C 461_MIJ> mi <C 610_DAARTOE> daer+toe <C 100_TROUWELOOS> trouweloes 
+<L 2544:7> <C 800_EN> en<A >de</A> <C 100_EERLOOS> eerloes. <C 800_EN> en<A >de</A> <C 810_DAT> dat <C 440_MEN> m<A >en</A> <C 401_IK> mi <C 700_NA> na <C 415_DIE> dier <C 0_TIJD> tijd <C 505_NIMMERMEER> ni<A >m</A>m<A >er</A>mer <C 250_GELOVEN> gheloeue<A >n</A> <C 560_NE> en <C 210_ZULLEN> sal 
+<L 2544:8> <C 700_BIJ> bi <C 445_GEEN> ghere <C 0_ZEKERHEID> sekerhet <C 421_DIE> die <C 401_IK> [ic] <C 250_DOEN> [doen] <C 210_MOGEN> [mach] <C 800_EN> [en<A >de</A>] <C 704_TENDEN> tenden <C 474_DE> dien <C 114_VOORZEID> vorseiden <C 304_DRIE> drien 
+<L 2544:9> <C 14_WEEK> weken, <C 550_ZO> soe <C 210_ZULLEN> sal <C 401_IK> mi <C 450_MIJN> mijn <C 101_VOORZEID> vorseide <C 1_HEER> h<A >er</A>e <C 471_DE> die <C 1_GRAAF> g<A >ra</A>ue <C 414_DEZE> desen <C 104_JEGENWOORDIG> jeghenwordighen 
+<L 2544:10> <C 0_BRIEF> brief <C 250*_WEDER-> weder <C 250#_-GEVEN> gheue<A >n</A>. <C 800_EN> En<A >de</A> <C 700_IN> [in] <q> [orkonde] <C 700_VAN> van <C 320_AL> al <C 414_DEZE> desen <C 114_VOORZEID> vorseiden <C 14_STUK> sticken 
+<L 2544:11> <C 550_ZO> soe <C 210_HEBBEN> heb <C 401_IK> ic <C 414_DEZE> desen <C 104_JEGENWOORDIG> ieghenwordighen <C 0_BRIEF> brief <C 273_BEZEGELEN> beseghelt <C 700_MET> met <C 454_MIJN> mine<A >n</A> <C 0_ZEGEL> seghel <C 800_EN> en<A >de</A> 
+<L 2544:12> <C 274_GEVEN> ghegheue<A >n</A> <C 454_MIJN> mine<A >n</A> <C 104_VOORZEID> v[orseiden] <C 1_HEER> h<A >er</A>e. <C 274_GEVEN> ghegheue<A >n</A> <C 470+700_HET+IN> int <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 301_1290-EN-8> .m'ho.+cc'ho.+Neghentich+en<A >de</A>+achte 
+<L 2544:13> <C 700_OP> op <C 101_SINT> sinte <C 22_MICHAEL> michiels <C 1_AVOND> auonde 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.Q.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

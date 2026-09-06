@@ -1,0 +1,59 @@
+<header>
+<docId>0906</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1428:11> <C 410_DIT> dit <C 210_ZIJN> es <C 700_VAN> va<A >n</A> <C 475_DE/HET> d<A >er</A> <C 1_WOESTIJN> woestine 
+<L 1428:12> <C 421_DIE> die <C 230_ZIJN> was <C 273_KOPEN> gecocht <C 704_JEGEN> iege<A >n</A> <C 20_PETRUS> piet<A >er</A> <q> f <C 22_JOHANNES> jans.- 
+<end-datering  jaar_tot='1300' jaar_van='1291' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1400' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> maldeghe<A >m</A>.- 
+<end-datering  jaar_tot='1400' jaar_van='1376' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+
+<L 1428:13> <C 700_IN> jn <q> maldegheem. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-datering  jaar_tot='1450' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1428:18> <C 324_AL> Allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 800_OF> jof <C 250_HOREN> hore<A >n</A> <C 250_LEZEN> lesen. <C 404_WIJ> wi; 
+<L 1428:19> <C 20_JACOB> jacob <C 471_DE> die <C 0_MONNIK> monec. <C 20_WILHELM> wille<A >m</A> <C 700_VAN> va<A >n</A> <C 475_DE/HET> der <C 4_BRUG> brugghen. <C 20_BERTOLF> bertholf <q> .f. <C 24_CLEMENTIA> clemencien. 
+<L 1428:20> <C 21_HUGO> hughe <C 471_DE> die <C 0_REL-X> rel. <C 21_BOUDEWIJN> boudine <q> .f. <C 22_ARNOUT> arnouds. <C 20_ARNOUT> arnoud <q> .f. <C 24_IJS> ysen. <C 800_EN> en<A >de</A> <C 20_BARTOLOMEUS> meus <q> .f. <C 22_JACOB> jacobs. 
+<L 1428:21> <C 14_SCHEPEN> scepenen <C 700_VAN> va<A >n</A> <C 474_DE/HET> den <C 1_MOER> moere <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 810_DAT> dat <C 220_KOMEN> q<A >ua</A>m <C 700_VOOR> vor <C 404_WIJ> ons <C 20_PETRUS> pieter <q> .f. 
+<L 1428:22> <C 22_JOHANNES> jans. <C 800_EN> en<A >de</A> <C 220_GEVEN> gaf <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 21_JOHANNES> janne <q> .f. <C 22_FILIPPUS> lippins. <C 475+700_DE+TE> ter <C 4_ABDIS> abdessen <C 0_BEHOEF> behoef <C 800_EN> en<A >de</A> 
+<L 1428:23> <C 700_TE> te <C 472_DE/HET> des <C 2_CONVENT> Couents <C 700_VAN> va<A >n</A> <C 101_SINT> sinte <C 24_CLARA> Claren <C 700_BIJ> bi <C 21_BRUGGE> brugghe. <C 700_VAN> va<A >n</A> <C 304_DRIE> drien <C 11_BUNDER> buenre 
+<L 1428:24> <C 4_WOESTIJN> woestinen. <C 500_LICHTELIJK> lichtelic <C 320_MIN> min <C 800_OF> jof <C 325_MEER> meer. <C 271_LIGGEN> ligghende <C 700_BEWESTHALF> bewest+alf <C 21*_GOOCHELAARS-> gokelars <C 21#_-VEER> vere. 
+<L 1428:25> <C 704_TUSSEN> tusschen <C 0_MEESTER> meester <C 22_HUGO> hughs <C 1_VEER> vere. <C 800_EN> en<A >de</A> <C 411_DIE> die <C 700_VAN> va<A >n</A> <C 101_SINT> sinte <C 24_CLARA> Claren <C 100_VOORZEID> vorseit, <C 100_VRIJ> vri <C 800_EN> en<A >de</A> 
+<L 1428:26> <C 101_KWIJT> quite <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0_SCHULD> scult. <C 800_EN> en<A >de</A> <C 403_HIJ> hi <C 403+220_HET+WEDDEN> weddet <C 403_HIJ> hem <C 1+700_WET+TE> tewette <C 700+251_TE+WAREN> tewarne <C 700_TE> te 
+<L 1428:27> <C 454_ZIJN> sinen <C 104_VRIJ> vrien <C 1_EIGENDOM> eghindoeme. <C 475+700_DE+TE> ter <C 4_ABDIS> abdessen <C 0_BEHOEF> behoef <C 800_EN> en<A >de</A> <C 700_TE> te <C 472_DE/HET> des <C 2_CONVENT> Couents 
+<L 1428:28> <C 0_BEHOEF> behoef <C 100_VOORZEID> vorseit, <C 500_VOORT> vort <C 550_ZO> so <C 220_KOMEN> q<A >ua</A>m <C 700_VOOR> vor <C 404_WIJ> ons. <C 20_BOUDEWIJN> beidin <C 20_NICOLAAS> colin. <C 800_EN> en<A >de</A> <C 221_GELOVEN> gheloefde 
+<L 1428:29> <C 21_JOHANNES> janne <q> .f <C 22_FILIPPUS> lippins <C 100_VOORZEID> vorseit, <C 700+475_TE+DE> ter <C 4_ABDIS> abdessen <C 0_BEHOEF> behoef, <C 800_EN> en<A >de</A> <C 700_TE> te <C 472_DE/HET> des <C 2_CONVENT> Couents <C 100_VOORZEID> vorseit, 
+<L 1428:30> <C 100_SCHADELOOS> scadeloes <C 700_TE> te <C 251_HOUDEN> houdene <C 700_OP> up <C 411_DEZE> dese <C 101_VOORZEID> vorseide <C 1_WOESTIJN> woestine. <C 800_EN> en<A >de</A> <C 403_HIJ> hi <C 220+403_WEDDEN+HET> weddetse 
+<L 1428:31> <C 700+1_TE+WET> tewette <C 700+251_TE+WAREN> tewarne <C 704_JEGEN> jeghe<A >n</A> <C 324_ELK> elken <C 1_MENS> mensche. <C 700+475_TE+DE> ter <C 4_ABDIS> abdessen <C 0_BEHOEF> behoef <C 800_EN> en<A >de</A> <C 700_TE> te <C 472_DE/HET> des 
+<L 1428:32> <C 2_CONVENT> Couents <C 100_VOORZEID> vorseit, <C 800_EN> En<A >de</A> <C 810_OMDAT> omme+dat <C 404_WIJ> wi <C 111_VOORNOEMD> vornoemde <C 14_SCHEPEN> scepenen <C 610_HIEROVER> hir+houer 
+<L 1428:33> <C 234_ZIJN> waren <C 274_ROEPEN> gheroepen <C 860_ALS> als <C 14_SCHEPEN> scepene<A >n</A> <C 800_EN> en<A >de</A> <C 204_WILLEN> willen <C 403+810_HET+DAT> dat <C 211_BLIJVEN> bliue <C 100_VAST> vast <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade 
+<L 1428:34> <C 214_HEBBEN> hebben <C 404_WIJ> wi <C 111_VOORNOEMD> vornoemde <C 14_SCHEPEN> scepene<A >n</A> <C 700_IN> in <C 4_KENNIS> kennessen <C 610_DAARAAN> der+an <C 274_HANGEN> ghehanghe<A >n</A> <C 451_ONS> onse 
+<L 1428:35> <C 14_ZEGEL> zeghele<A >n</A> <C 111_UITHANGEND> huuthanghende. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 470+700_HET+IN> jnt <C 0_JAAR> jar <C 452_ONS> ons <C 4_HEER> here<A >n</A> <C 850_ALS> als <C 440_MEN> men 
+<L 1428:36> <C 220_SCHRIJVEN> screef <C 301_1200-TACHTIG-EN-NEGEN> .m.cc.lxxx.+en<A >de</A>+neghene. <C 700_OP> up <C 101_SINT> sinte. <C 22_PETRUS> pieters <C 0_DAG> dach <C 700+475_TE+DE> ter <C 1_KOUDEMIS> coudermesse. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='2' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,25 @@
+<header>
+<docId>0921</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 1443:45> <q> %] <C 241_ARMEN> ARME <C 465_U> V <C 324_AL> ALLEN <C 421_DIE> DIE <C 401_IK> MI <C 204_AANZIEN> ANE+SIEN <C 401_IK> IC <C 20_JOHANNES> IHAN <C 1_BLOEM> BLOME <C 230_ZIJN> WAS 
+<L 1443:46> <C 100_DOOD> DOET <C 274_SLAAN> GHESLE[GHEN] <C 999_ZZZ> [...]NTE <C 243_BIDDEN> BID <C 475_DE/HET> DER 
+<L 1444:1> <C 4_ONTFERMIGHEID> ONTFARMECHEDEN <C 2_GOD> GODS <C 810_DAT> DAT <C 403_ZIJ> HARE <C 401_IK> MINS <C 201_ONTFERMEN> ONTFARME <C 800_EN> E[N] 
+<L 1444:2> <C 201_VERGEVEN> VERGHEVE <C 451_MIJN> MINE <C 14_ZONDE> SONDE[N] <C 420_DAT> DAT <C 402_DU> DV <C 213_ZIJN> BEST <C 230_ZIJN> WAS <C 401_IK> IC <C 800_EN> EN <C 420_DAT> [D]AT 
+<L 1444:3> <C 401_IK> IC <C 210_ZIJN> BEM <C 410_DAT> DAT <C 210_ZULLEN> SAL <C 402_DU> TV <C 260_WORDEN> WER[D]EN <C 243_STAAN> STANT <C 800_EN> EN <C 243_BIDDEN> BIDT <q> [A] <q> [D]NI <C 309_1290> M+CC+XC 
+<L 1444:4> <C 700_IN> IN <C 101_SINT> SENTE <C 20_MARCUS> MARCK <C 1_DAG> DAGHE <C 4_KRUIS> [...]CRVSEN 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

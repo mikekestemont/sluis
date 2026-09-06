@@ -1,0 +1,45 @@
+<header>
+<docId>1328</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2006:20> <C 700_IN> jn <C 20_BAAIGEM> badegheem <C 471_DE> de <C 21_VERNAKKER> vernack<A >er</A>e.- 
+<end-datering  jaar_tot='1400' jaar_van='1351' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<C 700_IN> jn <C 20_BAAIGEM> bayghem <C 471_DE> de <C 21_VERNAKKER> vernack<A >er</A>e. 
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='ad'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1294' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2006:23> <C 403_HET> het <C 210_ZIJN> si <C 100_KOND> cont <C 406_ZIJ> hem <C 324_AL> allen <C 421_DIE> die <C 411_DEZE> dese <C 1_LETTER> lettre <C 204_ZIEN> zien <C 800_EN> en<A >de</A> <C 204_HOREN> horen <C 810_DAT> Dat <C 401_IK> jc <C 20_EUSTACHIUS> justaes 
+<L 2006:24> <C 700_VAN> van <C 20_BETTEGEM> bettenghem <C 0_MEESTER> meester <C 700_VAN> van <C 22_EGBERT> hegbrechts <C 1_SPITAAL> spetale <C 800_EN> en<A >de</A> <C 401_IK> jc <C 20_JOHANNES> anneman <C 700_VAN> van 
+<L 2006:25> <C 475_DE/HET> der <C 0_MOLEN> molen <C 800_EN> en<A >de</A> <C 20_AEGIDIUS> gielijs <C 471_DE> de <C 1_POTGIETER> potgietre <C 12_PROVISEUR> prouisoers <C 700_VAN> van <C 474_DE/HET> den <C 0*_HEILIGE-> helegen <C 0#_-GEEST> geest <C 700_IN> in 
+<L 2006:26> <C 101_SINT> sente <C 24_MARIA> marien <C 1_KERK> kerke <C 214_HEBBEN> hebben <C 273_VERHUREN> verhuurd <C 21_JOHANNES> janne <C 1_LOON> lone <C 480_EEN> een <C 0_STUK> stic <C 2_LAND> lands <C 420_DAT> dat <C 213_HETEN> heedt 
+<L 2006:27> <C 20_VERNAKKER> vernacker <C 700_OM> om <C 309_17> xvii. <C 19_SOLIDUS> sol <C 800_EN> en<A >de</A> <C 309_4> iiij <C 19_DENARIUS> d <C 322_ELK> elcs <C 2_JAAR> iaers <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 0_CIJNS> tsens <C 210_ZULLEN> sal <C 250_GEVEN> geuen <C 20_JOHANNES> jan 
+<L 2006:28> <C 1_LOON> lone <C 500+421_ER+DIE> dier <C 700+474_UIT+DE/HET> vten <C 1_LAND> lande <C 203_GAAN> gaet <C 800_EN> en<A >de</A> <C 410_DIT> dit <C 0_LAND> lant <C 203_LIGGEN> leit <C 471+700_DE+IN> inde <C 1_PAROCHIE> prochie <C 700_VAN> van <C 20_BAAIGEM> badenghem 
+<L 2006:29> <C 800_EN> Ende <C 410_DIT> dit <C 0_LAND> lant <C 220_GEVEN> gaf <C 450_MIJN> mijn <C 1_VROUW> vrouwe <C 474+700_DE/HET+UIT> vten <C 1_BOOMGAARD> boengaerde <C 800_EN> en<A >de</A> <C 451_HAAR> hare <C 0_MAN> man <C 700_IN> in 
+<L 2006:30> <C 14_AALMOES> aelmoesnen <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 1_SPITAAL> spetale <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 104_VOORZEID> vorseiden <C 0*_HEILIGE-> helegen <C 0#_-GEEST> geest 
+<L 2006:31> <C 800_EN> Ende <C 411_DEZE> dese <C 1_RENTE> rente <C 210_ZIJN> es <C 440_MEN> men <C 100_SCHULDIG> sculdech <C 700_TE> te <C 1_KERSTAVOND> kersauonde. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> gedaen <C 470+700_HET+IN> int <C 0_JAAR> iaer 
+<L 2006:32> <C 452_ONS> ons <C 4_HEER> heren <C 850+440_ALS+MEN> alsm<A >en</A> <C 220_SCHRIJVEN> screef <C 0_CARNATIOEN> carnatioen <C 309_1200> mcc. <C 10_JAAR> iaer <C 800_EN> en<A >de</A> <C 309_93> xciii. <C 10_JAAR> iaer. <C 800_EN> ende <C 810_OMDAT> om+dat 
+<L 2006:33> <C 404_WIJ> wi <C 474+700_DE/HET+VAN> vanden <C 1_SPITAAL> spetale <C 444_NEGEEN> ne+gene<A >n</A> <C 0_ZEGEL> zegel <C 560_NE> ne <C 224_HEBBEN> adden <C 550_ZO> so <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 274_BIDDEN> gebeden 
+<L 2006:34> <C 474_DE/HET> den <C 12_PROVISEUR> prouisoerres <C 700_VAN> van <C 474_DE/HET> den <C 0*_HEILIGE-> helegen <C 0#_-GEEST> geest <C 810_DAT> dat <C 403+406_HET+ZIJ> sijd <C 204_ZEGELEN> seglen <C 700_MET> met <C 454_HAAR> haren <C 1_ZEGEL> zegle 
+<L 2006:35> <C 404_WIJ> wi <C 204_HOUDEN> houden <C 500_WEL> wel <C 101_GESTADE> gestade <C 810_DAT> dat <C 406_ZIJ> si <C 294_DOEN> doen 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1294' jaar_van='1293' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='41' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

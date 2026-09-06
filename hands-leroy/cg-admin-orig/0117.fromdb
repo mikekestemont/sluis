@@ -1,0 +1,22 @@
+<header>
+<docId>0117</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<datering  jaar_tot='1300' jaar_van='1251' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 206:29> <q> Litere <q> quomodo <q> mater <q> pro <q> nobis <q> emit 
+<L 206:30> <q> a <q> domino <C 29_DIEDERIK> te<A >ode</A>rico <q> de <C 29_WASSENAAR> guassanara <q> illud <q> jus <q> quod <q> habebat <q> in <q> villa <q> de 
+<L 206:31> <C 20_SCHIEDAM?> schina<A >n</A>t. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.P.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='2'>
+<end-datering  jaar_tot='1300' jaar_van='1251' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='md'>

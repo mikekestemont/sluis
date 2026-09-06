@@ -1,0 +1,42 @@
+<header>
+<docId>0230</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 402:10> <q> littera <C 29_LAMBERT> lamsini <q> doorgestreept <q> en <q> vervangen 
+<L 402:11> <C 29_WILHELM> will<A >elm</A>i <q> filii <C 29_HUGO> hug<A >onis</A> <C 22_STROOTJE> st<A >ro</A>kins <q> de <C 20_OOSTBURG> oestbrug 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.S.'>
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 402:16> <C 20_SIMON> Symon <C 0_SPIERING> spierinc. <C 20_JOHANNES> Johan <q> .f. <C 22_LAMBERT> lamsins <C 2_SMID> smeets <C 471_DE> die <C 0_KLERK> clerc. <C 800_EN> ende <C 20_ARNOUT> arnoud 
+<L 402:17> <C 22_LAMBERT> lamsins <C 2_SMID> smeets <C 450_ZIJN> sijn <C 0_BROEDER> broeder. <C 800_EN> ende <C 20_ARNOUT> arnoud <C 411_DIE> die <C 0_MONNIK> monec <C 861_ALS> alse <C 0_VOOGD> voghet <C 700_VAN> van 
+<L 402:18> <C 414_DIE> dien <C 21_ARNOUT> arnoude <q> .f. <C 22_LAMBERT> lamsins <C 2_SMID> smeets. <C 411_DEZE> dese <C 111_VOORZEID> vorseide <C 14_LIEDEN> lieden <C 224_OPGEVEN> gauen+up. <C 800_EN> ende 
+<L 402:19> <C 224_SCHELDEN> scolden <C 101_KWIJT> quite <C 21_WILHELM> willemme <q> .f. <C 22_HUGO> hughs <C 22_STROOTJE> strokins. <C 800_EN> ende <C 451_ZIJN> sine <C 1_BROEDER> broedere <C 800_EN> ende <C 455_ZIJN> sire 
+<L 402:20> <C 0_ZUSTER> suster <C 700_VAN> van <C 300_TIEN> tien <C 14_POND> ponden <C 472+2_HET+JAAR> sjaers <C 421_DIE> die <C 20_LAMBERT> lamsin <C 471_DE> die <C 0_SMID> smet <C 221_KOPEN> cochte <C 704_TEGEN> tjeghe<A >n</A> <C 474_DE/HET> den 
+<L 402:21> <C 1_HEER> here <C 21_ARNOUT> arnoude <C 700_VAN> van <C 20_WARHEM> warreem <C 700_OP> up <C 22_HUGO> hughs <C 22_STROOTJE> strokins <C 0_LAND> lant <q> .f. <C 22_DIEDERIK> diederix. <C 800_EN> ende <C 700_VAN> van 
+<L 402:22> <C 325_AL> alre <C 4_CALANGE> calaenge<A >n</A> <C 101_KWIJT> quite. <C 410_DIT> dit <C 204_KENNEN> kennen <C 14_SCHEPEN> scepenen <C 700_VAN> van <C 474_DE/HET> den <C 104_VRIJ> vrien. <C 20_WILHELM> willem <q> .f. 
+<L 402:23> <C 22_WILHELM> willems. <C 20_WILHELM> willem <C 1_SCHOUTHEET> scoutete. <C 20_WOUTER> weitin <C 20_RATGEER-X> ratgheer. <C 20_DIEDERIK> dierekin <q> .f. <C 22_GIJS> ghiselins. <C 20_FOLBERT> wobracht 
+<L 402:24> <q> .f. <C 0_VROUW> ver <C 24_AGATHA> haechten. <C 21_HUGO> hughe <C 700_VAN> van <C 20_BOEIGEM> boeiengheem <C 452_MIJN> mijns <C 4_HEER> heren <C 22_GERLOF> gherolfs <C 1_ZOON> sone 
+<L 402:25> <C 12_RIDDER> rudders. <C 800_EN> ende <C 20_HENDRIK> heinric <q> .f. <C 22_GERARD> gheraerds <C 104_WIT> witten. <C 410_DIT> Dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700_IN> in <C 0+470_JAAR+HET> tjar <C 452_ONS> ons 
+<L 402:26> <C 4_HEER> heren <C 850_ALS> als <C 440_MEN> men <C 203_SCHRIJVEN> scrijft <C 450_ZIJN> sijn <C 0_INCARNATIOEN> incarnatioen <C 309_1278> .m'ho.cc'ho.lxxviij. <C 472_DE/HET> des <C 2_WOENSDAG> woensdaghes <C 700_VOOR> vor 
+<L 402:27> <C 101_SINT> sente <C 22_JOHANNES> johans <C 1_MIS> messe <C 700_TE> te <C 2_MIDZOMER> midde+somers <C 700_IN> in <C 455_ONS> onser <C 4_VROUW> vrouwen <C 1_KERK> kerke <C 701_TOT> tote 
+<L 402:28> <C 20_AARDENBURG> ardemburgh. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1278' jaar_van='1278' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

@@ -1,0 +1,42 @@
+<header>
+<docId>1433</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 2194:10> <C 700_IN> jn <q> bernheem <C 700_VAN> van <q> iij. 
+<L 2194:11> <C 14_GEMET> ym<A >eten</A> <C 2_LAND> lands <q> Actum <q> m'ho <q> ij'hc <q> xcv'ho. 
+<end-datering  jaar_tot='1310' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 2194:16> <C 404_WIJ> Wie <C 20_WILHELM> willem <C 700_VAN> van <C 20_ZWEEPVOORDE> zuefort. <C 20_BOUDEWIJN> bouden <C 470+0_HET+KIND> tkint. <C 21_WOUTER> woutersoete <C 475+700_DE+VAN> vander <C 1_REEHAAG-X> rehaghe. 
+<L 2194:17> <C 20_WILHELM> willem <C 0_TROBOEN-X> turboen; <C 20_AEGIDIUS> gillis <C 700+475_VAN+DE> vander <C 1_LETE-X> lete. <C 20_WILHELM> willem <C 0_SMOUT> smout. <C 800_EN> ende <C 20_JOHANNES> jan <C 20_KUKUIT> kuckuut 
+<L 2194:18> <C 14_SCHEPEN> schepenen <C 474+700_DE/HET+VAN> vanden <C 1_AMBACHT> ambochte <C 700_VAN> van <C 20_OOSTKAMP> orscamp. <C 204_DOEN> doen <C 700_TE> te <C 251_WETEN> wetene <C 324_AL> allen <C 474_DE/HET> den 
+<L 2194:19> <C 414_GENE> gonen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> <C 214_ZULLEN> sullen <C 250_ZIEN> sien <C 800_OF> jof <C 250_HOREN> horen <C 250_LEZEN> lesen <C 810_DAT> dat <C 224_KOMEN> camen <C 700_VOOR> vor <C 404_WIJ> ons 
+<L 2194:20> <C 20_JOHANNES> jan <q> f <C 22_GERARD> gherards <C 700_VAN> van <C 24_LEDE> leden. <C 800_EN> ende <C 21_MARGARETA> magriete <C 450_ZIJN> sijn <C 0_WIJF> wijf. <C 800_EN> Ende <C 224_GEVEN> gauen <C 1_HALM> halme <C 800_EN> ende 
+<L 2194:21> <C 101_WETTELIJK> wettelike <C 1_GIFT> ghifte <C 21_MICHAEL> michiele <C 21_QUATRE-MAIN-X> quatermeine <C 700_TE> te <C 20_JOHANNES> jan <C 2_MAST> masts <C 0_BEHOEF> boef <C 700_VAN> van <C 304_DRIE> drien 
+<L 2194:22> <C 14_GEMET> ymeten <C 2_LAND> lants <C 500_LICHTELIJK> lichtelic <C 325_MEER> meer <C 800_OF> jof <C 320_MIN> min <C 271_LIGGEN> licghende <C 474+700_DE/HET+BINNEN> binden <C 1_AMBACHT> ambochte <C 700_VAN> va<A >n</A> 
+<L 2194:23> <C 20_OOSTKAMP> orscamp <C 800_EN> ende <C 700+475_BINNEN+DE> binder <C 4_PAROCHIE> prochien <C 700_VAN> van <C 20_BEERNEM> berneen <VN type=1> <C 700_IN> jn <C 485_EEN> ere <C 4_STAD> steden <C 213_HETEN> heet <C 20_LANKLAAR> lanclaer 
+<L 2194:24> <C 800_EN> Ende <C 406_ZIJ> sie <C 220+403_WEDDEN+HET> weddets <C 403_HIJ> hem <C 700_TE> te <C 4_WET> wette<A >n</A> <C 700_TE> te <C 251_WAREN> waerne <C 0_WEG> wech <C 800_EN> ende <C 0_LAND> lant <C 101_KWIJT> quite <C 0_LAND> lant 
+<L 2194:25> <C 700_MET> met <C 455_ZIJN> sire <C 105_RECHT> rechter <C 0_SCHULD> sculd <C 704_JEGEN> jeghe<A >n</A> <C 324_ELK> elken <C 1_MENS> mensche <C 700_TE> te <C 22_JOHANNES> jans <C 2_MAST> masts <C 100_VOORZEID> vorseit 
+<L 2194:26> <C 104_RECHT> rechten <C 1_EIGENDOM> eghindoeme <C 700_IN> Jn <C 4_KENNIS> kennessen <C 700_VAN> van <C 415_DEZE> deser <C 0_DING> dinc <C 810_DAT> dat <C 403_ZIJ> soe <C 100_VAST> vast <C 210_ZULLEN> sal <C 260_BLIJVEN> bliuen 
+<L 2194:27> <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 111_VOORZEID> vorseide <C 14_SCHEPEN> schepenen <C 411_DEZE> dese <C 4_LETTER> lettre<A >n</A> 
+<L 2194:28> <C 273_ZEGELEN> ghezeghelt <C 700_MET> met <C 454_ONS> onsen <C 14_ZEGEL> zeghelen <C 111_UITHANGEND> vthanghende <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen 
+<L 2194:29> <C 472+2_DE+VRIJDAG> sfrijndaghes <C 700_VOOR> vor <C 101_SINT> sinte <C 22_BASILIUS> bazelis <C 1_DAG> daghe. <q> Anno <q> domini <q> .m'ho. <q> cc'ho. <q> Nonagesimo. 
+<L 2194:30> <q> quinto. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

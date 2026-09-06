@@ -1,0 +1,38 @@
+<header>
+<docId>1141</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.F.O.S.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1766:9> <C 21_SPERMALIE> sparmailge. <q> de <q> ij <q> linis <q> terre <q> erga <C 29_JOHANNES> jho<A >ann</A>em <q> f 
+<L 1766:10> <C 22_RIJKWARD> riq<A >ua</A>rds. 
+<end-datering  jaar_tot='1300' jaar_van='1276' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<statushand  statushandkode='ad'>
+<q> empte <q> in <q> slipen. 
+<end-datering  jaar_tot='1325' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<L 1766:11> <q> Slipen. <q> anno <q> .m'ho.cc'ho. <q> nonogesimo <q> primo. 
+<end-datering  jaar_tot='1350' jaar_van='1326' tijdsoort='2' tijdstatus='1'>
+
+<datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<q> jn <q> manek<A >ens</A> <q> vere <C 0_LAND> landt.- 
+<L 1766:12> <q> ij <C 14_LIJN> lij<A >nen</A> <C 2_LAND> lands <C 700_IN> jn <q> cam<A >er</A>lincx <C 0_AMBACHT> amb<A >ocht</A> <C 800_EN> en<A >de</A> <C 471+700_DE+IN> jnde <C 1_PAROCHIE> p<A >ro</A>chie 
+<L 1766:13> <C 700_VAN> van <q> slijpen. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.F.O.S.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1500' jaar_van='1401' tijdsoort='2' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='ad'>

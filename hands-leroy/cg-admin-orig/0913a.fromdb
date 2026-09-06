@@ -1,0 +1,40 @@
+<header>
+<docId>0913a</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='10' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<statushand  statushandkode='md'>
+<L 1436:8> <C 700+474_VAN+DE/HET> va<A >n</A>de<A >n</A> <q> moere. 
+<end-datering  jaar_tot='1400' jaar_van='1301' tijdsoort='2' tijdstatus='1'>
+<end-statushand  statushandkode='md'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<atlas_lokalisering  kanselarij='2' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<statushand  statushandkode='an'>
+
+<L 1436:14> <C 20_HENDRIK> heinric <C 470_DE> de <C 0_SMID> smet <C 475+700_DE+UIT> vter <C 4_MUNT> munten <C 472+0_DE+HEER> ser <C 22_WOUTER> wouters <C 2_SMID> smeets <C 1_ZOON> sone <C 213_HEBBEN> heeft <C 273_KOPEN> ghecocht 
+<L 1436:15> <C 700_JEGEN> jeghen <C 0_MEESTER> meester <C 21_HENDRIK> heinricke <C 472+4_DE+GRAAF> scrauen <C 0_KLERK> clerc <C 700_VAN> van <C 24_VLAANDEREN> vlaendren. <C 480+300_EEN+HALF> een+alf <C 1_BUNDER> buunre 
+<L 1436:16> <C 2_MOER> mours <C 700_MET> met <C 320_AL> al <C 700_MET> met <C 474_DE/HET> den <C 1_GROND> gronde <C 271_LIGGEN> lighende <C 700_IN> in <C 471_DE> de <C 1_PAROCHIE> prochhie <C 700_VAN> van <C 21_ASSENEDE> assenede 
+<L 1436:17> <C 700_OP> up <C 481_EEN> ene <C 1_LEDE> lede <C 213_HETEN> heetd <C 471_DE> de <C 21_MOOIE> moihe <C 701_OM> omme <C 309_57> .lvij. <C 19_LIBRA> lb <C 115_VLAAMS> vlaemsscher <C 11_PENNING> peneghe <C 421_DIE> die <C 403_HIJ> hi 
+<L 1436:18> <C 20_HENDRIK> heinric. <C 403_HIJ> hem <C 0_MEESTER> meester <C 21_HENDRIK> heinricke <C 500_WEL> wel. <C 800_EN> en<A >de</A> <C 700_TE> te <C 4_VOLLE> vullen <C 213_HEBBEN> heeft <C 274_VERGELDEN> vergolden <q> - 
+<L 1436:19> <C 474_DE/HET> den <C 424_WELK> welken <C 0_MOER> mour <C 403_HIJ> hi <C 0_MEESTER> meest<A >er</A> <C 20_HENDRIK> heinric. <C 213_HEBBEN> heeft <C 403_HIJ> hem <C 21_HENDRIK> heinricke <C 474_DE/HET> den <C 0_SMID> smet <C 700_TE> te 
+<L 1436:20> <C 105_VOL> vulre <C 0_WET> wet <C 700_VOOR> voer <C 14_SCHEPEN> scepenen <C 700_TE> te <C 21_ASSENEDE> assenede <C 274_OPGEVEN> up+ghegheuen <q> - <C 471_DE> de <C 421_WELK> welcke 
+<L 1436:21> <C 14_SCHEPEN> scepenen <C 234_ZIJN> waren <C 411_DEZE> dese <C 20_BOUDEWIJN?> boiliin <C 1_MUD> mudde <VN type=1> <q> - <C 20_KOVELAARD> coeuelaert <C 0+472_HEER+DE> ser <C 22_GERARD> gheraerts <C 1_ZOON> sone 
+<L 1436:22> <C 800_EN> en<A >de</A> <C 20_HENDRIK> heinric <C 0+472_HEER+DE> ser <C 22_GIJS> ghiseliins <C 1_ZOON> sone <q> -- <C 500_OOK> oec <C 220+600_ZIJN+EROVER> wassere+ouer <C 20_SIMON> moeniin <C 0_MEESTER> meester 
+<L 1436:23> <C 22_HENDRIK> heinrix <C 1_KNAAP> cnape <q> - <C 474_DE/HET> den <C 424_WELK> welken <C 0_KOOP> coep <C 403_HIJ> hi <C 0_MEESTER> meest<A >er</A> <C 20_HENDRIK> heinric <C 213_HEBBEN> heeft <C 273_GELOVEN> gheloeft <C 700_TE> te 
+<L 1436:24> <C 251_WARANDEREN> warendeerne <C 403_HIJ> hem <C 21_HENDRIK> heinricke <C 474_DE/HET> den <C 0_SMID> smet <C 0_JAAR> jaer <C 800_EN> en<A >de</A> <C 0_DAG> dach <q> - <C 800_EN> en<A >de</A> <C 700_TE> te 
+<L 1436:25> <C 251_VRIJEN> vrihenne <C 700_TEGEN> tseghen <C 324_ELK> elken <C 0_MAN> man <C 500_KLAAR> claer <C 800_EN> en<A >de</A> <C 500_AL> al <C 500_KLAAR> claer <C 800_EN> en<A >de</A> <C 700_ZONDER> sonder <C 0_SCHAMP> scamp <q> - <C 830_NE> en 
+<L 1436:26> <C 221_ZIJN> ware <C 700_TEGEN> tseghen <C 474_DE/HET> den <C 1_HEER> here <C 700_VAN> van <C 474_DE/HET> den <C 1_LAND> lande <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> int <C 0_JAAR> jaer <C 700_VAN> van <C 474_DE/HET> den 
+<L 1436:27> <C 1_INCARNATIOEN> incaernatone <C 452_ONS> ons <C 4_HEER> heren <C 309_1290> .m-+cc.+lxxxx <C 2+472_DONDERDAG+DE> Sdonredaegs <C 700_NA> na <C 0_PAASDAG> paeschdach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.P.'>
+<end-atlas_lokalisering  kanselarij='2' plaats_1='' plaats_2='' regio_1='9' regio_2='' regiostatus='2'>
+<end-datering  jaar_tot='1290' jaar_van='1290' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='10' plaats_2='' regio_1='9' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>

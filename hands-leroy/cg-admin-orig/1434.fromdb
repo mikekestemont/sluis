@@ -1,0 +1,60 @@
+<header>
+<docId>1434</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.S.T.'>
+<atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<statushand  statushandkode='mn'>
+<L 2196:19> <C 404_WIJ> Wie <C 14_SCHEPEN> Schepenen <C 800_EN> ende <C 1_GEMEENTE> ghemeente <C 700_VAN> van <C 20_DORDRECHT> do[rdrecht,] <C 700_VAN> [van] <q> [zierixze] <C 800_EN> [e]nde 
+<L 2196:20> <C 700_VAN> van <C 20_MIDDELBURG> middelborch <C 204_DOEN> doen <C 700_TE> te <C 251_VERSTAAN> verstane <C 324_AL> allen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 411_DEZE> dese <C 4_LETTER> letteren 
+<L 2196:21> <C 214_ZULLEN> sullen <C 250_ZIEN> zien <C 801_OF> jofte <C 250_HOREN> horen <C 250_LEZEN> lesen, <C 810_DAT> dat <C 404_WIJ> w[ie] <VN type=1> <C 100_SCHULDIG> sculdech <C 214_ZIJN> sijn <C 454_ONS> onsen <q> [lieuen] 
+<L 2196:22> <C 14_VRIEND> vrienden.. <C 21_PETRUS> Pietre <C 700+475_VAN+DE> vander <C 1_SPUI> spoye <C 472+0_DE+HEER> ser <C 22_WILHELM> willems <C 1_ZOON> sone <C 700_VAN> van <C 475_DE/HET> der <C 1_SPUI> spoye <C 1_POORTER> portre 
+<L 2196:23> <C 700+474_IN+DE/HET> inden <C 0_DAM> dam, <C 800_EN> ende <C 21_AEGIDIUS> Gielise <C 1_KLAUWAARD> clawarde <C 1_POORTER> portre <C 700_IN> in <C 21_BRUGGE> brugghe, <C 300_VIERDUIZENTIG> viere+dusentech 
+<L 2196:24> <C 11_POND> ponde <C 115_GOED> goeder <C 115_VLAAMS> vlamscher <C 11_PENNING> peneghe, <C 471_DE> de <C 421_WELK> welke <C 11_PENNING> peneghe <C 406_ZIJ> si <C 273_BELOVEN> belouet <C 214_HEBBEN> hebben 
+<L 2196:25> <C 474_DE/HET> de<A >n</A> <C 1_GRAAF> Graue <C 700_VAN> van <C 24_VLAANDEREN> vlaendren, <C 700_OVER> ouer <C 474_DE/HET> den <C 0_HEER> her <C 21_LAMBERT> Lambrechte <C 474_DE/HET> den <C 1_FRIES> vriese <C 1_RIDDER> Riddre 
+<L 2196:26> <C 811_OF> jofte <C 403_HIJ> hi <C 560_NIET> niet <C 560_NE> nen <C 221_KOMEN> quame <C 700_TE> te <C 0_HALF> half <C 21_OOGST> hoeste <C 421_DIE> die <C 503_NAAST> naest <C 271_KOMEN> comende <C 210_ZIJN> es <C 700_IN> in 
+<L 2196:27> <C 4_GEVANGENIS> gheuancnessen <C 4+472_GRAAF+DE> scrauen <C 700_VAN> van <C 24_VLAANDEREN> vlaendren.. <C 800_EN> Ende <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 0+470_HEER+DE> der 
+<L 2196:28> <C 20_LAMBERT> Lambrecht <C 560_NIET> niet <C 221*_IN-> in <C 560_NE> nen <C 221#_-KOMEN> quame, <C 510_ALZO> also <C 821_ALS> alse <C 614_HIERVOREN> hier+voeren <C 274_BESCHRIJVEN> bescreuen <C 210_ZIJN> es, <C 550_ZO> so 
+<L 2196:29> <C 204_BELOVEN> belouen <C 404_WIJ> wie <C 14_SCHEPEN> Scepene<A >n</A> <C 800_EN> ende <C 1_GEMEENTE> ghemeente <C 700_VAN> van <C 20_DORDRECHT> dordrecht, <C 700_VAN> van <C 20_ZIERIKZEE> zierixze, <C 800_EN> ende 
+<L 2196:30> <C 700_VAN> van <C 20_MIDDELBURG> middelborch, <C 810_DAT> dat <C 404_WIJ> wie <C 471_DE> die <C 111_VOORZEID> vorseide <C 300_VIERDUIZENTIG> viere+dusentech <C 11_POND> ponde <C 115_VLAAMS> vlamscher 
+<L 2196:31> <C 11_PENNING> peneghe <C 250_BETALEN> betalen <C 214_ZULLEN> sullen <C 21_PETRUS> Pietre <C 100_VOORZEID> vorseit <C 1_POORTER> portre <C 474+700_DE/HET+VAN> vanden <C 1_DAM> da<A >m</A>me <C 800_EN> ende <C 21_AEGIDIUS> gielise 
+<L 2196:32> <C 1_KLAUWAARD> Clawarde <C 0_POORTER> port<A >er</A> <C 700_IN> in <C 21_BRUGGE> brugghe <C 100_VOORZEID> vorseit, <C 801_OF> jofte <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 1_HOUDER> houdere <C 210_ZIJN> es <C 700_VAN> van 
+<L 2196:33> <C 414_DEZE> desen <C 1_CHARTER> sartre, <C 700_TE> te <C 451_HAAR> hare <C 1_VERMAAN> vermane <C 801_OF> jofte <C 452_HAAR> hars <C 14_BODE> boden, <C 800_EN> Ende <C 410_DIT> dit <C 204_BELOVEN> belouen <C 404_WIJ> wie 
+<L 2196:34> <C 700_MET> met <C 105_SAMEND> samender <C 0_HAND> hant <C 800_EN> ende <C 700_MET> met <C 105_GOED> goeder <C 4_TROUW> trouwen, <C 800_EN> ende <C 700_ZONDER> sonder <C 101_ALLERHANDE> alrehande 
+<L 2196:35> <C 0_ARGLIST> harghelust. <C 500_VOORT> Vort <C 550_ZO> so <C 204_BINDEN> binden <C 404_WIJ> wie <C 464_ONS> ons <C 700_JEGEN> jeghen <C 21_PETRUS> Pietre <C 474+700_DE/HET+VAN> vanden <C 21_DAMME> damme <C 800_EN> ende 
+<L 2196:36> <C 21_AEGIDIUS> gielise <C 1_KLAUWAARD> clawarde <C 100_VOORZEID> vorseit <C 801_OF> jofte <C 700_JEGEN> jeghen <C 474_DE/HET> den <C 414_GENE> ghenen <C 421_DIE> die <C 1_HOUDER> houdre <C 210_ZIJN> es <C 700_VAN> van <C 414_DEZE> desen 
+<L 2196:37> <C 1_CHARTER> sartre, <C 231_ZIJN> ware <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 404_WIJ> wie <C 411_DEZE> dese <C 11_PENNING> peneghe <C 560_NIET> niet <C 560_NE> nen <C 224_GEVEN> ghauen <C 700_TE> te <C 454_HAAR> haren 
+<L 2196:38> <C 1_VERMAAN> vermane, <C 800+403_EN+HET> ent <C 510_ALZO> also <C 221_GEVALLEN> gheuiele <C 810_DAT> dat <C 406+404_ZIJ+WIJ> wise <C 250_GELDEN> ghelden <C 234_ZULLEN> souden, <C 810_NA-DIEN-DAT> na+dien+dat <C 614_HIERBOVEN> hier+bouen 
+<L 2196:39> <C 274_BESCHRIJVEN> bescreuen <C 210_ZIJN> es, <C 550_ZO> so <C 204_GEVEN> gheuen <C 404_WIJ> wie <C 406_ZIJ> hem <C 403_HET> des <C 0_OORLOF> orlof <C 810_DAT> dat <C 406_ZIJ> si <C 451_ONS> onse <C 0_GOED> goet, 
+<L 2196:40> <C 204_AANTASTEN> antasten, <C 204_NEMEN> nemen, <C 800_EN> ende <C 204_ARRESTEREN> arasteren, <C 540_WAAR> war <C 800_EN> ende <C 701_IN> i<A >n</A>ne <C 440_WAT> wat <C 14_STAD> steden, <C 810_DAT> dat <C 406+600_ZIJ+ERTOE> sire+toe 
+<L 2196:41> <C 204_KOMEN> comen, <C 200+403_ZIJN+HET> eist <C 700_IN> in <C 1_WATER> watre <C 801_OF> jofte <C 700_OP> vp <C 1_LAND> lande, <C 500_VOORT> vort <C 550_ZO> so <C 204_BINDEN> binden <C 404_WIJ> wie <C 464_ONS> ons <C 700_JEGEN> jeghen <C 406_ZIJ> hem, 
+<L 2196:42> <C 221_KOMEN> quame <C 406_ZIJLIEDEN> hem+lieden <C 441_ENIG> eneghe <C 1_SCHADE> scade <C 600_DAARAF> der+af <C 101_GROOT> grote <C 801_OF> jofte <C 101_KLEIN> cleene, <C 810_IN-DIEN-DAT> indien+dat <C 404_WIJ> wie 
+<L 2196:43> <C 406_ZIJ> hem <C 411_DEZE> dese <C 11_PENNING> peneghe <C 560_NIET> niet <C 560_NE> nen <C 224_GEVEN> gaue<A >n</A> <C 700_TE> te <C 454_HAAR> haren <C 1_VERMAAN> vermane <C 800_EN> ende <C 406+404_ZIJ+WIJ> wise <C 700_TE> te <C 1_RECHT> rechte 
+<L 2196:44> <C 250_GELDEN> ghelden <C 234_ZULLEN> souden <C 810_NA-DIEN-DAT> na+dien+dat <C 614_HIERBOVEN> hier+bouen <C 274_BESCHRIJVEN> bescreuen <C 210_ZIJN> es, <C 810_DAT> dat <C 404_WIJ> wie <C 406_ZIJ> hem <C 801_OF> jofte 
+<L 2196:45> <C 474_DE/HET> den <C 414_GENE> ghene<A >n</A> <C 421_DIE> die <C 1_HOUDER> houdre <C 210_ZIJN> es <C 700_VAN> van <C 414_DEZE> desen <C 1_BRIEF> brieue, <C 474_DE/HET> den <C 1_SCHADE> scade <C 440_AL> al <C 250_OPRECHTEN> vprechten 
+<L 2197:1> <C 214_ZULLEN> sullen, <C 800_EN> ende <C 410_DAT> dat <C 550_ZO> so <C 211_LATEN> late <C 404_WIJ> wie <C 250_STAAN> staen <C 700_OP> vp <C 451_HAAR> hare <C 100_SIMPEL> simpel <C 0_ZEGGEN> segghen, <C 500_VOORT> vort <C 210_ZIJN> si <C 410_DAT> dat 
+<L 2197:2> <C 1_ZAAK> sake <C 810_DAT> dat <C 203_GEVALLEN> gheualt <C 810_DAT> dat <C 20_PETRUS> Piet<A >er</A> <C 800_EN> ende <C 20_AEGIDIUS> gielis <C 421_DIE> die <C 614_HIERBOVEN> hir+bouen <C 273_NOEMEN> ghenomt <C 214_ZIJN> sijn <C 474_DE/HET> den 
+<L 2197:3> <C 0_HEER> her <C 21_LAMBERT> Lambrechte <C 500_VOORT> vort <C 224_BORGEN> borgheden <C 700_TE> te <C 481_EEN> eenen <C 104_LANG> langheren <C 1_DAG> daghe <C 820_DAN> dan <C 614_HIERVOREN> hier+voeren 
+<L 2197:4> <C 274_BESCHRIJVEN> bescreuen <C 210_ZIJN> es, <C 550_ZO> so <C 204_BINDEN> binden <C 404_WIJ> wie <C 464_ONS> ons <C 4+310_WERF+ANDER> anderwaruen <C 700_MET> met <C 105_SAMEND> zamender 
+<L 2197:5> <C 0_HAND> hant, <C 700_TE> te <C 251_HOUDEN> houdene <C 406_ZIJLIEDEN> hem+lieden <C 320_AL> al <C 471_DE> de <C 11_PUNT> pointe <C 421_DIE> die <C 614_HIERBOVEN> hier+bouen <C 274_BESCHRIJVEN> bescreuen <C 214_STAAN> staen, 
+<L 2197:6> <C 700_NA> na <C 414_DIE> dien <C 1_DAG> daghe, <C 560+800_NE+EN> nen <C 221*_-KOMEN> quame <C 403_HIJ> hi <C 560_NIET> niet <C 221#_IN-> inne <C 101_LEVEND> leuende <C 801_OF> jofte <C 100_DOOD> doot, <C 410_DIT> dit <C 204_BELOVEN> belouen 
+<L 2197:7> <C 404_WIJ> wie <C 320_ELK> elc <C 700_VAN> van <C 404_WIJLIEDEN> ons+lieden <C 501_ZONDERLING> sonderlanghe, <C 800_EN> ende <C 321_AL> alle <C 101_GEMEENLIJK> ghemeenlike <C 700_MET> met <C 105_GOED> goeder 
+<L 2197:8> <C 4_TROUW> trouwen. <C 800_EN> Ende <C 810_OMDAT> omme+dat <C 321_AL> alle <C 411_DEZE> dese <C 111_VOORBENOEMD> vorbenomde <C 11_PUNT> pointe <C 214_ZULLEN> sullen <C 260_BLIJVEN> bliuen, 
+<L 2197:9> <C 100_VAST> vast, <C 100_ZEKER> seker, <C 800_EN> ende <C 500_WEL> wel <C 274_HOUDEN> gehouden, <C 550_ZO> so <C 214_HEBBEN> hebben <C 404_WIJ> wie <C 700_VAN> van <C 20_DORDRECHT> dordrecht <C 455_ONS> onser 
+<L 2197:10> <C 14_POORTER> porteren <C 0_ZEGEL> zegel, <C 404_WIJ> wie <C 700_VAN> van <C 20_ZIERIKZEE> zierixze <C 455_ONS> onser <C 14_POORTER> portere<A >n</A> <C 0_ZEGEL> zegel. <C 800_EN> Ende <C 404_WIJ> wie <C 700_VAN> van 
+<L 2197:11> <C 20_MIDDELBURG> Middelborch <C 455_ONS> onser <C 14_POORTER> porteren <C 0_ZEGEL> zegel <C 700_AAN> an <C 414_DEZE> desen <C 1_BRIEF> brieue <C 274_HANGEN> gehanghen <C 700_IN> in <C 1_TEKEN> tekine 
+<L 2197:12> <C 800_EN> ende <C 701_OM> omme <C 1_KENNIS> kennesse <C 700_VAN> van <C 4_WAARHEID> wareiden. <C 410_DIT> dit <C 230_ZIJN> was <C 274_DOEN> ghedaen <C 700+470_IN+HET> jnt <C 0_JAAR> jaer <C 452_ONS> ons <C 4_HEER> heren 
+<L 2197:13> <C 810+440_ALS+MEN> alsemen <C 220_SCHRIJVEN> screef, <C 300_1295> Twelefhondert,+ende+viue+ende+Neghentech <C 700_IN> jn <C 101_SINT> sente 
+<L 2197:14> <C 22_BASILIUS> Bazelis <C 1_DAG> daghe. <C 700_IN> in <C 20_WEIDEMAAND> wedemaent. <C 29_BRUGGE> Brugis <q> ...... 
+<end-atlas_kenmerk  atlas_kenmerkkode='.S.T.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-datering  jaar_tot='1295' jaar_van='1295' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='0' plaats_1='22' plaats_2='' regio_1='8' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='mn'>

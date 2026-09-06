@@ -1,0 +1,51 @@
+<header>
+<docId>0644B</docId>
+<genre>A</genre>
+<bron>
+<bron_afk>Corp.I</bron_afk>
+<bron_oms>Corpus I</bron_oms>
+</bron>
+</header>
+
+<atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<statushand  statushandkode='an'>
+<L 1087:44> <q> Holland, <q> grafelijke <q> kanselarij 
+<L 1088:1> <q> 't% <C 1_LETTER> Lett<A >er</A>e <C 20_PETRUS> pieter <C 102_NOBEL> nobels <C 800_EN> en<A >de</A> <C 455_ZIJN> sire <C 0_BROEDER> broder <C 700_VAN> van <C 474_DE/HET> den <C 1_GOED> goede <C 420_DAT> dat <C 406_ZIJ> si <C 474_DE/HET> den <C 1_GRAAF> graue 
+<L 1088:2> <C 224_OPDRAGEN> op+droghen. 
+<L 1088:3> <C 484_EEN> Enen <C 104_EDEL> edelen <C 1_PRINS> p<A >ri</A>nce <C 800_EN> en<A >de</A> <C 101_GETROUW> [g]hetrouwe <C 800_EN> en<A >de</A> <C 454_HAAR> haren <C 104_LIEF> lieuen <C 1_HEER> h<A >er</A>e. <C 21_FLORENTIUS> florense 
+<L 1088:4> <C 1_GRAAF> Graue <C 700_VAN> van <C 20_HOLLAND> holland, <C 20_PETRUS> piet<A >er</A> <C 100_NOBEL> nobel <C 800_EN> en<A >de</A> <C 451_ZIJN> sine <C 1_BROEDER> bro[dr]e <C 472+0_DE+HEER> [s]er <C 22_NICOLAAS> clays <C 11_KIND> kindre 
+<L 1088:5> <C 204_GROETEN> groeten <C 405_GIJ> v <C 700_MET> met <C 320_AL> al <C 451_HAAR> ha[r]e <C 0_MACHT> macht <C 800_EN> en<A >de</A> <C 204_ONTBIEDEN> ombieden <C 405_GIJ> v <C 0_SALUUT> saluut <C 800_EN> en<A >de</A> <C 501_EEUWELIJK> ewelike <C 700_TE> te 
+<L 1088:6> <C 250_DIENEN> dienen <C 700_MET> met <C 321_AL> alle <C 451_HAAR> hare <C 0_MACHT> macht <C 421_DIE> [di]e <C 406_ZIJ> si <C 214_MOGEN> moghen <C 250_VOLLEESTEN> volleisten. <C 1_HEER> Here <C 404_WIJ> wi 
+<L 1088:7> <C 204*_-GEVEN> gheue[n] <C 405_GIJ> v <C 204#_OP-> vp <C 471_DE> die <C 0_HELFT> helft <C 700_VAN> van <C 475_DE/HET> der <C 1_HAVEN> hauene <C 800_EN> en<A >de</A> <C 700_VAN> van <C 474_DE/HET> den <C 1_DORP> dorpe <C 800_EN> en<A >de</A> <C 700_VAN> van <C 474_DE/HET> den 
+<L 1088:8> <C 1_ERF> erue <C 420_DAT> [dat] <C 404_WIJ> wi <C 274_SPREKEN> ghesproken <C 214_HEBBEN> hebben <C 700_MET> met <C 405_GIJ> v <C 700_TE> te <C 251_MAKEN> makene <C 700+470_IN+HET> int <C 0_LAND> land <C 420_DAT> dat <C 213_HETEN> heet 
+<L 1088:9> <C 472+0_DE+HEER> shaer <C 22_NICOLAAS> clays <C 10_KIND> kind<A >er</A> <C 0_NIEUWLAND> nieweland. <C 800_EN> en<A >de</A> <C 231_ZIJN> waer <C 410_DAT> dat <C 1_ZAAK> sake <C 810_DAT> dat <C 404_WIJ> wi <C 251_DOEN> doene <C 224_HEBBEN> hadden 
+<L 1088:10> <C 700_VAN> va[n] <C 474_DE/HET> den <C 101_OUD> houde <C 1_LAND> lande <C 860_ALS> als <C 2_DORP> dorps <C 0_BEHOEF> behoef, <C 610_DAARAF> daer+of <C 560_NE> ne <C 211_WILLEN> wille <C 404_WIJ> wi <C 405_GIJ> v <C 560_NIET> niet 
+<L 1088:11> <C 250_VERHOREN> verhoeren. <C 820_ALS> als <C 700_VAN> [van] <C 474_DE/HET> den <C 104_ANDER> andren. <C 1_HEER> here <C 440_WAT> wat <C 0_VERVAL> uerval <C 420_DAT> dat <C 610_DAARAF> daer+of <C 250_VERVALLEN> veruallen 
+<L 1088:12> <C 210_ZULLEN> sal <VN type=1> <C 700_IN> in <C 474_DE> dien <C 104_VOORZEID> vorseiden <C 1_DORP> dorpe <C 410_DAT> dat <C 211_ZULLEN> sulle <C 404_WIJ> wi <C 700_MET> met <C 405_GIJ> v <C 250_DELEN> delen <C 500_HALF> half <C 800_EN> en<A >de</A> <C 500_HALF> half. 
+<L 1088:13> <C 800_ZONDER> sonder <C 471_DE> die <C 0_VISVANG> visch+vanc <C 700+475_VAN+DE> vander <C 0_SLUIS> sluus <C 421_DIE> die <C 203_KOMEN> coemt <C 700_VAN> van <C 504_BINNEN> binne<A >n</A> <C 411_DIE> die <C 201_GEVEN> gheue <C 404_WIJ> wi 
+<L 1088:14> <C 405_GIJ> v <C 700_TE> te <C 250_HELPEN> helpen <C 700_TE> te <C 455_UW> juw<A >er</A> <C 1_KEUKEN> koek[ene] <C 1_HEER> H<A >er</A>e <C 410_DIT> dit <C 201*_-GEVEN> gheue <C 404_WIJ> wi <C 201#_OP-> op <C 700_MET> met <C 454_ONS> onse[n] 
+<L 1088:15> <C 101_OPEN> openne <C 4_LETTER> lettren. <C 800_EN> En<A >de</A> <C 810_ALS> als <C 404_WIJ> wi <C 204_KOMEN> comen <C 520_DAAR> daer <C 405_GIJ> ghi <C 203_ZIJN> sijt. <C 550_ZO> soe <C 210_ZIJN> sie <C 404+403_WIJ+HET> wijt <C 100_GEREED> ghereet <C 700_TE> te 
+<L 1088:16> <C 251_DOEN> do[ene] <C 700_MET> [met] <C 475_DE> ter <VN type=1> <C 0_HAND> hand. <C 800_EN> En<A >de</A> <C 411_DIE> die <C 0_KOST> cost <C 421_DIE> die <C 250_GAAN> gaen <C 210_ZULLEN> sal <C 871_ALS> alse <C 700+475_TE+DE> ter <C 1_HAVEN> hauene <C 800_EN> en<A >de</A> 
+<L 1088:17> <C 700+474_TE+DE/HET> ten <C 1_DORP> dorpe <C 700_TE> te <C 251_MAKEN> makene. <C 610*_DAAR-> daer <C 211_ZULLEN> sulle <C 404_WIJ> wi <C 610#_-TOE> toe <C 250_LEGGEN> legghen <C 454_ONS> onse[n] <C 0_PENNING> penninc <C 700_MET> met 
+<L 1088:18> <C 474_DE/HET> den <C 454_UW> uwen. <C 800_EN> en<A >de</A> <C 405_GIJ> ghi <C 700_MET> met <C 404_WIJ> ons <C 810_TOT-DIEN-DAT> tote+dien+dat <C 411_DEZE> dese <C 0_DING> dinc <C 273_VOLMAKEN> volmaect <C 210_ZIJN> si. <C 800_EN> en<A >de</A> <C 700_VAN> van 
+<L 1088:19> <C 474_DE/HET> den <C 0_AMBACHT> ambocht <C 700_VAN> van <C 21_BRIJDORP> br[idorpe] <C 421_DIE> die <C 471_DE> die <C 0_SLUIS> sluus <C 800_EN> en<A >de</A> <C 474_DE/HET> den <C 0_VLIET> vliet <C 250_BEKOSTEN> be[c]osten 
+<L 1088:20> <C 214_ZULLEN> [sul]le[n] <C 550_ZO> soe <C 201_GEVEN> gheue <C 404_WIJ> wi <C 501_GEHEELLIJK> ghehelike <C 800_EN> en<A >de</A> <C 501_GEWILLIJK> ghewillike <C 454_ONS> onsen <C 0_KOST> cost <C 700_VAN> van <C 464_ONS> ons 
+<L 1088:21> <C 800_EN> en<A >de</A> <C 700_VAN> van <C 454_ONS> [onsen] <C 14_VRIEND> vrienden <C 421_DIE> die <C 404+600_WIJ+ERTOE> wire+toe <C 250_BRENGEN> bringhen <C 214_MOGEN> moghen <C 800_EN> En<A >de</A> <C 810_OMDAT> omme+dat 
+<L 1088:22> <C 411_DEZE> dese <C 0_DING> dinc <C 101_VAST> vaste <C 210_ZIJN> si <C 800_EN> en<A >de</A> <C 101_GESTADE> ghestade <C 550_ZO> soe <C 211_HEBBEN> hebbe <C 404_WIJ> wi <C 414_DEZE> desen <C 0_BRIEF> brief <C 273_BEZEGELEN> b[eseghelt] 
+<L 1088:23> <C 700_MET> met <C 454_ONS> onsen <C 1_ZEGEL> seghele. <C 411_DEZE> Dese <C 0_BRIEF> brief <C 230_ZIJN> was <C 273_MAKEN> ghemae[ct] <C 700_IN> [in] <C 101_SINT> sente <C 22_PONTIAAN> pontiaens <C 1_DAG> daghe 
+<L 1088:24> <C 470+700_HET+IN> jnt <C 0_JAAR> iaer <C 452_ONS> ons <C 4_HEER> h<A >er</A>en <C 300_1285> m'ho.+cc'ho.+viuentachtich. 
+<end-atlas_kenmerk  atlas_kenmerkkode='.A.'>
+<end-atlas_lokalisering  kanselarij='3' plaats_1='' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+
+<atlas_kenmerk  atlas_kenmerkkode='.O.Q.R.'>
+<atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+
+<L 1088:51> <C 210_MOGEN> mach 
+<end-atlas_kenmerk  atlas_kenmerkkode='.O.Q.R.'>
+<end-atlas_lokalisering  kanselarij='' plaats_1='' plaats_2='' regio_1='' regio_2='' regiostatus=''>
+<end-datering  jaar_tot='1299' jaar_van='1299' tijdsoort='1' tijdstatus='1'>
+<end-lokalisering  kanselarij='3' plaats_1='56' plaats_2='' regio_1='1' regio_2='' regiostatus='1'>
+<end-statushand  statushandkode='an'>
